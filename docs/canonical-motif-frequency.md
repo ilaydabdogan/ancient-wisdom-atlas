@@ -9,82 +9,82 @@ This report counts only motif IDs that already map to a canonical normalization 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
 - Canonical motif groups: 62
-- Mapped motif IDs counted: 7426
-- Unmapped motif IDs excluded: 1646
+- Mapped motif IDs counted: 7870
+- Unmapped motif IDs excluded: 1202
 
 ## Ranked Canonical Motifs
 
 | Rank | Canonical Motif | Distinct Traditions | Occurrences | Mapped Motif IDs | Top Traditions |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1512 | 157 | islamic (423), comparative (260), sufi (254), roman (133), greek (73) |
-| 2 | `initiation` Initiation and Transformative Ordeal | 22 | 769 | 83 | sufi (146), greek (118), hindu (78), celtic_irish (67), comparative (65) |
-| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4367 | 234 | greek (965), sufi (957), islamic (636), daoist (374), buddhist (356) |
-| 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2625 | 427 | islamic (1366), greek (345), roman (233), sufi (228), hindu (132) |
-| 5 | `sacred_exchange` Sacred Exchange and Reciprocity | 20 | 1461 | 200 | greek (261), islamic (189), hindu (180), comparative (142), celtic_irish (114) |
+| 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1515 | 160 | islamic (423), comparative (260), sufi (255), roman (134), greek (74) |
+| 2 | `initiation` Initiation and Transformative Ordeal | 22 | 770 | 84 | sufi (146), greek (118), hindu (78), celtic_irish (67), comparative (65) |
+| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4390 | 257 | greek (973), sufi (957), islamic (643), daoist (375), buddhist (358) |
+| 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2646 | 448 | islamic (1370), greek (350), roman (235), sufi (229), hindu (134) |
+| 5 | `sacred_exchange` Sacred Exchange and Reciprocity | 20 | 1472 | 211 | greek (263), islamic (189), hindu (182), comparative (143), celtic_irish (116) |
 | 6 | `ascent` Ascent and Heavenly Journey | 20 | 484 | 7 | sufi (96), greek (95), islamic (67), hindu (59), roman (54) |
-| 7 | `cosmic_origin` Cosmic Origin and Creation | 20 | 346 | 159 | islamic (87), greek (42), hindu (39), roman (36), norse (32) |
-| 8 | `hero_journey` The Hero's Journey | 19 | 1791 | 147 | greek (331), hindu (316), celtic_irish (194), sufi (140), islamic (134) |
+| 7 | `cosmic_origin` Cosmic Origin and Creation | 20 | 365 | 177 | islamic (88), greek (45), hindu (40), roman (37), norse (32) |
+| 8 | `hero_journey` The Hero's Journey | 19 | 1809 | 165 | greek (333), hindu (317), celtic_irish (197), sufi (140), islamic (134) |
 | 9 | `sacrifice` Sacrifice and Offering | 19 | 1129 | 118 | comparative (400), hindu (176), greek (133), roman (108), islamic (86) |
-| 10 | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | 19 | 1098 | 162 | hindu (330), greek (161), comparative (99), roman (81), celtic_irish (77) |
-| 11 | `axis_mundi` World Axis and Sacred Center | 19 | 542 | 81 | comparative (85), hindu (77), islamic (72), greek (52), roman (47) |
-| 12 | `trickster` Trickster and Boundary Crosser | 19 | 523 | 103 | greek (143), buddhist (51), celtic_irish (43), islamicate_folklore (38), roman (38) |
-| 13 | `sacred_law` Sacred Law and Social Order | 19 | 446 | 443 | islamic (158), comparative (91), greek (70), hindu (39), roman (15) |
+| 10 | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | 19 | 1121 | 185 | hindu (332), greek (167), comparative (102), roman (82), celtic_irish (80) |
+| 11 | `trickster` Trickster and Boundary Crosser | 19 | 560 | 140 | greek (153), buddhist (55), celtic_irish (47), islamicate_folklore (39), roman (39) |
+| 12 | `axis_mundi` World Axis and Sacred Center | 19 | 544 | 83 | comparative (85), hindu (77), islamic (73), greek (53), roman (47) |
+| 13 | `sacred_law` Sacred Law and Social Order | 19 | 466 | 463 | islamic (162), comparative (93), greek (80), hindu (40), roman (16) |
 | 14 | `serpent_guardian` Serpent and Serpent Guardian | 19 | 345 | 5 | roman (81), hindu (49), greek (38), greek_roman (31), norse (28) |
-| 15 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 308 | 25 | islamic (103), roman (55), hindu (31), greek (22), norse (20) |
-| 16 | `descent` Descent and Underworld Journey | 19 | 203 | 40 | roman (39), greek (31), hindu (19), finnish_karelian (18), norse (14) |
-| 17 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1097 | 78 | greek (236), roman (199), hindu (148), islamic (120), greek_roman (97) |
-| 18 | `sacred_love` Sacred Love and Longing | 18 | 943 | 306 | hindu (224), roman (136), greek (121), celtic_irish (116), sufi (60) |
-| 19 | `shapeshifter` Shapeshifter and Transformation | 18 | 886 | 88 | roman (359), greek (90), celtic_irish (87), hindu (83), norse (44) |
-| 20 | `sacred_waters` Sacred Waters and Passage Through Water | 18 | 261 | 161 | roman (43), hindu (33), greek (32), islamic (32), celtic_irish (22) |
-| 21 | `sacred_twins` Sacred Twins and Sibling Pairs | 18 | 201 | 14 | hindu (71), greek (32), roman (28), greek_roman (14), islamic (11) |
-| 22 | `mystical_quest` Mystical Quest and Interior Journey | 17 | 2042 | 174 | sufi (1203), celtic_irish (121), greek (119), roman (102), hindu (101) |
-| 23 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 852 | 88 | comparative (513), sufi (67), norse (54), islamic (49), greek (43) |
-| 24 | `duality` Duality and Cosmic Opposition | 17 | 486 | 39 | greek (174), sufi (104), islamic (73), daoist (58), greek_roman (14) |
-| 25 | `covenant` Covenant and Sacred Bond | 17 | 426 | 100 | islamic (232), greek (38), hindu (37), celtic_irish (34), roman (24) |
-| 26 | `sacred_treasures` Sacred Treasures and Power Objects | 17 | 317 | 315 | celtic_irish (56), greek (39), hindu (31), roman (30), islamic (25) |
-| 27 | `culture_hero` Culture Hero and Founder | 17 | 288 | 23 | roman (47), finnish_karelian (42), celtic_irish (39), greek_roman (35), greek (34) |
-| 28 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 17 | 246 | 246 | celtic_irish (55), greek (52), hindu (46), roman (33), finnish_karelian (16) |
-| 29 | `divine_intervention` Divine Intervention and Guidance | 16 | 567 | 561 | islamic (188), greek (114), hindu (43), sufi (38), roman (38) |
-| 30 | `dream_and_vision` Dream, Vision, and Altered Perception | 16 | 208 | 208 | celtic_irish (40), greek (39), roman (29), hindu (27), greek_roman (14) |
-| 31 | `pride_and_downfall` Pride, Hubris, and Downfall | 16 | 138 | 138 | greek (72), sufi (10), roman (10), islamic (8), hindu (7) |
-| 32 | `storytelling_as_power` Storytelling and Narrative as Sacred Power | 16 | 104 | 104 | greek (34), celtic_irish (13), islamicate_folklore (12), sufi (9), islamic (6) |
-| 33 | `sacred_combat` Sacred Combat and Ritual Warfare | 15 | 702 | 691 | celtic_irish (366), hindu (98), greek (96), roman (58), celtic_welsh (26) |
-| 34 | `sacred_fire` Sacred Fire and Divine Light | 15 | 160 | 95 | comparative (28), hindu (25), islamic (20), greek (16), roman (15) |
-| 35 | `otherworld` Otherworld and Enchanted Realm | 15 | 130 | 128 | celtic_irish (61), hindu (11), greek_roman (10), greek (9), celtic_welsh (6) |
-| 36 | `divine_warrior` Divine Warrior and Sacred Combat | 14 | 425 | 420 | greek (113), celtic_irish (109), hindu (103), roman (36), norse (20) |
-| 37 | `threshold_guardian` Threshold Guardian | 14 | 138 | 138 | celtic_irish (33), roman (22), greek (19), hindu (15), islamicate_folklore (8) |
-| 38 | `sacred_vessel` Sacred Vessel and Container | 14 | 53 | 53 | celtic_irish (8), islamicate_folklore (7), sufi (7), roman (6), finnish_karelian (4) |
+| 15 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 312 | 29 | islamic (103), roman (55), hindu (31), greek (24), norse (20) |
+| 16 | `sacred_waters` Sacred Waters and Passage Through Water | 19 | 267 | 167 | roman (45), islamic (33), hindu (33), greek (32), celtic_irish (22) |
+| 17 | `descent` Descent and Underworld Journey | 19 | 208 | 45 | roman (39), greek (32), hindu (20), finnish_karelian (18), celtic_irish (14) |
+| 18 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1102 | 83 | greek (237), roman (200), hindu (148), islamic (120), greek_roman (97) |
+| 19 | `sacred_love` Sacred Love and Longing | 18 | 955 | 318 | hindu (224), roman (139), greek (124), celtic_irish (118), sufi (61) |
+| 20 | `shapeshifter` Shapeshifter and Transformation | 18 | 890 | 92 | roman (360), greek (90), celtic_irish (89), hindu (84), norse (44) |
+| 21 | `sacred_twins` Sacred Twins and Sibling Pairs | 18 | 202 | 15 | hindu (71), greek (33), roman (28), greek_roman (14), islamic (11) |
+| 22 | `mystical_quest` Mystical Quest and Interior Journey | 17 | 2049 | 181 | sufi (1206), greek (122), celtic_irish (121), roman (102), hindu (101) |
+| 23 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 853 | 89 | comparative (513), sufi (67), norse (54), islamic (49), greek (43) |
+| 24 | `divine_intervention` Divine Intervention and Guidance | 17 | 579 | 573 | islamic (188), greek (115), hindu (44), sufi (38), roman (38) |
+| 25 | `duality` Duality and Cosmic Opposition | 17 | 494 | 47 | greek (180), sufi (104), islamic (73), daoist (59), greek_roman (14) |
+| 26 | `covenant` Covenant and Sacred Bond | 17 | 433 | 107 | islamic (238), greek (38), hindu (37), celtic_irish (34), roman (24) |
+| 27 | `sacred_treasures` Sacred Treasures and Power Objects | 17 | 328 | 326 | celtic_irish (60), greek (39), roman (32), hindu (31), islamic (26) |
+| 28 | `culture_hero` Culture Hero and Founder | 17 | 289 | 24 | roman (47), finnish_karelian (42), celtic_irish (39), greek_roman (35), greek (35) |
+| 29 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 17 | 248 | 248 | celtic_irish (55), greek (54), hindu (46), roman (33), finnish_karelian (16) |
+| 30 | `sacred_combat` Sacred Combat and Ritual Warfare | 16 | 719 | 708 | celtic_irish (370), greek (101), hindu (99), roman (61), celtic_welsh (27) |
+| 31 | `dream_and_vision` Dream, Vision, and Altered Perception | 16 | 216 | 216 | celtic_irish (43), greek (41), roman (29), hindu (27), greek_roman (14) |
+| 32 | `pride_and_downfall` Pride, Hubris, and Downfall | 16 | 147 | 146 | greek (79), roman (11), sufi (10), hindu (8), islamic (8) |
+| 33 | `otherworld` Otherworld and Enchanted Realm | 16 | 138 | 136 | celtic_irish (62), hindu (12), greek (11), greek_roman (10), islamicate_folklore (7) |
+| 34 | `storytelling_as_power` Storytelling and Narrative as Sacred Power | 16 | 112 | 112 | greek (35), celtic_irish (15), islamicate_folklore (13), sufi (10), finnish_karelian (7) |
+| 35 | `sacred_fire` Sacred Fire and Divine Light | 15 | 162 | 97 | comparative (28), hindu (25), islamic (20), greek (17), roman (15) |
+| 36 | `threshold_guardian` Threshold Guardian | 15 | 150 | 150 | celtic_irish (35), roman (24), greek (24), hindu (16), celtic_welsh (8) |
+| 37 | `divine_warrior` Divine Warrior and Sacred Combat | 14 | 439 | 434 | celtic_irish (119), greek (114), hindu (103), roman (38), norse (20) |
+| 38 | `sacred_vessel` Sacred Vessel and Container | 14 | 55 | 55 | celtic_irish (8), sufi (8), islamicate_folklore (7), roman (6), japanese (5) |
 | 39 | `afterlife_passage` Afterlife Navigation and Passage | 13 | 462 | 26 | islamic (121), greek (75), sufi (54), roman (53), hindu (44) |
-| 40 | `sacred_craft` Sacred Craft and Divinely Aided Construction | 12 | 82 | 82 | finnish_karelian (20), hindu (11), islamic (11), greek (10), norse (8) |
-| 41 | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | 11 | 153 | 151 | greek (83), roman (24), celtic_irish (19), greek_roman (6), sufi (5) |
-| 42 | `mother_goddess` Sacred Feminine and Mother Goddess | 11 | 103 | 24 | greek_roman (24), greek (22), roman (15), comparative (14), finnish_karelian (13) |
-| 43 | `theophany` Theophany and Divine Manifestation | 11 | 75 | 75 | islamic (22), greek (13), hindu (9), sufi (8), comparative (5) |
-| 44 | `death_by_fate` Death Attributed to Fate or Destiny | 10 | 129 | 129 | greek (34), celtic_irish (26), sufi (21), roman (16), greek_roman (10) |
-| 45 | `recognition_tokens_hidden_identity` Recognition Tokens and Identity Proofs | 10 | 43 | 41 | greek (12), islamic (7), celtic_irish (6), hindu (5), islamicate_folklore (5) |
-| 46 | `ancestor_rites` Ancestor Rites and Feeding the Dead | 10 | 25 | 25 | hindu (6), sufi (6), islamic (3), japanese (2), roman (2) |
-| 47 | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | 9 | 25 | 25 | islamic (11), hindu (5), sufi (2), greek_roman (2), celtic_welsh (1) |
+| 40 | `sacred_craft` Sacred Craft and Divinely Aided Construction | 12 | 84 | 84 | finnish_karelian (20), islamic (12), hindu (11), greek (10), norse (8) |
+| 41 | `recognition_tokens_hidden_identity` Recognition Tokens and Identity Proofs | 12 | 50 | 48 | greek (13), islamic (8), hindu (6), celtic_irish (6), islamicate_folklore (6) |
+| 42 | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | 11 | 154 | 152 | greek (83), roman (24), celtic_irish (19), hindu (6), greek_roman (6) |
+| 43 | `mother_goddess` Sacred Feminine and Mother Goddess | 11 | 103 | 24 | greek_roman (24), greek (22), roman (15), comparative (14), finnish_karelian (13) |
+| 44 | `theophany` Theophany and Divine Manifestation | 11 | 77 | 77 | islamic (23), greek (13), hindu (9), sufi (8), comparative (6) |
+| 45 | `death_by_fate` Death Attributed to Fate or Destiny | 10 | 131 | 131 | greek (34), celtic_irish (26), sufi (22), roman (17), greek_roman (10) |
+| 46 | `ancestor_rites` Ancestor Rites and Feeding the Dead | 10 | 26 | 26 | hindu (6), sufi (6), islamic (4), japanese (2), roman (2) |
+| 47 | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | 9 | 26 | 26 | islamic (12), hindu (5), sufi (2), greek_roman (2), celtic_welsh (1) |
 | 48 | `betrayal_violated_trust` Betrayal and Violated Trust | 9 | 23 | 23 | greek (6), roman (5), celtic_irish (4), islamicate_folklore (2), finnish_karelian (2) |
 | 49 | `external_soul` External Soul and Life-Token | 8 | 109 | 106 | comparative (93), roman (5), islamicate_folklore (3), hindu (2), greek_roman (2) |
 | 50 | `enchanting_music` Enchanting Music and Sound Power | 7 | 29 | 29 | celtic_irish (10), finnish_karelian (5), norse (5), greek (3), roman (3) |
-| 51 | `conditional_invulnerability_hidden_weakness` Conditional Invulnerability and Hidden Weakness | 7 | 24 | 24 | hindu (9), roman (6), celtic_irish (3), comparative (2), greek_roman (2) |
+| 51 | `conditional_invulnerability_hidden_weakness` Conditional Invulnerability and Hidden Weakness | 7 | 25 | 25 | hindu (9), roman (6), celtic_irish (3), comparative (2), greek (2) |
 | 52 | `hospitality_test_stranger_guest` Hospitality Test and Stranger Guest | 7 | 15 | 15 | greek (5), celtic_welsh (3), finnish_karelian (2), indigenous_australian (2), buddhist (1) |
-| 53 | `beauty_and_paradox` Beauty Paired with Pain and Paradox | 6 | 17 | 16 | sufi (8), greek (3), celtic_irish (2), islamic (2), greek_roman (1) |
-| 54 | `soul_loss_restoration` Soul Loss and Restoration | 6 | 17 | 17 | comparative (12), daoist (1), greek (1), greek_roman (1), islamic (1) |
-| 55 | `immortality_without_renewal` Immortality Without Renewal | 6 | 13 | 13 | roman (4), greek_roman (3), norse (3), greek (1), hindu (1) |
-| 56 | `world_ages_cosmic_decline` World Ages and Cosmic Decline | 6 | 11 | 11 | greek (4), roman (3), ainu (1), greek_roman (1), hindu (1) |
+| 53 | `world_ages_cosmic_decline` World Ages and Cosmic Decline | 7 | 12 | 12 | greek (4), roman (3), ainu (1), greek_roman (1), hindu (1) |
+| 54 | `beauty_and_paradox` Beauty Paired with Pain and Paradox | 6 | 17 | 16 | sufi (8), greek (3), celtic_irish (2), islamic (2), greek_roman (1) |
+| 55 | `soul_loss_restoration` Soul Loss and Restoration | 6 | 17 | 17 | comparative (12), daoist (1), greek (1), greek_roman (1), islamic (1) |
+| 56 | `immortality_without_renewal` Immortality Without Renewal | 6 | 13 | 13 | roman (4), greek_roman (3), norse (3), greek (1), hindu (1) |
 | 57 | `fate_figures_cosmic_weaving` Fate Figures and Cosmic Weaving | 5 | 9 | 9 | norse (3), finnish_karelian (2), sufi (2), greek (1), hindu (1) |
-| 58 | `primordial_sacrifice` Primordial Sacrifice and Dismemberment | 4 | 7 | 7 | norse (3), finnish_karelian (2), islamic (1), roman (1) |
-| 59 | `jealous_stepmother_persecuted_child` Jealous Stepmother and Persecuted Child | 3 | 7 | 7 | japanese (3), ainu (2), celtic_irish (2) |
-| 60 | `restless_dead_haunting_vengeance` Restless Dead, Haunting, and Vengeance | 2 | 2 | 2 | celtic_irish (1), greek_roman (1) |
+| 58 | `primordial_sacrifice` Primordial Sacrifice and Dismemberment | 5 | 8 | 8 | norse (3), finnish_karelian (2), greek (1), islamic (1), roman (1) |
+| 59 | `jealous_stepmother_persecuted_child` Jealous Stepmother and Persecuted Child | 3 | 8 | 8 | japanese (4), ainu (2), celtic_irish (2) |
+| 60 | `restless_dead_haunting_vengeance` Restless Dead, Haunting, and Vengeance | 3 | 3 | 3 | celtic_irish (1), greek_roman (1), roman (1) |
 | 61 | `divine_race` Divine Race and Arrival of the Gods | 1 | 3 | 3 | celtic_irish (3) |
-| 62 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 5 | 7 | 7 | greek_roman (2), norse (2), buddhist (1), comparative (1), japanese (1) |
+| 62 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 13 | 88 | 88 | greek (35), celtic_irish (14), buddhist (7), roman (6), sufi (4) |
 
 ## Death, Rebirth, and Transformation
 
 - Canonical motif ID: `death_and_transformation`
 - Distinct traditions: 22
-- Occurrences: 1512
-- Mapped motif IDs: 157
+- Occurrences: 1515
+- Mapped motif IDs: 160
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -126,6 +126,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cult_foundation_for_deified_former_mortal` | functional_variant | 1 | 1 |
 | `dangerous_blood_of_slain_life_animals_generating_more_monsters` | symbolic_variant | 1 | 1 |
 | `dead_hero_rejects_glory_in_death` | narrower_than | 1 | 1 |
+| `death_as_a_leveling_condition` | heuristic_keyword_match | 1 | 1 |
 | `death_as_passage_and_elemental_dissolution` | symbolic_variant | 1 | 1 |
 | `death_as_release_from_cursed_misery` | narrower_than | 1 | 1 |
 | `death_as_release_from_immortal_suffering` | narrower_than | 1 | 1 |
@@ -191,6 +192,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `mortality_embedded_in_clay` | symbolic_variant | 1 | 1 |
 | `mortality_figured_as_dust_wind_and_remade_vessels` | symbolic_variant | 1 | 1 |
 | `mortality_in_clay_and_adamic_dust` | symbolic_variant | 1 | 1 |
+| `mythic_bird_building_a_nest_from_exotic_aromatics` | uncertain | 1 | 1 |
 | `mythic_reconstruction_of_human_form` | functional_variant | 1 | 1 |
 | `no_return_after_death` | symbolic_variant | 1 | 1 |
 | `old_age_approaching_the_underworld` | symbolic_variant | 1 | 1 |
@@ -210,6 +212,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `personified_vessel_or_clay_as_former_living_being` | symbolic_variant | 1 | 1 |
 | `posthumous_intoxication_from_buried_remains` | uncertain | 1 | 1 |
 | `quest_for_immortality_through_fame_and_offspring` | symbolic_variant | 1 | 1 |
+| `race_degeneration_marked_by_premature_old_age` | symbolic_variant | 1 | 1 |
 | `rapid_healing_of_an_immortal_wound` | functional_variant | 1 | 1 |
 | `rebirth_through_ingestion` | child | 1 | 1 |
 | `recognition_of_reborn_leader_by_signs_and_previous_life_knowledge` | functional_variant | 1 | 1 |
@@ -250,8 +253,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `initiation`
 - Distinct traditions: 22
-- Occurrences: 769
-- Mapped motif IDs: 83
+- Occurrences: 770
+- Mapped motif IDs: 84
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -328,6 +331,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `subduing_the_inner_monster` | symbolic_variant | 1 | 1 |
 | `submission_to_god_after_signs_and_tests` | functional_variant | 1 | 1 |
 | `supernatural_stranger_challenges_a_king_to_a_board_game` | functional_variant | 1 | 1 |
+| `temptation_defeats_duty` | functional_variant | 1 | 1 |
 | `testing_loyalty_under_concealment` | functional_variant | 1 | 1 |
 | `threshold_transition_into_marriage` | functional_variant | 1 | 1 |
 | `trial_by_retrieval_from_the_enemy` | functional_variant | 1 | 1 |
@@ -343,14 +347,17 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_knowledge`
 - Distinct traditions: 21
-- Occurrences: 4367
-- Mapped motif IDs: 234
+- Occurrences: 4390
+- Mapped motif IDs: 257
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `wisdom` | child | 21 | 3821 |
 | `forbidden_knowledge` | child | 17 | 155 |
 | `sacred_theft` | child | 16 | 160 |
+| `abrogated_or_vanished_revelation` | uncertain | 1 | 1 |
+| `accusation_of_foreign_source_for_revelation` | uncertain | 1 | 1 |
+| `adviser_fails_to_follow_own_counsel` | functional_variant | 1 | 1 |
 | `agonistic_debate_as_combat` | functional_variant | 1 | 1 |
 | `agonistic_debate_between_questioner_and_forceful_opponent` | functional_variant | 1 | 1 |
 | `allegorical_figures_explained_by_a_host` | functional_variant | 1 | 1 |
@@ -361,6 +368,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `angelic_mediation_of_revelation` | functional_variant | 1 | 1 |
 | `angelic_transmission_of_ritual_practice` | functional_variant | 1 | 1 |
 | `animal_as_moral_emblem` | symbolic_variant | 1 | 1 |
+| `animal_explanation_of_human_life_stages` | uncertain | 1 | 1 |
 | `animal_informer_carrying_hidden_knowledge_to_a_divine_master` | functional_variant | 1 | 1 |
 | `animal_morally_transformed_by_human_speech` | functional_variant | 1 | 1 |
 | `animated_speaking_cosmos` | uncertain | 1 | 1 |
@@ -370,6 +378,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ascetic_imitation_of_an_ancient_model` | functional_variant | 1 | 1 |
 | `avoidance_of_extremes_as_path_of_happiness` | narrower_than | 1 | 1 |
 | `awakening_from_dreamlike_ignorance` | symbolic_variant | 1 | 1 |
+| `bad_company_leads_a_stronger_figure_into_danger` | functional_variant | 1 | 1 |
 | `betrayed_secret_disclosed_by_divine_revelation` | functional_variant | 1 | 1 |
 | `blind_poet_receives_identity_through_blindness` | symbolic_variant | 1 | 1 |
 | `book_as_necessary_vessel_for_preserving_a_complex_vision` | functional_variant | 1 | 1 |
@@ -380,8 +389,11 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cave_as_constricted_world_of_appearances` | symbolic_variant | 1 | 1 |
 | `celestial_musician` | role_variant | 1 | 1 |
 | `character_shaped_by_overheard_speech` | functional_variant | 1 | 1 |
+| `child_s_speech_exposes_concealed_food` | uncertain | 1 | 1 |
 | `chosen_helpers_who_bear_witness` | role_variant | 1 | 1 |
 | `chosen_twelve_as_doctrinal_propagators` | over_specific_label | 1 | 1 |
+| `claimant_prophet_brings_radical_communal_doctrine` | uncertain | 1 | 1 |
+| `closure_of_revelation_with_final_prophet` | uncertain | 1 | 1 |
 | `concealment_and_ill_fated_disclosure` | functional_variant | 1 | 1 |
 | `contested_revelation_accused_of_poetry_legend_or_sorcery` | functional_variant | 1 | 1 |
 | `corrupted_earlier_scripture_contrasted_with_protected_later_scripture` | uncertain | 1 | 1 |
@@ -415,6 +427,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `destruction_of_sacred_or_philosophical_writings_by_fire` | functional_variant | 1 | 1 |
 | `didactic_past_life_identification` | functional_variant | 1 | 1 |
 | `disputed_revelation_attributed_to_human_teachers` | functional_variant | 1 | 1 |
+| `distance_from_truth_by_degrees` | symbolic_variant | 1 | 1 |
 | `divine_adjuration_in_a_philosophical_contest` | uncertain | 1 | 1 |
 | `divine_decree_inscribed_on_a_heavenly_record` | symbolic_variant | 1 | 1 |
 | `divine_disclosure_of_a_hidden_secret` | functional_variant | 1 | 1 |
@@ -433,7 +446,9 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `education_as_an_indelible_imprint` | symbolic_variant | 1 | 1 |
 | `education_as_indelible_coloring` | symbolic_variant | 1 | 1 |
 | `education_through_disciplined_aesthetic_formation` | functional_variant | 1 | 1 |
+| `egypt_as_a_source_of_potent_herbs_and_medical_knowledge` | uncertain | 1 | 1 |
 | `endurance_through_address_to_the_heart` | functional_variant | 1 | 1 |
+| `enemy_scout_captured_as_source_of_spoils_and_knowledge` | heuristic_keyword_match | 1 | 1 |
 | `enemy_spy_learns_the_source_of_supernatural_advantage` | functional_variant | 1 | 1 |
 | `esoteric_secret_doctrine` | narrower_than | 1 | 1 |
 | `external_aims_cause_loss_of_proper_nature` | uncertain | 1 | 1 |
@@ -447,6 +462,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `former_humans_as_divine_messengers_of_song` | functional_variant | 1 | 1 |
 | `found_writing_with_contents_suited_to_one_hearer_but_not_another` | functional_variant | 1 | 1 |
 | `fourfold_sacred_inspiration` | symbolic_variant | 1 | 1 |
+| `fruit_leads_ruler_to_hidden_tree_and_animal_encounter` | over_specific_label | 1 | 1 |
 | `god_favored_mortal_instructed_in_wealth_getting_arts` | functional_variant | 1 | 1 |
 | `gradual_descent_of_sacred_scripture` | functional_variant | 1 | 1 |
 | `guidance_by_celestial_observation` | functional_variant | 1 | 1 |
@@ -469,6 +485,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `immortality_and_unity_of_the_created_state` | doctrinal_variant | 1 | 1 |
 | `impartial_endurance_and_benevolence` | functional_variant | 1 | 1 |
 | `impartial_virtue_modeled_on_natural_elements` | symbolic_variant | 1 | 1 |
+| `impossible_food_as_proof_device` | functional_variant | 1 | 1 |
 | `indestructible_immortal_soul` | doctrinal_variant | 1 | 1 |
 | `ineffective_verbal_formula_contrasted_with_action` | functional_variant | 1 | 1 |
 | `inscribed_signs_requiring_interpretation_across_groups` | functional_variant | 1 | 1 |
@@ -490,10 +507,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `mistaken_helper_harms_the_one_he_intends_to_comfort` | functional_variant | 1 | 1 |
 | `moral_reform_through_corrective_instruction` | functional_variant | 1 | 1 |
 | `movement_from_darkness_into_light` | symbolic_variant | 1 | 1 |
+| `music_enchanting_animals_and_trees` | functional_variant | 1 | 1 |
 | `name_explaining_destiny_or_character` | symbolic_variant | 1 | 1 |
 | `natural_disposition_harmed_by_artificial_cultivation` | functional_variant | 1 | 1 |
 | `natural_integrity_damaged_by_artificial_control` | functional_variant | 1 | 1 |
 | `nature_and_animals_joined_in_sacred_praise` | symbolic_variant | 1 | 1 |
+| `olympian_fellowship_of_arts_and_refinement` | uncertain | 1 | 1 |
 | `one_and_many_virtues` | narrower_than | 1 | 1 |
 | `one_virtue_contrasted_with_many_vices` | narrower_than | 1 | 1 |
 | `oral_and_written_preservation_of_sacred_revelation` | functional_variant | 1 | 1 |
@@ -526,6 +545,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `recovery_of_a_buried_ancient_work` | functional_variant | 1 | 1 |
 | `rejected_invention_after_self_recognition_in_water` | uncertain | 1 | 1 |
 | `rejected_messenger_in_continuity_with_earlier_apostles` | over_specific_label | 1 | 1 |
+| `rejected_tangible_revelation` | uncertain | 1 | 1 |
 | `rejection_of_astral_divine_agency_under_monotheistic_correction` | uncertain | 1 | 1 |
 | `rejection_of_prophetic_revelation_as_sorcery` | functional_variant | 1 | 1 |
 | `rejection_of_revelation_as_magic_or_human_speech` | functional_variant | 1 | 1 |
@@ -533,8 +553,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `revealed_recitation_as_guidance_and_warning` | functional_variant | 1 | 1 |
 | `revelation_as_recitation` | child | 1 | 1 |
 | `revelation_confirming_earlier_revelation` | functional_variant | 1 | 1 |
+| `reversal_of_moral_names` | uncertain | 1 | 1 |
 | `ritual_formulaic_speech` | ritual_variant | 1 | 1 |
 | `rival_good_and_bad_counselors` | role_variant | 1 | 1 |
+| `rival_prophet_imitates_established_revelation` | uncertain | 1 | 1 |
 | `sacred_book_as_miracle_or_divine_oracle` | functional_variant | 1 | 1 |
 | `sacred_name_as_refuge_and_protection` | functional_variant | 1 | 1 |
 | `sacred_recitation_overwhelms_the_hearer` | functional_variant | 1 | 1 |
@@ -546,14 +568,18 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `scriptural_succession_and_confirmation` | functional_variant | 1 | 1 |
 | `sealed_heart_and_failed_understanding` | symbolic_variant | 1 | 1 |
 | `searching_for_the_sunrise_in_the_west` | uncertain | 1 | 1 |
+| `secret_instruction_followed_by_public_claim_of_revelation` | uncertain | 1 | 1 |
 | `secret_magical_concealment_condition` | functional_variant | 1 | 1 |
 | `secret_revealed_by_nature` | functional_variant | 1 | 1 |
 | `secret_speech_against_an_all_hearing_enemy` | functional_variant | 1 | 1 |
 | `secret_withheld_because_allies_may_become_enemies` | functional_variant | 1 | 1 |
 | `seeress_consulted_before_a_military_journey` | functional_variant | 1 | 1 |
 | `self_mastery_versus_inner_tyranny` | symbolic_variant | 1 | 1 |
+| `self_preserving_concealment` | functional_variant | 1 | 1 |
 | `small_creature_s_world_mistaken_for_a_vast_sea` | symbolic_variant | 1 | 1 |
+| `small_danger_becomes_destructive_if_neglected` | over_specific_label | 1 | 1 |
 | `speaking_enchanted_fish_reveal_hidden_mystery` | functional_variant | 1 | 1 |
+| `speech_as_an_ordered_living_body` | uncertain | 1 | 1 |
 | `spiritual_incapacity_figured_as_deadness_deafness_and_blindness` | symbolic_variant | 1 | 1 |
 | `successive_dispensations_of_written_revelation` | functional_variant | 1 | 1 |
 | `supernatural_beings_converted_by_sacred_recitation` | functional_variant | 1 | 1 |
@@ -565,6 +591,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `tripartite_ordering_of_the_soul_and_lives` | uncertain | 1 | 1 |
 | `tripartite_soul_or_three_inner_principles` | uncertain | 1 | 1 |
 | `truthful_declaration_brings_miraculous_aid` | functional_variant | 1 | 1 |
+| `tyranny_as_inner_enslavement` | symbolic_variant | 1 | 1 |
 | `unused_hoarded_wealth_is_equivalent_to_worthless_substitute` | over_specific_label | 1 | 1 |
 | `usefulness_of_uselessness` | symbolic_variant | 1 | 1 |
 | `useless_tree_theme` | symbolic_variant | 1 | 1 |
@@ -587,8 +614,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `divine_judgment`
 - Distinct traditions: 21
-- Occurrences: 2625
-- Mapped motif IDs: 427
+- Occurrences: 2646
+- Mapped motif IDs: 448
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -600,6 +627,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `adultery_ordeal_by_ritual_drink_and_oath` | ritual_variant | 1 | 1 |
 | `adversarial_being_followed_by_the_unfaithful_majority` | functional_variant | 1 | 1 |
 | `ancestral_exemplars_judging_later_imitators` | role_variant | 1 | 1 |
+| `animal_fable_of_stronger_over_weaker` | functional_variant | 1 | 1 |
 | `animal_mark_punishment_for_foolish_judgment` | functional_variant | 1 | 1 |
 | `animals_and_things_speak_as_end_time_sign` | symbolic_variant | 1 | 1 |
 | `animals_gather_under_apocalyptic_terror` | symbolic_variant | 1 | 1 |
@@ -635,6 +663,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `complaint_against_unjust_cosmic_order` | functional_variant | 1 | 1 |
 | `concealment_fails_before_a_more_observant_authority` | functional_variant | 1 | 1 |
 | `concealment_test_of_justice` | functional_variant | 1 | 1 |
+| `condemned_person_requests_a_temporary_reprieve_to_settle_household_obligations` | functional_variant | 1 | 1 |
 | `conquest_followed_by_clemency_and_selective_punishment` | functional_variant | 1 | 1 |
 | `consolation_in_enemy_s_equal_ruin` | functional_variant | 1 | 1 |
 | `corpse_dragger_punished_at_the_body` | functional_variant | 1 | 1 |
@@ -644,6 +673,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cosmic_scale_against_a_small_cast_object` | uncertain | 1 | 1 |
 | `cosmic_transformation_at_the_day_of_judgment` | functional_variant | 1 | 1 |
 | `cosmic_witnesses_to_hidden_wrongdoing` | functional_variant | 1 | 1 |
+| `counsel_ignored_before_pursuit` | functional_variant | 1 | 1 |
+| `court_culprit_seized_for_punishment` | functional_variant | 1 | 1 |
 | `cowardice_in_battle_as_collective_blood_guilt` | functional_variant | 1 | 1 |
 | `creation_for_moral_testing_and_guidance` | functional_variant | 1 | 1 |
 | `creator_as_potter_shaping_and_judging_vessels` | symbolic_variant | 1 | 1 |
@@ -678,6 +709,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `destruction_of_former_idols_by_reforming_authority` | functional_variant | 1 | 1 |
 | `destruction_of_idols_after_miraculous_proof` | functional_variant | 1 | 1 |
 | `destructive_imitation_of_rewarded_virtue` | functional_variant | 1 | 1 |
+| `diabolic_request_for_snares_to_catch_humans` | uncertain | 1 | 1 |
 | `disguised_catastrophe_mistaken_for_blessing` | functional_variant | 1 | 1 |
 | `disguised_deity_receives_mortal_hospitality` | functional_variant | 1 | 1 |
 | `disguised_envoy_tests_unknown_strangers` | functional_variant | 1 | 1 |
@@ -745,6 +777,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `fatal_reversal_of_expected_abundance` | functional_variant | 1 | 1 |
 | `fatal_summons_disguised_as_honor` | functional_variant | 1 | 1 |
 | `fate_as_karmic_consequence_across_births` | functional_variant | 1 | 1 |
+| `fearless_destruction_of_a_powerless_idol` | uncertain | 1 | 1 |
 | `fiery_pit_as_instrument_of_religious_persecution` | functional_variant | 1 | 1 |
 | `filial_devotion_rewarded_after_death` | functional_variant | 1 | 1 |
 | `final_unrepaired_destruction_of_a_sanctuary` | functional_variant | 1 | 1 |
@@ -754,6 +787,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `former_act_produces_present_miracle` | functional_variant | 1 | 1 |
 | `fraud_exposed_by_makers_of_the_false_treasure` | functional_variant | 1 | 1 |
 | `friendship_or_enmity_with_just_gods` | role_variant | 1 | 1 |
+| `fugitive_hides_in_a_place_that_fits_his_punishment_or_labor` | uncertain | 1 | 1 |
 | `futile_human_refuge_before_heavenly_punishment` | functional_variant | 1 | 1 |
 | `futile_works_as_mirage_and_darkness_without_divine_light` | symbolic_variant | 1 | 1 |
 | `greed_contrasted_with_temperance` | narrower_than | 1 | 1 |
@@ -765,12 +799,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `hell_fire_as_punitive_consumption` | functional_variant | 1 | 1 |
 | `heroic_life_performed_before_a_judging_community` | uncertain | 1 | 1 |
 | `hidden_crime_revealed_by_animal_voice` | functional_variant | 1 | 1 |
+| `hidden_evils_creeping_into_the_city` | symbolic_variant | 1 | 1 |
 | `hidden_wrongdoing_eventually_exposed` | functional_variant | 1 | 1 |
 | `holiness_code` | child | 1 | 1 |
 | `hope_for_mercy_despite_confessed_sin` | functional_variant | 1 | 1 |
 | `hope_subordinated_to_divine_will` | over_specific_label | 1 | 1 |
 | `hostile_opponent_rendered_without_posterity` | functional_variant | 1 | 1 |
 | `hostile_weapon_turned_back_upon_attacker` | functional_variant | 1 | 1 |
+| `hounds_tracking_a_murderer` | functional_variant | 1 | 1 |
 | `household_impiety_extended_to_civic_tyranny` | functional_variant | 1 | 1 |
 | `human_free_agency_and_moral_recompense` | narrower_than | 1 | 1 |
 | `human_ingratitude_toward_the_divine` | narrower_than | 1 | 1 |
@@ -804,12 +840,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `late_repentance_or_charity_sought_at_death` | functional_variant | 1 | 1 |
 | `life_as_race_ending_in_crown_or_disgrace` | symbolic_variant | 1 | 1 |
 | `loss_of_signs_and_satanic_seduction` | functional_variant | 1 | 1 |
+| `lot_cast_guardianship_decision` | ritual_variant | 1 | 1 |
 | `lot_casting_with_marked_and_blank_arrows` | ritual_variant | 1 | 1 |
 | `madness_caused_mistaken_killing` | functional_variant | 1 | 1 |
 | `madness_replacing_temperance` | functional_variant | 1 | 1 |
 | `magical_punishment_followed_by_reconciliation` | functional_variant | 1 | 1 |
 | `mass_entry_into_the_divine_religion_after_victory` | functional_variant | 1 | 1 |
 | `maternal_intercession_secures_pardon` | functional_variant | 1 | 1 |
+| `maternal_self_punishment_by_sword` | functional_variant | 1 | 1 |
 | `measure_and_judgment_in_disputation` | functional_variant | 1 | 1 |
 | `merciful_forgiveness_after_confession_of_wrongdoing` | functional_variant | 1 | 1 |
 | `merciful_reception_after_repentance` | functional_variant | 1 | 1 |
@@ -885,12 +923,15 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `punishment_after_secret_theft_is_exposed` | functional_variant | 1 | 1 |
 | `punishment_by_fire_imagery` | symbolic_variant | 1 | 1 |
 | `punishment_for_aiding_an_enemy_side` | functional_variant | 1 | 1 |
+| `punishment_for_doctrinal_refusal` | uncertain | 1 | 1 |
 | `punishment_in_hell_fire` | narrower_than | 1 | 1 |
 | `punishment_mirrors_the_criminal_s_own_method` | functional_variant | 1 | 1 |
+| `punishment_of_negligent_caregivers_by_released_water` | over_specific_label | 1 | 1 |
 | `punitive_bodily_disfigurement_as_a_visible_mark` | functional_variant | 1 | 1 |
 | `punitive_destruction_of_an_opposing_group` | functional_variant | 1 | 1 |
 | `punitive_fire` | symbolic_variant | 1 | 1 |
 | `punitive_fire_trap` | functional_variant | 1 | 1 |
+| `punitive_sword_sent_for_suicide_after_incestuous_pregnancy` | over_specific_label | 1 | 1 |
 | `purging_the_noble_instead_of_the_corrupt` | functional_variant | 1 | 1 |
 | `pursuer_becomes_fugitive` | functional_variant | 1 | 1 |
 | `pursuer_becomes_prey` | functional_variant | 1 | 1 |
@@ -933,13 +974,16 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `righteous_across_communities_rewarded_by_god` | functional_variant | 1 | 1 |
 | `righteous_rewarded_after_moral_testing_or_distinction` | functional_variant | 1 | 1 |
 | `ritual_authority_pronounces_a_curse_for_sacrilege` | functional_variant | 1 | 1 |
+| `ritual_derision_or_defective_worship_at_a_holy_house` | uncertain | 1 | 1 |
 | `ritual_prohibition` | child | 1 | 1 |
 | `ritual_punishment_through_dismemberment` | uncertain | 1 | 1 |
 | `ritual_purification_of_sin` | ritual_variant | 1 | 1 |
 | `ritualized_vengeance_by_fire` | functional_variant | 1 | 1 |
 | `rival_women_quarrel_at_water_and_reveal_a_concealed_wrong` | functional_variant | 1 | 1 |
 | `river_deity_opposes_excessive_slaughter` | functional_variant | 1 | 1 |
+| `royal_woman_degraded_as_punishment_for_political_insult` | uncertain | 1 | 1 |
 | `ruler_elicits_confession_through_reassurance` | functional_variant | 1 | 1 |
+| `ruler_persuaded_to_kill_a_benefactor` | uncertain | 1 | 1 |
 | `runaway_celestial_vehicle_causing_disaster` | functional_variant | 1 | 1 |
 | `sacred_mark_borne_for_judgment` | symbolic_variant | 1 | 1 |
 | `sacred_space_violence_and_dying_curse` | uncertain | 1 | 1 |
@@ -957,6 +1001,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `slayer_immediately_slain_by_avenger` | functional_variant | 1 | 1 |
 | `small_disorder_growing_into_total_civic_disorder` | narrower_than | 1 | 1 |
 | `small_injustice_growing_into_large_oppression` | narrower_than | 1 | 1 |
+| `social_behavior_of_a_species_explained_by_punishment` | uncertain | 1 | 1 |
 | `solemn_mutual_invocation_to_expose_liars` | ritual_variant | 1 | 1 |
 | `soul_bird_demanding_blood_vengeance` | functional_variant | 1 | 1 |
 | `speaking_severed_head_accuses_the_wrongdoer` | functional_variant | 1 | 1 |
@@ -990,9 +1035,11 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `truth_overcomes_falsehood` | symbolic_variant | 1 | 1 |
 | `truth_telling_messenger_punished` | functional_variant | 1 | 1 |
 | `turning_to_god_in_adversity_and_relapsing_after_mercy` | functional_variant | 1 | 1 |
+| `unaware_kin_after_punishment_of_family_members` | uncertain | 1 | 1 |
 | `underworld_punishment_threat` | functional_variant | 1 | 1 |
 | `unfair_or_morally_burdened_victory` | functional_variant | 1 | 1 |
 | `unfair_or_preemptive_killing_in_a_duel_criticized_by_another_warrior` | over_specific_label | 1 | 1 |
+| `ungrateful_ruler_betrays_rescuer` | functional_variant | 1 | 1 |
 | `unheeded_request_leads_to_punishment` | functional_variant | 1 | 1 |
 | `unseen_demonic_patrons_of_unbelievers` | role_variant | 1 | 1 |
 | `unwitting_cannibal_feast_of_kin` | uncertain | 1 | 1 |
@@ -1008,6 +1055,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `wasteful_heir_dissipates_inherited_wealth` | functional_variant | 1 | 1 |
 | `wealth_and_children_fail_as_protection_before_god` | functional_variant | 1 | 1 |
 | `wealth_as_spiritual_test_and_punishment` | functional_variant | 1 | 1 |
+| `wealth_personified_as_a_morally_suspect_companion` | symbolic_variant | 1 | 1 |
 | `weapon_turned_back_upon_the_attacker` | functional_variant | 1 | 1 |
 | `well_meant_repayment_causing_destruction` | functional_variant | 1 | 1 |
 | `wickedness_destroys_its_bearer` | functional_variant | 1 | 1 |
@@ -1024,8 +1072,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_exchange`
 - Distinct traditions: 20
-- Occurrences: 1461
-- Mapped motif IDs: 200
+- Occurrences: 1472
+- Mapped motif IDs: 211
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1080,9 +1128,11 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `food_offering_at_the_meeting_of_roads` | ritual_variant | 1 | 1 |
 | `forgotten_intercession_delays_release` | functional_variant | 1 | 1 |
 | `fosterage_with_reciprocal_obligation` | functional_variant | 1 | 1 |
+| `friendship_formed_after_threatened_conflict` | functional_variant | 1 | 1 |
 | `generosity_contest_decided_by_practical_test` | functional_variant | 1 | 1 |
 | `generous_warrior_patron_rewards_poets_and_learned_people` | functional_variant | 1 | 1 |
 | `gift_of_valued_possessions_as_proof_of_virtue` | functional_variant | 1 | 1 |
+| `gift_seeking_visit_without_staying` | uncertain | 1 | 1 |
 | `guest_s_prayer_for_fulfillment_of_host_s_promise` | functional_variant | 1 | 1 |
 | `harbor_welcome_and_stranger_accommodation` | functional_variant | 1 | 1 |
 | `heavenly_table_bestowed_on_a_holy_figure` | functional_variant | 1 | 1 |
@@ -1102,6 +1152,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `hospitality_during_travel` | functional_variant | 1 | 1 |
 | `hospitality_endangered_by_absorption_in_a_game_and_restored_by_food_distribution` | over_specific_label | 1 | 1 |
 | `hospitality_entertainment_for_a_departing_guest` | functional_variant | 1 | 1 |
+| `hospitality_feast_before_destabilizing_speech` | functional_variant | 1 | 1 |
 | `hospitality_meal_followed_by_restorative_sleep` | functional_variant | 1 | 1 |
 | `hospitality_offered_to_a_divine_stranger` | functional_variant | 1 | 1 |
 | `hospitality_offered_to_a_visiting_warrior` | functional_variant | 1 | 1 |
@@ -1120,11 +1171,13 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `hymnic_petition_for_divine_favor_through_song` | ritual_variant | 1 | 1 |
 | `hymnic_request_for_divine_favor` | ritual_variant | 1 | 1 |
 | `imitative_rain_making_by_water_contact` | ritual_variant | 1 | 1 |
+| `improvised_intoxicating_drink_as_relief_during_captivity` | uncertain | 1 | 1 |
 | `inclusive_table_fellowship_and_permitted_eating` | ritual_variant | 1 | 1 |
 | `inherited_obligation_to_benefactors` | functional_variant | 1 | 1 |
 | `insulted_helper_withholds_power` | functional_variant | 1 | 1 |
 | `intimate_plea_succeeds_after_public_embassy_fails` | functional_variant | 1 | 1 |
 | `intoxication_mediated_reconciliation` | ritual_variant | 1 | 1 |
+| `killing_the_wealth_producing_animal` | uncertain | 1 | 1 |
 | `kindness_repaid` | functional_variant | 1 | 1 |
 | `kindness_to_an_animal_repaid_by_treasure` | functional_variant | 1 | 1 |
 | `lavish_hospitality_to_a_noble_stranger` | functional_variant | 1 | 1 |
@@ -1155,13 +1208,17 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `priestly_mediation_between_gods_and_humans` | role_variant | 1 | 1 |
 | `prophet_refusing_reward_for_preaching` | functional_variant | 1 | 1 |
 | `prophetic_preaching_without_material_recompense` | functional_variant | 1 | 1 |
+| `propitiatory_royal_gift_exchange_before_conquest` | functional_variant | 1 | 1 |
 | `protective_neighborhood_bond` | functional_variant | 1 | 1 |
 | `proverbial_generosity_of_hatim_tayi` | uncertain | 1 | 1 |
 | `public_works_as_communal_piety` | functional_variant | 1 | 1 |
 | `purification_through_alms_and_prayer` | ritual_variant | 1 | 1 |
 | `purified_silent_prayer_before_embassy` | ritual_variant | 1 | 1 |
+| `queen_or_woman_mediator_pacifies_male_anger` | role_variant | 1 | 1 |
 | `rain_charm_by_bathing_or_immersing_sacred_images` | ritual_variant | 1 | 1 |
 | `rain_magic` | uncertain | 1 | 1 |
+| `rain_making_animal_cry` | ritual_variant | 1 | 1 |
+| `rain_making_by_imitating_rain_or_storm` | ritual_variant | 1 | 1 |
 | `rain_making_specialist_or_rite` | narrower_than | 1 | 1 |
 | `rain_making_through_vegetation_spirit_representation` | ritual_variant | 1 | 1 |
 | `rain_obtained_by_watering_or_drenching_a_sacred_branch_or_tree` | ritual_variant | 1 | 1 |
@@ -1211,6 +1268,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `stranger_received_and_fed_by_a_compassionate_host` | functional_variant | 1 | 1 |
 | `stranger_receives_refuge_in_hostile_land` | functional_variant | 1 | 1 |
 | `supernatural_beings_defile_a_feast` | functional_variant | 1 | 1 |
+| `supplication_and_reconciliation_after_harsh_speech` | functional_variant | 1 | 1 |
 | `testing_promised_benefactors_after_gaining_power` | functional_variant | 1 | 1 |
 | `testing_promises_after_rescue` | functional_variant | 1 | 1 |
 | `true_friend_needed_in_adversity` | functional_variant | 1 | 1 |
@@ -1226,6 +1284,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `water_fetching_and_washing_as_disciplined_household_service` | ritual_variant | 1 | 1 |
 | `widowed_or_bereaved_vow_not_to_remarry` | ritual_variant | 1 | 1 |
 | `withheld_food_leads_to_hostile_weather_magic` | functional_variant | 1 | 1 |
+| `wonder_animal_as_drink_provider` | functional_variant | 1 | 1 |
 | `worldly_wealth_lost_to_water_contrasted_with_religious_generosity` | functional_variant | 1 | 1 |
 | `wounded_animal_healed_by_humans_repays_aid` | functional_variant | 1 | 1 |
 | `youthful_error_corrected_by_restitution` | functional_variant | 1 | 1 |
@@ -1251,25 +1310,31 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `cosmic_origin`
 - Distinct traditions: 20
-- Occurrences: 346
-- Mapped motif IDs: 159
+- Occurrences: 365
+- Mapped motif IDs: 177
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `chaos` | child | 18 | 184 |
 | `cosmic_egg` | child | 2 | 4 |
+| `milk` | curated_mapping | 2 | 2 |
 | `creation_by_divine_speech` | functional_variant | 1 | 2 |
 | `aetiological_explanation_of_animals_and_constellations` | functional_variant | 1 | 1 |
 | `angelic_prostration_before_a_newly_created_human` | functional_variant | 1 | 1 |
+| `animal_behavior_explained_by_an_origin_story` | heuristic_keyword_match | 1 | 1 |
 | `animal_feature_explained_by_divine_grasp` | narrower_than | 1 | 1 |
+| `animal_name_origin_and_ant_like_people` | heuristic_keyword_match | 1 | 1 |
+| `animal_name_origin_from_figures_disappearance_or_memory` | heuristic_keyword_match | 1 | 1 |
 | `autochthonous_identity_as_children_of_the_soil` | functional_variant | 1 | 1 |
 | `autochthonous_origin_from_mushrooms` | narrower_than | 1 | 1 |
 | `benevolent_creation_from_goodness` | narrower_than | 1 | 1 |
+| `blocked_ford_and_place_name_origin` | heuristic_keyword_match | 1 | 1 |
 | `burial_creates_or_explains_a_place_name` | narrower_than | 1 | 1 |
 | `buried_giant_whose_movement_shakes_the_earth` | child | 1 | 1 |
 | `catching_entangling_or_detaining_the_sun` | child | 1 | 1 |
 | `color_origin_explanation_for_mulberry` | functional_variant | 1 | 1 |
 | `composite_primordial_human` | symbolic_variant | 1 | 1 |
+| `cosmic_abundance_gathered_to_one_place` | heuristic_keyword_match | 1 | 1 |
 | `cosmic_body_containing_and_sustaining_the_world` | symbolic_variant | 1 | 1 |
 | `cosmic_creation_by_divine_power` | broader_label | 1 | 1 |
 | `cosmic_creation_in_six_days_without_divine_fatigue` | narrower_than | 1 | 1 |
@@ -1297,6 +1362,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `creation_order_as_proof_of_divine_power` | symbolic_variant | 1 | 1 |
 | `creative_and_dissolving_divine_word` | functional_variant | 1 | 1 |
 | `creative_breath_gives_life` | functional_variant | 1 | 1 |
+| `creative_imagination_as_world_making` | uncertain | 1 | 1 |
 | `creator_as_maker_of_human_vessel` | symbolic_variant | 1 | 1 |
 | `creator_assigns_reproductive_cycles_to_living_beings` | functional_variant | 1 | 1 |
 | `creator_ordering_heaven_earth_waters_pastures_and_mountains` | narrower_than | 1 | 1 |
@@ -1380,16 +1446,25 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `mountains_stabilizing_the_earth` | symbolic_variant | 1 | 1 |
 | `mourning_mother_s_tears_generate_waters_and_landscape` | functional_variant | 1 | 1 |
 | `natural_signs_of_divine_creative_sovereignty` | symbolic_variant | 1 | 1 |
+| `new_people_named_from_transformed_origin` | heuristic_keyword_match | 1 | 1 |
 | `ordered_celestial_procession` | symbolic_variant | 1 | 1 |
 | `origin_explanation_for_gold_bearing_river_or_fields` | narrower_than | 1 | 1 |
 | `origin_explanation_for_hollow_reeds` | narrower_than | 1 | 1 |
+| `origin_of_a_named_lake` | heuristic_keyword_match | 1 | 1 |
+| `origin_of_dangerous_hybrid_beings_in_a_remote_place` | heuristic_keyword_match | 1 | 1 |
 | `origin_of_humankind` | child | 1 | 1 |
 | `origin_of_the_world` | alias | 1 | 1 |
 | `personified_necessity_as_generative_source` | functional_variant | 1 | 1 |
 | `place_name_etiology_from_a_death_at_a_ford` | functional_variant | 1 | 1 |
+| `place_name_etiology_from_heroic_event` | heuristic_keyword_match | 1 | 1 |
+| `place_name_etiology_from_violent_events` | heuristic_keyword_match | 1 | 1 |
 | `place_name_explained_by_violent_death` | functional_variant | 1 | 1 |
+| `place_name_explained_by_violent_event` | heuristic_keyword_match | 1 | 1 |
 | `place_name_origin_from_a_death_and_burial` | functional_variant | 1 | 1 |
+| `place_name_origin_from_a_narrative_event` | heuristic_keyword_match | 1 | 1 |
+| `place_name_origin_from_abducted_companion` | heuristic_keyword_match | 1 | 1 |
 | `place_name_origin_from_violent_death_or_event` | functional_variant | 1 | 1 |
+| `place_name_origin_through_army_action` | heuristic_keyword_match | 1 | 1 |
 | `pre_cosmic_principle_sustaining_the_cosmos` | broader_label | 1 | 1 |
 | `pre_creation_divine_throne_over_waters` | symbolic_variant | 1 | 1 |
 | `primordial_being_formed_from_elemental_substance` | narrower_than | 1 | 1 |
@@ -1400,6 +1475,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_or_cosmic_number_governing_generation` | uncertain | 1 | 1 |
 | `scattered_brood_producing_separated_kin_lines` | functional_variant | 1 | 1 |
 | `seducers_excluded_from_creation_and_divine_counsel` | narrower_than | 1 | 1 |
+| `slaying_as_place_name_origin` | heuristic_keyword_match | 1 | 1 |
 | `spoken_prediction_of_local_landscape_formation` | narrower_than | 1 | 1 |
 | `stabilizing_mountains_and_life_giving_rain` | functional_variant | 1 | 1 |
 | `supernatural_etiological_place_naming` | narrower_than | 1 | 1 |
@@ -1409,6 +1485,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `unified_creation_emerging_from_an_archetypal_whole` | symbolic_variant | 1 | 1 |
 | `universal_cosmic_worship` | symbolic_variant | 1 | 1 |
 | `universal_worship_of_the_creator` | symbolic_variant | 1 | 1 |
+| `unreadable_inner_thoughts_as_a_flaw_in_human_creation` | uncertain | 1 | 1 |
 | `vague_or_half_forgotten_first_maker` | role_variant | 1 | 1 |
 | `water_associated_divinities_and_origin_setting` | symbolic_variant | 1 | 1 |
 | `waters_divided` | child | 1 | 1 |
@@ -1420,8 +1497,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `hero_journey`
 - Distinct traditions: 19
-- Occurrences: 1791
-- Mapped motif IDs: 147
+- Occurrences: 1809
+- Mapped motif IDs: 165
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1436,6 +1513,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `alternative_rousing_of_the_incapacitated_hero` | over_specific_label | 1 | 1 |
 | `ambush_causes_exile_and_loss_of_status` | narrower_than | 1 | 1 |
 | `animal_companions_recruited_for_a_quest` | functional_variant | 1 | 1 |
+| `animal_inadvertently_reveals_escape_route` | functional_variant | 1 | 1 |
 | `armed_friend_guarding_the_sleeping_hero` | functional_variant | 1 | 1 |
 | `armed_hero_awakened_from_sleep` | uncertain | 1 | 1 |
 | `arming_before_a_liminal_night_mission` | narrower_than | 1 | 1 |
@@ -1457,6 +1535,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `combat_with_man_eating_giant_to_release_captives` | functional_variant | 1 | 1 |
 | `companion_under_silence_command_warns_hero` | uncertain | 1 | 1 |
 | `concealed_hero_emerges_as_rescuer` | functional_variant | 1 | 1 |
+| `dangerous_journey_from_failing_water_to_refuge` | functional_variant | 1 | 1 |
 | `dawn_renewal_of_journey` | functional_variant | 1 | 1 |
 | `death_of_fostered_princely_companions_after_a_summons_and_journey` | over_specific_label | 1 | 1 |
 | `death_of_the_father_at_the_journey_s_goal` | functional_variant | 1 | 1 |
@@ -1476,6 +1555,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `escape_from_whirlpool_by_clinging_to_a_tree` | over_specific_label | 1 | 1 |
 | `estrangement_from_court_caused_by_insult` | functional_variant | 1 | 1 |
 | `etiological_place_names_from_a_mythic_journey` | narrower_than | 1 | 1 |
+| `exile_survival_through_improvised_animal_derived_clothing` | over_specific_label | 1 | 1 |
 | `extraordinary_companions_with_superhuman_locomotion` | functional_variant | 1 | 1 |
 | `failed_coercive_summons_of_a_hero` | functional_variant | 1 | 1 |
 | `faithful_companion_aids_the_hero_in_war_and_peace` | role_variant | 1 | 1 |
@@ -1491,6 +1571,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `forest_hermitage_as_substitute_home_or_kingdom` | functional_variant | 1 | 1 |
 | `foretold_dwelling_in_the_wilderness` | functional_variant | 1 | 1 |
 | `grieving_hero_s_wilderness_search` | functional_variant | 1 | 1 |
+| `guided_overseas_journey` | functional_variant | 1 | 1 |
 | `helper_warns_questers_and_mediates_meeting` | role_variant | 1 | 1 |
 | `hero_fleeing_monstrous_pursuers_with_severed_monster_head` | over_specific_label | 1 | 1 |
 | `hero_marks_boundary_of_the_known_world` | functional_variant | 1 | 1 |
@@ -1503,13 +1584,17 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `heroic_carrying_of_exhausted_companions_ashore` | functional_variant | 1 | 1 |
 | `heroic_envoy_displays_power_in_enemy_court` | functional_variant | 1 | 1 |
 | `heroic_helper_assembly` | functional_variant | 1 | 1 |
+| `heroic_or_martial_road_making` | functional_variant | 1 | 1 |
 | `heroic_reconnaissance_before_rescue` | functional_variant | 1 | 1 |
 | `heroic_return_with_trophies_and_spoils` | functional_variant | 1 | 1 |
+| `humiliated_hero_roused_by_memory_of_insult` | functional_variant | 1 | 1 |
 | `impassable_wilderness_obstacle_before_enemy_territory` | functional_variant | 1 | 1 |
 | `impossible_heroic_journey_route` | functional_variant | 1 | 1 |
 | `infiltration_of_a_guarded_royal_stronghold` | functional_variant | 1 | 1 |
 | `jealous_companions_after_hero_receives_woman_and_house` | over_specific_label | 1 | 1 |
 | `journey_by_night_guided_by_stars` | narrower_than | 1 | 1 |
+| `journey_prohibition_with_threatened_misfortune` | uncertain | 1 | 1 |
+| `journey_through_fertile_wild_landscape` | over_specific_label | 1 | 1 |
 | `landscape_itinerary_as_memory_of_trial_and_alliance` | functional_variant | 1 | 1 |
 | `leader_sacrifices_or_risks_vessel_to_reach_land` | functional_variant | 1 | 1 |
 | `long_road_justified_by_a_greater_end` | functional_variant | 1 | 1 |
@@ -1527,13 +1612,16 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `misguidance_as_desert_bewilderment_under_demonic_influence` | functional_variant | 1 | 1 |
 | `missing_companion_searched_for_by_traces` | functional_variant | 1 | 1 |
 | `mission_into_enemy_city_for_s_t_s_sake` | functional_variant | 1 | 1 |
+| `nighttime_departure_followed_by_suspicious_spouse` | over_specific_label | 1 | 1 |
 | `noble_figure_practicing_humble_craft_in_displacement` | functional_variant | 1 | 1 |
+| `obstacle_crossing_by_improvised_materials` | over_specific_label | 1 | 1 |
 | `obstructed_sacred_journey_and_deferred_temple_entry` | ritual_variant | 1 | 1 |
 | `oracle_directed_healing_quest` | functional_variant | 1 | 1 |
 | `parental_blessing_before_departure` | narrower_than | 1 | 1 |
 | `perilous_sea_route_through_multiple_hazards` | functional_variant | 1 | 1 |
 | `persecuted_innocent_princess_exiled_by_stepmother` | narrower_than | 1 | 1 |
 | `prophecy_fulfilled_by_the_hero` | functional_variant | 1 | 1 |
+| `prosperity_explained_as_the_result_of_dangerous_journeys` | functional_variant | 1 | 1 |
 | `protected_pilgrimage_journey` | ritual_variant | 1 | 1 |
 | `provisioning_the_departing_heroine_with_treasures` | functional_variant | 1 | 1 |
 | `public_acclamation_of_the_arriving_hero` | functional_variant | 1 | 1 |
@@ -1543,14 +1631,21 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rejection_by_both_adopted_group_and_original_group` | uncertain | 1 | 1 |
 | `renewed_quest_after_despair` | functional_variant | 1 | 1 |
 | `rescue_of_woman_from_monster` | functional_variant | 1 | 1 |
+| `risky_inside_passage_wins_advantage` | uncertain | 1 | 1 |
 | `ritual_community_follows_the_departing_hero` | uncertain | 1 | 1 |
 | `ritual_preparation_before_journey` | ritual_variant | 1 | 1 |
+| `ruler_s_bride_becomes_ill_and_requires_a_rare_impossible_remedy` | uncertain | 1 | 1 |
 | `sacred_or_epic_itinerary_through_named_landscape` | uncertain | 1 | 1 |
+| `search_for_stolen_or_lost_animal_reveals_greater_danger` | functional_variant | 1 | 1 |
 | `search_guided_by_reports_of_parallel_affliction` | uncertain | 1 | 1 |
 | `secret_helper_warns_fugitive_of_danger` | functional_variant | 1 | 1 |
 | `seeking_new_habitation_after_environmental_loss` | functional_variant | 1 | 1 |
+| `shared_bodily_mark_of_calamity_among_wanderers` | uncertain | 1 | 1 |
 | `shipwreck_causing_lasting_consequences` | functional_variant | 1 | 1 |
+| `shipwreck_danger_and_coastal_plunder` | uncertain | 1 | 1 |
 | `shipwrecked_arrival_at_the_needed_court` | functional_variant | 1 | 1 |
+| `shipwrecked_refugees_petition_a_foreign_ruler_for_shelter` | over_specific_label | 1 | 1 |
+| `shipwrecked_stranger_seeks_aid_from_local_maiden` | over_specific_label | 1 | 1 |
 | `sleeping_pilot_lost_at_sea` | over_specific_label | 1 | 1 |
 | `successive_helpers_against_repeated_threat` | functional_variant | 1 | 1 |
 | `supernatural_fleetness_over_fragile_ground` | functional_variant | 1 | 1 |
@@ -1705,13 +1800,15 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `royal_legitimacy`
 - Distinct traditions: 19
-- Occurrences: 1098
-- Mapped motif IDs: 162
+- Occurrences: 1121
+- Mapped motif IDs: 185
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `royal_legitimacy` | canonical_group | 19 | 937 |
 | `ancestral_exemplar_and_son_s_reputation` | functional_variant | 1 | 1 |
+| `animal_court_mimicking_human_kingship` | symbolic_variant | 1 | 1 |
+| `animal_messenger_bringing_distant_royal_news` | heuristic_keyword_match | 1 | 1 |
 | `apostolic_hierarchy_and_manifest_signs` | uncertain | 1 | 1 |
 | `appeal_for_inclusion_of_old_heroes_in_a_new_divine_order` | uncertain | 1 | 1 |
 | `appointment_of_twelve_authorized_representatives` | role_variant | 1 | 1 |
@@ -1733,6 +1830,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `contest_for_sacred_office_leading_to_violence` | functional_variant | 1 | 1 |
 | `contest_over_a_public_prize_assigned_to_the_fairest_or_noblest_woman` | functional_variant | 1 | 1 |
 | `contest_weapon_proves_the_rightful_man` | functional_variant | 1 | 1 |
+| `contested_installation_and_prophecy_of_order_s_increase` | uncertain | 1 | 1 |
 | `control_of_water_as_political_power` | functional_variant | 1 | 1 |
 | `conversion_of_ruler_and_foundation_of_churches` | functional_variant | 1 | 1 |
 | `corruption_of_guardians_into_tyrants_through_private_property` | functional_variant | 1 | 1 |
@@ -1746,6 +1844,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `death_of_a_king_in_a_sacked_guest_house` | over_specific_label | 1 | 1 |
 | `deceptive_liberator_becomes_tyrant` | functional_variant | 1 | 1 |
 | `defeated_offender_compelled_to_make_courtly_satisfaction` | functional_variant | 1 | 1 |
+| `departmental_kingship_over_natural_powers` | uncertain | 1 | 1 |
 | `disguised_hero_at_royal_court` | functional_variant | 1 | 1 |
 | `disguised_ruler_revealed` | functional_variant | 1 | 1 |
 | `disloyal_retainers_refuse_substitution_for_their_lord` | functional_variant | 1 | 1 |
@@ -1776,6 +1875,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `founding_myth_as_noble_lie` | functional_variant | 1 | 1 |
 | `funeral_rites_before_royal_installation` | ritual_variant | 1 | 1 |
 | `genealogical_descent_of_hero` | role_variant | 1 | 1 |
+| `genealogical_tree_of_heroic_kinship` | functional_variant | 1 | 1 |
 | `generous_ruler_rewards_poor_petitioner` | role_variant | 1 | 1 |
 | `gentle_remonstrance_within_hierarchy` | child | 1 | 1 |
 | `grief_over_death_and_exile_disrupting_royal_order` | functional_variant | 1 | 1 |
@@ -1783,6 +1883,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `harmonious_co_wives_and_dynastic_births` | functional_variant | 1 | 1 |
 | `harmony_of_unequal_parts_under_proper_rule` | symbolic_variant | 1 | 1 |
 | `heavenly_archetype_of_an_ideal_city` | symbolic_variant | 1 | 1 |
+| `heroic_exhortation_in_the_name_of_an_absent_superior` | role_variant | 1 | 1 |
 | `heroic_inheritance_displayed_through_emblems` | symbolic_variant | 1 | 1 |
 | `heroic_inheritance_of_weapons_and_office` | functional_variant | 1 | 1 |
 | `heroic_merit_versus_inherited_lineage` | functional_variant | 1 | 1 |
@@ -1792,15 +1893,20 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `human_being_treated_as_living_deity` | role_variant | 1 | 1 |
 | `human_leader_deified_as_divine_manifestation` | uncertain | 1 | 1 |
 | `hunting_prowess_earns_royal_favor` | functional_variant | 1 | 1 |
+| `imagined_social_dominance_through_marriage_and_display` | uncertain | 1 | 1 |
 | `indirect_petition_to_concealed_sovereign` | uncertain | 1 | 1 |
+| `injured_female_relative_or_ally_appeals_to_ruler` | functional_variant | 1 | 1 |
 | `jealous_kin_attempt_to_remove_a_favored_heir_by_poison` | functional_variant | 1 | 1 |
 | `kin_violence_and_blinding_within_a_royal_house` | functional_variant | 1 | 1 |
+| `king_must_not_be_seen_eating_or_drinking` | ritual_variant | 1 | 1 |
 | `king_with_a_magical_umbrella` | symbolic_variant | 1 | 1 |
+| `last_defense_of_a_doomed_royal_house` | functional_variant | 1 | 1 |
 | `leader_elevated_on_a_prepared_mound` | ritual_variant | 1 | 1 |
 | `living_human_treated_as_god` | role_variant | 1 | 1 |
 | `loss_and_replacement_of_divine_office` | functional_variant | 1 | 1 |
 | `loyal_retainers_tested_before_conflict` | role_variant | 1 | 1 |
 | `luxurious_numerically_ordered_royal_hall` | symbolic_variant | 1 | 1 |
+| `marked_outsider_chosen_as_commander` | role_variant | 1 | 1 |
 | `marriage_refusing_royal_child_punished_or_pressured_by_parent` | functional_variant | 1 | 1 |
 | `marvelous_garden_objects_accompanying_royal_restoration` | functional_variant | 1 | 1 |
 | `mastery_over_natural_and_nonhuman_powers_granted_to_a_ruler` | functional_variant | 1 | 1 |
@@ -1817,7 +1923,9 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `peacemaker_halts_royal_violence` | functional_variant | 1 | 1 |
 | `people_claiming_descent_or_kindred_from_the_sun` | role_variant | 1 | 1 |
 | `petition_for_status_marking_attribute_contested_by_others` | functional_variant | 1 | 1 |
+| `place_name_origin_from_heroic_or_royal_action` | heuristic_keyword_match | 1 | 1 |
 | `political_child_destroys_parent` | functional_variant | 1 | 1 |
+| `polity_as_variegated_garment` | symbolic_variant | 1 | 1 |
 | `power_defines_justice` | symbolic_variant | 1 | 1 |
 | `predatory_suitors_consume_the_absent_lord_s_household` | functional_variant | 1 | 1 |
 | `proper_rule_serves_the_ruled` | role_variant | 1 | 1 |
@@ -1834,6 +1942,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `reform_of_a_fatal_royal_custom` | functional_variant | 1 | 1 |
 | `refusal_of_kingship_through_voluntary_exile` | functional_variant | 1 | 1 |
 | `refusal_of_sovereignty_to_preserve_life` | functional_variant | 1 | 1 |
+| `regime_transformation_through_civil_conflict` | functional_variant | 1 | 1 |
 | `rejected_harmless_ruler_replaced_by_destructive_ruler` | functional_variant | 1 | 1 |
 | `religious_and_political_unification_enabling_expansion` | uncertain | 1 | 1 |
 | `reluctant_righteous_ruler` | role_variant | 1 | 1 |
@@ -1847,6 +1956,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ruler_as_self_interested_shepherd_of_subjects` | symbolic_variant | 1 | 1 |
 | `ruler_as_shepherd_of_human_flock` | symbolic_variant | 1 | 1 |
 | `ruler_in_disguise_observes_common_life` | role_variant | 1 | 1 |
+| `ruler_investigates_unexplained_public_behavior` | uncertain | 1 | 1 |
+| `ruler_supported_by_ornate_collective_labor` | uncertain | 1 | 1 |
 | `sacred_and_auspicious_palace_ornamentation` | symbolic_variant | 1 | 1 |
 | `sacred_custodianship_transferred_through_shrine_keys` | ritual_variant | 1 | 1 |
 | `sacred_office_conferring_pardon_power` | role_variant | 1 | 1 |
@@ -1862,23 +1973,180 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `subjects_or_courtiers_ritually_mirror_the_king` | ritual_variant | 1 | 1 |
 | `succession_of_political_and_character_types` | uncertain | 1 | 1 |
 | `superlative_royal_skill_demonstration` | functional_variant | 1 | 1 |
+| `supernatural_or_mysterious_visitor_at_royal_center` | functional_variant | 1 | 1 |
 | `taboo_protection_of_the_divine_ruler_or_priest` | ritual_variant | 1 | 1 |
 | `third_victory_grants_lasting_title_and_possession` | functional_variant | 1 | 1 |
 | `threat_to_the_heir_during_the_father_s_absence` | functional_variant | 1 | 1 |
+| `threefold_tribal_settlement_and_land_division` | functional_variant | 1 | 1 |
+| `treacherous_killing_of_an_aged_king_by_a_false_host` | uncertain | 1 | 1 |
 | `true_authority_defined_by_care_or_provision` | functional_variant | 1 | 1 |
+| `vengeful_ruler_sends_spies_against_hero` | functional_variant | 1 | 1 |
 | `victory_followed_by_homage_and_vassalage` | functional_variant | 1 | 1 |
 | `violation_of_parents_as_sign_of_tyranny` | functional_variant | 1 | 1 |
 | `violent_succession_to_sacred_office` | functional_variant | 1 | 1 |
 | `wealth_displaces_virtue_in_political_decline` | functional_variant | 1 | 1 |
+| `wealth_displacing_virtue_and_rule_passing_to_the_rich` | uncertain | 1 | 1 |
 | `wise_counselor_warns_ruler_against_fatal_action` | role_variant | 1 | 1 |
+| `woodland_king_marked_by_tree_materials` | symbolic_variant | 1 | 1 |
 | `wounded_leaders_inspire_battle_from_behind_the_front` | role_variant | 1 | 1 |
+| `youthful_divinity_and_state_vitality` | symbolic_variant | 1 | 1 |
+
+## Trickster and Boundary Crosser
+
+- Canonical motif ID: `trickster`
+- Distinct traditions: 19
+- Occurrences: 560
+- Mapped motif IDs: 140
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `trickster_boundary` | child | 18 | 421 |
+| `alarm_pursuit_and_defeat_after_theft` | functional_variant | 1 | 1 |
+| `ambiguous_truth_used_as_fatal_deception` | functional_variant | 1 | 1 |
+| `animal_companions_steal_and_divide_goods` | functional_variant | 1 | 1 |
+| `animal_court_investigation_identifies_the_holder_of_a_lost_object` | heuristic_keyword_match | 1 | 1 |
+| `animal_disguised_as_a_more_fearsome_animal_is_exposed_by_its_voice` | functional_variant | 1 | 1 |
+| `animal_disguised_by_another_animal_s_skin` | functional_variant | 1 | 1 |
+| `animal_fable_figures` | heuristic_keyword_match | 1 | 1 |
+| `animal_fable_pairings` | heuristic_keyword_match | 1 | 1 |
+| `animal_friends_rescue_one_another` | heuristic_keyword_match | 1 | 1 |
+| `animal_helper_brings_prosperity_to_human_host` | heuristic_keyword_match | 1 | 1 |
+| `animal_helper_carries_heroes_to_hidden_captive` | heuristic_keyword_match | 1 | 1 |
+| `animal_host_retaliates_against_human_attackers` | heuristic_keyword_match | 1 | 1 |
+| `animal_or_woodland_allies_in_heroic_war` | heuristic_keyword_match | 1 | 1 |
+| `animal_pleads_usefulness_to_avoid_death` | narrative_strategy | 1 | 1 |
+| `animal_possessor_loses_magic_object_to_human_trickery` | functional_variant | 1 | 1 |
+| `baited_capture_through_sweet_or_desired_food` | functional_variant | 1 | 1 |
+| `baited_food_leads_to_capture` | functional_variant | 1 | 1 |
+| `baited_trap_catching_the_unwary` | functional_variant | 1 | 1 |
+| `blind_elder_deceived_by_simulated_weather` | functional_variant | 1 | 1 |
+| `bound_survivor_escapes_devouring_beast_by_bodily_stratagem` | functional_variant | 1 | 1 |
+| `captive_woman_lured_by_false_celebration` | functional_variant | 1 | 1 |
+| `captured_animal_offers_to_betray_its_own_kind` | functional_variant | 1 | 1 |
+| `captured_prey_pleads_for_release` | narrower_than | 1 | 1 |
+| `clever_figure_and_failed_imitator_pair` | functional_variant | 1 | 1 |
+| `coerced_accomplice_in_a_deceptive_plot` | functional_variant | 1 | 1 |
+| `collective_destruction_of_the_deceiving_predator` | functional_variant | 1 | 1 |
+| `companion_lured_into_trap` | functional_variant | 1 | 1 |
+| `concealment_inside_a_wooden_horse` | functional_variant | 1 | 1 |
+| `contested_game_animal_taken_by_force_and_recovered_by_deception` | functional_variant | 1 | 1 |
+| `crow_as_offended_defiler_of_social_space` | role_variant | 1 | 1 |
+| `cunning_weak_figure_confounds_stronger_rival` | functional_variant | 1 | 1 |
+| `deceitful_dispossession_through_gaming` | functional_variant | 1 | 1 |
+| `deceiver_destroyed_by_his_own_disguise` | functional_variant | 1 | 1 |
+| `deceptive_bargain_exposed_by_counter_stratagem` | functional_variant | 1 | 1 |
+| `deceptive_gift_containing_hidden_warriors` | folded_child_motif | 1 | 1 |
+| `deceptive_promise_of_treasure_used_to_lure_an_enemy` | folded_child_motif | 1 | 1 |
+| `deceptive_speech_delaying_divine_detection` | functional_variant | 1 | 1 |
+| `deceptive_speech_used_to_isolate_victims` | functional_variant | 1 | 1 |
+| `deceptive_substitution_of_one_thing_for_another` | functional_variant | 1 | 1 |
+| `destructive_servant_subverts_assigned_tasks` | functional_variant | 1 | 1 |
+| `devil_as_betrayer_of_humanity` | role_variant | 1 | 1 |
+| `disguise_as_wandering_calender_to_evade_enemies` | functional_variant | 1 | 1 |
+| `disguise_in_animal_fable` | functional_variant | 1 | 1 |
+| `disguise_or_adaptation_to_gain_access_to_a_ruler` | functional_variant | 1 | 1 |
+| `disguised_avenger_destroys_intruders` | functional_variant | 1 | 1 |
+| `disguised_imitation_followed_by_condemnation` | functional_variant | 1 | 1 |
+| `disguised_noble_suitor_gains_access_to_princess` | functional_variant | 1 | 1 |
+| `disorderly_intrusion_into_ritualized_feast` | functional_variant | 1 | 1 |
+| `enemy_war_party_petrified_after_animal_speech` | heuristic_keyword_match | 1 | 1 |
+| `expelled_divine_troublemaker_causing_human_discord` | role_variant | 1 | 1 |
+| `fall_from_court_through_stratagem` | functional_variant | 1 | 1 |
+| `false_bargain_with_a_stronger_predator` | functional_variant | 1 | 1 |
+| `false_captivity_and_escape_tale` | functional_variant | 1 | 1 |
+| `false_claim_of_victory_after_escape` | functional_variant | 1 | 1 |
+| `false_voice_separates_protector_from_protected_figure` | functional_variant | 1 | 1 |
+| `fear_exploited_to_surrender_property` | functional_variant | 1 | 1 |
+| `feigned_death_to_escape_a_predator` | narrative_strategy | 1 | 1 |
+| `feigned_madness_to_avoid_unwanted_marriage` | functional_variant | 1 | 1 |
+| `feigned_reconciliation_after_attempted_revenge` | functional_variant | 1 | 1 |
+| `feigning_death_to_escape_captivity` | narrative_strategy | 1 | 1 |
+| `feigning_ignorance_to_lure_the_guilty_party` | functional_variant | 1 | 1 |
+| `food_theft_by_feigned_helpfulness` | functional_variant | 1 | 1 |
+| `grateful_animal_helper_provides_for_hero` | heuristic_keyword_match | 1 | 1 |
+| `helper_neutralizes_pursuing_beast_with_concealed_animal` | heuristic_keyword_match | 1 | 1 |
+| `helpless_young_animal_saved_without_physical_escape` | heuristic_keyword_match | 1 | 1 |
+| `hero_characterized_by_elemental_and_animal_imagery` | heuristic_keyword_match | 1 | 1 |
+| `hero_concealed_by_indirect_self_identification` | functional_variant | 1 | 1 |
+| `hero_recruits_animal_companions_through_food_reward_and_command` | heuristic_keyword_match | 1 | 1 |
+| `heroic_disguise_to_escape_recognition` | functional_variant | 1 | 1 |
+| `heroic_figures_hidden_in_disguise_at_public_assembly` | functional_variant | 1 | 1 |
+| `hidden_identity_in_enemy_territory` | functional_variant | 1 | 1 |
+| `hidden_provisions_discovered_by_an_animal` | heuristic_keyword_match | 1 | 1 |
+| `hidden_warriors_inside_a_deceptive_object` | functional_variant | 1 | 1 |
+| `hidden_warriors_released_from_deceptive_object_at_night` | over_specific_label | 1 | 1 |
+| `hunger_leads_animal_into_self_defeating_trap` | functional_variant | 1 | 1 |
+| `imitated_voice_lures_protector_away` | functional_variant | 1 | 1 |
+| `injured_plant_speaks_against_animal_aggressor` | heuristic_keyword_match | 1 | 1 |
+| `jealous_animal_imitates_a_favored_animal` | uncertain | 1 | 1 |
+| `killing_all_game_so_none_warn_the_herd` | functional_variant | 1 | 1 |
+| `loyal_animal_helper_guards_and_aids_the_hero` | heuristic_keyword_match | 1 | 1 |
+| `magical_animal_lure` | heuristic_keyword_match | 1 | 1 |
+| `many_tricks_overcome_by_one_effective_trick` | functional_variant | 1 | 1 |
+| `marked_animal_guide_to_hidden_food` | heuristic_keyword_match | 1 | 1 |
+| `marvelous_animal_lure` | heuristic_keyword_match | 1 | 1 |
+| `messenger_as_boundary_crosser_between_worlds` | role_variant | 1 | 1 |
+| `mischievous_nocturnal_visit_to_human_households` | functional_variant | 1 | 1 |
+| `mistaken_rescue_withdrawn_after_deception_is_discovered` | functional_variant | 1 | 1 |
+| `mock_epic_animal_war` | heuristic_keyword_match | 1 | 1 |
+| `monster_s_failed_detection_of_hidden_fugitives` | functional_variant | 1 | 1 |
+| `mutual_false_praise_for_advantage` | functional_variant | 1 | 1 |
+| `origin_of_enmity_between_animal_groups` | heuristic_keyword_match | 1 | 1 |
+| `paired_encounter_between_human_and_animal_figures` | heuristic_keyword_match | 1 | 1 |
+| `powerful_creature_afraid_of_something_small` | functional_variant | 1 | 1 |
+| `predator_defeated_by_denial_of_prey` | functional_variant | 1 | 1 |
+| `predator_destroyed_by_swallowing_an_indigestible_concealed_object` | functional_variant | 1 | 1 |
+| `predator_feigns_weakness_to_lure_victims` | functional_variant | 1 | 1 |
+| `predator_gives_self_serving_advice_to_lure_prey` | functional_variant | 1 | 1 |
+| `predator_invents_pretext_against_weaker_victim` | functional_variant | 1 | 1 |
+| `predator_loses_prey_by_abandoning_proper_role` | functional_variant | 1 | 1 |
+| `predator_lures_prey_into_enclosed_dwelling` | functional_variant | 1 | 1 |
+| `predator_profits_from_another_s_misfortune` | functional_variant | 1 | 1 |
+| `predator_profits_from_engineered_starvation` | functional_variant | 1 | 1 |
+| `predator_pursuit_of_vulnerable_animal` | heuristic_keyword_match | 1 | 1 |
+| `predator_s_peace_proposal_requires_removal_of_protection` | functional_variant | 1 | 1 |
+| `predator_sets_a_verbal_condition_for_mercy` | functional_variant | 1 | 1 |
+| `proper_function_and_boundary_maintenance` | heuristic_keyword_match | 1 | 1 |
+| `public_exposure_and_laughter_of_the_gods` | functional_variant | 1 | 1 |
+| `public_exposure_of_divine_sexual_disgrace` | uncertain | 1 | 1 |
+| `reciprocal_false_claim_exposes_theft` | functional_variant | 1 | 1 |
+| `recognition_and_evasion_of_magical_guile` | functional_variant | 1 | 1 |
+| `safe_elevation_preserves_prey_from_predator` | functional_variant | 1 | 1 |
+| `secret_stratagem_against_a_powerful_predator` | functional_variant | 1 | 1 |
+| `small_creature_boasts_of_advantage_over_larger_laboring_creature` | functional_variant | 1 | 1 |
+| `small_creature_defeats_mighty_opponent` | functional_variant | 1 | 1 |
+| `small_creature_disturbs_powerful_animal` | functional_variant | 1 | 1 |
+| `small_harmful_creature_pleading_for_mercy` | functional_variant | 1 | 1 |
+| `speaking_animal_confesses_minor_transgression` | heuristic_keyword_match | 1 | 1 |
+| `speaking_invulnerable_animal_seizes_the_heroes_food` | heuristic_keyword_match | 1 | 1 |
+| `speaking_rescued_animal_returns_to_the_helper` | uncertain | 1 | 1 |
+| `spell_bound_captors_and_magical_waterborne_escape` | functional_variant | 1 | 1 |
+| `stolen_goods_taken_from_the_thief_by_a_stronger_figure` | functional_variant | 1 | 1 |
+| `substitute_sleeper_deceives_assassins` | functional_variant | 1 | 1 |
+| `supernatural_or_anomalous_crop_theft_by_animal_host` | heuristic_keyword_match | 1 | 1 |
+| `theft_concealed_by_substitution_of_similar_contents` | functional_variant | 1 | 1 |
+| `theft_from_a_guarded_or_tended_store` | functional_variant | 1 | 1 |
+| `transferred_blame_around_a_supposed_corpse` | functional_variant | 1 | 1 |
+| `trap_reversal_through_feigned_ignorance` | functional_variant | 1 | 1 |
+| `treacherous_horse_releasing_hidden_warriors` | uncertain | 1 | 1 |
+| `tree_top_dwelling_of_animal_person_household` | heuristic_keyword_match | 1 | 1 |
+| `trickster_punished_after_gloating` | functional_variant | 1 | 1 |
+| `tricky_or_cunning_animal_figure` | role_variant | 1 | 1 |
+| `truth_telling_animal_witness_deceived_by_staged_illusion` | over_specific_label | 1 | 1 |
+| `unequal_paired_boats_prepared_for_a_lethal_fishing_trick` | over_specific_label | 1 | 1 |
+| `unseen_entry_and_eavesdropping` | functional_variant | 1 | 1 |
+| `vanishing_adversary_with_stolen_horse` | functional_variant | 1 | 1 |
+| `weak_creature_able_to_affect_strong_creature` | functional_variant | 1 | 1 |
+| `weak_seeming_animal_frightens_predator_by_sound` | functional_variant | 1 | 1 |
+| `weapon_substitution_disables_opponent` | functional_variant | 1 | 1 |
+| `woodland_hunter_hero_with_animal_attentiveness` | heuristic_keyword_match | 1 | 1 |
 
 ## World Axis and Sacred Center
 
 - Canonical motif ID: `axis_mundi`
 - Distinct traditions: 19
-- Occurrences: 542
-- Mapped motif IDs: 81
+- Occurrences: 544
+- Mapped motif IDs: 83
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1946,12 +2214,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_tree_at_consecrated_place` | symbolic_variant | 1 | 1 |
 | `sacred_tree_or_root_obstructing_a_weapon` | uncertain | 1 | 1 |
 | `sacred_tree_preserved_amid_destruction` | functional_variant | 1 | 1 |
+| `sacred_tree_worship_and_destruction` | uncertain | 1 | 1 |
 | `sanctuary_established_through_subduing_a_local_water_power` | functional_variant | 1 | 1 |
 | `saving_tree_or_shrub` | symbolic_variant | 1 | 1 |
 | `seven_planetary_temples` | symbolic_variant | 1 | 1 |
 | `single_spared_tree_amid_destruction` | uncertain | 1 | 1 |
 | `solemn_pilgrimage_to_a_sacred_city` | ritual_variant | 1 | 1 |
 | `souled_or_animate_trees` | symbolic_variant | 1 | 1 |
+| `speaking_or_personified_trees` | symbolic_variant | 1 | 1 |
 | `suspension_between_heaven_and_earth_to_contain_power` | symbolic_variant | 1 | 1 |
 | `tree_associated_god` | symbolic_variant | 1 | 1 |
 | `tree_or_bough_as_bearer_of_unseen_divine_presence` | symbolic_variant | 1 | 1 |
@@ -1964,131 +2234,19 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `world_bearing_figure_strained_by_cosmic_disaster` | functional_variant | 1 | 1 |
 | `wounded_or_bleeding_tree` | symbolic_variant | 1 | 1 |
 
-## Trickster and Boundary Crosser
-
-- Canonical motif ID: `trickster`
-- Distinct traditions: 19
-- Occurrences: 523
-- Mapped motif IDs: 103
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `trickster_boundary` | child | 18 | 421 |
-| `alarm_pursuit_and_defeat_after_theft` | functional_variant | 1 | 1 |
-| `ambiguous_truth_used_as_fatal_deception` | functional_variant | 1 | 1 |
-| `animal_companions_steal_and_divide_goods` | functional_variant | 1 | 1 |
-| `animal_disguised_as_a_more_fearsome_animal_is_exposed_by_its_voice` | functional_variant | 1 | 1 |
-| `animal_disguised_by_another_animal_s_skin` | functional_variant | 1 | 1 |
-| `animal_pleads_usefulness_to_avoid_death` | narrative_strategy | 1 | 1 |
-| `animal_possessor_loses_magic_object_to_human_trickery` | functional_variant | 1 | 1 |
-| `baited_capture_through_sweet_or_desired_food` | functional_variant | 1 | 1 |
-| `baited_food_leads_to_capture` | functional_variant | 1 | 1 |
-| `baited_trap_catching_the_unwary` | functional_variant | 1 | 1 |
-| `blind_elder_deceived_by_simulated_weather` | functional_variant | 1 | 1 |
-| `bound_survivor_escapes_devouring_beast_by_bodily_stratagem` | functional_variant | 1 | 1 |
-| `captive_woman_lured_by_false_celebration` | functional_variant | 1 | 1 |
-| `captured_animal_offers_to_betray_its_own_kind` | functional_variant | 1 | 1 |
-| `captured_prey_pleads_for_release` | narrower_than | 1 | 1 |
-| `clever_figure_and_failed_imitator_pair` | functional_variant | 1 | 1 |
-| `coerced_accomplice_in_a_deceptive_plot` | functional_variant | 1 | 1 |
-| `collective_destruction_of_the_deceiving_predator` | functional_variant | 1 | 1 |
-| `companion_lured_into_trap` | functional_variant | 1 | 1 |
-| `concealment_inside_a_wooden_horse` | functional_variant | 1 | 1 |
-| `contested_game_animal_taken_by_force_and_recovered_by_deception` | functional_variant | 1 | 1 |
-| `cunning_weak_figure_confounds_stronger_rival` | functional_variant | 1 | 1 |
-| `deceitful_dispossession_through_gaming` | functional_variant | 1 | 1 |
-| `deceiver_destroyed_by_his_own_disguise` | functional_variant | 1 | 1 |
-| `deceptive_bargain_exposed_by_counter_stratagem` | functional_variant | 1 | 1 |
-| `deceptive_gift_containing_hidden_warriors` | folded_child_motif | 1 | 1 |
-| `deceptive_promise_of_treasure_used_to_lure_an_enemy` | folded_child_motif | 1 | 1 |
-| `deceptive_speech_delaying_divine_detection` | functional_variant | 1 | 1 |
-| `deceptive_speech_used_to_isolate_victims` | functional_variant | 1 | 1 |
-| `deceptive_substitution_of_one_thing_for_another` | functional_variant | 1 | 1 |
-| `destructive_servant_subverts_assigned_tasks` | functional_variant | 1 | 1 |
-| `devil_as_betrayer_of_humanity` | role_variant | 1 | 1 |
-| `disguise_as_wandering_calender_to_evade_enemies` | functional_variant | 1 | 1 |
-| `disguise_in_animal_fable` | functional_variant | 1 | 1 |
-| `disguise_or_adaptation_to_gain_access_to_a_ruler` | functional_variant | 1 | 1 |
-| `disguised_imitation_followed_by_condemnation` | functional_variant | 1 | 1 |
-| `disguised_noble_suitor_gains_access_to_princess` | functional_variant | 1 | 1 |
-| `disorderly_intrusion_into_ritualized_feast` | functional_variant | 1 | 1 |
-| `expelled_divine_troublemaker_causing_human_discord` | role_variant | 1 | 1 |
-| `fall_from_court_through_stratagem` | functional_variant | 1 | 1 |
-| `false_bargain_with_a_stronger_predator` | functional_variant | 1 | 1 |
-| `false_captivity_and_escape_tale` | functional_variant | 1 | 1 |
-| `false_claim_of_victory_after_escape` | functional_variant | 1 | 1 |
-| `false_voice_separates_protector_from_protected_figure` | functional_variant | 1 | 1 |
-| `fear_exploited_to_surrender_property` | functional_variant | 1 | 1 |
-| `feigned_death_to_escape_a_predator` | narrative_strategy | 1 | 1 |
-| `feigned_madness_to_avoid_unwanted_marriage` | functional_variant | 1 | 1 |
-| `feigned_reconciliation_after_attempted_revenge` | functional_variant | 1 | 1 |
-| `feigning_death_to_escape_captivity` | narrative_strategy | 1 | 1 |
-| `feigning_ignorance_to_lure_the_guilty_party` | functional_variant | 1 | 1 |
-| `food_theft_by_feigned_helpfulness` | functional_variant | 1 | 1 |
-| `hero_concealed_by_indirect_self_identification` | functional_variant | 1 | 1 |
-| `heroic_disguise_to_escape_recognition` | functional_variant | 1 | 1 |
-| `heroic_figures_hidden_in_disguise_at_public_assembly` | functional_variant | 1 | 1 |
-| `hidden_identity_in_enemy_territory` | functional_variant | 1 | 1 |
-| `hidden_warriors_inside_a_deceptive_object` | functional_variant | 1 | 1 |
-| `hidden_warriors_released_from_deceptive_object_at_night` | over_specific_label | 1 | 1 |
-| `imitated_voice_lures_protector_away` | functional_variant | 1 | 1 |
-| `killing_all_game_so_none_warn_the_herd` | functional_variant | 1 | 1 |
-| `many_tricks_overcome_by_one_effective_trick` | functional_variant | 1 | 1 |
-| `messenger_as_boundary_crosser_between_worlds` | role_variant | 1 | 1 |
-| `mischievous_nocturnal_visit_to_human_households` | functional_variant | 1 | 1 |
-| `mistaken_rescue_withdrawn_after_deception_is_discovered` | functional_variant | 1 | 1 |
-| `monster_s_failed_detection_of_hidden_fugitives` | functional_variant | 1 | 1 |
-| `mutual_false_praise_for_advantage` | functional_variant | 1 | 1 |
-| `powerful_creature_afraid_of_something_small` | functional_variant | 1 | 1 |
-| `predator_defeated_by_denial_of_prey` | functional_variant | 1 | 1 |
-| `predator_destroyed_by_swallowing_an_indigestible_concealed_object` | functional_variant | 1 | 1 |
-| `predator_feigns_weakness_to_lure_victims` | functional_variant | 1 | 1 |
-| `predator_gives_self_serving_advice_to_lure_prey` | functional_variant | 1 | 1 |
-| `predator_invents_pretext_against_weaker_victim` | functional_variant | 1 | 1 |
-| `predator_loses_prey_by_abandoning_proper_role` | functional_variant | 1 | 1 |
-| `predator_lures_prey_into_enclosed_dwelling` | functional_variant | 1 | 1 |
-| `predator_profits_from_another_s_misfortune` | functional_variant | 1 | 1 |
-| `predator_profits_from_engineered_starvation` | functional_variant | 1 | 1 |
-| `predator_s_peace_proposal_requires_removal_of_protection` | functional_variant | 1 | 1 |
-| `predator_sets_a_verbal_condition_for_mercy` | functional_variant | 1 | 1 |
-| `public_exposure_and_laughter_of_the_gods` | functional_variant | 1 | 1 |
-| `public_exposure_of_divine_sexual_disgrace` | uncertain | 1 | 1 |
-| `reciprocal_false_claim_exposes_theft` | functional_variant | 1 | 1 |
-| `recognition_and_evasion_of_magical_guile` | functional_variant | 1 | 1 |
-| `safe_elevation_preserves_prey_from_predator` | functional_variant | 1 | 1 |
-| `secret_stratagem_against_a_powerful_predator` | functional_variant | 1 | 1 |
-| `small_creature_boasts_of_advantage_over_larger_laboring_creature` | functional_variant | 1 | 1 |
-| `small_creature_defeats_mighty_opponent` | functional_variant | 1 | 1 |
-| `small_harmful_creature_pleading_for_mercy` | functional_variant | 1 | 1 |
-| `speaking_rescued_animal_returns_to_the_helper` | uncertain | 1 | 1 |
-| `spell_bound_captors_and_magical_waterborne_escape` | functional_variant | 1 | 1 |
-| `stolen_goods_taken_from_the_thief_by_a_stronger_figure` | functional_variant | 1 | 1 |
-| `substitute_sleeper_deceives_assassins` | functional_variant | 1 | 1 |
-| `theft_concealed_by_substitution_of_similar_contents` | functional_variant | 1 | 1 |
-| `theft_from_a_guarded_or_tended_store` | functional_variant | 1 | 1 |
-| `transferred_blame_around_a_supposed_corpse` | functional_variant | 1 | 1 |
-| `trap_reversal_through_feigned_ignorance` | functional_variant | 1 | 1 |
-| `trickster_punished_after_gloating` | functional_variant | 1 | 1 |
-| `tricky_or_cunning_animal_figure` | role_variant | 1 | 1 |
-| `truth_telling_animal_witness_deceived_by_staged_illusion` | over_specific_label | 1 | 1 |
-| `unseen_entry_and_eavesdropping` | functional_variant | 1 | 1 |
-| `vanishing_adversary_with_stolen_horse` | functional_variant | 1 | 1 |
-| `weak_creature_able_to_affect_strong_creature` | functional_variant | 1 | 1 |
-| `weak_seeming_animal_frightens_predator_by_sound` | functional_variant | 1 | 1 |
-| `weapon_substitution_disables_opponent` | functional_variant | 1 | 1 |
-
 ## Sacred Law and Social Order
 
 - Canonical motif ID: `sacred_law`
 - Distinct traditions: 19
-- Occurrences: 446
-- Mapped motif IDs: 443
+- Occurrences: 466
+- Mapped motif IDs: 463
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `ritual_purification_before_prayer` | ritual_variant | 1 | 3 |
 | `purification_after_bloodshed` | ritual_variant | 1 | 2 |
 | `abolition_of_coercive_widow_inheritance` | functional_variant | 1 | 1 |
+| `absorbing_collective_order_over_kinship` | uncertain | 1 | 1 |
 | `abstention_from_animal_slaughter_because_animals_may_contain_human_souls` | ritual_variant | 1 | 1 |
 | `ancestral_custom_resisting_revealed_correction` | functional_variant | 1 | 1 |
 | `ancestral_dispossession_used_to_justify_taking_from_outsiders` | uncertain | 1 | 1 |
@@ -2096,6 +2254,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `angelic_obedience_and_restricted_intercession` | role_variant | 1 | 1 |
 | `anger_restrained_by_dharmic_kinship_appeal` | functional_variant | 1 | 1 |
 | `animal_avoidance_and_sacred_animal_protection` | ritual_variant | 1 | 1 |
+| `animal_nature_corrupted_by_training_instruments` | functional_variant | 1 | 1 |
 | `animal_refuses_to_violate_sacred_space` | ritual_variant | 1 | 1 |
 | `animal_remains_as_medium_for_harmful_magic` | ritual_variant | 1 | 1 |
 | `animal_reverence_through_tabooed_killing_and_eating` | ritual_variant | 1 | 1 |
@@ -2132,6 +2291,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `blood_revenge_contained_by_asylum_and_waiting_period` | functional_variant | 1 | 1 |
 | `body_as_model_for_collective_order` | symbolic_variant | 1 | 1 |
 | `body_politic_as_diseased_body` | symbolic_variant | 1 | 1 |
+| `boundary_between_faithful_community_and_hostile_foes` | functional_variant | 1 | 1 |
 | `breach_of_hospitality_condition_brings_mortal_danger` | functional_variant | 1 | 1 |
 | `bride_as_skilled_weaver_and_household_producer` | role_variant | 1 | 1 |
 | `burden_limited_to_capacity` | narrower_than | 1 | 1 |
@@ -2149,9 +2309,11 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `communal_kinship_as_civic_unity` | functional_variant | 1 | 1 |
 | `community_founded_from_human_need` | narrower_than | 1 | 1 |
 | `community_of_goods_or_common_property_as_ideal_order` | functional_variant | 1 | 1 |
+| `community_of_spouses_and_children_replacing_private_kinship` | uncertain | 1 | 1 |
 | `community_refuses_aid_for_wrongful_act` | functional_variant | 1 | 1 |
 | `compensation_for_dishonoured_marriage_bed` | functional_variant | 1 | 1 |
 | `concealed_believer_defends_the_threatened_righteous_man` | functional_variant | 1 | 1 |
+| `concern_for_female_honor_within_household_relations` | uncertain | 1 | 1 |
 | `conflict_of_duty_toward_teacher_and_vengeance_against_enemy` | functional_variant | 1 | 1 |
 | `conflict_of_kinship_duties` | functional_variant | 1 | 1 |
 | `consecrated_food_by_divine_name` | ritual_variant | 1 | 1 |
@@ -2166,9 +2328,13 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `curse_establishes_a_forbidden_boundary` | functional_variant | 1 | 1 |
 | `danger_of_a_sacred_or_spirit_bearing_substance_over_a_tabooed_head` | ritual_variant | 1 | 1 |
 | `dangerous_contagion_of_sacred_objects` | ritual_variant | 1 | 1 |
+| `dangerous_menstrual_blood_touch_glance_or_footprint` | ritual_variant | 1 | 1 |
 | `dangerous_sacred_contact_through_personal_objects` | ritual_variant | 1 | 1 |
+| `dangerous_track_avoidance` | ritual_variant | 1 | 1 |
 | `dangerous_transitional_state_marked_by_untouchability_and_separate_objects` | ritual_variant | 1 | 1 |
 | `death_pollution_transmitted_through_spouse` | ritual_variant | 1 | 1 |
+| `deceptive_legal_speech_exploiting_probability` | uncertain | 1 | 1 |
+| `decline_of_a_city_through_misregulated_birth` | uncertain | 1 | 1 |
 | `deification_condemned_as_idolatry` | ritual_variant | 1 | 1 |
 | `delayed_cutting_of_girls_nails_with_consequence_explanation` | ritual_variant | 1 | 1 |
 | `delayed_purification_until_funeral_duty_is_complete` | ritual_variant | 1 | 1 |
@@ -2223,6 +2389,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `faithful_wife_contrasted_with_women_of_luxury` | over_specific_label | 1 | 1 |
 | `false_gods_as_lifeless_powerless_objects` | narrower_than | 1 | 1 |
 | `false_sanctuary_versus_pious_foundation` | functional_variant | 1 | 1 |
+| `family_as_rival_of_the_state` | uncertain | 1 | 1 |
 | `fatal_breach_of_taboo` | functional_variant | 1 | 1 |
 | `filial_and_hierarchical_reverence_through_touching_feet` | ritual_variant | 1 | 1 |
 | `filial_loyalty_against_maternal_ambition` | functional_variant | 1 | 1 |
@@ -2250,6 +2417,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `founding_of_a_community_from_mutual_need` | functional_variant | 1 | 1 |
 | `four_witness_legal_proof_before_punishment` | ritual_variant | 1 | 1 |
 | `fugitive_suppliant_granted_passage` | ritual_variant | 1 | 1 |
+| `gender_separation_in_worship` | ritual_variant | 1 | 1 |
 | `giving_each_person_what_is_due` | functional_variant | 1 | 1 |
 | `group_taboo_protecting_life_linked_animal_species` | ritual_variant | 1 | 1 |
 | `guest_host_restraint_in_competition` | functional_variant | 1 | 1 |
@@ -2277,6 +2445,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `kin_solidarity_signaled_by_joined_fingers` | symbolic_variant | 1 | 1 |
 | `kinship_boundaries_regulating_marriage` | ritual_variant | 1 | 1 |
 | `kinship_obligation_constraining_punishment` | functional_variant | 1 | 1 |
+| `kinship_roles_inverted_by_taboo_union` | uncertain | 1 | 1 |
 | `land_named_from_divine_pollution_and_cleansing` | ritual_variant | 1 | 1 |
 | `law_as_boundary_between_permitted_and_forbidden_action` | narrower_than | 1 | 1 |
 | `law_as_restraint_on_private_revenge` | functional_variant | 1 | 1 |
@@ -2300,6 +2469,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `mistletoe_as_healing_and_hunting_luck_plant` | ritual_variant | 1 | 1 |
 | `moral_community_enjoining_good_and_forbidding_wrong` | child | 1 | 1 |
 | `moral_reciprocity_of_good_and_ill` | functional_variant | 1 | 1 |
+| `music_as_foundation_of_law_and_order` | heuristic_keyword_match | 1 | 1 |
 | `mutilation_or_alteration_of_natural_form_brings_suffering` | functional_variant | 1 | 1 |
 | `myth_explaining_a_ritual_or_dietary_custom` | functional_variant | 1 | 1 |
 | `national_cult_gathering_uniting_divided_communities` | ritual_variant | 1 | 1 |
@@ -2438,6 +2608,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `royal_and_priestly_taboos_around_the_soul` | ritual_variant | 1 | 1 |
 | `royal_protection_and_feeding_of_animals_after_moral_instruction` | functional_variant | 1 | 1 |
 | `royal_taboos_as_safeguards_for_a_ruler_s_life` | ritual_variant | 1 | 1 |
+| `ruler_backed_doctrinal_coercion` | uncertain | 1 | 1 |
 | `ruler_protected_from_foreign_magical_danger_or_contamination` | ritual_variant | 1 | 1 |
 | `sacral_regulation_of_household_thresholds` | ritual_variant | 1 | 1 |
 | `sacred_asylum_at_altar` | ritual_variant | 1 | 1 |
@@ -2481,16 +2652,21 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sexual_taboo_linked_to_household_fortune` | ritual_variant | 1 | 1 |
 | `shunned_contaminating_touch` | ritual_variant | 1 | 1 |
 | `sincere_inability_distinguished_from_culpable_refusal` | functional_variant | 1 | 1 |
+| `single_role_social_order` | uncertain | 1 | 1 |
 | `skill_game_conditionally_distinguished_from_gambling` | ritual_variant | 1 | 1 |
 | `slain_animal_retains_agency_or_communicative_danger` | ritual_variant | 1 | 1 |
+| `social_body_as_wounded_body` | uncertain | 1 | 1 |
 | `social_care` | child | 1 | 1 |
 | `social_disorder_expressed_as_litigation_and_disease` | symbolic_variant | 1 | 1 |
+| `social_exclusion_through_forbidden_birth` | uncertain | 1 | 1 |
+| `social_exile_through_touch_taboo` | ritual_variant | 1 | 1 |
 | `soul_vulnerable_during_eating_and_drinking` | ritual_variant | 1 | 1 |
 | `special_disposal_of_bodily_remnants` | ritual_variant | 1 | 1 |
 | `special_doorway_avoidance_for_game_or_fish` | ritual_variant | 1 | 1 |
 | `substitute_medium_for_sacred_washing` | ritual_variant | 1 | 1 |
 | `supernatural_being_hostile_to_church_bells` | symbolic_variant | 1 | 1 |
 | `suppliant_stranger_under_protection` | functional_variant | 1 | 1 |
+| `supplication_restrained_by_social_caution` | functional_variant | 1 | 1 |
 | `sympathetic_magic_by_resemblance` | ritual_variant | 1 | 1 |
 | `sympathetic_magic_through_dramatic_representation` | ritual_variant | 1 | 1 |
 | `sympathetic_magic_to_secure_game_supply` | ritual_variant | 1 | 1 |
@@ -2506,6 +2682,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `temple_as_repository_of_civic_wealth_and_law` | functional_variant | 1 | 1 |
 | `temptation_to_kill_a_sleeping_or_powerless_host_resisted` | functional_variant | 1 | 1 |
 | `toleration_bounded_by_civic_order` | narrower_than | 1 | 1 |
+| `totemic_animal_or_insect_linked_to_social_divisions` | heuristic_keyword_match | 1 | 1 |
 | `totemic_animal_taboo_connected_with_descent_or_obligation` | ritual_variant | 1 | 1 |
 | `transgression_and_status_specific_killing_taboo` | ritual_variant | 1 | 1 |
 | `true_religion_measured_by_care_for_vulnerable_people` | narrower_than | 1 | 1 |
@@ -2549,8 +2726,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `flood_and_renewal`
 - Distinct traditions: 19
-- Occurrences: 308
-- Mapped motif IDs: 25
+- Occurrences: 312
+- Mapped motif IDs: 29
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2563,6 +2740,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cave_refuge_during_flight_and_danger` | functional_variant | 1 | 1 |
 | `city_burned_in_foretold_catastrophe` | functional_variant | 1 | 1 |
 | `cosmic_dissolution_of_mountains` | functional_variant | 1 | 1 |
+| `cosmic_order_through_music` | heuristic_keyword_match | 1 | 1 |
+| `cosmic_shaping_by_caster_and_vessel` | heuristic_keyword_match | 1 | 1 |
 | `delivered_righteous_remnant` | functional_variant | 1 | 1 |
 | `destruction_followed_by_replacement_generations` | functional_variant | 1 | 1 |
 | `divine_displeasure_expressed_as_flood_with_monsters` | narrower_than | 1 | 1 |
@@ -2576,16 +2755,195 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rescue_from_flood_or_storm_on_floating_refuge` | functional_variant | 1 | 1 |
 | `righteous_remnant_saved_from_communal_destruction` | functional_variant | 1 | 1 |
 | `ship_of_the_dead_in_the_final_conflict` | functional_variant | 1 | 1 |
+| `sole_survivor_of_ship_destruction` | narrower_than | 1 | 1 |
+| `sole_survivor_of_shipwreck` | narrower_than | 1 | 1 |
 | `submerged_city_visible_beneath_waves` | symbolic_variant | 1 | 1 |
 | `survivors_making_landfall_and_renewing_provisions_after_disaster` | narrower_than | 1 | 1 |
 | `waters_dried_by_cosmic_heat` | functional_variant | 1 | 1 |
+
+## Sacred Waters and Passage Through Water
+
+- Canonical motif ID: `sacred_waters`
+- Distinct traditions: 19
+- Occurrences: 267
+- Mapped motif IDs: 167
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `water` | alias | 14 | 99 |
+| `heavenly_water_as_purification_and_strengthening` | symbolic_variant | 1 | 2 |
+| `transformative_waters` | symbolic_variant | 1 | 2 |
+| `ablution_with_old_garments_carried_away_by_water` | ritual_variant | 1 | 1 |
+| `army_encamped_at_liminal_shore` | narrower_than | 1 | 1 |
+| `baptismal_identity_marker` | ritual_variant | 1 | 1 |
+| `battle_with_sea_waves` | functional_variant | 1 | 1 |
+| `boundary_landscape_of_hot_and_cold_waters` | symbolic_variant | 1 | 1 |
+| `boundary_river_before_divine_dwelling` | symbolic_variant | 1 | 1 |
+| `broken_treasure_enriches_the_waters` | uncertain | 1 | 1 |
+| `castaway_survives_by_clinging_to_floating_wood_and_reaching_land` | functional_variant | 1 | 1 |
+| `cleansing_and_healing_bath_vapors` | ritual_variant | 1 | 1 |
+| `cleansing_pollution_by_diverted_rivers` | ritual_variant | 1 | 1 |
+| `concentric_cosmic_waters_surrounding_worlds` | symbolic_variant | 1 | 1 |
+| `conflict_over_access_to_water` | functional_variant | 1 | 1 |
+| `contest_by_ships_on_water` | over_specific_label | 1 | 1 |
+| `control_and_removal_of_water_as_retaliation` | functional_variant | 1 | 1 |
+| `crossing_water_after_abduction` | functional_variant | 1 | 1 |
+| `crossing_water_by_constructed_raft` | functional_variant | 1 | 1 |
+| `dangerous_river_crossing_delayed_by_divine_host` | functional_variant | 1 | 1 |
+| `dangerous_river_ordeal_followed_by_vulnerability` | functional_variant | 1 | 1 |
+| `dangerous_water_boundary` | symbolic_variant | 1 | 1 |
+| `deliverance_through_water` | functional_variant | 1 | 1 |
+| `despair_at_water_before_rescue` | functional_variant | 1 | 1 |
+| `divine_aid_in_surviving_dangerous_waters` | functional_variant | 1 | 1 |
+| `divine_and_elemental_navigation_through_rapids` | functional_variant | 1 | 1 |
+| `divine_command_over_retreating_waters` | symbolic_variant | 1 | 1 |
+| `divine_mercy_as_measured_rain_or_trickling_water` | symbolic_variant | 1 | 1 |
+| `divine_mercy_expressed_through_water_after_despair` | symbolic_variant | 1 | 1 |
+| `divine_mercy_figured_as_an_ocean` | symbolic_variant | 1 | 1 |
+| `divine_opposition_during_sea_ordeal` | functional_variant | 1 | 1 |
+| `divine_or_celestial_intervention_creates_a_protective_water_barrier` | functional_variant | 1 | 1 |
+| `divine_or_supernatural_river_opposition_to_hero` | functional_variant | 1 | 1 |
+| `encounter_threshold_at_palace_well` | symbolic_variant | 1 | 1 |
+| `endless_life_giving_water_from_an_undying_source` | symbolic_variant | 1 | 1 |
+| `extraordinary_woman_able_to_cross_mighty_seas` | functional_variant | 1 | 1 |
+| `failed_water_remedy_for_enchantment_or_affliction` | ritual_variant | 1 | 1 |
+| `fall_from_the_sky_into_water` | symbolic_variant | 1 | 1 |
+| `fatal_mistake_at_the_water_source` | functional_variant | 1 | 1 |
+| `fatal_sea_storm_and_shipwreck` | functional_variant | 1 | 1 |
+| `feared_personified_sea_powers` | symbolic_variant | 1 | 1 |
+| `giant_like_fall_into_watery_depths` | functional_variant | 1 | 1 |
+| `healing_from_a_well` | ritual_variant | 1 | 1 |
+| `healing_water_and_restoration_of_the_afflicted_righteous_person` | ritual_variant | 1 | 1 |
+| `healing_water_brought_from_the_earth_by_a_commanded_gesture` | functional_variant | 1 | 1 |
+| `healing_water_that_restores_battle_wounds` | functional_variant | 1 | 1 |
+| `healing_waters_empowered_by_divine_beings` | functional_variant | 1 | 1 |
+| `healing_well_restores_wounded_warrior` | functional_variant | 1 | 1 |
+| `heavenly_water_producing_abundance` | symbolic_variant | 1 | 1 |
+| `hero_contending_with_rivers` | functional_variant | 1 | 1 |
+| `hero_rescues_royal_pair_from_perilous_crossing` | functional_variant | 1 | 1 |
+| `hidden_water_released_from_beneath_stone` | symbolic_variant | 1 | 1 |
+| `holy_water_confers_sacred_status` | ritual_variant | 1 | 1 |
+| `holy_water_drunk_transported_and_revered` | ritual_variant | 1 | 1 |
+| `holy_water_from_saintly_body` | uncertain | 1 | 1 |
+| `hostile_water_crossing_caused_by_a_giantess` | functional_variant | 1 | 1 |
+| `impossible_sea_crossing_challenged_by_heroic_army` | functional_variant | 1 | 1 |
+| `inexhaustible_ocean_as_figure_of_the_infinite` | symbolic_variant | 1 | 1 |
+| `liberation_passage_through_water` | functional_variant | 1 | 1 |
+| `life_from_water` | symbolic_variant | 1 | 1 |
+| `life_giving_heavenly_water` | symbolic_variant | 1 | 1 |
+| `life_giving_water` | symbolic_variant | 1 | 1 |
+| `life_giving_water_as_perilous_attraction` | symbolic_variant | 1 | 1 |
+| `life_giving_water_from_heaven` | symbolic_variant | 1 | 1 |
+| `life_or_passage_figured_as_water_and_wind` | symbolic_variant | 1 | 1 |
+| `life_preserving_water_threatened_by_deception` | uncertain | 1 | 1 |
+| `life_restoring_water_associated_with_heart` | functional_variant | 1 | 1 |
+| `life_sustaining_water_sought_in_a_desert_city` | functional_variant | 1 | 1 |
+| `magic_obstacle_raised_from_water_during_pursuit` | functional_variant | 1 | 1 |
+| `magic_performed_through_water_and_spoken_formula` | ritual_variant | 1 | 1 |
+| `magical_inexhaustible_water` | symbolic_variant | 1 | 1 |
+| `magical_lake_with_rule_bound_fishing` | ritual_variant | 1 | 1 |
+| `magical_transport_over_sea_as_over_land` | functional_variant | 1 | 1 |
+| `magical_travel_across_waters` | functional_variant | 1 | 1 |
+| `medicinal_or_restorative_bath_for_the_injured_hero` | functional_variant | 1 | 1 |
+| `miraculous_deliverance_through_divided_waters` | functional_variant | 1 | 1 |
+| `miraculous_division_of_flood_waters_and_rescue_road` | functional_variant | 1 | 1 |
+| `miraculous_passage_over_water` | functional_variant | 1 | 1 |
+| `miraculous_spring_created_by_winged_steed` | symbolic_variant | 1 | 1 |
+| `miraculous_water_from_a_rock` | functional_variant | 1 | 1 |
+| `miraculous_water_from_stone_for_twelve_tribes` | over_specific_label | 1 | 1 |
+| `mission_across_water_land_boundary` | functional_variant | 1 | 1 |
+| `mistaken_charm_affecting_river_rise` | uncertain | 1 | 1 |
+| `mixing_pure_water_with_ocean_streams` | symbolic_variant | 1 | 1 |
+| `mourning_purification_at_river` | ritual_variant | 1 | 1 |
+| `nature_beings_presiding_over_water_places` | role_variant | 1 | 1 |
+| `ocean_as_obstacle_confronted_by_threat` | functional_variant | 1 | 1 |
+| `origin_of_a_lake_or_flood_hollow_through_struggle_with_water_beings` | functional_variant | 1 | 1 |
+| `paradisal_spring_as_spiritual_nourishment` | symbolic_variant | 1 | 1 |
+| `partial_invulnerability_from_sacred_water` | functional_variant | 1 | 1 |
+| `passage_through_waters` | child | 1 | 1 |
+| `personification_of_sea_phenomena` | symbolic_variant | 1 | 1 |
+| `personified_maritime_hazards` | symbolic_variant | 1 | 1 |
+| `pleasant_paradisal_waters` | symbolic_variant | 1 | 1 |
+| `prophetic_water_divinities` | symbolic_variant | 1 | 1 |
+| `pure_water_as_emblem_of_divine_virtue` | symbolic_variant | 1 | 1 |
+| `purification_by_sacred_river_water` | ritual_variant | 1 | 1 |
+| `purification_by_washing_and_embodied_removal` | ritual_variant | 1 | 1 |
+| `purification_or_removal_by_water` | ritual_variant | 1 | 1 |
+| `purification_with_water_before_public_declaration` | ritual_variant | 1 | 1 |
+| `purifying_sacred_river` | ritual_variant | 1 | 1 |
+| `purifying_sacred_water_image` | symbolic_variant | 1 | 1 |
+| `purifying_sacred_waters_along_the_route` | ritual_variant | 1 | 1 |
+| `rain_produced_by_disturbing_sacred_water` | ritual_variant | 1 | 1 |
+| `ritual_image_cast_into_water` | ritual_variant | 1 | 1 |
+| `ritual_like_purification_in_spring_or_river` | ritual_variant | 1 | 1 |
+| `ritual_purification_at_clear_water` | ritual_variant | 1 | 1 |
+| `ritual_purification_by_salted_water` | ritual_variant | 1 | 1 |
+| `ritual_reenactment_of_hagar_seeking_water` | ritual_variant | 1 | 1 |
+| `ritualized_water_act_brings_storm_and_transformation` | functional_variant | 1 | 1 |
+| `ritually_or_magically_potent_river_water` | symbolic_variant | 1 | 1 |
+| `river_as_marker_of_homeland_and_battlefield_death` | symbolic_variant | 1 | 1 |
+| `river_boundary_of_ordeal` | functional_variant | 1 | 1 |
+| `river_crossing_aided_by_powerful_helper` | functional_variant | 1 | 1 |
+| `river_crossing_as_collective_transition` | functional_variant | 1 | 1 |
+| `river_disappearance_and_re_emergence` | symbolic_variant | 1 | 1 |
+| `river_divinities_as_namesakes_and_kin_of_rivers` | symbolic_variant | 1 | 1 |
+| `river_personified_as_divine_or_ancestral_daughter` | symbolic_variant | 1 | 1 |
+| `rivers_personified_as_social_and_grieving_beings` | symbolic_variant | 1 | 1 |
+| `sacred_arrival_by_sea_and_river` | functional_variant | 1 | 1 |
+| `sacred_bathing_in_natural_waters` | ritual_variant | 1 | 1 |
+| `sacred_fountain_created_by_hoof_strike` | child | 1 | 1 |
+| `sacred_hidden_waterway_beneath_the_sea` | narrower_than | 1 | 1 |
+| `sacred_or_mythically_associated_water` | broader_label | 1 | 1 |
+| `sacred_spring_created_by_weapon_stroke` | functional_variant | 1 | 1 |
+| `sacred_three_world_river` | symbolic_variant | 1 | 1 |
+| `sacred_water_as_purifier_and_birth_source` | symbolic_variant | 1 | 1 |
+| `sacred_water_used_in_ritual_fasting` | ritual_variant | 1 | 1 |
+| `sacred_waters_and_ritual_transition` | ritual_variant | 1 | 1 |
+| `sacred_waters_at_lake_source_and_river_confluence` | symbolic_variant | 1 | 1 |
+| `sacred_waters_from_divine_source` | symbolic_variant | 1 | 1 |
+| `sacred_waters_gathered_for_consecration` | ritual_variant | 1 | 1 |
+| `safe_passage_by_boat` | functional_variant | 1 | 1 |
+| `sea_crossing_or_sea_draining_invasion` | functional_variant | 1 | 1 |
+| `shipwreck_survivor_clings_to_remnant_of_vessel` | functional_variant | 1 | 1 |
+| `storm_shipwreck_followed_by_survival_in_open_water` | functional_variant | 1 | 1 |
+| `storm_tossed_survivor_on_a_fragile_vessel` | functional_variant | 1 | 1 |
+| `sunken_cities_beneath_the_waves` | symbolic_variant | 1 | 1 |
+| `supernatural_aging_by_water` | functional_variant | 1 | 1 |
+| `supernatural_flood_as_weapon` | functional_variant | 1 | 1 |
+| `supernatural_helper_at_boundary_water` | functional_variant | 1 | 1 |
+| `supplication_to_a_river_deity_for_refuge` | ritual_variant | 1 | 1 |
+| `swollen_river_as_impassable_barrier_and_trial` | functional_variant | 1 | 1 |
+| `tree_used_as_emergency_crossing_from_flood` | functional_variant | 1 | 1 |
+| `water_arising_or_acting_as_agent_of_fate` | symbolic_variant | 1 | 1 |
+| `water_as_boundary_against_hostile_beings` | functional_variant | 1 | 1 |
+| `water_as_image_of_changeability` | symbolic_variant | 1 | 1 |
+| `water_as_intended_death_place_and_hiding_place` | uncertain | 1 | 1 |
+| `water_as_provision_and_punishment` | symbolic_variant | 1 | 1 |
+| `water_as_survival_in_a_barren_crossing` | functional_variant | 1 | 1 |
+| `water_as_the_immediate_object_of_life_saving_desire` | symbolic_variant | 1 | 1 |
+| `water_associated_sacred_or_mythic_imagery` | broader_label | 1 | 1 |
+| `water_barrier_halts_pursuit_while_magician_escapes` | functional_variant | 1 | 1 |
+| `water_borne_escape_after_battle` | functional_variant | 1 | 1 |
+| `water_boundary_crossed_by_an_outsider` | functional_variant | 1 | 1 |
+| `water_creates_paradise_garden_from_desert` | symbolic_variant | 1 | 1 |
+| `water_drawing_rescue_from_a_well` | uncertain | 1 | 1 |
+| `water_erases_memorial` | symbolic_variant | 1 | 1 |
+| `water_linked_disappearance_or_death_by_wind_and_sea` | functional_variant | 1 | 1 |
+| `water_or_river_encounter` | broader_label | 1 | 1 |
+| `water_released_from_a_split_tree` | uncertain | 1 | 1 |
+| `waters_altered_by_nymphs` | symbolic_variant | 1 | 1 |
+| `waters_withdrawn_through_an_underground_channel` | uncertain | 1 | 1 |
+| `withdrawal_into_water_in_grief` | uncertain | 1 | 1 |
+| `world_encircling_cosmic_water` | symbolic_variant | 1 | 1 |
+| `worship_of_life_giving_water_powers` | symbolic_variant | 1 | 1 |
+| `youth_drawn_beneath_spring_waters_by_a_nymph` | functional_variant | 1 | 1 |
 
 ## Descent and Underworld Journey
 
 - Canonical motif ID: `descent`
 - Distinct traditions: 19
-- Occurrences: 203
-- Mapped motif IDs: 40
+- Occurrences: 208
+- Mapped motif IDs: 45
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2594,6 +2952,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `descent` | canonical_group | 2 | 2 |
 | `avenging_descent_toward_death_s_domain` | functional_variant | 1 | 1 |
 | `binding_underworld_food` | functional_variant | 1 | 1 |
+| `cave_episodes` | over_specific_label | 1 | 1 |
 | `cave_pursuit_of_a_fugitive_enemy` | functional_variant | 1 | 1 |
 | `dangerous_bridal_task_in_the_realm_of_death` | functional_variant | 1 | 1 |
 | `dark_cave_as_dwelling_of_a_harmful_personification` | symbolic_variant | 1 | 1 |
@@ -2605,6 +2964,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `descent_and_ascent_between_sea_depth_and_divine_height` | functional_variant | 1 | 1 |
 | `destructive_passion_kindled_by_underworld_fire_and_serpents` | uncertain | 1 | 1 |
 | `goddess_engulfed_in_a_chasm` | uncertain | 1 | 1 |
+| `hidden_subterranean_trap_door_route` | uncertain | 1 | 1 |
 | `imprisonment_in_a_cave_by_supernatural_women` | functional_variant | 1 | 1 |
 | `infernal_tree` | uncertain | 1 | 1 |
 | `kin_betrayal_and_abandonment_in_a_pit_or_well` | functional_variant | 1 | 1 |
@@ -2618,12 +2978,15 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `poison_originating_from_an_underworld_monster` | symbolic_variant | 1 | 1 |
 | `polluting_underworld_offerings_cling_until_return` | ritual_variant | 1 | 1 |
 | `premature_descent_to_tartarus_after_family_affliction` | narrower_than | 1 | 1 |
+| `protected_cave_refuge_of_an_ally` | symbolic_variant | 1 | 1 |
 | `protected_retreat_to_cave_before_combat` | uncertain | 1 | 1 |
 | `return_of_a_supernatural_figure_to_an_underworld_country` | functional_variant | 1 | 1 |
 | `sacred_cave_as_hiding_place_and_shrine` | symbolic_variant | 1 | 1 |
+| `solar_position_as_journey_or_navigation_marker` | heuristic_keyword_match | 1 | 1 |
 | `sun_assisted_stilling_of_the_death_realm` | uncertain | 1 | 1 |
 | `sunless_cave_as_abode_of_sleep` | symbolic_variant | 1 | 1 |
 | `supernatural_descent_and_emergence_at_cosmic_or_natural_boundaries` | functional_variant | 1 | 1 |
+| `temporary_cave_refuge_from_night_dangers` | narrower_than | 1 | 1 |
 | `treasure_obtained_from_a_perilous_underworld_like_place` | functional_variant | 1 | 1 |
 | `underworld_imprisonment_of_divine_beings` | functional_variant | 1 | 1 |
 | `underworld_or_cave_originating_nightmare_beings` | symbolic_variant | 1 | 1 |
@@ -2634,8 +2997,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `miraculous_child`
 - Distinct traditions: 18
-- Occurrences: 1097
-- Mapped motif IDs: 78
+- Occurrences: 1102
+- Mapped motif IDs: 83
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2649,6 +3012,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `birth_binding_gesture_and_charm` | ritual_variant | 1 | 1 |
 | `birth_visitation_and_destiny_gifts` | functional_variant | 1 | 1 |
 | `care_for_the_mother_of_the_endangered_hero` | functional_variant | 1 | 1 |
+| `cherished_and_ornamented_child` | over_specific_label | 1 | 1 |
 | `child_exposed_because_of_a_threatening_prophecy` | narrower_than | 1 | 1 |
 | `child_heir_killed_to_prevent_future_vengeance` | functional_variant | 1 | 1 |
 | `child_leader_with_animal_companions` | functional_variant | 1 | 1 |
@@ -2661,6 +3025,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `dependent_young_spared_through_intercession` | functional_variant | 1 | 1 |
 | `descent_from_an_animal_or_monkey_god_marked_by_bodily_sign` | functional_variant | 1 | 1 |
 | `disadvantaged_birth_followed_by_rise` | functional_variant | 1 | 1 |
+| `displaced_allegiance_after_revelation_of_false_parentage` | functional_variant | 1 | 1 |
 | `divine_nurse_for_a_prayed_for_child` | functional_variant | 1 | 1 |
 | `divine_obstruction_of_childbirth` | functional_variant | 1 | 1 |
 | `divine_power_over_prosperity_through_child_plutus` | uncertain | 1 | 1 |
@@ -2687,6 +3052,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `infant_omen_of_future_wealth_and_frugality` | narrower_than | 1 | 1 |
 | `inhuman_or_elemental_birth_accusation` | uncertain | 1 | 1 |
 | `innocent_child_falsely_suspected_of_harmful_magic` | functional_variant | 1 | 1 |
+| `jealous_elder_wife_or_queen_attacks_younger_rival_or_child` | role_variant | 1 | 1 |
 | `jealous_female_relatives_falsify_childbirth` | functional_variant | 1 | 1 |
 | `jealous_relatives_falsely_accuse_mother_after_birth` | functional_variant | 1 | 1 |
 | `killing_of_male_children_and_sparing_of_daughters` | functional_variant | 1 | 1 |
@@ -2696,6 +3062,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `miraculous_birth_under_palm` | child | 1 | 1 |
 | `miraculous_desert_spring_saving_mother_and_child` | functional_variant | 1 | 1 |
 | `miraculous_healing_object_at_birth` | symbolic_variant | 1 | 1 |
+| `miraculous_speaking_sea_creature` | heuristic_keyword_match | 1 | 1 |
 | `missing_newborn_and_false_maternal_accusation` | functional_variant | 1 | 1 |
 | `nurse_s_exclusive_attachment_to_royal_child` | role_variant | 1 | 1 |
 | `orphan_protected_by_kin_before_future_mission` | functional_variant | 1 | 1 |
@@ -2716,14 +3083,15 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `underestimated_youthful_champion` | role_variant | 1 | 1 |
 | `unrecognized_youth_in_an_armed_company` | uncertain | 1 | 1 |
 | `vulnerable_abandoned_children` | narrower_than | 1 | 1 |
+| `warriors_arising_from_dragon_s_teeth_or_earth` | symbolic_variant | 1 | 1 |
 | `wished_for_infant_killing_to_avert_later_evil` | functional_variant | 1 | 1 |
 
 ## Sacred Love and Longing
 
 - Canonical motif ID: `sacred_love`
 - Distinct traditions: 18
-- Occurrences: 943
-- Mapped motif IDs: 306
+- Occurrences: 955
+- Mapped motif IDs: 318
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2732,6 +3100,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `abandoned_beloved_s_self_destruction` | functional_variant | 1 | 1 |
 | `absence_creates_longing_for_one_s_kind` | symbolic_variant | 1 | 1 |
 | `absorbed_lover_remains_silent_and_defeats_interrupters` | uncertain | 1 | 1 |
+| `abundant_wedding_feast_followed_by_song` | uncertain | 1 | 1 |
 | `after_death_reunion_of_a_purified_pair` | functional_variant | 1 | 1 |
 | `animal_omen_or_guide_toward_the_beloved` | functional_variant | 1 | 1 |
 | `appointed_tryst_prevented_by_sudden_sleep` | over_specific_label | 1 | 1 |
@@ -2860,6 +3229,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `forbidden_sibling_desire_confessed_in_writing` | over_specific_label | 1 | 1 |
 | `foretold_conjunction_of_northern_man_and_southern_woman` | functional_variant | 1 | 1 |
 | `frenzied_wandering_in_pursuit_of_an_unattainable_beloved` | functional_variant | 1 | 1 |
+| `garden_and_fruit_affinity_as_basis_for_union` | symbolic_variant | 1 | 1 |
 | `giant_or_monster_demands_a_daughter_as_ransom_for_captive_sons` | functional_variant | 1 | 1 |
 | `giant_suitor_rejected_by_beautiful_maiden` | uncertain | 1 | 1 |
 | `grief_at_separation_threatens_death` | functional_variant | 1 | 1 |
@@ -2890,6 +3260,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `killing_of_one_of_a_loving_pair_and_survivor_s_lament` | functional_variant | 1 | 1 |
 | `kissed_vessel_associated_with_reciprocal_past_kisses` | symbolic_variant | 1 | 1 |
 | `lament_over_object_of_the_absent_beloved` | functional_variant | 1 | 1 |
+| `lasting_friendship_preferred_over_passionate_attachment` | uncertain | 1 | 1 |
 | `life_saving_maiden_remembered_by_hero` | functional_variant | 1 | 1 |
 | `loss_of_a_beloved_spiritual_companion_amid_communal_conflict` | functional_variant | 1 | 1 |
 | `loss_of_song_and_vitality_when_love_withdraws` | functional_variant | 1 | 1 |
@@ -2922,6 +3293,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `love_sickness_relieved_by_news_of_the_beloved` | functional_variant | 1 | 1 |
 | `love_sickness_requiring_the_beloved_s_cure` | alias | 1 | 1 |
 | `love_story_with_supernatural_background` | broader_label | 1 | 1 |
+| `love_versus_kinship_loyalty` | functional_variant | 1 | 1 |
 | `lover_as_prey_of_the_beloved_hunter` | symbolic_variant | 1 | 1 |
 | `lover_s_self_killing_after_mistaken_report_or_sign_of_beloved_s_death` | narrower_than | 1 | 1 |
 | `lovers_joined_in_one_grave` | narrower_than | 1 | 1 |
@@ -2987,6 +3359,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rising_sun_ratifies_or_empowers_marriage` | symbolic_variant | 1 | 1 |
 | `ritual_forgetting_as_cure_for_love_and_jealousy` | ritual_variant | 1 | 1 |
 | `ritualized_divine_adornment_before_seduction` | over_specific_label | 1 | 1 |
+| `ruler_dependent_on_maiden_s_bodily_presence` | uncertain | 1 | 1 |
 | `search_for_missing_beloved` | functional_variant | 1 | 1 |
 | `secluded_beautiful_royal_figure_hidden_from_public_sight` | over_specific_label | 1 | 1 |
 | `secluded_maiden_reserved_as_king_s_bride` | narrower_than | 1 | 1 |
@@ -3006,6 +3379,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `shipwrecked_beloved_announces_death` | functional_variant | 1 | 1 |
 | `sight_of_beloved_or_beauty_causing_weapon_to_be_cast_aside` | functional_variant | 1 | 1 |
 | `single_passion_possessing_the_whole_person` | symbolic_variant | 1 | 1 |
+| `socially_sanctioned_lover_s_abasement` | functional_variant | 1 | 1 |
 | `spousal_acceptance_through_naming` | ritual_variant | 1 | 1 |
 | `spouse_insists_on_sharing_the_hero_s_exile` | functional_variant | 1 | 1 |
 | `steadfast_love_despite_hostility` | functional_variant | 1 | 1 |
@@ -3020,16 +3394,22 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `token_proving_chastity_or_kept_faith` | functional_variant | 1 | 1 |
 | `token_removed_as_accusation_of_faithlessness` | functional_variant | 1 | 1 |
 | `tokens_or_traces_of_the_absent_beloved` | symbolic_variant | 1 | 1 |
+| `tryst_threatened_by_armed_wife_and_female_retinue` | functional_variant | 1 | 1 |
 | `unattainable_beloved_separated_by_a_slight_boundary` | symbolic_variant | 1 | 1 |
 | `unhealable_wound_of_love` | symbolic_variant | 1 | 1 |
 | `unrequited_pursuit_and_rejection` | functional_variant | 1 | 1 |
+| `vengeance_for_absent_beloved` | functional_variant | 1 | 1 |
+| `violent_suitor_kills_rival_or_beloved_figure` | functional_variant | 1 | 1 |
 | `vow_of_death_rather_than_loss_of_spouse_or_marital_fidelity` | functional_variant | 1 | 1 |
 | `vow_of_silence_until_love_is_returned` | functional_variant | 1 | 1 |
+| `warrior_lured_by_beloved_into_capture` | functional_variant | 1 | 1 |
 | `warrior_neglects_public_duties_through_private_attachment` | functional_variant | 1 | 1 |
 | `wasting_death_from_love_as_hidden_flame` | symbolic_variant | 1 | 1 |
 | `watching_beloved_protects_sleeping_hero` | functional_variant | 1 | 1 |
 | `water_peril_as_test_of_faithful_love` | functional_variant | 1 | 1 |
+| `wedding_feast_and_marriage_preparations` | ritual_variant | 1 | 1 |
 | `wine_as_consolation_and_contested_sacred_pleasure` | symbolic_variant | 1 | 1 |
+| `wine_or_vine_as_ruby_like_outpouring` | symbolic_variant | 1 | 1 |
 | `worldly_reputation_lost_through_beloved_idols_and_drink_imagery` | symbolic_variant | 1 | 1 |
 | `wounded_heart_of_the_lover` | symbolic_variant | 1 | 1 |
 | `youthful_divine_love_as_creator_and_artist` | role_variant | 1 | 1 |
@@ -3038,8 +3418,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `shapeshifter`
 - Distinct traditions: 18
-- Occurrences: 886
-- Mapped motif IDs: 88
+- Occurrences: 890
+- Mapped motif IDs: 92
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3049,6 +3429,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `animal_bride_chooses_animal_husband` | symbolic_variant | 1 | 1 |
 | `animal_form_fugitive_seeks_urban_refuge` | functional_variant | 1 | 1 |
 | `animal_human_boundary_ambiguity` | broader_label | 1 | 1 |
+| `animal_skin_that_grows_to_a_wounded_body` | uncertain | 1 | 1 |
 | `armed_heroes_in_ascetic_guise` | symbolic_variant | 1 | 1 |
 | `battle_frenzy_or_twisting_fit_of_the_hero` | functional_variant | 1 | 1 |
 | `battle_frenzy_transformation_with_fiery_sign` | functional_variant | 1 | 1 |
@@ -3080,6 +3461,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `goat_form_of_dionysus_as_tree_god_attribute` | symbolic_variant | 1 | 1 |
 | `hero_revealed_after_disguise` | functional_variant | 1 | 1 |
 | `heroic_disguise_in_humble_or_gender_coded_service` | role_variant | 1 | 1 |
+| `human_animal_composite_centaurs` | symbolic_variant | 1 | 1 |
+| `human_animal_hybrid_beings_with_horse_heads` | symbolic_variant | 1 | 1 |
 | `human_animal_identity_through_transferred_soul` | functional_variant | 1 | 1 |
 | `human_couple_transformed_into_trees` | functional_variant | 1 | 1 |
 | `human_groups_transformed_into_trees_birds_and_beasts` | functional_variant | 1 | 1 |
@@ -3105,6 +3488,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `marvellous_plant_or_grass_causes_transformation` | functional_variant | 1 | 1 |
 | `messenger_transformed_into_stone_after_bearing_fatal_object` | functional_variant | 1 | 1 |
 | `metamorphosis_into_an_insect` | child | 1 | 1 |
+| `monstrous_or_animal_headed_enemy_peoples` | uncertain | 1 | 1 |
 | `object_origin_through_metamorphosis` | functional_variant | 1 | 1 |
 | `partial_petrification_or_marble_transformation_of_a_ruler` | functional_variant | 1 | 1 |
 | `petrification_as_explanation_of_defeated_rival_s_inactivity` | functional_variant | 1 | 1 |
@@ -3132,183 +3516,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `wealth_gained_by_extraordinary_bodily_extension` | functional_variant | 1 | 1 |
 | `weapon_transformed_into_tree` | functional_variant | 1 | 1 |
 
-## Sacred Waters and Passage Through Water
-
-- Canonical motif ID: `sacred_waters`
-- Distinct traditions: 18
-- Occurrences: 261
-- Mapped motif IDs: 161
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `water` | alias | 14 | 99 |
-| `heavenly_water_as_purification_and_strengthening` | symbolic_variant | 1 | 2 |
-| `transformative_waters` | symbolic_variant | 1 | 2 |
-| `ablution_with_old_garments_carried_away_by_water` | ritual_variant | 1 | 1 |
-| `army_encamped_at_liminal_shore` | narrower_than | 1 | 1 |
-| `battle_with_sea_waves` | functional_variant | 1 | 1 |
-| `boundary_landscape_of_hot_and_cold_waters` | symbolic_variant | 1 | 1 |
-| `boundary_river_before_divine_dwelling` | symbolic_variant | 1 | 1 |
-| `broken_treasure_enriches_the_waters` | uncertain | 1 | 1 |
-| `castaway_survives_by_clinging_to_floating_wood_and_reaching_land` | functional_variant | 1 | 1 |
-| `cleansing_and_healing_bath_vapors` | ritual_variant | 1 | 1 |
-| `cleansing_pollution_by_diverted_rivers` | ritual_variant | 1 | 1 |
-| `concentric_cosmic_waters_surrounding_worlds` | symbolic_variant | 1 | 1 |
-| `conflict_over_access_to_water` | functional_variant | 1 | 1 |
-| `control_and_removal_of_water_as_retaliation` | functional_variant | 1 | 1 |
-| `crossing_water_after_abduction` | functional_variant | 1 | 1 |
-| `crossing_water_by_constructed_raft` | functional_variant | 1 | 1 |
-| `dangerous_river_ordeal_followed_by_vulnerability` | functional_variant | 1 | 1 |
-| `dangerous_water_boundary` | symbolic_variant | 1 | 1 |
-| `deliverance_through_water` | functional_variant | 1 | 1 |
-| `despair_at_water_before_rescue` | functional_variant | 1 | 1 |
-| `divine_aid_in_surviving_dangerous_waters` | functional_variant | 1 | 1 |
-| `divine_and_elemental_navigation_through_rapids` | functional_variant | 1 | 1 |
-| `divine_command_over_retreating_waters` | symbolic_variant | 1 | 1 |
-| `divine_mercy_as_measured_rain_or_trickling_water` | symbolic_variant | 1 | 1 |
-| `divine_mercy_expressed_through_water_after_despair` | symbolic_variant | 1 | 1 |
-| `divine_mercy_figured_as_an_ocean` | symbolic_variant | 1 | 1 |
-| `divine_opposition_during_sea_ordeal` | functional_variant | 1 | 1 |
-| `divine_or_celestial_intervention_creates_a_protective_water_barrier` | functional_variant | 1 | 1 |
-| `divine_or_supernatural_river_opposition_to_hero` | functional_variant | 1 | 1 |
-| `encounter_threshold_at_palace_well` | symbolic_variant | 1 | 1 |
-| `endless_life_giving_water_from_an_undying_source` | symbolic_variant | 1 | 1 |
-| `extraordinary_woman_able_to_cross_mighty_seas` | functional_variant | 1 | 1 |
-| `failed_water_remedy_for_enchantment_or_affliction` | ritual_variant | 1 | 1 |
-| `fall_from_the_sky_into_water` | symbolic_variant | 1 | 1 |
-| `fatal_mistake_at_the_water_source` | functional_variant | 1 | 1 |
-| `fatal_sea_storm_and_shipwreck` | functional_variant | 1 | 1 |
-| `feared_personified_sea_powers` | symbolic_variant | 1 | 1 |
-| `giant_like_fall_into_watery_depths` | functional_variant | 1 | 1 |
-| `healing_from_a_well` | ritual_variant | 1 | 1 |
-| `healing_water_and_restoration_of_the_afflicted_righteous_person` | ritual_variant | 1 | 1 |
-| `healing_water_brought_from_the_earth_by_a_commanded_gesture` | functional_variant | 1 | 1 |
-| `healing_water_that_restores_battle_wounds` | functional_variant | 1 | 1 |
-| `healing_waters_empowered_by_divine_beings` | functional_variant | 1 | 1 |
-| `healing_well_restores_wounded_warrior` | functional_variant | 1 | 1 |
-| `heavenly_water_producing_abundance` | symbolic_variant | 1 | 1 |
-| `hero_contending_with_rivers` | functional_variant | 1 | 1 |
-| `hero_rescues_royal_pair_from_perilous_crossing` | functional_variant | 1 | 1 |
-| `hidden_water_released_from_beneath_stone` | symbolic_variant | 1 | 1 |
-| `holy_water_confers_sacred_status` | ritual_variant | 1 | 1 |
-| `holy_water_drunk_transported_and_revered` | ritual_variant | 1 | 1 |
-| `holy_water_from_saintly_body` | uncertain | 1 | 1 |
-| `hostile_water_crossing_caused_by_a_giantess` | functional_variant | 1 | 1 |
-| `impossible_sea_crossing_challenged_by_heroic_army` | functional_variant | 1 | 1 |
-| `inexhaustible_ocean_as_figure_of_the_infinite` | symbolic_variant | 1 | 1 |
-| `liberation_passage_through_water` | functional_variant | 1 | 1 |
-| `life_from_water` | symbolic_variant | 1 | 1 |
-| `life_giving_heavenly_water` | symbolic_variant | 1 | 1 |
-| `life_giving_water` | symbolic_variant | 1 | 1 |
-| `life_giving_water_as_perilous_attraction` | symbolic_variant | 1 | 1 |
-| `life_giving_water_from_heaven` | symbolic_variant | 1 | 1 |
-| `life_preserving_water_threatened_by_deception` | uncertain | 1 | 1 |
-| `life_restoring_water_associated_with_heart` | functional_variant | 1 | 1 |
-| `life_sustaining_water_sought_in_a_desert_city` | functional_variant | 1 | 1 |
-| `magic_obstacle_raised_from_water_during_pursuit` | functional_variant | 1 | 1 |
-| `magic_performed_through_water_and_spoken_formula` | ritual_variant | 1 | 1 |
-| `magical_inexhaustible_water` | symbolic_variant | 1 | 1 |
-| `magical_lake_with_rule_bound_fishing` | ritual_variant | 1 | 1 |
-| `magical_transport_over_sea_as_over_land` | functional_variant | 1 | 1 |
-| `magical_travel_across_waters` | functional_variant | 1 | 1 |
-| `medicinal_or_restorative_bath_for_the_injured_hero` | functional_variant | 1 | 1 |
-| `miraculous_deliverance_through_divided_waters` | functional_variant | 1 | 1 |
-| `miraculous_division_of_flood_waters_and_rescue_road` | functional_variant | 1 | 1 |
-| `miraculous_passage_over_water` | functional_variant | 1 | 1 |
-| `miraculous_spring_created_by_winged_steed` | symbolic_variant | 1 | 1 |
-| `miraculous_water_from_a_rock` | functional_variant | 1 | 1 |
-| `miraculous_water_from_stone_for_twelve_tribes` | over_specific_label | 1 | 1 |
-| `mission_across_water_land_boundary` | functional_variant | 1 | 1 |
-| `mistaken_charm_affecting_river_rise` | uncertain | 1 | 1 |
-| `mixing_pure_water_with_ocean_streams` | symbolic_variant | 1 | 1 |
-| `mourning_purification_at_river` | ritual_variant | 1 | 1 |
-| `nature_beings_presiding_over_water_places` | role_variant | 1 | 1 |
-| `ocean_as_obstacle_confronted_by_threat` | functional_variant | 1 | 1 |
-| `origin_of_a_lake_or_flood_hollow_through_struggle_with_water_beings` | functional_variant | 1 | 1 |
-| `paradisal_spring_as_spiritual_nourishment` | symbolic_variant | 1 | 1 |
-| `partial_invulnerability_from_sacred_water` | functional_variant | 1 | 1 |
-| `passage_through_waters` | child | 1 | 1 |
-| `personification_of_sea_phenomena` | symbolic_variant | 1 | 1 |
-| `personified_maritime_hazards` | symbolic_variant | 1 | 1 |
-| `pleasant_paradisal_waters` | symbolic_variant | 1 | 1 |
-| `prophetic_water_divinities` | symbolic_variant | 1 | 1 |
-| `pure_water_as_emblem_of_divine_virtue` | symbolic_variant | 1 | 1 |
-| `purification_by_sacred_river_water` | ritual_variant | 1 | 1 |
-| `purification_by_washing_and_embodied_removal` | ritual_variant | 1 | 1 |
-| `purification_or_removal_by_water` | ritual_variant | 1 | 1 |
-| `purification_with_water_before_public_declaration` | ritual_variant | 1 | 1 |
-| `purifying_sacred_river` | ritual_variant | 1 | 1 |
-| `purifying_sacred_water_image` | symbolic_variant | 1 | 1 |
-| `purifying_sacred_waters_along_the_route` | ritual_variant | 1 | 1 |
-| `rain_produced_by_disturbing_sacred_water` | ritual_variant | 1 | 1 |
-| `ritual_image_cast_into_water` | ritual_variant | 1 | 1 |
-| `ritual_like_purification_in_spring_or_river` | ritual_variant | 1 | 1 |
-| `ritual_purification_at_clear_water` | ritual_variant | 1 | 1 |
-| `ritual_purification_by_salted_water` | ritual_variant | 1 | 1 |
-| `ritual_reenactment_of_hagar_seeking_water` | ritual_variant | 1 | 1 |
-| `ritualized_water_act_brings_storm_and_transformation` | functional_variant | 1 | 1 |
-| `ritually_or_magically_potent_river_water` | symbolic_variant | 1 | 1 |
-| `river_as_marker_of_homeland_and_battlefield_death` | symbolic_variant | 1 | 1 |
-| `river_boundary_of_ordeal` | functional_variant | 1 | 1 |
-| `river_crossing_aided_by_powerful_helper` | functional_variant | 1 | 1 |
-| `river_crossing_as_collective_transition` | functional_variant | 1 | 1 |
-| `river_disappearance_and_re_emergence` | symbolic_variant | 1 | 1 |
-| `river_divinities_as_namesakes_and_kin_of_rivers` | symbolic_variant | 1 | 1 |
-| `river_personified_as_divine_or_ancestral_daughter` | symbolic_variant | 1 | 1 |
-| `rivers_personified_as_social_and_grieving_beings` | symbolic_variant | 1 | 1 |
-| `sacred_arrival_by_sea_and_river` | functional_variant | 1 | 1 |
-| `sacred_bathing_in_natural_waters` | ritual_variant | 1 | 1 |
-| `sacred_fountain_created_by_hoof_strike` | child | 1 | 1 |
-| `sacred_hidden_waterway_beneath_the_sea` | narrower_than | 1 | 1 |
-| `sacred_or_mythically_associated_water` | broader_label | 1 | 1 |
-| `sacred_spring_created_by_weapon_stroke` | functional_variant | 1 | 1 |
-| `sacred_three_world_river` | symbolic_variant | 1 | 1 |
-| `sacred_water_as_purifier_and_birth_source` | symbolic_variant | 1 | 1 |
-| `sacred_water_used_in_ritual_fasting` | ritual_variant | 1 | 1 |
-| `sacred_waters_and_ritual_transition` | ritual_variant | 1 | 1 |
-| `sacred_waters_at_lake_source_and_river_confluence` | symbolic_variant | 1 | 1 |
-| `sacred_waters_from_divine_source` | symbolic_variant | 1 | 1 |
-| `sacred_waters_gathered_for_consecration` | ritual_variant | 1 | 1 |
-| `safe_passage_by_boat` | functional_variant | 1 | 1 |
-| `sea_crossing_or_sea_draining_invasion` | functional_variant | 1 | 1 |
-| `shipwreck_survivor_clings_to_remnant_of_vessel` | functional_variant | 1 | 1 |
-| `storm_shipwreck_followed_by_survival_in_open_water` | functional_variant | 1 | 1 |
-| `storm_tossed_survivor_on_a_fragile_vessel` | functional_variant | 1 | 1 |
-| `sunken_cities_beneath_the_waves` | symbolic_variant | 1 | 1 |
-| `supernatural_aging_by_water` | functional_variant | 1 | 1 |
-| `supernatural_flood_as_weapon` | functional_variant | 1 | 1 |
-| `supernatural_helper_at_boundary_water` | functional_variant | 1 | 1 |
-| `supplication_to_a_river_deity_for_refuge` | ritual_variant | 1 | 1 |
-| `swollen_river_as_impassable_barrier_and_trial` | functional_variant | 1 | 1 |
-| `tree_used_as_emergency_crossing_from_flood` | functional_variant | 1 | 1 |
-| `water_arising_or_acting_as_agent_of_fate` | symbolic_variant | 1 | 1 |
-| `water_as_boundary_against_hostile_beings` | functional_variant | 1 | 1 |
-| `water_as_image_of_changeability` | symbolic_variant | 1 | 1 |
-| `water_as_intended_death_place_and_hiding_place` | uncertain | 1 | 1 |
-| `water_as_provision_and_punishment` | symbolic_variant | 1 | 1 |
-| `water_associated_sacred_or_mythic_imagery` | broader_label | 1 | 1 |
-| `water_barrier_halts_pursuit_while_magician_escapes` | functional_variant | 1 | 1 |
-| `water_borne_escape_after_battle` | functional_variant | 1 | 1 |
-| `water_boundary_crossed_by_an_outsider` | functional_variant | 1 | 1 |
-| `water_creates_paradise_garden_from_desert` | symbolic_variant | 1 | 1 |
-| `water_drawing_rescue_from_a_well` | uncertain | 1 | 1 |
-| `water_erases_memorial` | symbolic_variant | 1 | 1 |
-| `water_linked_disappearance_or_death_by_wind_and_sea` | functional_variant | 1 | 1 |
-| `water_or_river_encounter` | broader_label | 1 | 1 |
-| `water_released_from_a_split_tree` | uncertain | 1 | 1 |
-| `waters_altered_by_nymphs` | symbolic_variant | 1 | 1 |
-| `waters_withdrawn_through_an_underground_channel` | uncertain | 1 | 1 |
-| `withdrawal_into_water_in_grief` | uncertain | 1 | 1 |
-| `world_encircling_cosmic_water` | symbolic_variant | 1 | 1 |
-| `worship_of_life_giving_water_powers` | symbolic_variant | 1 | 1 |
-| `youth_drawn_beneath_spring_waters_by_a_nymph` | functional_variant | 1 | 1 |
-
 ## Sacred Twins and Sibling Pairs
 
 - Canonical motif ID: `sacred_twins`
 - Distinct traditions: 18
-- Occurrences: 201
-- Mapped motif IDs: 14
+- Occurrences: 202
+- Mapped motif IDs: 15
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3316,6 +3529,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_twins` | canonical_group | 10 | 42 |
 | `brothers_die_together_and_share_one_grave` | narrower_than | 1 | 1 |
 | `fraternal_resentment_leading_to_violence` | functional_variant | 1 | 1 |
+| `horse_riding_heroic_pair` | role_variant | 1 | 1 |
 | `humble_kind_brother_chosen_over_unkind_brothers` | functional_variant | 1 | 1 |
 | `inseparable_pair_sharing_wild_places_and_battle` | role_variant | 1 | 1 |
 | `obedient_younger_brother_serves_and_is_blessed_by_elder_brother` | functional_variant | 1 | 1 |
@@ -3331,8 +3545,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `mystical_quest`
 - Distinct traditions: 17
-- Occurrences: 2042
-- Mapped motif IDs: 174
+- Occurrences: 2049
+- Mapped motif IDs: 181
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3349,6 +3563,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `all_things_contained_in_divine_unity` | symbolic_variant | 1 | 1 |
 | `ambivalent_ecstatic_expression` | meta_artifact | 1 | 1 |
 | `angelic_bearer_offers_transformative_drink` | functional_variant | 1 | 1 |
+| `animalized_appetitive_life` | uncertain | 1 | 1 |
+| `ascetic_as_serpent` | symbolic_variant | 1 | 1 |
 | `ascetic_austerity_threatens_divine_status` | functional_variant | 1 | 1 |
 | `ascetic_discipline_undone_by_pleasure_and_wine` | functional_variant | 1 | 1 |
 | `ascetic_power_challenging_divine_order` | functional_variant | 1 | 1 |
@@ -3436,14 +3652,18 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `no_refuge_from_god_except_recourse_to_god` | symbolic_variant | 1 | 1 |
 | `no_return_after_departure` | functional_variant | 1 | 1 |
 | `obscured_divine_or_immortal_nature_under_worldly_accretions` | symbolic_variant | 1 | 1 |
+| `ordered_inner_polity` | symbolic_variant | 1 | 1 |
 | `parental_consent_before_a_child_s_religious_renunciation` | ritual_variant | 1 | 1 |
 | `perfected_being_immune_to_environmental_catastrophe` | functional_variant | 1 | 1 |
 | `personified_lower_self_as_animal_adversary` | symbolic_variant | 1 | 1 |
 | `personified_world_as_destructive_woman` | symbolic_variant | 1 | 1 |
 | `petition_for_divine_remaking_of_world_and_life` | functional_variant | 1 | 1 |
+| `pilgrimage_journey_through_prescribed_sacred_stations` | heuristic_keyword_match | 1 | 1 |
+| `pre_existence_before_names` | uncertain | 1 | 1 |
 | `present_joy_contrasted_with_promised_future_bliss` | symbolic_variant | 1 | 1 |
 | `promised_afterlife_pleasures_contrasted_with_present_enjoyment` | uncertain | 1 | 1 |
 | `public_reversal_from_pollution_to_sanctity` | functional_variant | 1 | 1 |
+| `purging_luxury_through_disciplined_selection` | functional_variant | 1 | 1 |
 | `purification_through_faith_remembrance_and_prayer` | ritual_variant | 1 | 1 |
 | `recovery_from_oblivion` | functional_variant | 1 | 1 |
 | `refuge_converging_like_rivers_to_the_ocean` | symbolic_variant | 1 | 1 |
@@ -3484,6 +3704,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `teacher_s_approval_as_access_to_heaven` | functional_variant | 1 | 1 |
 | `temporary_embodied_dwelling` | symbolic_variant | 1 | 1 |
 | `temptation_of_the_ascetic_by_divine_agency` | functional_variant | 1 | 1 |
+| `tension_between_mystical_realization_and_religious_law` | uncertain | 1 | 1 |
 | `testing_a_companion_through_reversal_of_the_requested_fate` | functional_variant | 1 | 1 |
 | `trance_through_concentration` | meta_artifact | 1 | 1 |
 | `transience_of_worldly_pleasure` | narrower_than | 1 | 1 |
@@ -3515,8 +3736,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_time`
 - Distinct traditions: 17
-- Occurrences: 852
-- Mapped motif IDs: 88
+- Occurrences: 853
+- Mapped motif IDs: 89
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3548,6 +3769,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `festival_myth_explains_calamity_the_rite_averts` | ritual_variant | 1 | 1 |
 | `full_moon_nocturnal_rite_with_triple_gestures` | ritual_variant | 1 | 1 |
 | `golden_age_of_bloodless_vegetal_abundance` | uncertain | 1 | 1 |
+| `golden_age_of_simple_self_contained_life` | uncertain | 1 | 1 |
 | `grain_deity_or_corn_goddess_identity` | symbolic_variant | 1 | 1 |
 | `grove_festival_at_sacred_lake` | ritual_variant | 1 | 1 |
 | `human_bearer_of_animal_identity_after_the_final_harvest_act` | ritual_variant | 1 | 1 |
@@ -3609,785 +3831,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `women_only_sacred_festival` | ritual_variant | 1 | 1 |
 | `women_s_annual_festival_for_a_guardian_goddess` | ritual_variant | 1 | 1 |
 
-## Duality and Cosmic Opposition
-
-- Canonical motif ID: `duality`
-- Distinct traditions: 17
-- Occurrences: 486
-- Mapped motif IDs: 39
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `duality` | canonical_group | 17 | 448 |
-| `abolition_of_artificial_standards_restores_natural_integrity` | functional_variant | 1 | 1 |
-| `abstract_principle_treated_as_divine_power` | symbolic_variant | 1 | 1 |
-| `age_contrast_in_paired_women` | symbolic_variant | 1 | 1 |
-| `contrasting_kind_and_cruel_elders` | symbolic_variant | 1 | 1 |
-| `cosmic_cycle_used_to_explain_existence_and_non_existence` | symbolic_variant | 1 | 1 |
-| `cosmic_witness` | child | 1 | 1 |
-| `cosmos_and_nature_as_witnesses_of_divine_unity` | symbolic_variant | 1 | 1 |
-| `dawn_as_active_conqueror_of_night` | symbolic_variant | 1 | 1 |
-| `denial_of_human_free_agency` | narrower_than | 1 | 1 |
-| `divine_control_of_cosmic_alternation` | symbolic_variant | 1 | 1 |
-| `double_personification_of_one_natural_object` | symbolic_variant | 1 | 1 |
-| `elemental_conflict_of_water_and_fire_around_a_hero` | symbolic_variant | 1 | 1 |
-| `freedom_preferred_to_secure_confinement` | symbolic_variant | 1 | 1 |
-| `futile_striving_against_one_s_own_shadow` | symbolic_variant | 1 | 1 |
-| `harmony_of_cosmos_and_life_imaged_by_music` | symbolic_variant | 1 | 1 |
-| `inadequate_force_against_overwhelming_circumstance` | symbolic_variant | 1 | 1 |
-| `infinity_without_beginning_or_end` | symbolic_variant | 1 | 1 |
-| `innate_nature_revealed_despite_upbringing` | symbolic_variant | 1 | 1 |
-| `inner_division_of_the_soul` | symbolic_variant | 1 | 1 |
-| `inner_wild_beast_released_when_reason_sleeps` | symbolic_variant | 1 | 1 |
-| `interdependence_of_unequal_functions` | symbolic_variant | 1 | 1 |
-| `killing_through_an_object_and_time_outside_opposed_categories` | uncertain | 1 | 1 |
-| `microcosmic_war_within_a_tiny_world` | symbolic_variant | 1 | 1 |
-| `moralized_conflict_of_virtue_and_vice` | symbolic_variant | 1 | 1 |
-| `moralized_paired_waters_of_falsehood_and_truth` | symbolic_variant | 1 | 1 |
-| `natural_order_over_human_intervention` | symbolic_variant | 1 | 1 |
-| `necessity_bounded_by_creative_will` | symbolic_variant | 1 | 1 |
-| `non_action` | child | 1 | 1 |
-| `paired_contrasting_interlocutors` | symbolic_variant | 1 | 1 |
-| `paired_dangerous_beings_localized_as_natural_winds` | symbolic_variant | 1 | 1 |
-| `peace_through_non_aggression_and_unused_weapons` | symbolic_variant | 1 | 1 |
-| `reconciliation_of_opposites` | functional_variant | 1 | 1 |
-| `reversal_between_life_and_death_valuation` | symbolic_variant | 1 | 1 |
-| `satanic_malicious_counsel_opposed_by_righteous_speech` | functional_variant | 1 | 1 |
-| `spontaneous_golden_age_without_conscious_morality` | symbolic_variant | 1 | 1 |
-| `sunrise_as_life_giving_cosmic_order` | symbolic_variant | 1 | 1 |
-| `triad_of_divine_sisters_personifying_grace_and_refinement` | uncertain | 1 | 1 |
-| `universal_divine_ordering_force` | uncertain | 1 | 1 |
-
-## Covenant and Sacred Bond
-
-- Canonical motif ID: `covenant`
-- Distinct traditions: 17
-- Occurrences: 426
-- Mapped motif IDs: 100
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `covenant` | canonical_group | 15 | 327 |
-| `afflicted_people_promised_succession_in_the_land` | functional_variant | 1 | 1 |
-| `apostasy_during_the_leader_s_absence` | functional_variant | 1 | 1 |
-| `asylum_secured_by_supplication_and_marriage_status` | functional_variant | 1 | 1 |
-| `battle_horse_oath_imagery` | symbolic_variant | 1 | 1 |
-| `battlefield_vow_restores_heroic_action` | functional_variant | 1 | 1 |
-| `binding_obligation_compels_dangerous_action` | functional_variant | 1 | 1 |
-| `blessing_after_separation_through_prophetic_descendants` | functional_variant | 1 | 1 |
-| `broken_and_renewed_covenant` | child | 1 | 1 |
-| `broken_oath_and_friendship_before_duel` | functional_variant | 1 | 1 |
-| `champion_bound_by_queen_s_bargain` | functional_variant | 1 | 1 |
-| `champion_s_protection_vow` | functional_variant | 1 | 1 |
-| `clemency_toward_defeated_enemies_secured_by_oath` | functional_variant | 1 | 1 |
-| `communal_unity_through_a_divine_bond` | functional_variant | 1 | 1 |
-| `conditional_cessation_oath_between_opponents` | functional_variant | 1 | 1 |
-| `conditional_promise_not_to_speak_of_a_hidden_former_state` | narrower_than | 1 | 1 |
-| `cosmic_bounds_oath_formula` | ritual_variant | 1 | 1 |
-| `cosmic_oath_by_celestial_and_terrestrial_signs` | ritual_variant | 1 | 1 |
-| `deathbed_injunction_not_to_abandon_a_protected_person` | functional_variant | 1 | 1 |
-| `dissolution_of_oaths_by_divine_permission` | narrower_than | 1 | 1 |
-| `divine_deliverance_from_danger_followed_by_renewed_false_worship` | functional_variant | 1 | 1 |
-| `enemy_rescued_by_those_he_hates` | functional_variant | 1 | 1 |
-| `enemy_suppliant_granted_a_pledge_of_safety` | functional_variant | 1 | 1 |
-| `exclusive_devotion_and_rejection_of_idols` | narrower_than | 1 | 1 |
-| `exclusive_devotion_to_the_one_lord` | narrower_than | 1 | 1 |
-| `exclusive_monotheistic_worship` | narrower_than | 1 | 1 |
-| `exclusive_worship_and_rejection_of_divine_association` | narrower_than | 1 | 1 |
-| `false_alliance_and_abandoned_allies` | functional_variant | 1 | 1 |
-| `false_allies_abandon_those_they_promise_to_help` | functional_variant | 1 | 1 |
-| `false_oath_versus_required_obedience` | functional_variant | 1 | 1 |
-| `false_or_denied_intercession` | uncertain | 1 | 1 |
-| `false_worship_of_the_calf_during_moses_absence` | narrower_than | 1 | 1 |
-| `father_s_plea_to_save_the_beloved_son` | role_variant | 1 | 1 |
-| `feud_resolved_by_peace_agreement` | functional_variant | 1 | 1 |
-| `humble_prostration_at_fulfilled_divine_promise` | ritual_variant | 1 | 1 |
-| `idolatry_with_the_calf` | narrower_than | 1 | 1 |
-| `irrevocable_oath_compels_destructive_compliance` | functional_variant | 1 | 1 |
-| `literal_wording_of_an_agreement_exploited_in_battle` | functional_variant | 1 | 1 |
-| `magical_forgetfulness_delaying_completion_of_an_obligation` | functional_variant | 1 | 1 |
-| `mercy_overcoming_anger_toward_a_foe` | functional_variant | 1 | 1 |
-| `mercy_to_a_defeated_enemy` | functional_variant | 1 | 1 |
-| `mercy_toward_a_defeated_attacker` | functional_variant | 1 | 1 |
-| `mercy_toward_an_enemy` | functional_variant | 1 | 1 |
-| `mercy_toward_living_creatures_as_proof_of_moral_discipline` | ritual_variant | 1 | 1 |
-| `mercy_toward_spared_figures_amid_slaughter` | functional_variant | 1 | 1 |
-| `monotheistic_reform_against_idolatry` | functional_variant | 1 | 1 |
-| `motif_families_covenant` | narrower_than | 1 | 1 |
-| `new_law_replacing_or_reinterpreting_prior_ritual_obligations` | functional_variant | 1 | 1 |
-| `oath_and_friendship_invoked_to_avert_combat` | functional_variant | 1 | 1 |
-| `oath_before_divine_witness_to_test_fairness` | ritual_variant | 1 | 1 |
-| `oath_bound_ally_promises_single_shot_deliverance` | functional_variant | 1 | 1 |
-| `oath_bound_elder_serving_against_beloved_kin` | functional_variant | 1 | 1 |
-| `oath_protected_secret_identity` | functional_variant | 1 | 1 |
-| `oath_witnessed_by_an_underworld_deity` | ritual_variant | 1 | 1 |
-| `obligation_by_magical_or_druidic_bonds` | functional_variant | 1 | 1 |
-| `patriarchal_supplication_for_sacred_settlement` | functional_variant | 1 | 1 |
-| `peacemaking_between_brethren_after_internal_conflict` | functional_variant | 1 | 1 |
-| `prohibition_or_bond_connected_to_death` | uncertain | 1 | 1 |
-| `promise_sustaining_a_sectarian_community` | functional_variant | 1 | 1 |
-| `prophetic_renewal_of_neglected_religion` | functional_variant | 1 | 1 |
-| `protector_s_vow_to_defend_forest_ascetics` | functional_variant | 1 | 1 |
-| `public_pledge_compels_dangerous_combat` | functional_variant | 1 | 1 |
-| `public_proclamation_at_sacred_assembly` | ritual_variant | 1 | 1 |
-| `reciprocal_martial_promise_between_foster_relations` | narrower_than | 1 | 1 |
-| `reconciliation_of_former_enemies_into_brethren` | functional_variant | 1 | 1 |
-| `redemption_by_written_instrument` | functional_variant | 1 | 1 |
-| `reform_from_idolatry_to_exclusive_worship` | functional_variant | 1 | 1 |
-| `rejection_of_false_deities` | functional_variant | 1 | 1 |
-| `rejection_of_rival_divine_names_and_limited_intercession` | uncertain | 1 | 1 |
-| `religious_boundary_against_idolatrous_compromise` | narrower_than | 1 | 1 |
-| `restoration_of_peace_among_brethren` | functional_variant | 1 | 1 |
-| `return_of_a_slain_warrior_under_the_letter_of_a_promise_or_law` | functional_variant | 1 | 1 |
-| `righteous_remnant_within_another_scriptural_community` | role_variant | 1 | 1 |
-| `ritual_bond_renounced_after_betrayal` | functional_variant | 1 | 1 |
-| `sacred_household_offered_a_choice_of_loyalty` | functional_variant | 1 | 1 |
-| `sacred_waters_as_contest_stake_and_oath_medium` | functional_variant | 1 | 1 |
-| `sea_monster_released_after_vow_of_non_return` | functional_variant | 1 | 1 |
-| `secrecy_oath_under_threat_in_household_crisis` | narrower_than | 1 | 1 |
-| `sequential_intercessors_test_the_captor_s_resolve` | functional_variant | 1 | 1 |
-| `social_harmony_through_agreed_rule` | functional_variant | 1 | 1 |
-| `steadfast_community_after_possible_death_of_its_prophet` | uncertain | 1 | 1 |
-| `submission_to_divine_command` | functional_variant | 1 | 1 |
-| `suppliant_denied_mercy` | child | 1 | 1 |
-| `suppliant_ransom_offer_refused` | child | 1 | 1 |
-| `supplication_and_ransom_refused` | child | 1 | 1 |
-| `supplication_at_the_feet_for_pardon` | ritual_variant | 1 | 1 |
-| `supplication_at_the_knees_before_imminent_killing` | ritual_variant | 1 | 1 |
-| `supplication_for_peace_with_unarmed_hands` | ritual_variant | 1 | 1 |
-| `supplication_softening_the_enemy` | functional_variant | 1 | 1 |
-| `supplication_with_ransom_refused` | child | 1 | 1 |
-| `temptation_toward_idolatry_after_deliverance` | functional_variant | 1 | 1 |
-| `truth_bound_promise_as_moral_constraint` | functional_variant | 1 | 1 |
-| `victorious_hero_spares_defeated_female_opponent` | functional_variant | 1 | 1 |
-| `violent_host_grants_temporary_reprieve_through_female_intercession` | functional_variant | 1 | 1 |
-| `vow_and_counter_vow_over_a_king_s_capture` | functional_variant | 1 | 1 |
-| `vow_bound_hero_made_vulnerable_by_his_own_oath` | functional_variant | 1 | 1 |
-| `vow_bound_hero_observing_paternal_command` | functional_variant | 1 | 1 |
-| `weak_supplicant_before_dominant_predator` | uncertain | 1 | 1 |
-| `weaving_undone_as_image_of_broken_obligation` | symbolic_variant | 1 | 1 |
-| `witnessed_and_written_obligation` | narrower_than | 1 | 1 |
-
-## Sacred Treasures and Power Objects
-
-- Canonical motif ID: `sacred_treasures`
-- Distinct traditions: 17
-- Occurrences: 317
-- Mapped motif IDs: 315
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `lost_ring_recovered_through_a_fish` | functional_variant | 1 | 2 |
-| `saint_s_tomb_as_pilgrimage_center` | narrower_than | 1 | 2 |
-| `accumulation_of_wonderful_objects` | narrower_than | 1 | 1 |
-| `ancestral_footprint_preserved_in_stone` | symbolic_variant | 1 | 1 |
-| `ancestral_objects_triggering_curse` | functional_variant | 1 | 1 |
-| `ancestral_or_heroic_weapons_carrying_memory_of_prior_combat` | symbolic_variant | 1 | 1 |
-| `animal_charm_for_protection` | functional_variant | 1 | 1 |
-| `animal_part_as_sacred_food_luck_object_divinatory_object_or_token` | uncertain | 1 | 1 |
-| `animated_idol_made_from_communal_ornaments` | functional_variant | 1 | 1 |
-| `animated_or_sounding_calf_that_misleads_israel` | uncertain | 1 | 1 |
-| `animated_or_speaking_weapons_and_instruments` | functional_variant | 1 | 1 |
-| `apotropaic_shield_covered_with_terrifying_battle_imagery` | functional_variant | 1 | 1 |
-| `automated_or_self_moving_sacred_objects` | functional_variant | 1 | 1 |
-| `autonomous_magic_weapon_of_a_god` | functional_variant | 1 | 1 |
-| `autonomous_or_enchanted_game_board` | functional_variant | 1 | 1 |
-| `battle_standard_as_emblem_of_martial_dominance` | functional_variant | 1 | 1 |
-| `beloved_imitators_assume_the_hero_s_bodily_mark` | uncertain | 1 | 1 |
-| `blood_stained_token_falsely_indicating_death` | functional_variant | 1 | 1 |
-| `broken_heirloom_provokes_revenge` | functional_variant | 1 | 1 |
-| `captive_refuses_treasure_secret_under_torture` | functional_variant | 1 | 1 |
-| `captive_released_from_a_magic_weapon_s_spell` | functional_variant | 1 | 1 |
-| `celestial_armor_for_the_hero` | child | 1 | 1 |
-| `chosen_hero_draws_a_divine_weapon_from_a_tree` | functional_variant | 1 | 1 |
-| `coerced_removal_by_magic_like_rod` | functional_variant | 1 | 1 |
-| `coercive_cutting_of_hair_to_overcome_resistance` | uncertain | 1 | 1 |
-| `colored_flags_signal_life_or_death` | functional_variant | 1 | 1 |
-| `commanded_weapon_executes_distant_killing` | functional_variant | 1 | 1 |
-| `commanded_weapon_that_performs_tasks_and_beheading` | functional_variant | 1 | 1 |
-| `concealed_bodily_mark_revealed_by_nature` | functional_variant | 1 | 1 |
-| `concealed_or_discarded_token_used_as_proof` | functional_variant | 1 | 1 |
-| `concealment_by_magic_ring` | functional_variant | 1 | 1 |
-| `contagious_burning_from_a_weapon` | functional_variant | 1 | 1 |
-| `contested_magical_treasure_seized_by_talons` | functional_variant | 1 | 1 |
-| `control_of_waters_by_magical_jewels` | functional_variant | 1 | 1 |
-| `control_of_waters_by_object_boundary` | functional_variant | 1 | 1 |
-| `covering_mirrors_after_death_to_prevent_soul_capture` | ritual_variant | 1 | 1 |
-| `crying_or_sounding_shield_that_summons_wider_response` | functional_variant | 1 | 1 |
-| `cult_image_as_garden_and_vineyard_guardian` | functional_variant | 1 | 1 |
-| `cure_by_the_substance_of_the_wounding_weapon` | functional_variant | 1 | 1 |
-| `cursed_treasure_or_ring_brings_bloodshed` | functional_variant | 1 | 1 |
-| `cursed_victory_giving_weapon_turns_against_its_wielder` | functional_variant | 1 | 1 |
-| `daily_miraculous_renewal_of_weapons_for_battle` | functional_variant | 1 | 1 |
-| `dangerous_fiery_weapon_restrained_by_water` | functional_variant | 1 | 1 |
-| `dangerous_sacred_stone_causing_madness` | functional_variant | 1 | 1 |
-| `deadly_object_in_a_courtship_contest` | functional_variant | 1 | 1 |
-| `deceptive_hollow_image_concealing_enemies` | functional_variant | 1 | 1 |
-| `deification_of_revered_ancestral_or_pious_figures_through_statues` | ritual_variant | 1 | 1 |
-| `deification_of_revered_religious_leaders` | uncertain | 1 | 1 |
-| `desire_for_radiant_treasure_from_the_wilderness` | functional_variant | 1 | 1 |
-| `destined_weapon_against_an_otherwise_invulnerable_enemy` | functional_variant | 1 | 1 |
-| `destruction_of_harmful_image_or_statue` | functional_variant | 1 | 1 |
-| `devotional_preservation_of_a_holy_person_s_bodily_traces` | ritual_variant | 1 | 1 |
-| `discordant_object_introduced_at_a_wedding_feast` | uncertain | 1 | 1 |
-| `distant_weapon_as_messenger_of_greater_power` | functional_variant | 1 | 1 |
-| `divine_aid_through_a_sacred_weapon` | functional_variant | 1 | 1 |
-| `divine_animal_bearing_a_god_s_storm_weapons` | role_variant | 1 | 1 |
-| `divine_bestowal_of_martial_skill_and_weapons` | functional_variant | 1 | 1 |
-| `divine_bird_vehicle` | functional_variant | 1 | 1 |
-| `divine_contest_around_the_golden_apple` | over_specific_label | 1 | 1 |
-| `divine_empowerment_through_sanctioned_armor` | functional_variant | 1 | 1 |
-| `divine_heirloom_passed_from_heaven_to_father_to_son` | functional_variant | 1 | 1 |
-| `divine_inner_metal_contrasted_with_earthly_metal` | symbolic_variant | 1 | 1 |
-| `divine_made_equipment_linked_to_the_hero_s_death_by_fire` | functional_variant | 1 | 1 |
-| `divine_musician_with_magical_instrument` | functional_variant | 1 | 1 |
-| `divine_nectar` | uncertain | 1 | 1 |
-| `divine_or_celestial_weapons_bestowed_on_the_hero` | child | 1 | 1 |
-| `divine_or_named_weapons_decide_battle` | functional_variant | 1 | 1 |
-| `divine_or_paradisal_vehicle` | functional_variant | 1 | 1 |
-| `divine_or_underworld_tempered_weapon` | symbolic_variant | 1 | 1 |
-| `divine_possession_of_cosmic_treasure_and_true_might` | symbolic_variant | 1 | 1 |
-| `divine_war_equipment_resists_attack` | functional_variant | 1 | 1 |
-| `divine_weapon_or_armor_for_a_hero` | functional_variant | 1 | 1 |
-| `divine_weapon_that_overcomes_an_otherwise_resistant_foe` | functional_variant | 1 | 1 |
-| `divine_weapon_used_by_the_hero` | functional_variant | 1 | 1 |
-| `divine_whittled_stick_symbol` | uncertain | 1 | 1 |
-| `divinely_bestowed_weapon_and_strength` | functional_variant | 1 | 1 |
-| `divinely_sourced_heroic_weapons` | child | 1 | 1 |
-| `dying_parent_gives_a_remembrance_token` | functional_variant | 1 | 1 |
-| `edible_idol_consumed_under_famine` | uncertain | 1 | 1 |
-| `effigy_fragments_as_fertility_charms` | functional_variant | 1 | 1 |
-| `elaborate_destructive_weapon_of_a_champion` | functional_variant | 1 | 1 |
-| `enchanted_burning_weapon` | symbolic_variant | 1 | 1 |
-| `enchanted_mill_produces_desired_abundance` | functional_variant | 1 | 1 |
-| `enchanted_object_that_immobilizes_the_toucher` | functional_variant | 1 | 1 |
-| `enchanted_weapon_causing_incurable_wound` | functional_variant | 1 | 1 |
-| `enchanted_weapons_made_from_fragments_of_a_felled_tree` | functional_variant | 1 | 1 |
-| `endangered_hero_aided_by_helper_with_divine_made_weapon` | functional_variant | 1 | 1 |
-| `etiology_of_an_abundance_horn` | over_specific_label | 1 | 1 |
-| `etiology_of_sea_salt_and_whirlpool_from_sunken_magic_mill` | functional_variant | 1 | 1 |
-| `failed_martial_implement_rejected_and_consigned_to_fire` | over_specific_label | 1 | 1 |
-| `fatal_demand_for_the_hero_s_weapon` | functional_variant | 1 | 1 |
-| `fatal_gift_or_cursed_ornament` | functional_variant | 1 | 1 |
-| `fatal_gift_or_garment_sent_in_jealousy` | functional_variant | 1 | 1 |
-| `fatal_gift_weapon` | functional_variant | 1 | 1 |
-| `fatal_poisoned_garment` | functional_variant | 1 | 1 |
-| `fatal_ring_as_proof_and_catalyst` | functional_variant | 1 | 1 |
-| `fatal_special_weapon_in_heroic_combat` | functional_variant | 1 | 1 |
-| `fatal_trophy_or_cursed_spoils` | functional_variant | 1 | 1 |
-| `fated_tokens_and_persons_required_before_a_city_can_fall` | functional_variant | 1 | 1 |
-| `fiery_manifestation_of_powerful_weapons` | symbolic_variant | 1 | 1 |
-| `final_remaining_weapon_succeeds_after_special_preparation` | functional_variant | 1 | 1 |
-| `flight_granting_jewel` | functional_variant | 1 | 1 |
-| `flying_car_possessed_by_a_wealth_god` | over_specific_label | 1 | 1 |
-| `gifted_divine_horses_and_heroic_prestige` | functional_variant | 1 | 1 |
-| `golden_fruit_used_to_delay_a_pursuer_or_rival` | functional_variant | 1 | 1 |
-| `grief_induced_loss_of_sight_followed_by_restoration_through_a_token` | functional_variant | 1 | 1 |
-| `guarded_golden_apples_as_treasure_or_marvelous_produce` | narrower_than | 1 | 1 |
-| `guarded_golden_fruit_beyond_ocean` | narrower_than | 1 | 1 |
-| `guarded_mythic_fruit` | narrower_than | 1 | 1 |
-| `haunted_or_sterile_tomb_of_a_saintly_figure` | uncertain | 1 | 1 |
-| `healing_sign` | child | 1 | 1 |
-| `healing_skin_of_a_wondrous_animal` | functional_variant | 1 | 1 |
-| `healing_token_from_absent_beloved_son` | functional_variant | 1 | 1 |
-| `healing_token_restores_sight` | functional_variant | 1 | 1 |
-| `heaven_sent_protective_object_preserving_the_city` | functional_variant | 1 | 1 |
-| `heavenly_garment_transmitted_across_patriarchs` | functional_variant | 1 | 1 |
-| `helper_prepares_hero_s_special_weapon_through_controlled_water` | functional_variant | 1 | 1 |
-| `hero_armed_in_divine_armor_for_battle` | functional_variant | 1 | 1 |
-| `hero_armed_with_divine_gifts_before_battle` | functional_variant | 1 | 1 |
-| `hero_receives_divine_vehicle_and_weapons` | functional_variant | 1 | 1 |
-| `hero_recognized_by_distinctive_shield` | functional_variant | 1 | 1 |
-| `hero_s_weapon_as_strategic_vulnerability` | functional_variant | 1 | 1 |
-| `hero_wears_another_hero_s_armor_as_substitute_image` | uncertain | 1 | 1 |
-| `hero_with_divine_or_legendary_weapon` | narrower_than | 1 | 1 |
-| `heroic_banners_with_emblematic_identities` | symbolic_variant | 1 | 1 |
-| `heroic_shield_description` | over_specific_label | 1 | 1 |
-| `heroic_weapon_destined_to_accomplish_a_city_s_fall` | functional_variant | 1 | 1 |
-| `hidden_heroic_relics_retrieved_from_under_a_rock` | narrower_than | 1 | 1 |
-| `hidden_heroic_weapons_recovered_from_a_tree` | functional_variant | 1 | 1 |
-| `hidden_treasure_beneath_tree_in_cave` | over_specific_label | 1 | 1 |
-| `hidden_treasure_found_by_following_supernatural_advice` | functional_variant | 1 | 1 |
-| `hidden_treasure_inside_an_object` | narrower_than | 1 | 1 |
-| `hidden_treasure_search_with_unexpected_reward` | functional_variant | 1 | 1 |
-| `hidden_weapons_concealed_in_a_tree` | functional_variant | 1 | 1 |
-| `holy_face_image_impressed_on_cloth` | symbolic_variant | 1 | 1 |
-| `identity_tested_by_hidden_token` | functional_variant | 1 | 1 |
-| `idol` | child | 1 | 1 |
-| `idol_made_through_sacred_trace_and_then_destroyed` | uncertain | 1 | 1 |
-| `immortality_substance_withheld_and_destroyed` | functional_variant | 1 | 1 |
-| `indistinguishable_combatants_require_a_recognition_token` | functional_variant | 1 | 1 |
-| `inextinguishable_destructive_fire_weapon` | functional_variant | 1 | 1 |
-| `infallible_returning_weapon_with_fatal_consequences` | functional_variant | 1 | 1 |
-| `inherited_named_treasures_of_a_hero_sire` | narrower_than | 1 | 1 |
-| `instrument_of_victory_becomes_instrument_of_control` | functional_variant | 1 | 1 |
-| `intercessory_divine_images` | uncertain | 1 | 1 |
-| `invisibility_granting_dark_cap` | narrower_than | 1 | 1 |
-| `invisible_killer_under_a_magical_concealment` | functional_variant | 1 | 1 |
-| `iron_as_apotropaic_protection_against_spirits` | functional_variant | 1 | 1 |
-| `irreplaceable_lost_object` | uncertain | 1 | 1 |
-| `loss_and_replacement_of_a_sacred_musical_instrument` | functional_variant | 1 | 1 |
-| `loss_of_a_magical_musical_object_to_underwater_powers` | functional_variant | 1 | 1 |
-| `lost_recognition_token_recovered_by_separated_beloved` | functional_variant | 1 | 1 |
-| `lost_ring_recovered_through_a_salmon` | functional_variant | 1 | 1 |
-| `lost_talisman_recovered_from_animal_body` | functional_variant | 1 | 1 |
-| `lost_talisman_triggers_separation_and_concealment` | functional_variant | 1 | 1 |
-| `lunar_emblems_in_divine_keeping` | symbolic_variant | 1 | 1 |
-| `magic_ancestral_weapon_marked_by_fire` | narrower_than | 1 | 1 |
-| `magic_objects_controlling_flood_and_ebb` | functional_variant | 1 | 1 |
-| `magic_small_object_becomes_lifesaving_aid` | functional_variant | 1 | 1 |
-| `magic_weapon_binds_a_powerful_hero` | functional_variant | 1 | 1 |
-| `magic_weapon_mastery` | functional_variant | 1 | 1 |
-| `magical_animal_producing_sustenance_and_treasure` | functional_variant | 1 | 1 |
-| `magical_binding_or_drawing_by_thread` | uncertain | 1 | 1 |
-| `magical_flight_by_wish_granting_object` | functional_variant | 1 | 1 |
-| `magical_furnishing_conferring_invisibility_and_sight` | functional_variant | 1 | 1 |
-| `magical_hunting_aids_that_cannot_fail` | functional_variant | 1 | 1 |
-| `magical_inanimate_objects_grant_power_to_their_possessor` | alias | 1 | 1 |
-| `magical_object_summons_an_obedient_supernatural_servant` | functional_variant | 1 | 1 |
-| `magical_or_extraordinary_fishing_with_simple_natural_objects` | heuristic_family_name_match | 1 | 1 |
-| `magical_protection_through_otherworldly_gifts` | functional_variant | 1 | 1 |
-| `magical_vehicle_with_hidden_controls` | functional_variant | 1 | 1 |
-| `magical_weapon_aid_from_sky_god` | functional_variant | 1 | 1 |
-| `magical_weapon_pursues_offender_until_submission` | functional_variant | 1 | 1 |
-| `magical_weapons_controlled_by_formula_or_power` | functional_variant | 1 | 1 |
-| `magical_wedding_feast_provisioning_objects` | functional_variant | 1 | 1 |
-| `magically_potent_plant_implement` | functional_variant | 1 | 1 |
-| `marvelous_aerial_or_royal_vehicle_with_animal_imagery` | functional_variant | 1 | 1 |
-| `marvelous_branch_that_removes_grief_and_induces_sleep` | functional_variant | 1 | 1 |
-| `marvelous_garden_objects` | narrower_than | 1 | 1 |
-| `marvelous_object_producing_inexhaustible_wealth` | functional_variant | 1 | 1 |
-| `marvelous_objects_transform_a_household_garden` | functional_variant | 1 | 1 |
-| `material_proof_of_supernatural_promise` | functional_variant | 1 | 1 |
-| `military_victory_commemorated_by_divine_statue` | over_specific_label | 1 | 1 |
-| `miraculous_bodily_sign_without_harm` | symbolic_variant | 1 | 1 |
-| `miraculous_food_producing_household_object` | functional_variant | 1 | 1 |
-| `miraculous_garment_with_healing_and_recognition_power` | functional_variant | 1 | 1 |
-| `miraculous_inexhaustible_provider` | functional_variant | 1 | 1 |
-| `miraculous_staff_swallows_rival_instruments` | functional_variant | 1 | 1 |
-| `mirror_as_medium_for_the_dead_beloved_parent` | functional_variant | 1 | 1 |
-| `mirror_as_soul_and_heart_index` | symbolic_variant | 1 | 1 |
-| `monster_remains_transformed_into_fearsome_war_instruments` | functional_variant | 1 | 1 |
-| `monumental_cult_image_of_the_solar_god` | symbolic_variant | 1 | 1 |
-| `mortal_weapon_failing_against_divine_armament` | functional_variant | 1 | 1 |
-| `mountain_store_house_of_preserved_youthful_treasures` | functional_variant | 1 | 1 |
-| `named_heroic_weapons` | narrower_than | 1 | 1 |
-| `named_inherited_weapon_used_in_decisive_combat` | functional_variant | 1 | 1 |
-| `named_supernatural_or_exceptional_weapons_in_heroic_combat` | functional_variant | 1 | 1 |
-| `named_weapon_restored_to_hero_before_battle` | functional_variant | 1 | 1 |
-| `natural_fruit_turned_into_a_lethal_weapon` | functional_variant | 1 | 1 |
-| `object_from_paradise_entering_the_realm_of_decay` | symbolic_variant | 1 | 1 |
-| `omenic_weapon_signaling_victory` | functional_variant | 1 | 1 |
-| `ominous_cursed_tree_as_test_or_dispute_object` | uncertain | 1 | 1 |
-| `oracle_objects_kept_in_a_sacred_or_idol_temple` | functional_variant | 1 | 1 |
-| `oracular_remains_of_a_hero` | child | 1 | 1 |
-| `personal_battle_standards_as_identity_signs` | functional_variant | 1 | 1 |
-| `personified_divine_weapons_obey_the_hero` | functional_variant | 1 | 1 |
-| `petrifying_gaze_and_severed_head_as_weapon` | functional_variant | 1 | 1 |
-| `petrifying_head_used_as_supernatural_weapon` | functional_variant | 1 | 1 |
-| `petrifying_monster_head_weapon` | functional_variant | 1 | 1 |
-| `petrifying_trophy_used_against_hostile_ruler` | functional_variant | 1 | 1 |
-| `poisoned_garment_that_cannot_be_removed` | functional_variant | 1 | 1 |
-| `precious_object_bribe_causing_betrayal` | functional_variant | 1 | 1 |
-| `precious_stones_obtained_through_animal_intermediaries` | functional_variant | 1 | 1 |
-| `privileged_hide_as_sleep_place` | uncertain | 1 | 1 |
-| `proof_token_placed_at_the_perilous_site` | functional_variant | 1 | 1 |
-| `prosperity_from_marvelous_household_objects` | functional_variant | 1 | 1 |
-| `protective_and_consecrating_sacred_sign` | functional_variant | 1 | 1 |
-| `protective_concealment_from_weapons_and_war` | functional_variant | 1 | 1 |
-| `protective_hidden_cult_statue_securing_a_city` | functional_variant | 1 | 1 |
-| `protective_mark` | child | 1 | 1 |
-| `protective_metal_charm` | functional_variant | 1 | 1 |
-| `protective_object_enabling_monster_combat` | functional_variant | 1 | 1 |
-| `protective_shield_rescue_in_battle` | functional_variant | 1 | 1 |
-| `providential_gem_formation` | symbolic_variant | 1 | 1 |
-| `public_heroic_boasting_verified_by_dangerous_objects` | functional_variant | 1 | 1 |
-| `punishment_transformed_into_weapon` | functional_variant | 1 | 1 |
-| `recognition_by_token_and_kinship` | functional_variant | 1 | 1 |
-| `reconciliation_of_hostile_beings_through_a_sacred_wand` | functional_variant | 1 | 1 |
-| `recovery_and_restoration_of_a_ring_from_water` | over_specific_label | 1 | 1 |
-| `recovery_of_named_weapon_from_the_slain_body` | functional_variant | 1 | 1 |
-| `reforged_ancestral_weapon_arms_the_hero` | functional_variant | 1 | 1 |
-| `reminder_tokens_prevent_forgetfulness` | functional_variant | 1 | 1 |
-| `rescue_summoned_by_signal_instrument` | functional_variant | 1 | 1 |
-| `revenge_through_enchanted_object_and_provoked_conflict` | functional_variant | 1 | 1 |
-| `ritual_handling_of_animal_body_parts_to_preserve_powers` | ritual_variant | 1 | 1 |
-| `ritual_plant_preparation_conferring_invulnerability` | functional_variant | 1 | 1 |
-| `ritual_specialist_with_magical_stones` | uncertain | 1 | 1 |
-| `river_exposes_destructive_treasure` | functional_variant | 1 | 1 |
-| `rooted_treasure_freed_by_plowing` | functional_variant | 1 | 1 |
-| `sacred_city_protecting_image_required_for_conquest` | functional_variant | 1 | 1 |
-| `sacred_emblem_or_ritual_object` | broader_label | 1 | 1 |
-| `sacred_garment_as_lineage_sign` | symbolic_variant | 1 | 1 |
-| `sacred_household_object_determines_settlement_site` | functional_variant | 1 | 1 |
-| `sacred_instrument_mishandled_by_an_unworthy_possessor` | functional_variant | 1 | 1 |
-| `sacred_object_darkened_by_human_contact_or_sin` | symbolic_variant | 1 | 1 |
-| `sacred_object_protected_by_duplicate_copies` | functional_variant | 1 | 1 |
-| `sacred_or_dangerous_object_protected_from_ground_contact` | ritual_variant | 1 | 1 |
-| `sacred_or_ritual_objects_repurposed_as_weapons` | functional_variant | 1 | 1 |
-| `sacred_protective_object_made_from_animal_skin` | functional_variant | 1 | 1 |
-| `sacred_relics_of_a_departed_ruler` | role_variant | 1 | 1 |
-| `sacred_stone_authenticated_by_miraculous_property` | symbolic_variant | 1 | 1 |
-| `sacred_stone_from_paradise_mediated_by_an_angel` | symbolic_variant | 1 | 1 |
-| `sacred_stones_transported_from_a_holy_place_and_worshipped` | functional_variant | 1 | 1 |
-| `sacred_treasure_housed_in_a_temple` | narrower_than | 1 | 1 |
-| `sacred_treasures` | canonical_group | 1 | 1 |
-| `saintly_shrine_and_relic_devotion` | ritual_variant | 1 | 1 |
-| `sanctuary_object_protects_a_wrongdoer` | functional_variant | 1 | 1 |
-| `satanic_objects_causing_social_division_and_ritual_forgetfulness` | uncertain | 1 | 1 |
-| `scripture_as_oath_oracle_and_protective_object` | functional_variant | 1 | 1 |
-| `seal_of_authority_lost_to_a_demon` | functional_variant | 1 | 1 |
-| `secret_charms_claimed_to_avert_divine_anger` | uncertain | 1 | 1 |
-| `secret_decisive_weapon_withheld_from_shared_martial_knowledge` | functional_variant | 1 | 1 |
-| `secret_transport_of_treasure_under_ordinary_goods` | over_specific_label | 1 | 1 |
-| `secret_treasure_discovered_and_stolen_by_observer` | functional_variant | 1 | 1 |
-| `selective_charmed_water_weapon` | functional_variant | 1 | 1 |
-| `self_acting_blood_demanding_sword` | functional_variant | 1 | 1 |
-| `self_acting_or_inexhaustible_magical_objects` | child | 1 | 1 |
-| `self_filling_horn_of_abundance` | functional_variant | 1 | 1 |
-| `self_moving_divine_artifacts` | functional_variant | 1 | 1 |
-| `sentient_or_obedient_wonder_ship_saves_crew` | functional_variant | 1 | 1 |
-| `sentient_weapon_refuses_unjust_killing` | functional_variant | 1 | 1 |
-| `severed_head_or_image_that_petrifies_through_terror` | functional_variant | 1 | 1 |
-| `specialized_secret_or_exceptional_weapon_decides_combat` | functional_variant | 1 | 1 |
-| `stolen_object` | over_specific_label | 1 | 1 |
-| `strength_enhancing_belt_used_in_trial` | functional_variant | 1 | 1 |
-| `submerged_weapon_image` | uncertain | 1 | 1 |
-| `substitute_weapon_fashioned_from_a_tree` | functional_variant | 1 | 1 |
-| `supernatural_cries_from_warriors_weapons` | symbolic_variant | 1 | 1 |
-| `supernatural_or_named_weapon_turns_battle` | functional_variant | 1 | 1 |
-| `supernatural_or_unmatched_hunting_hound` | functional_variant | 1 | 1 |
-| `supernatural_weapon_expanding_to_immense_size` | functional_variant | 1 | 1 |
-| `supernatural_weapon_overcomes_invulnerable_armor` | functional_variant | 1 | 1 |
-| `supernatural_weapon_that_cannot_be_discharged_in_vain` | functional_variant | 1 | 1 |
-| `supernaturally_made_or_consecrated_weapon` | functional_variant | 1 | 1 |
-| `testing_and_choosing_the_tireless_steed` | functional_variant | 1 | 1 |
-| `testing_the_supernatural_object_by_ordeal_of_fire` | functional_variant | 1 | 1 |
-| `tide_controlling_royal_objects` | functional_variant | 1 | 1 |
-| `token_or_reward_associated_with_entering_combat` | functional_variant | 1 | 1 |
-| `token_proving_an_otherwise_unbelievable_encounter` | functional_variant | 1 | 1 |
-| `token_ring_as_celestial_sign` | symbolic_variant | 1 | 1 |
-| `transported_divine_image_establishes_a_local_cult_form` | functional_variant | 1 | 1 |
-| `treasure_as_sexual_or_moral_temptation` | symbolic_variant | 1 | 1 |
-| `treasure_cave` | narrower_than | 1 | 1 |
-| `treasure_hidden_in_a_cave` | narrower_than | 1 | 1 |
-| `treasure_theft_by_eloping_pair` | functional_variant | 1 | 1 |
-| `tree_fragments_confer_magic_and_welfare` | functional_variant | 1 | 1 |
-| `trident_as_divine_power_object` | child | 1 | 1 |
-| `unexpected_treasure_discovered_while_ploughing` | functional_variant | 1 | 1 |
-| `unfailing_provisioning_implement` | functional_variant | 1 | 1 |
-| `unique_ancestral_weapon_wielded_only_by_the_hero` | narrower_than | 1 | 1 |
-| `unique_or_privileged_weapon_of_the_hero` | functional_variant | 1 | 1 |
-| `unique_weapon_needed_to_slay_a_giant` | functional_variant | 1 | 1 |
-| `valuable_object_induces_betrayal_and_begins_a_revenge_cycle` | functional_variant | 1 | 1 |
-| `valuable_object_unrecognized_by_its_owners` | functional_variant | 1 | 1 |
-| `venerated_stone_linked_to_divine_myth` | symbolic_variant | 1 | 1 |
-| `victory_memorial_through_dedicated_arms` | ritual_variant | 1 | 1 |
-| `warning_against_a_deceptive_sacred_object_ignored_after_ominous_sign` | functional_variant | 1 | 1 |
-| `wealth_obtained_by_damaging_a_sacred_image` | uncertain | 1 | 1 |
-| `weapon_fails_against_protected_foe` | functional_variant | 1 | 1 |
-| `weapon_inheritance_and_transferred_heroic_prowess` | functional_variant | 1 | 1 |
-| `wonder_working_abundance_object` | functional_variant | 1 | 1 |
-| `wondrous_equipment_enabling_a_heroic_feat` | functional_variant | 1 | 1 |
-| `wondrous_hound_that_subdues_wild_beasts` | functional_variant | 1 | 1 |
-| `world_revealing_magic_mirror` | functional_variant | 1 | 1 |
-| `youth_renewing_fruit_guarded_on_the_tree` | functional_variant | 1 | 1 |
-
-## Culture Hero and Founder
-
-- Canonical motif ID: `culture_hero`
-- Distinct traditions: 17
-- Occurrences: 288
-- Mapped motif IDs: 23
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `culture_hero` | canonical_group | 17 | 266 |
-| `armed_founder_succeeds_where_unarmed_founder_fails` | functional_variant | 1 | 1 |
-| `development_from_inspired_prophet_to_political_founder` | role_variant | 1 | 1 |
-| `divinely_granted_cultural_emblems` | functional_variant | 1 | 1 |
-| `divinely_sanctioned_foundational_lawgiver` | role_variant | 1 | 1 |
-| `first_ship_or_first_warship` | functional_variant | 1 | 1 |
-| `flight_from_incestuous_crime_followed_by_city_foundation` | functional_variant | 1 | 1 |
-| `founding_ancestor_renounces_idolatry` | role_variant | 1 | 1 |
-| `founding_and_naming_of_roads_castles_and_places` | functional_variant | 1 | 1 |
-| `fugitive_city_rebuilder_gains_veneration_by_slaying_a_ravaging_animal` | functional_variant | 1 | 1 |
-| `hero_as_liberator_through_wealth_or_battle` | functional_variant | 1 | 1 |
-| `heroic_bearer_of_household_gods_into_a_new_land` | functional_variant | 1 | 1 |
-| `heroic_removal_of_local_oppression` | functional_variant | 1 | 1 |
-| `oracle_guided_city_foundation_by_ambiguous_sign` | functional_variant | 1 | 1 |
-| `origin_of_brewing` | functional_variant | 1 | 1 |
-| `origin_of_society_from_human_need` | functional_variant | 1 | 1 |
-| `origin_of_the_city_through_specialization_and_exchange` | functional_variant | 1 | 1 |
-| `religious_founder_incorporating_prior_traditions` | role_variant | 1 | 1 |
-| `religious_reverence_for_an_outside_cultural_hero` | role_variant | 1 | 1 |
-| `rival_prophetic_claimants_recur_after_the_founder_s_death` | heuristic_family_name_match | 1 | 1 |
-| `sacred_or_paradisal_origin_of_useful_metal_implements` | functional_variant | 1 | 1 |
-| `waters_regulated_for_fertility_and_settlement_prosperity` | functional_variant | 1 | 1 |
-| `women_s_sacred_procession_carrying_civilizing_symbols` | ritual_variant | 1 | 1 |
-
-## Lament, Mourning, and Tragic Recognition
-
-- Canonical motif ID: `lament_and_mourning`
-- Distinct traditions: 17
-- Occurrences: 246
-- Mapped motif IDs: 246
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `aetiology_of_pearls_and_bird_plumage_from_a_hero_s_tears` | symbolic_variant | 1 | 1 |
-| `aged_hero_recalls_lost_youthful_power` | symbolic_variant | 1 | 1 |
-| `aging_singer_laments_loss_of_voice` | functional_variant | 1 | 1 |
-| `animal_grief_mirrors_human_grief` | symbolic_variant | 1 | 1 |
-| `animal_mourning_for_human_master_or_companions` | functional_variant | 1 | 1 |
-| `animals_lamenting_a_slain_human_companion` | role_variant | 1 | 1 |
-| `appeal_to_hostile_divinity_for_death_as_relief` | functional_variant | 1 | 1 |
-| `attempted_suicide_interrupted_by_caregiver` | functional_variant | 1 | 1 |
-| `battle_halted_by_the_arrival_of_a_grieving_queen_woman` | functional_variant | 1 | 1 |
-| `beautiful_youth_with_untimely_death` | symbolic_variant | 1 | 1 |
-| `beloved_hero_mourned_by_city_and_nature` | functional_variant | 1 | 1 |
-| `bereaved_child_discovers_slain_parent` | functional_variant | 1 | 1 |
-| `bereaved_father_mourning_a_fallen_son` | functional_variant | 1 | 1 |
-| `bereaved_mother_laments_last_child_and_ruined_house` | functional_variant | 1 | 1 |
-| `bereaved_mother_s_dying_curse` | functional_variant | 1 | 1 |
-| `best_not_to_be_born` | symbolic_variant | 1 | 1 |
-| `cessation_of_ritual_festivity_and_commerce_in_mourning` | ritual_variant | 1 | 1 |
-| `city_mourns_absent_ruler` | child | 1 | 1 |
-| `collective_lament_for_the_fallen_champion` | narrower_than | 1 | 1 |
-| `collective_lamentation_for_a_fallen_defender` | narrower_than | 1 | 1 |
-| `comic_reversal_of_mourning` | functional_variant | 1 | 1 |
-| `communal_female_mourning` | ritual_variant | 1 | 1 |
-| `compassionate_lament_for_condemned_outcasts` | functional_variant | 1 | 1 |
-| `consolatory_comparison_of_bereaved_parents` | functional_variant | 1 | 1 |
-| `cosmic_mourning_after_a_divine_death` | broader_label | 1 | 1 |
-| `cosmic_or_atmospheric_mourning_for_a_slain_child` | symbolic_variant | 1 | 1 |
-| `daughter_lamenting_bad_marital_placement_by_mother` | functional_variant | 1 | 1 |
-| `dead_ruler_still_looking_toward_lost_possessions` | symbolic_variant | 1 | 1 |
-| `death_as_final_sleep_watched_by_nature` | symbolic_variant | 1 | 1 |
-| `death_from_grief_and_blame_after_destruction_of_two_lands` | over_specific_label | 1 | 1 |
-| `death_from_grief_and_fear_after_witnessing_a_killing` | over_specific_label | 1 | 1 |
-| `death_from_grief_for_wounded_spouse` | functional_variant | 1 | 1 |
-| `death_from_shame_after_others_die_on_one_s_account` | functional_variant | 1 | 1 |
-| `death_from_shame_after_slaughter_caused_by_protection` | over_specific_label | 1 | 1 |
-| `death_memorial_covered_by_living_flowers` | symbolic_variant | 1 | 1 |
-| `decline_and_end_of_a_heroic_company` | broader_label | 1 | 1 |
-| `departed_companions_precede_the_speaker_into_death` | functional_variant | 1 | 1 |
-| `dependent_blind_parents_lose_their_only_guide` | over_specific_label | 1 | 1 |
-| `destruction_in_the_furnace_of_grief` | symbolic_variant | 1 | 1 |
-| `diminished_survivor_of_a_vanished_company` | functional_variant | 1 | 1 |
-| `disciple_mourning_slain_teacher` | functional_variant | 1 | 1 |
-| `doomed_aged_king_arms_himself_during_the_fall_of_the_city` | over_specific_label | 1 | 1 |
-| `dying_animal_laments_the_manner_of_its_death` | role_variant | 1 | 1 |
-| `dying_hero_arranges_successor_relationship_for_his_bride` | child | 1 | 1 |
-| `dying_mother_addresses_daughter` | over_specific_label | 1 | 1 |
-| `dying_swan_song_as_image_for_lament` | symbolic_variant | 1 | 1 |
-| `dying_warrior_amid_lamentation` | functional_variant | 1 | 1 |
-| `echoed_lament_and_farewell` | symbolic_variant | 1 | 1 |
-| `empty_vehicle_as_sign_of_absent_hero` | symbolic_variant | 1 | 1 |
-| `excessive_grief_leading_to_violation_of_human_and_divine_norms` | functional_variant | 1 | 1 |
-| `fairy_women_lament_as_origin_of_a_named_wail` | functional_variant | 1 | 1 |
-| `fallen_royal_tree_lament` | symbolic_variant | 1 | 1 |
-| `fallen_youth_compared_to_a_plucked_flower` | symbolic_variant | 1 | 1 |
-| `false_death_report_leading_to_mistaken_mourning_rites` | functional_variant | 1 | 1 |
-| `family_reunion_after_mourning` | functional_variant | 1 | 1 |
-| `farewell_lament_of_the_royal_household` | narrower_than | 1 | 1 |
-| `fate_lament` | child | 1 | 1 |
-| `fatherly_supplication_for_mercy_from_a_killer_or_enemy` | functional_variant | 1 | 1 |
-| `foreign_sanctuary_preserves_memory_of_homeland_suffering` | functional_variant | 1 | 1 |
-| `former_heroic_strength_contrasted_with_old_age` | uncertain | 1 | 1 |
-| `funeral_lament_followed_by_sudden_love_for_the_widow` | over_specific_label | 1 | 1 |
-| `funeral_or_mourning_rite_for_insects_or_animals` | ritual_variant | 1 | 1 |
-| `grave_growth_sign_controlling_remarriage` | uncertain | 1 | 1 |
-| `grief_anticipating_early_death` | functional_variant | 1 | 1 |
-| `grief_as_futile_tears_of_blood` | symbolic_variant | 1 | 1 |
-| `grief_at_body_ashes_tomb_and_name` | over_specific_label | 1 | 1 |
-| `grief_death_of_the_royal_father` | functional_variant | 1 | 1 |
-| `grief_driven_plunge_into_water` | functional_variant | 1 | 1 |
-| `grief_for_absent_kin_leading_to_decline_or_death` | child | 1 | 1 |
-| `grief_for_lost_kinsman_or_comrade` | alias | 1 | 1 |
-| `grief_leading_to_speech` | functional_variant | 1 | 1 |
-| `grief_overflowing_as_blood_and_water` | symbolic_variant | 1 | 1 |
-| `grief_tears_transformed_into_precious_substances` | symbolic_variant | 1 | 1 |
-| `grief_transformed_into_poetic_form` | functional_variant | 1 | 1 |
-| `grief_transformed_into_water` | symbolic_variant | 1 | 1 |
-| `grief_weakening_warriors_before_battle` | functional_variant | 1 | 1 |
-| `grieving_animals_at_a_hero_s_death` | symbolic_variant | 1 | 1 |
-| `grieving_beloved_wastes_away_and_vanishes` | functional_variant | 1 | 1 |
-| `grieving_hero_on_mountain_height` | functional_variant | 1 | 1 |
-| `grieving_messenger_sent_to_tell_a_beloved_warrior_of_death` | over_specific_label | 1 | 1 |
-| `grieving_mother_at_the_grave` | functional_variant | 1 | 1 |
-| `grieving_mother_turns_to_vengeance_for_a_murdered_child` | functional_variant | 1 | 1 |
-| `grieving_parent_mourns_absent_son_as_dead` | child | 1 | 1 |
-| `grieving_parent_returns_to_battle_seeking_death_or_vengeance` | functional_variant | 1 | 1 |
-| `grieving_spouse_fading_after_loss` | functional_variant | 1 | 1 |
-| `hero_mourns_sacrificed_beloved_and_place_name_preserves_memory` | over_specific_label | 1 | 1 |
-| `hero_s_lament_for_a_slain_opponent` | functional_variant | 1 | 1 |
-| `hero_threatens_landscape_in_grief` | functional_variant | 1 | 1 |
-| `heroic_death_followed_by_keening_lament` | ritual_variant | 1 | 1 |
-| `heroic_grief_expressed_through_bodily_abasement` | ritual_variant | 1 | 1 |
-| `heroic_lament_and_escorted_return_of_a_fallen_youth` | functional_variant | 1 | 1 |
-| `hidden_suffering_revealed_by_bodily_scars` | functional_variant | 1 | 1 |
-| `honored_hero_cremation_with_precious_container_and_companion_burial` | narrower_than | 1 | 1 |
-| `human_grief_mirrored_by_protective_animal_parent` | symbolic_variant | 1 | 1 |
-| `hypocritical_mourner_with_false_tears` | functional_variant | 1 | 1 |
-| `immortal_horses_mourning_a_dead_hero` | narrower_than | 1 | 1 |
-| `immortality_experienced_as_lamentation` | child | 1 | 1 |
-| `impermanence_of_glory_after_a_great_teacher_s_death` | over_specific_label | 1 | 1 |
-| `inconsolable_grief_after_slain_companions_or_beloveds` | narrower_than | 1 | 1 |
-| `innocent_victim_killed_and_later_regretted` | functional_variant | 1 | 1 |
-| `keening_and_memorialization_after_tragic_error` | functional_variant | 1 | 1 |
-| `killing_and_lament_of_a_cherished_hound` | functional_variant | 1 | 1 |
-| `lament_after_killing_a_friend_or_opponent` | narrower_than | 1 | 1 |
-| `lament_after_tragic_death` | alias | 1 | 1 |
-| `lament_beside_water` | symbolic_variant | 1 | 1 |
-| `lament_comparing_joy_to_free_flowing_water_and_sorrow_to_frozen_or_imprisoned_water` | symbolic_variant | 1 | 1 |
-| `lament_for_a_fallen_warrior` | narrower_than | 1 | 1 |
-| `lament_for_a_fallen_warrior_kinsman` | narrower_than | 1 | 1 |
-| `lament_for_a_lost_heroic_age` | symbolic_variant | 1 | 1 |
-| `lament_for_beloved_speaking_bird` | narrower_than | 1 | 1 |
-| `lament_for_dead_heroic_companions` | narrower_than | 1 | 1 |
-| `lament_for_fallen_companion_and_endangered_kin` | narrower_than | 1 | 1 |
-| `lament_for_slain_friend_opponent` | narrower_than | 1 | 1 |
-| `lament_for_the_dead_beloved` | narrower_than | 1 | 1 |
-| `lament_for_the_dead_hero_by_his_wife` | narrower_than | 1 | 1 |
-| `lament_for_the_fallen_hero` | narrower_than | 1 | 1 |
-| `lament_for_the_land_defending_hero` | narrower_than | 1 | 1 |
-| `lament_of_guilt_and_future_infamy` | functional_variant | 1 | 1 |
-| `lament_of_stranded_hero_recognized_and_answered` | functional_variant | 1 | 1 |
-| `lament_of_the_last_survivor_of_a_heroic_band` | narrower_than | 1 | 1 |
-| `lament_over_a_slain_opponent` | narrower_than | 1 | 1 |
-| `lament_over_a_slain_sworn_companion` | narrower_than | 1 | 1 |
-| `lament_over_being_left_behind` | functional_variant | 1 | 1 |
-| `lament_over_the_dead_companion` | narrower_than | 1 | 1 |
-| `lament_over_the_fallen_king` | role_variant | 1 | 1 |
-| `lament_over_the_fallen_warrior_by_mother_and_widow` | role_variant | 1 | 1 |
-| `lament_over_the_fallen_warrior_king` | role_variant | 1 | 1 |
-| `lament_voiced_through_natural_material_and_instrument` | symbolic_variant | 1 | 1 |
-| `lamenting_or_questioning_bird_at_an_abandoned_seat_of_power` | symbolic_variant | 1 | 1 |
-| `lamenting_survivor_beside_slain_beloved_and_kin` | functional_variant | 1 | 1 |
-| `lamenting_wife_offers_healing_to_doomed_warrior` | functional_variant | 1 | 1 |
-| `last_survivor_lamenting_a_vanished_heroic_company` | functional_variant | 1 | 1 |
-| `leader_s_consoling_speech_after_communal_catastrophe` | functional_variant | 1 | 1 |
-| `life_ending_grief` | narrower_than | 1 | 1 |
-| `life_s_transience_and_irreversible_death` | symbolic_variant | 1 | 1 |
-| `loyal_servant_mourns_the_absent_master` | functional_variant | 1 | 1 |
-| `maternal_lament_at_separation_from_exiled_children` | functional_variant | 1 | 1 |
-| `maternal_lament_for_absent_endangered_son` | narrower_than | 1 | 1 |
-| `maternal_lament_over_loss_of_the_cherished_son` | narrower_than | 1 | 1 |
-| `messenger_announces_the_death_of_a_beloved_companion` | functional_variant | 1 | 1 |
-| `metamorphosis_into_enduring_mourning_landmark` | functional_variant | 1 | 1 |
-| `misinterpreted_lament_provokes_jealous_suspicion` | functional_variant | 1 | 1 |
-| `mistaken_hunting_kill_of_a_child` | functional_variant | 1 | 1 |
-| `mistaken_killing_of_beloved_during_hunt` | functional_variant | 1 | 1 |
-| `mistaken_killing_of_one_s_own_child` | functional_variant | 1 | 1 |
-| `mistaken_return_or_presence_through_another_s_armor` | functional_variant | 1 | 1 |
-| `mortal_lament_for_vanished_heroic_company` | functional_variant | 1 | 1 |
-| `mortality_of_companions_and_remembrance_with_wine` | functional_variant | 1 | 1 |
-| `mother_s_lament_for_slain_and_unburied_son` | narrower_than | 1 | 1 |
-| `mother_son_grief_at_separation` | narrower_than | 1 | 1 |
-| `mourner_as_fallen_heavenly_body` | symbolic_variant | 1 | 1 |
-| `mourner_s_tears_released_by_contact_with_the_dead` | ritual_variant | 1 | 1 |
-| `mourner_transformed_into_weeping_stone` | symbolic_variant | 1 | 1 |
-| `mourning_after_destruction_of_homeland` | functional_variant | 1 | 1 |
-| `mourning_after_loss_of_protectors` | functional_variant | 1 | 1 |
-| `mourning_animal_in_funeral_procession` | symbolic_variant | 1 | 1 |
-| `mourning_beloved_refuses_joy_and_sustenance` | functional_variant | 1 | 1 |
-| `mourning_expressed_through_embracing_and_kissing_the_deceased_warrior_s_horse_and_equipment` | child | 1 | 1 |
-| `mourning_fast_before_renewed_combat` | ritual_variant | 1 | 1 |
-| `mourning_father_and_unavenged_son` | functional_variant | 1 | 1 |
-| `mourning_interrupted_or_postponed_for_the_meal` | ritual_variant | 1 | 1 |
-| `mourning_messenger_brings_news_of_royal_death` | functional_variant | 1 | 1 |
-| `mourning_mother_imagines_son_in_the_realm_of_death` | symbolic_variant | 1 | 1 |
-| `mourning_musician_whose_song_moves_nature` | functional_variant | 1 | 1 |
-| `mourning_or_sentient_landscape` | uncertain | 1 | 1 |
-| `mourning_over_the_slain_royal_warrior` | functional_variant | 1 | 1 |
-| `mourning_parents_touch_the_slain_child` | over_specific_label | 1 | 1 |
-| `mourning_spouse_attempts_to_replace_the_dead_beloved_with_an_artificial_bride` | over_specific_label | 1 | 1 |
-| `natural_world_mourns_a_beloved_figure_s_departure` | symbolic_variant | 1 | 1 |
-| `nightly_death_watch_of_one_among_three_companions` | uncertain | 1 | 1 |
-| `nostalgic_lament_for_vanished_heroic_companions` | narrower_than | 1 | 1 |
-| `old_age_contrasted_with_heroic_youth` | symbolic_variant | 1 | 1 |
-| `old_warrior_lamenting_lost_heroic_age` | narrower_than | 1 | 1 |
-| `ominous_hearing_of_public_lament_before_recognition_of_death` | over_specific_label | 1 | 1 |
-| `one_death_dooms_a_dependent_family` | functional_variant | 1 | 1 |
-| `orphaned_child_deprived_by_the_father_s_death` | functional_variant | 1 | 1 |
-| `orphaned_wanderer_s_lament` | functional_variant | 1 | 1 |
-| `parental_lament_for_a_dead_hero` | child | 1 | 1 |
-| `parental_supplication_before_a_hero_s_fatal_combat` | functional_variant | 1 | 1 |
-| `parental_supplication_to_avert_heroic_death` | functional_variant | 1 | 1 |
-| `past_guilt_returning_during_present_grief` | functional_variant | 1 | 1 |
-| `pathos_of_slain_young_warriors_through_genealogy_and_simile` | meta_artifact | 1 | 1 |
-| `perpetual_mourning_assigned_to_transformed_being` | symbolic_variant | 1 | 1 |
-| `personified_grief_fed_by_mourning` | symbolic_variant | 1 | 1 |
-| `place_name_origin_from_death_or_animal_sign` | functional_variant | 1 | 1 |
-| `place_of_past_suffering_revives_painful_memory` | functional_variant | 1 | 1 |
-| `post_battle_funeral_lament_by_bereaved_women` | narrower_than | 1 | 1 |
-| `posthumous_inscribed_flower_of_lament` | symbolic_variant | 1 | 1 |
-| `prayer_for_visible_death_in_daylight` | over_specific_label | 1 | 1 |
-| `prolonged_mourning_without_relief_leading_to_physical_collapse_death` | child | 1 | 1 |
-| `prophecy_like_lament_for_ruined_survivors` | functional_variant | 1 | 1 |
-| `public_grief_echoing_through_nature` | symbolic_variant | 1 | 1 |
-| `public_lamentation_over_slain_warrior` | child | 1 | 1 |
-| `rain_as_divine_weeping` | symbolic_variant | 1 | 1 |
-| `recognition_followed_by_reversal_of_life` | heuristic_family_name_match | 1 | 1 |
-| `refusal_and_reversal_of_mourning_among_kin` | functional_variant | 1 | 1 |
-| `refusal_to_praise_an_enemy_because_of_remembered_kin_slaying` | uncertain | 1 | 1 |
-| `remorse_after_a_brother_s_death` | functional_variant | 1 | 1 |
-| `renowned_tragic_grave_of_heroine` | narrower_than | 1 | 1 |
-| `return_of_the_fallen_son_to_the_grieving_father` | functional_variant | 1 | 1 |
-| `ritual_lament_for_a_named_figure` | ritual_variant | 1 | 1 |
-| `ritual_procession_of_mourners` | ritual_variant | 1 | 1 |
-| `royal_seclusion_overturned_by_grief` | functional_variant | 1 | 1 |
-| `sea_as_agent_of_death_and_lament` | symbolic_variant | 1 | 1 |
-| `sea_nymph_mourning_procession` | role_variant | 1 | 1 |
-| `self_blame_for_destruction_of_kin` | functional_variant | 1 | 1 |
-| `separation_causing_refusal_of_food_and_care` | functional_variant | 1 | 1 |
-| `shared_epitaph_as_marital_memorial` | over_specific_label | 1 | 1 |
-| `slain_son_mourned_and_avenged_by_father` | functional_variant | 1 | 1 |
-| `slaughtered_band_of_youthful_allies` | over_specific_label | 1 | 1 |
-| `slayer_laments_slain_opponent` | functional_variant | 1 | 1 |
-| `son_s_prostrate_lament_for_deceased_father` | narrower_than | 1 | 1 |
-| `song_reserved_for_the_moment_before_death` | ritual_variant | 1 | 1 |
-| `song_reveals_hidden_grief_of_the_hero` | functional_variant | 1 | 1 |
-| `sorrow_figured_as_overwhelming_water` | symbolic_variant | 1 | 1 |
-| `speaking_tree_lamenting_human_use_and_seasonal_suffering` | symbolic_variant | 1 | 1 |
-| `spouse_dies_of_grief_beside_the_dead_beloved` | functional_variant | 1 | 1 |
-| `spring_landscape_intensifies_separation_lament` | symbolic_variant | 1 | 1 |
-| `suicide_after_catastrophic_loss` | functional_variant | 1 | 1 |
-| `supernatural_female_lament_for_a_hero` | role_variant | 1 | 1 |
-| `tears_as_heavenly_sign_of_grief` | symbolic_variant | 1 | 1 |
-| `tears_of_mourning_bind_or_disturb_the_dead` | functional_variant | 1 | 1 |
-| `threefold_lamenting_birds` | symbolic_variant | 1 | 1 |
-| `tragic_heroine_s_lament_at_death` | narrower_than | 1 | 1 |
-| `tree_emblem_of_mortal_fragility` | symbolic_variant | 1 | 1 |
-| `unaware_supplication_for_one_already_dead` | functional_variant | 1 | 1 |
-| `uncertainty_of_death_place_or_burial_place` | uncertain | 1 | 1 |
-| `unrecognized_child_slain_by_father` | functional_variant | 1 | 1 |
-| `unresolved_heroic_quarrel_persists_after_death` | functional_variant | 1 | 1 |
-| `unseen_lament_heard_at_threshold_of_journey` | functional_variant | 1 | 1 |
-| `victor_laments_the_slain_friend` | child | 1 | 1 |
-| `violent_retaliation_after_overheard_lament` | functional_variant | 1 | 1 |
-| `warrior_band_mourning_an_absent_lord` | functional_variant | 1 | 1 |
-| `wealth_gained_abroad_overshadowed_by_grief_and_loss` | functional_variant | 1 | 1 |
-| `widow_and_mother_keening_over_slain_husband_and_sons` | narrower_than | 1 | 1 |
-| `widow_s_lament_beside_the_body` | narrower_than | 1 | 1 |
-| `widow_s_lament_for_the_fallen_husband` | narrower_than | 1 | 1 |
-| `widow_s_lament_over_fallen_warrior_king` | functional_variant | 1 | 1 |
-| `widow_s_lament_over_the_dead_king` | narrower_than | 1 | 1 |
-| `wife_brings_weapons_and_performs_lament` | functional_variant | 1 | 1 |
-| `wish_for_death_reversed_by_fear_of_death` | functional_variant | 1 | 1 |
-| `wish_for_non_birth_or_infant_death_in_maiden_s_lament` | narrower_than | 1 | 1 |
-| `woman_on_tower_watching_battle_and_fearing_for_absent_husband` | functional_variant | 1 | 1 |
-| `women_s_lament_over_a_dead_ruler` | narrower_than | 1 | 1 |
-| `young_warrior_cut_down_like_a_tree` | symbolic_variant | 1 | 1 |
-| `youth_cut_down_like_an_uprooted_tree` | symbolic_variant | 1 | 1 |
-
 ## Divine Intervention and Guidance
 
 - Canonical motif ID: `divine_intervention`
-- Distinct traditions: 16
-- Occurrences: 567
-- Mapped motif IDs: 561
+- Distinct traditions: 17
+- Occurrences: 579
+- Mapped motif IDs: 573
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -4413,6 +3862,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `animal_alarm_saves_a_city_stronghold` | functional_variant | 1 | 1 |
 | `animal_allied_host_performs_superhuman_labor` | functional_variant | 1 | 1 |
 | `animal_ally_fights_the_abductor` | functional_variant | 1 | 1 |
+| `animal_counselor_directs_vengeance` | uncertain | 1 | 1 |
+| `animal_devotee_recognizes_and_venerates_a_buddha` | role_variant | 1 | 1 |
 | `animal_guarded_holy_figure_in_mountain_refuge` | functional_variant | 1 | 1 |
 | `animal_guardian_pledges_protection_of_a_beloved_woman` | functional_variant | 1 | 1 |
 | `animal_guide_marks_a_sacred_or_civic_site` | functional_variant | 1 | 1 |
@@ -4453,6 +3904,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `concealed_divine_assistance_or_attention` | functional_variant | 1 | 1 |
 | `contest_between_divine_sign_and_human_enchantment` | functional_variant | 1 | 1 |
 | `contest_between_prophetic_truth_and_magic` | functional_variant | 1 | 1 |
+| `conversion_through_public_sign_and_idol_breaking` | uncertain | 1 | 1 |
 | `cosmic_response_to_the_future_buddha_s_wish` | functional_variant | 1 | 1 |
 | `cosmic_sustainer_against_collapse` | role_variant | 1 | 1 |
 | `council_broken_by_divine_alarm_and_mass_mobilization` | functional_variant | 1 | 1 |
@@ -4680,6 +4132,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `holy_captive_liberated_after_hidden_sanctity_is_revealed` | functional_variant | 1 | 1 |
 | `holy_figure_s_arrival_brings_rain` | functional_variant | 1 | 1 |
 | `holy_scholar_s_death_accompanied_by_mass_conversion` | functional_variant | 1 | 1 |
+| `honoring_a_nonhuman_defender_as_a_noble_friend` | role_variant | 1 | 1 |
 | `hospitality_to_mysterious_messengers` | role_variant | 1 | 1 |
 | `hostile_sending_of_illness_against_a_community` | functional_variant | 1 | 1 |
 | `hostile_weather_spirit_immobilizes_a_voyager` | functional_variant | 1 | 1 |
@@ -4688,6 +4141,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `human_control_of_natural_phenomena` | uncertain | 1 | 1 |
 | `human_vulnerability_at_sea_under_divine_power` | functional_variant | 1 | 1 |
 | `humans_as_game_pieces_moved_by_a_higher_power` | symbolic_variant | 1 | 1 |
+| `hunter_confronted_and_redirected_by_animals` | uncertain | 1 | 1 |
 | `immanent_spirit_becoming_external_deity` | spirit_agency_variant | 1 | 1 |
 | `immovable_deity_as_civic_omen` | functional_variant | 1 | 1 |
 | `impossible_task_nearly_completed_by_supernatural_helper` | functional_variant | 1 | 1 |
@@ -4823,6 +4277,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `prophetic_succession_met_by_rejection_or_violence` | functional_variant | 1 | 1 |
 | `protected_divine_animal_as_sign` | functional_variant | 1 | 1 |
 | `protected_friends_or_believers_of_god` | functional_variant | 1 | 1 |
+| `protective_aid_requested_from_birds` | functional_variant | 1 | 1 |
 | `protective_ancestral_household_spirit` | role_variant | 1 | 1 |
 | `protective_animals_recognize_hidden_identity` | functional_variant | 1 | 1 |
 | `protective_divine_concealment_of_travelers` | functional_variant | 1 | 1 |
@@ -4842,6 +4297,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `pursuit_halted_by_divine_intervention_at_a_named_island` | functional_variant | 1 | 1 |
 | `rain_renewing_parched_land_as_a_sign` | symbolic_variant | 1 | 1 |
 | `rainbow_like_divine_messenger` | role_variant | 1 | 1 |
+| `rainmaking_specialist_restores_water_in_drought` | role_variant | 1 | 1 |
 | `rally_of_routed_army_after_divine_message` | functional_variant | 1 | 1 |
 | `reassurance_by_heavenly_voices` | functional_variant | 1 | 1 |
 | `recognition_of_divine_power_by_defeated_ritual_specialists` | functional_variant | 1 | 1 |
@@ -4858,8 +4314,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rejected_or_persecuted_messengers` | role_variant | 1 | 1 |
 | `rejected_prophet_or_preacher_warns_an_unbelieving_people` | role_variant | 1 | 1 |
 | `rejected_prophetic_warning` | functional_variant | 1 | 1 |
+| `rejuvenating_animal_guide_or_bearer` | uncertain | 1 | 1 |
 | `removal_of_sacred_protection_followed_by_disorder` | functional_variant | 1 | 1 |
 | `renamed_concealed_immortal_under_divine_protection` | uncertain | 1 | 1 |
+| `repeated_petitions_to_restrain_destructive_animal_allies` | uncertain | 1 | 1 |
 | `repentance_with_apostolic_intercession` | role_variant | 1 | 1 |
 | `reported_supernatural_or_heroic_ally_in_battle` | functional_variant | 1 | 1 |
 | `revealed_conspiracy_and_miraculous_escape` | functional_variant | 1 | 1 |
@@ -4903,6 +4361,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `socially_humble_believers_chosen_or_protected` | role_variant | 1 | 1 |
 | `solar_invocation_grants_victory_and_protection` | functional_variant | 1 | 1 |
 | `spared_survivor_through_divine_intervention` | functional_variant | 1 | 1 |
+| `speaking_bird_as_messenger_to_hostile_land` | functional_variant | 1 | 1 |
 | `spirit_demon_or_soul_manifested_in_a_dust_column` | uncertain | 1 | 1 |
 | `storm_as_divine_manifestation_and_instrument` | functional_variant | 1 | 1 |
 | `storm_beings_personified_as_violent_carriers_off` | role_variant | 1 | 1 |
@@ -4933,8 +4392,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `trust_in_divine_sovereign_support` | functional_variant | 1 | 1 |
 | `unexpected_food_bearer_after_deprivation` | functional_variant | 1 | 1 |
 | `unexpected_helper_joins_fugitives_and_provides_protection` | functional_variant | 1 | 1 |
+| `unrecognized_protective_service` | functional_variant | 1 | 1 |
 | `unseen_angelic_auxiliaries` | role_variant | 1 | 1 |
 | `unwitting_healing_of_an_adversarial_supernatural_woman` | functional_variant | 1 | 1 |
+| `victorious_bird_army_companion` | functional_variant | 1 | 1 |
 | `warrior_as_divine_weapon` | role_variant | 1 | 1 |
 | `water_as_divine_provision_and_trial` | functional_variant | 1 | 1 |
 | `water_from_rock_for_tribal_groups` | functional_variant | 1 | 1 |
@@ -4953,492 +4414,814 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `wounded_healer_or_preserver_carried_from_battle` | role_variant | 1 | 1 |
 | `wrathful_sacred_power_restrained_for_the_world_s_welfare` | functional_variant | 1 | 1 |
 
-## Dream, Vision, and Altered Perception
+## Duality and Cosmic Opposition
 
-- Canonical motif ID: `dream_and_vision`
-- Distinct traditions: 16
-- Occurrences: 208
-- Mapped motif IDs: 208
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `ambiguous_oracle_misunderstood_across_generations` | functional_variant | 1 | 1 |
-| `animal_associated_with_prophecy` | symbolic_variant | 1 | 1 |
-| `animal_omen_interpreted_as_war_and_peace` | functional_variant | 1 | 1 |
-| `art_as_enchantment_illusion_and_moral_danger` | symbolic_variant | 1 | 1 |
-| `attempt_to_evade_prophetic_disclosure_by_changing_the_murder_weapon` | functional_variant | 1 | 1 |
-| `augural_bird_sign_prompting_battle` | functional_variant | 1 | 1 |
-| `auspicious_omens_before_battle` | functional_variant | 1 | 1 |
-| `bad_omen_reversed_by_favorable_interpretation` | functional_variant | 1 | 1 |
-| `battle_delayed_until_favorable_omen` | functional_variant | 1 | 1 |
-| `battle_foretold_by_druids` | role_variant | 1 | 1 |
-| `battle_omen_at_the_ford` | functional_variant | 1 | 1 |
-| `battlefield_carrion_birds_foretold` | symbolic_variant | 1 | 1 |
-| `bird_of_prey_drops_sign_at_altar` | symbolic_variant | 1 | 1 |
-| `bird_omen_confirms_companions_safety` | functional_variant | 1 | 1 |
-| `bird_omens_of_wealth_disease_and_fire` | functional_variant | 1 | 1 |
-| `blood_like_atmospheric_omen_or_marvel` | symbolic_variant | 1 | 1 |
-| `blood_omen_from_heaven_before_heroic_death` | functional_variant | 1 | 1 |
-| `blood_omen_in_an_abandoned_object` | uncertain | 1 | 1 |
-| `blood_omen_revealing_absent_hero_s_danger` | symbolic_variant | 1 | 1 |
-| `blood_water_portent_of_slaughter` | functional_variant | 1 | 1 |
-| `bodily_omen_before_death_or_disaster` | functional_variant | 1 | 1 |
-| `bodily_omen_of_right_and_left_eye_throbbing` | symbolic_variant | 1 | 1 |
-| `buddha_s_appearance_marked_by_cosmic_signs` | functional_variant | 1 | 1 |
-| `celestial_omens_prompting_royal_action` | functional_variant | 1 | 1 |
-| `celestial_portent_before_battle` | functional_variant | 1 | 1 |
-| `celestial_sign_at_the_death_of_a_powerful_doctor` | functional_variant | 1 | 1 |
-| `city_overwhelmed_by_the_sea_as_omen_of_defeat` | symbolic_variant | 1 | 1 |
-| `consulting_diviners_before_an_undertaking` | functional_variant | 1 | 1 |
-| `cosmic_omens_confirming_spiritual_destiny` | functional_variant | 1 | 1 |
-| `cosmic_portents_during_heroic_combat` | functional_variant | 1 | 1 |
-| `cosmic_signs_at_the_death_of_a_holy_person` | functional_variant | 1 | 1 |
-| `counter_vision_through_magic_concealment` | functional_variant | 1 | 1 |
-| `daydream_ending_in_self_caused_loss` | functional_variant | 1 | 1 |
-| `death_by_pyre_as_omen_to_departing_enemy` | functional_variant | 1 | 1 |
-| `death_dream_sent_to_doomed_sleeper` | functional_variant | 1 | 1 |
-| `death_omen_recognized_through_harp_sound` | functional_variant | 1 | 1 |
-| `death_or_misfortune_apparition` | functional_variant | 1 | 1 |
-| `deceptive_divine_dream_sent_to_a_ruler` | functional_variant | 1 | 1 |
-| `deceptive_dream_sent_by_a_god` | functional_variant | 1 | 1 |
-| `deceptive_dream_sent_from_a_deity` | functional_variant | 1 | 1 |
-| `deceptive_image_mistaken_for_reality` | symbolic_variant | 1 | 1 |
-| `deceptive_power_of_illusion` | symbolic_variant | 1 | 1 |
-| `defeated_king_s_prophecy_of_future_avenger` | functional_variant | 1 | 1 |
-| `departed_spirits_return_to_warn_the_living` | functional_variant | 1 | 1 |
-| `desolate_capital_as_omen_of_disaster` | symbolic_variant | 1 | 1 |
-| `disease_corrupts_divinatory_signs` | functional_variant | 1 | 1 |
-| `distant_perception_of_a_disciple_s_death` | functional_variant | 1 | 1 |
-| `distant_perception_of_kin_s_distress` | functional_variant | 1 | 1 |
-| `divination_by_burning_branch` | ritual_variant | 1 | 1 |
-| `divination_by_lots_before_undertaking_an_enterprise` | functional_variant | 1 | 1 |
-| `divination_with_yew_wands` | ritual_variant | 1 | 1 |
-| `divinatory_arrows_held_by_cult_images` | uncertain | 1 | 1 |
-| `divine_animal_omen_before_battle` | functional_variant | 1 | 1 |
-| `divine_approval_by_lightning_sign` | symbolic_variant | 1 | 1 |
-| `divine_command_transmitted_through_dream_apparition` | functional_variant | 1 | 1 |
-| `divine_instruction_by_vision` | functional_variant | 1 | 1 |
-| `divine_lordship_over_omen_birds_and_animals` | symbolic_variant | 1 | 1 |
-| `divine_or_supernatural_sleep_dwelling_in_a_dark_liminal_place` | symbolic_variant | 1 | 1 |
-| `divine_removal_of_obscuring_darkness` | functional_variant | 1 | 1 |
-| `divine_sign_and_naming_omen` | functional_variant | 1 | 1 |
-| `divine_sign_of_temporary_silence` | symbolic_variant | 1 | 1 |
-| `divine_warning_before_battle` | functional_variant | 1 | 1 |
-| `divinely_sent_consolatory_dream_message` | functional_variant | 1 | 1 |
-| `dream_apparition_announces_death` | functional_variant | 1 | 1 |
-| `dream_appearance_of_the_dead_or_absent_speaker` | functional_variant | 1 | 1 |
-| `dream_epiphany_of_protective_goddess` | functional_variant | 1 | 1 |
-| `dream_identity_crossing_human_and_animal_forms` | functional_variant | 1 | 1 |
-| `dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption` | child | 1 | 1 |
-| `dream_like_paralysis_in_battle` | functional_variant | 1 | 1 |
-| `dream_messenger_announces_death` | functional_variant | 1 | 1 |
-| `dream_or_apparition_in_the_form_of_a_loved_one` | functional_variant | 1 | 1 |
-| `dream_revealing_or_intensifying_forbidden_love` | functional_variant | 1 | 1 |
-| `dream_reveals_the_hidden_corpse` | functional_variant | 1 | 1 |
-| `dream_revelation_of_a_hidden_captive_being` | functional_variant | 1 | 1 |
-| `dreams_as_omens_governing_weather_health_luck_victory_and_hunting` | narrower_than | 1 | 1 |
-| `dying_hero_foretells_the_war_band_s_ruin` | functional_variant | 1 | 1 |
-| `dying_prophecy_of_the_slayer_s_death` | functional_variant | 1 | 1 |
-| `enchanted_music_that_brings_sleep_and_relief` | functional_variant | 1 | 1 |
-| `encounter_with_apparitions` | symbolic_variant | 1 | 1 |
-| `failed_or_questioned_auspicious_prophecy` | functional_variant | 1 | 1 |
-| `failure_to_read_signs_of_crisis` | functional_variant | 1 | 1 |
-| `false_omen_exposed` | functional_variant | 1 | 1 |
-| `false_promise_of_imminent_victory_preceding_suffering` | uncertain | 1 | 1 |
-| `fatal_omens_before_self_destruction` | functional_variant | 1 | 1 |
-| `fear_bringing_dream_figure` | symbolic_variant | 1 | 1 |
-| `feared_oracle_fulfilled_despite_attempted_avoidance` | functional_variant | 1 | 1 |
-| `fiery_omen_on_a_bride_to_be` | functional_variant | 1 | 1 |
-| `foreknown_tomb_and_name` | functional_variant | 1 | 1 |
-| `forest_obstruction_removed_for_supernatural_sight` | functional_variant | 1 | 1 |
-| `foretelling_fulfilled_in_old_age` | functional_variant | 1 | 1 |
-| `forewarned_combat_injury` | functional_variant | 1 | 1 |
-| `founding_attempt_interrupted_by_ominous_revelation` | functional_variant | 1 | 1 |
-| `ghost_of_dead_father_appears_to_son` | functional_variant | 1 | 1 |
-| `guide_interprets_visionary_procession` | functional_variant | 1 | 1 |
-| `heavenly_omen_inaugurates_battle` | functional_variant | 1 | 1 |
-| `ignored_omen_before_destructive_desire` | functional_variant | 1 | 1 |
-| `ill_omens_before_battle` | functional_variant | 1 | 1 |
-| `inner_beast_revealed_in_sleep` | symbolic_variant | 1 | 1 |
-| `intoxication_as_spirit_possession_or_inspiration` | functional_variant | 1 | 1 |
-| `landscape_and_birds_as_warning_voices` | functional_variant | 1 | 1 |
-| `limited_vision_before_unveiled_future` | functional_variant | 1 | 1 |
-| `magical_mirror_used_for_distant_vision` | functional_variant | 1 | 1 |
-| `marked_lot_divination_for_choosing_action_or_target` | functional_variant | 1 | 1 |
-| `marvelous_chariot_apparition_with_distorted_animal_and_red_figures` | over_specific_label | 1 | 1 |
-| `miraculous_sign_in_the_heavens` | symbolic_variant | 1 | 1 |
-| `mirage_as_deceptive_water_appearance` | uncertain | 1 | 1 |
-| `misheard_natural_sound_as_cosmic_disaster` | functional_variant | 1 | 1 |
-| `mistaken_smoke_portent` | functional_variant | 1 | 1 |
-| `moon_as_guide_and_comforter` | folded_child_motif | 1 | 1 |
-| `moon_as_witness_to_future_absence` | folded_child_motif | 1 | 1 |
-| `mountain_vantage_reveals_hidden_figures` | functional_variant | 1 | 1 |
-| `murdered_dead_reveals_hidden_truth_in_dream` | functional_variant | 1 | 1 |
-| `mysterious_music_from_an_unseen_hidden_place` | uncertain | 1 | 1 |
-| `night_as_pregnant_with_future_events` | symbolic_variant | 1 | 1 |
-| `night_procession_with_stars` | uncertain | 1 | 1 |
-| `nocturnal_spirit_causing_dreams_and_apparitions` | functional_variant | 1 | 1 |
-| `omen_based_divination` | functional_variant | 1 | 1 |
-| `omen_marking_divergent_fates` | functional_variant | 1 | 1 |
-| `omen_of_favorable_birds_at_parting` | functional_variant | 1 | 1 |
-| `omen_of_fortune_from_bird_flight` | functional_variant | 1 | 1 |
-| `omens_announce_danger` | functional_variant | 1 | 1 |
-| `omens_announcing_war_before_settlement` | functional_variant | 1 | 1 |
-| `omens_before_combat` | functional_variant | 1 | 1 |
-| `omens_before_conflict` | functional_variant | 1 | 1 |
-| `ominous_animals_and_bodily_portent_before_disaster` | functional_variant | 1 | 1 |
-| `ominous_arrival_bringing_woe_to_a_watcher` | functional_variant | 1 | 1 |
-| `ominous_bird_apparition` | functional_variant | 1 | 1 |
-| `ominous_blood_cloud_before_battle` | symbolic_variant | 1 | 1 |
-| `ominous_bodily_sign_before_disaster` | symbolic_variant | 1 | 1 |
-| `ominous_bodily_sign_before_separation` | symbolic_variant | 1 | 1 |
-| `ominous_choice_among_supernatural_signs` | uncertain | 1 | 1 |
-| `ominous_dream_foretelling_royal_death` | functional_variant | 1 | 1 |
-| `ominous_dream_with_internal_interpretation` | functional_variant | 1 | 1 |
-| `ominous_hunger_prophecy_recalled_during_journey` | functional_variant | 1 | 1 |
-| `ominous_mishap_before_sending_a_message` | over_specific_label | 1 | 1 |
-| `ominous_natural_stillness_before_danger` | symbolic_variant | 1 | 1 |
-| `ominous_portents_before_battle` | functional_variant | 1 | 1 |
-| `ominous_portents_before_confrontation` | functional_variant | 1 | 1 |
-| `ominous_sign_before_discovery_of_loss` | over_specific_label | 1 | 1 |
-| `ominous_supernatural_sound_before_calamity` | functional_variant | 1 | 1 |
-| `ominous_token_foretelling_hero_s_destruction` | functional_variant | 1 | 1 |
-| `ominous_vision_of_a_blood_bathed_host` | symbolic_variant | 1 | 1 |
-| `ominous_wedding_signs_preceding_death` | functional_variant | 1 | 1 |
-| `oracle_fulfilled_through_animal_emblems` | functional_variant | 1 | 1 |
-| `oracle_sanctioned_marriage_exception` | functional_variant | 1 | 1 |
-| `oracle_warning_against_marriage` | functional_variant | 1 | 1 |
-| `oracle_warning_fulfilled_through_misinterpretation` | functional_variant | 1 | 1 |
-| `oracular_restraint_and_required_recantation` | functional_variant | 1 | 1 |
-| `partial_knowledge_of_fate_concealed_from_a_hero` | functional_variant | 1 | 1 |
-| `personified_dream_figures_foretell_conquest_and_strategy` | functional_variant | 1 | 1 |
-| `plant_used_for_omen_drawing_on_a_calendrical_feast_day` | ritual_variant | 1 | 1 |
-| `prayer_answered_by_ambiguous_divine_sign` | functional_variant | 1 | 1 |
-| `prayer_for_confirming_omens_from_two_places` | functional_variant | 1 | 1 |
-| `prior_birth_bodhisatta_receives_prophecy_of_future_buddhahood` | functional_variant | 1 | 1 |
-| `prolonged_dream_vision_followed_by_awakening` | narrower_than | 1 | 1 |
-| `prophecy_concerning_an_exceptional_figure` | functional_variant | 1 | 1 |
-| `prophecy_dismissed_by_its_subject` | functional_variant | 1 | 1 |
-| `prophecy_fulfilled_in_mutual_mortal_combat` | functional_variant | 1 | 1 |
-| `prophecy_fulfilled_through_attempted_avoidance` | functional_variant | 1 | 1 |
-| `prophecy_fulfilled_through_attempted_violence` | functional_variant | 1 | 1 |
-| `prophecy_marks_that_a_hero_will_not_die_in_a_given_fight` | functional_variant | 1 | 1 |
-| `prophecy_of_a_future_city` | functional_variant | 1 | 1 |
-| `prophecy_of_battlefield_slaughter_and_carrion_birds` | functional_variant | 1 | 1 |
-| `prophecy_of_enemy_s_fall_invoked_before_combat` | functional_variant | 1 | 1 |
-| `prophecy_of_future_trouble_after_killing_a_hidden_king` | functional_variant | 1 | 1 |
-| `prophecy_of_reversal_after_defeat` | functional_variant | 1 | 1 |
-| `prophecy_of_the_hero_sacking_the_hold` | functional_variant | 1 | 1 |
-| `prophecy_of_vengeance_for_slain_kin` | functional_variant | 1 | 1 |
-| `prophecy_shadowed_union_leading_toward_doom` | functional_variant | 1 | 1 |
-| `prophetic_apparition_warning_travelers` | functional_variant | 1 | 1 |
-| `prophetic_battlefield_doom_speech` | functional_variant | 1 | 1 |
-| `prophetic_dream_of_danger_with_corrective_interpretation` | functional_variant | 1 | 1 |
-| `prophetic_dream_of_enemy_downfall_and_rescue` | functional_variant | 1 | 1 |
-| `prophetic_dream_verified_by_later_fulfillment` | functional_variant | 1 | 1 |
-| `prophetic_night_apparition_directs_conflict` | functional_variant | 1 | 1 |
-| `prophetic_or_warning_dream_before_conflict` | functional_variant | 1 | 1 |
-| `prophetic_sea_being_whose_approach_brings_dread` | role_variant | 1 | 1 |
-| `prophetic_sleep_and_dream_before_battle` | functional_variant | 1 | 1 |
-| `prophetic_speaking_horse_warns_of_hero_s_doom` | functional_variant | 1 | 1 |
-| `protective_saint_warns_ruler_in_dream` | functional_variant | 1 | 1 |
-| `recognized_hall_tableau_from_a_prior_vision` | functional_variant | 1 | 1 |
-| `red_sky_as_sign_of_supernatural_death` | symbolic_variant | 1 | 1 |
-| `rejected_ominous_dream` | functional_variant | 1 | 1 |
-| `retainers_foreboding_before_lord_s_combat` | functional_variant | 1 | 1 |
-| `revelatory_dream_altering_courage` | functional_variant | 1 | 1 |
-| `riddle_observance_connected_with_dreams_divination_or_corpse_presence` | uncertain | 1 | 1 |
-| `ritual_frenzy_overcoming_a_sacred_singer` | functional_variant | 1 | 1 |
-| `ritual_request_for_augury_before_a_perilous_journey` | ritual_variant | 1 | 1 |
-| `sacred_site_omen_synchronized_with_holy_successor_s_death` | functional_variant | 1 | 1 |
-| `safe_crossing_versus_broken_bridge_as_dream_omen` | functional_variant | 1 | 1 |
-| `saintly_presentiment_of_approaching_death` | functional_variant | 1 | 1 |
-| `scout_observes_ominous_signs_before_the_arrival_of_an_army` | functional_variant | 1 | 1 |
-| `shadow_or_illusion_mistaken_for_reality` | symbolic_variant | 1 | 1 |
-| `sleeping_victim_perceives_attacker_as_in_a_dream` | functional_variant | 1 | 1 |
-| `supernatural_battle_omen_by_birds_and_demons` | functional_variant | 1 | 1 |
-| `supernatural_foreknowledge_of_battlefield_death` | functional_variant | 1 | 1 |
-| `supernatural_scale_sign_accompanies_heroic_deed` | symbolic_variant | 1 | 1 |
-| `sympathetic_omen_of_flourishing_or_withering` | functional_variant | 1 | 1 |
-| `temporary_divine_possession_producing_prophecy_or_divination` | functional_variant | 1 | 1 |
-| `true_and_false_dreams_distinguished_by_gates` | narrower_than | 1 | 1 |
-| `true_magical_event_mistaken_for_dream_or_madness` | functional_variant | 1 | 1 |
-| `unbelieved_true_prophecy_before_catastrophe` | functional_variant | 1 | 1 |
-| `unheeded_prophecy_before_catastrophe` | functional_variant | 1 | 1 |
-| `universal_stilling_and_suspension_at_a_decisive_moment` | uncertain | 1 | 1 |
-| `vanishing_prophetic_woman_after_transaction` | uncertain | 1 | 1 |
-| `victory_confirmed_by_celestial_signs` | functional_variant | 1 | 1 |
-| `wager_over_a_sacred_prediction` | functional_variant | 1 | 1 |
-| `war_omen_through_praise_song` | functional_variant | 1 | 1 |
-
-## Pride, Hubris, and Downfall
-
-- Canonical motif ID: `pride_and_downfall`
-- Distinct traditions: 16
-- Occurrences: 138
-- Mapped motif IDs: 138
+- Canonical motif ID: `duality`
+- Distinct traditions: 17
+- Occurrences: 494
+- Mapped motif IDs: 47
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `admired_feature_becomes_cause_of_ruin` | functional_variant | 1 | 1 |
-| `ambitious_courtier_betrays_benefactor` | functional_variant | 1 | 1 |
-| `artisan_excellence_provoking_envy_and_murder_plot` | functional_variant | 1 | 1 |
-| `attempted_restraint_increases_destructive_anger` | functional_variant | 1 | 1 |
-| `boast_answered_by_bodily_comparison` | over_specific_label | 1 | 1 |
-| `boast_answered_by_supernatural_opposition` | functional_variant | 1 | 1 |
-| `boast_before_combat_followed_by_decisive_defeat` | functional_variant | 1 | 1 |
-| `boast_of_many_children_against_a_divine_rival` | functional_variant | 1 | 1 |
-| `boastful_challenger_immediately_destroyed` | functional_variant | 1 | 1 |
-| `boastful_comparison_followed_by_reversal` | functional_variant | 1 | 1 |
-| `boastful_comparison_overturned_by_events` | functional_variant | 1 | 1 |
-| `boastful_contestant_humbled_in_combat` | functional_variant | 1 | 1 |
-| `boastful_courage_exposed_by_danger` | functional_variant | 1 | 1 |
-| `boastful_demon_king_displays_cosmic_and_royal_power` | functional_variant | 1 | 1 |
-| `boastful_lesser_light_humbled_by_extinction` | functional_variant | 1 | 1 |
-| `boastful_recounting_of_past_victories_to_silence_challengers` | functional_variant | 1 | 1 |
-| `boasting_when_detection_is_impossible` | functional_variant | 1 | 1 |
-| `borrowed_finery_exposed` | functional_variant | 1 | 1 |
-| `constitutional_and_ethical_decline` | uncertain | 1 | 1 |
-| `corruption_into_tyranny_through_seduction_and_implanted_passion` | functional_variant | 1 | 1 |
-| `corruption_of_the_best_nature` | uncertain | 1 | 1 |
-| `counterproductive_remedy_intensifies_the_problem` | functional_variant | 1 | 1 |
-| `counterproductive_removal_of_a_perceived_cause` | functional_variant | 1 | 1 |
-| `death_pursuing_the_wealth_seeker` | functional_variant | 1 | 1 |
-| `death_through_envy_after_surpassing_warriors` | functional_variant | 1 | 1 |
-| `decline_across_generations_into_tyranny` | functional_variant | 1 | 1 |
-| `decline_through_corrupted_generation` | functional_variant | 1 | 1 |
-| `delayed_revenge_after_fall_from_power` | uncertain | 1 | 1 |
-| `derisive_boast_provokes_vengeance` | functional_variant | 1 | 1 |
-| `desire_ruling_the_self` | uncertain | 1 | 1 |
-| `destructive_overreaching_against_nature` | functional_variant | 1 | 1 |
-| `destructive_passion_leading_to_death` | narrower_than | 1 | 1 |
-| `destructive_pride_in_conflict` | functional_variant | 1 | 1 |
-| `discord_grows_when_met_with_violence` | functional_variant | 1 | 1 |
-| `disrespect_before_failed_imitation` | functional_variant | 1 | 1 |
-| `doomed_warrior_ignores_prudent_counsel` | functional_variant | 1 | 1 |
-| `endurance_of_a_record_contrasted_with_daily_transience` | child | 1 | 1 |
-| `envious_imitation_of_a_beneficent_marvel_fails` | functional_variant | 1 | 1 |
-| `envious_rival_prepares_a_poisoned_ambush` | functional_variant | 1 | 1 |
-| `envy_as_harmful_force` | narrower_than | 1 | 1 |
-| `envy_as_possession_leading_to_obstruction` | functional_variant | 1 | 1 |
-| `envy_leading_to_failed_imitation` | functional_variant | 1 | 1 |
-| `envy_leads_to_self_harming_abandonment_of_livelihood` | functional_variant | 1 | 1 |
-| `exaggerated_self_image_leading_to_destruction` | alias | 1 | 1 |
-| `excess_as_cause_of_decay` | symbolic_variant | 1 | 1 |
-| `failed_attempt_to_change_innate_nature_by_imitation` | functional_variant | 1 | 1 |
-| `fall_from_former_status` | broader_label | 1 | 1 |
-| `fall_of_overconfident_monumental_work` | functional_variant | 1 | 1 |
-| `fallen_royal_glory_and_animal_occupied_ruins` | symbolic_variant | 1 | 1 |
-| `false_champion_exposed_by_real_danger` | functional_variant | 1 | 1 |
-| `false_confidence_leads_to_disaster` | narrower_than | 1 | 1 |
-| `false_courage_against_a_powerless_substitute` | functional_variant | 1 | 1 |
-| `false_security_created_by_delayed_harm` | functional_variant | 1 | 1 |
-| `false_self_exaltation_of_a_small_creature` | functional_variant | 1 | 1 |
-| `fame_seeking_destruction_of_a_sacred_building_by_fire` | functional_variant | 1 | 1 |
-| `fatal_disregard_of_a_guiding_middle_path` | functional_variant | 1 | 1 |
-| `fatal_pursuit_of_splendid_spoils` | functional_variant | 1 | 1 |
-| `fire_and_clay_hierarchy_claim` | symbolic_variant | 1 | 1 |
-| `fortunate_removal_contrasted_with_failed_imitation` | functional_variant | 1 | 1 |
-| `greedy_imitation_brings_worthless_result` | functional_variant | 1 | 1 |
-| `greedy_imitator_misuses_or_destroys_a_wonder_working_object` | functional_variant | 1 | 1 |
-| `hero_warned_to_limit_pursuit_but_exceeds_bounds` | functional_variant | 1 | 1 |
-| `heroic_anger_as_civic_danger` | functional_variant | 1 | 1 |
-| `heroic_wrath_with_destructive_consequences` | functional_variant | 1 | 1 |
-| `hidden_subterranean_wealth_unleashes_vice_and_war` | functional_variant | 1 | 1 |
-| `human_imitation_of_celestial_paradise_followed_by_heavenly_destruction` | functional_variant | 1 | 1 |
-| `humbling_of_overconfident_believers` | functional_variant | 1 | 1 |
-| `humiliation_concealed_by_boastful_explanation` | functional_variant | 1 | 1 |
-| `impermanence_of_royal_glory` | symbolic_variant | 1 | 1 |
-| `impermanence_of_royal_grandeur` | symbolic_variant | 1 | 1 |
-| `impermanence_of_worldly_power` | broader_label | 1 | 1 |
-| `insatiable_greed` | narrower_than | 1 | 1 |
-| `intoxication_by_freedom_leading_to_tyranny` | functional_variant | 1 | 1 |
-| `inversion_of_luxury_into_shame_or_bondage` | functional_variant | 1 | 1 |
-| `jealous_imitation_of_a_revered_figure` | functional_variant | 1 | 1 |
-| `jealous_master_destroys_talented_pupil` | functional_variant | 1 | 1 |
-| `kinslaying_for_a_hoard` | functional_variant | 1 | 1 |
-| `limited_mission_with_forbidden_overreach` | functional_variant | 1 | 1 |
-| `losing_a_real_possession_while_seeking_an_illusory_greater_gain` | functional_variant | 1 | 1 |
-| `luxury_produces_conflict` | functional_variant | 1 | 1 |
-| `missed_decisive_victory_through_rage_for_slaughter` | functional_variant | 1 | 1 |
-| `mockery_of_cowardice_after_failed_bravado` | functional_variant | 1 | 1 |
-| `mortal_challenges_deity_in_craft_contest` | functional_variant | 1 | 1 |
-| `obstinate_refusal_of_rescue_or_guidance` | functional_variant | 1 | 1 |
-| `ordered_decline_from_ideal_order_to_tyranny` | functional_variant | 1 | 1 |
-| `ordered_decline_of_regimes` | functional_variant | 1 | 1 |
-| `overbold_pursuit_followed_by_sudden_flight` | functional_variant | 1 | 1 |
-| `overeating_leads_to_entrapment` | functional_variant | 1 | 1 |
-| `personified_envy_infects_a_human_heart` | symbolic_variant | 1 | 1 |
-| `pleasure_causing_neglect_of_duty` | functional_variant | 1 | 1 |
-| `political_degeneration_expressed_through_animal_and_monster_imagery` | symbolic_variant | 1 | 1 |
-| `power_reversed_by_circumstance` | uncertain | 1 | 1 |
-| `precarious_height_and_downfall_of_the_powerful` | symbolic_variant | 1 | 1 |
-| `pretender_made_ridiculous` | functional_variant | 1 | 1 |
-| `pride_and_accidental_superiority_before_reversal` | narrower_than | 1 | 1 |
-| `pride_as_brief_rule_followed_by_downfall_dissolution` | child | 1 | 1 |
-| `pride_corrected_by_humiliation_or_punishment` | functional_variant | 1 | 1 |
-| `pride_from_temporary_wealth_before_a_fall` | narrower_than | 1 | 1 |
-| `pride_humbled_in_divine_containment` | child | 1 | 1 |
-| `pride_leading_to_loss` | alias | 1 | 1 |
-| `prideful_beings_attempt_to_bridge_heaven_and_earth` | functional_variant | 1 | 1 |
-| `prideful_weak_animal_challenges_stronger_animal` | functional_variant | 1 | 1 |
-| `protector_corrupted_into_predator_tyrant` | functional_variant | 1 | 1 |
-| `protector_transformed_into_tyrant` | functional_variant | 1 | 1 |
-| `proud_adversary_refuses_divine_command` | functional_variant | 1 | 1 |
-| `proud_warrior_ignores_ominous_warnings` | functional_variant | 1 | 1 |
-| `public_approval_and_public_humiliation` | functional_variant | 1 | 1 |
-| `public_expert_exposed_by_private_failure` | functional_variant | 1 | 1 |
-| `public_success_produces_jealous_hostility` | narrower_than | 1 | 1 |
-| `rash_request_to_wield_divine_power` | functional_variant | 1 | 1 |
-| `refused_counsel_before_destructive_war` | functional_variant | 1 | 1 |
-| `rejected_prudent_escape_counsel` | functional_variant | 1 | 1 |
-| `rejection_of_a_divine_warner_by_proud_opponents` | functional_variant | 1 | 1 |
-| `reversal_of_fortune_humbles_the_proud` | functional_variant | 1 | 1 |
-| `ruined_splendor_questioning_vanished_power` | symbolic_variant | 1 | 1 |
-| `ruler_sustains_power_through_manufactured_war` | functional_variant | 1 | 1 |
-| `seeming_gain_becomes_fatal_danger` | functional_variant | 1 | 1 |
-| `self_chosen_path_to_destruction` | functional_variant | 1 | 1 |
-| `self_destructive_overreaching_for_an_inaccessible_object` | functional_variant | 1 | 1 |
-| `self_inflicted_harm_while_attacking_a_smaller_enemy` | functional_variant | 1 | 1 |
-| `small_creature_destroyed_by_misjudging_size_or_capacity` | functional_variant | 1 | 1 |
-| `strong_figure_defeated_frail_figures_endure` | uncertain | 1 | 1 |
-| `successive_declining_generations_of_humanity` | broader_label | 1 | 1 |
-| `superior_healer_slain_by_jealous_healer` | functional_variant | 1 | 1 |
-| `triumph_followed_by_sudden_downfall` | functional_variant | 1 | 1 |
-| `tyranny_as_disease_or_death_of_government` | symbolic_variant | 1 | 1 |
-| `tyrant_as_embodiment_of_lawless_wickedness` | role_variant | 1 | 1 |
-| `tyrant_as_slave_of_inner_desires` | symbolic_variant | 1 | 1 |
-| `tyrant_s_generalized_vengeance_after_betrayal` | functional_variant | 1 | 1 |
-| `unattainable_object_disparaged_after_failure` | functional_variant | 1 | 1 |
-| `vanished_kings_and_the_ruin_of_worldly_power` | functional_variant | 1 | 1 |
-| `victor_destroyed_by_lesser_danger` | functional_variant | 1 | 1 |
-| `warning_against_arrogant_suitors` | functional_variant | 1 | 1 |
-| `warning_before_battle_is_ignored_or_belittled` | functional_variant | 1 | 1 |
-| `wealth_leading_to_insolence_and_admonition` | functional_variant | 1 | 1 |
-| `wealth_transformed_into_golden_touch_legend` | functional_variant | 1 | 1 |
-| `wise_counsel_rejected_before_foretold_ruin` | functional_variant | 1 | 1 |
-| `wise_warning_rejected_before_ruin` | functional_variant | 1 | 1 |
+| `duality` | canonical_group | 17 | 448 |
+| `abolition_of_artificial_standards_restores_natural_integrity` | functional_variant | 1 | 1 |
+| `abstract_principle_treated_as_divine_power` | symbolic_variant | 1 | 1 |
+| `age_contrast_in_paired_women` | symbolic_variant | 1 | 1 |
+| `animal_and_shadow_counterpart` | symbolic_variant | 1 | 1 |
+| `contrasting_kind_and_cruel_elders` | symbolic_variant | 1 | 1 |
+| `cosmic_cycle_used_to_explain_existence_and_non_existence` | symbolic_variant | 1 | 1 |
+| `cosmic_witness` | child | 1 | 1 |
+| `cosmos_and_nature_as_witnesses_of_divine_unity` | symbolic_variant | 1 | 1 |
+| `dawn_as_active_conqueror_of_night` | symbolic_variant | 1 | 1 |
+| `denial_of_human_free_agency` | narrower_than | 1 | 1 |
+| `divine_control_of_cosmic_alternation` | symbolic_variant | 1 | 1 |
+| `double_personification_of_one_natural_object` | symbolic_variant | 1 | 1 |
+| `elemental_conflict_of_water_and_fire_around_a_hero` | symbolic_variant | 1 | 1 |
+| `equal_self_injury_behind_opposed_moral_labels` | uncertain | 1 | 1 |
+| `essential_likeness_between_humans_and_animals` | broader_label | 1 | 1 |
+| `freedom_preferred_to_secure_confinement` | symbolic_variant | 1 | 1 |
+| `futile_striving_against_one_s_own_shadow` | symbolic_variant | 1 | 1 |
+| `harmonization_of_divided_inner_powers` | symbolic_variant | 1 | 1 |
+| `harmony_of_cosmos_and_life_imaged_by_music` | symbolic_variant | 1 | 1 |
+| `inadequate_force_against_overwhelming_circumstance` | symbolic_variant | 1 | 1 |
+| `infinity_without_beginning_or_end` | symbolic_variant | 1 | 1 |
+| `injustice_as_internal_division` | symbolic_variant | 1 | 1 |
+| `innate_nature_revealed_despite_upbringing` | symbolic_variant | 1 | 1 |
+| `inner_division_of_the_soul` | symbolic_variant | 1 | 1 |
+| `inner_wild_beast_released_when_reason_sleeps` | symbolic_variant | 1 | 1 |
+| `interdependence_of_unequal_functions` | symbolic_variant | 1 | 1 |
+| `inversion_of_social_hierarchy` | functional_variant | 1 | 1 |
+| `killing_through_an_object_and_time_outside_opposed_categories` | uncertain | 1 | 1 |
+| `microcosmic_war_within_a_tiny_world` | symbolic_variant | 1 | 1 |
+| `moralized_conflict_of_virtue_and_vice` | symbolic_variant | 1 | 1 |
+| `moralized_paired_waters_of_falsehood_and_truth` | symbolic_variant | 1 | 1 |
+| `natural_order_over_human_intervention` | symbolic_variant | 1 | 1 |
+| `necessity_bounded_by_creative_will` | symbolic_variant | 1 | 1 |
+| `non_action` | child | 1 | 1 |
+| `ordered_harmony_of_parts_within_a_whole` | broader_label | 1 | 1 |
+| `paired_contrasting_interlocutors` | symbolic_variant | 1 | 1 |
+| `paired_dangerous_beings_localized_as_natural_winds` | symbolic_variant | 1 | 1 |
+| `peace_through_non_aggression_and_unused_weapons` | symbolic_variant | 1 | 1 |
+| `reconciliation_of_opposites` | functional_variant | 1 | 1 |
+| `reversal_between_life_and_death_valuation` | symbolic_variant | 1 | 1 |
+| `satanic_malicious_counsel_opposed_by_righteous_speech` | functional_variant | 1 | 1 |
+| `spontaneous_golden_age_without_conscious_morality` | symbolic_variant | 1 | 1 |
+| `sunrise_as_life_giving_cosmic_order` | symbolic_variant | 1 | 1 |
+| `triad_of_divine_sisters_personifying_grace_and_refinement` | uncertain | 1 | 1 |
+| `tripartite_inner_order` | symbolic_variant | 1 | 1 |
+| `universal_divine_ordering_force` | uncertain | 1 | 1 |
 
-## Storytelling and Narrative as Sacred Power
+## Covenant and Sacred Bond
 
-- Canonical motif ID: `storytelling_as_power`
-- Distinct traditions: 16
-- Occurrences: 104
-- Mapped motif IDs: 104
+- Canonical motif ID: `covenant`
+- Distinct traditions: 17
+- Occurrences: 433
+- Mapped motif IDs: 107
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `animal_storyteller_frame` | functional_variant | 1 | 1 |
-| `authorship_as_public_immortality` | symbolic_variant | 1 | 1 |
-| `bardic_performance_nested_within_the_main_narrative` | functional_variant | 1 | 1 |
-| `blind_poor_bard_remembered_as_sweetest_singer` | symbolic_variant | 1 | 1 |
-| `book_completed_by_divine_favor` | functional_variant | 1 | 1 |
-| `comic_misunderstanding_of_learned_performance` | functional_variant | 1 | 1 |
-| `contest_of_song_between_mortals_and_goddesses` | functional_variant | 1 | 1 |
-| `cursed_poetic_work_causing_madness_in_readers` | functional_variant | 1 | 1 |
-| `dawn_suspense_reprieve` | child | 1 | 1 |
-| `deity_invoked_to_enter_and_bless_a_song` | ritual_variant | 1 | 1 |
-| `deity_praised_by_natural_and_human_singers` | functional_variant | 1 | 1 |
-| `demonic_storyteller_frame` | functional_variant | 1 | 1 |
-| `divine_musician_and_leader_of_song` | role_variant | 1 | 1 |
-| `divine_patronage_of_singers_and_music` | functional_variant | 1 | 1 |
-| `divine_song_transforms_nature_into_provisions_and_wealth` | functional_variant | 1 | 1 |
-| `divinely_affiliated_singer_with_lyre` | role_variant | 1 | 1 |
-| `divinely_arranged_suffering_preserved_in_song` | functional_variant | 1 | 1 |
-| `domestic_lullaby_storytelling_by_cradle_and_fire` | functional_variant | 1 | 1 |
-| `efficacious_poetic_speech_alters_royal_action` | functional_variant | 1 | 1 |
-| `eloquence_represented_as_golden_chains_from_the_mouth` | symbolic_variant | 1 | 1 |
-| `embedded_tale_within_judicial_inquiry` | functional_variant | 1 | 1 |
-| `emotional_contagion_through_represented_suffering` | functional_variant | 1 | 1 |
-| `enchanted_drink_causing_sleep_at_a_feast` | functional_variant | 1 | 1 |
-| `enchanting_power_of_words` | symbolic_variant | 1 | 1 |
-| `enchantment_of_the_soul_by_speech` | functional_variant | 1 | 1 |
-| `enduring_sacred_fame_guaranteed_by_natural_permanence` | symbolic_variant | 1 | 1 |
-| `enemy_rhetoric_exploiting_grievance` | functional_variant | 1 | 1 |
-| `feast_drink_prompting_communal_song` | functional_variant | 1 | 1 |
-| `foundation_text_of_a_cultural_past` | functional_variant | 1 | 1 |
-| `framed_past_life_exemplum` | functional_variant | 1 | 1 |
-| `hero_praised_through_catalogue_of_exploits_before_battle` | functional_variant | 1 | 1 |
-| `heroic_fame_as_the_remaining_possession_of_the_dead` | symbolic_variant | 1 | 1 |
-| `heroic_life_made_into_authoritative_epic_narration` | meta_artifact | 1 | 1 |
-| `heroic_name_proclaimed_among_peoples` | functional_variant | 1 | 1 |
-| `human_wins_favor_of_demons_through_performance` | functional_variant | 1 | 1 |
-| `incantatory_folk_poetry_linked_with_pagan_religious_practice` | ritual_variant | 1 | 1 |
-| `invocation_of_divine_witnesses_for_heroic_catalogue` | uncertain | 1 | 1 |
-| `last_minute_interruption_of_execution` | functional_variant | 1 | 1 |
-| `last_minute_rescue_from_execution` | functional_variant | 1 | 1 |
-| `liberating_song_opens_bonds` | functional_variant | 1 | 1 |
-| `liberator_threatened_by_captive` | child | 1 | 1 |
-| `lineage_of_poetic_authority_and_patronage` | role_variant | 1 | 1 |
-| `living_or_animated_speech` | symbolic_variant | 1 | 1 |
-| `lost_ancient_tribes_remembered_through_tradition_and_scripture` | functional_variant | 1 | 1 |
-| `magical_satire_and_insult_song` | functional_variant | 1 | 1 |
-| `magical_song_as_overpowering_force` | functional_variant | 1 | 1 |
-| `marvelous_voice_producing_abundance_and_delight` | functional_variant | 1 | 1 |
-| `music_summons_a_shade_giving_grove` | over_specific_label | 1 | 1 |
-| `national_songs_preserved_in_memory_before_writing` | narrower_than | 1 | 1 |
-| `nearly_extinguished_speech_revived_into_living_word` | symbolic_variant | 1 | 1 |
-| `oral_preservation_by_trained_bards` | functional_variant | 1 | 1 |
-| `oral_songs_arising_from_communal_memory_of_war` | functional_variant | 1 | 1 |
-| `oral_tradition_passed_to_future_generations` | functional_variant | 1 | 1 |
-| `oral_transmission_of_heroic_legend_in_domestic_settings` | functional_variant | 1 | 1 |
-| `pacification_through_poetic_speech` | functional_variant | 1 | 1 |
-| `personified_report_as_supernatural_agent` | symbolic_variant | 1 | 1 |
-| `personified_speech_or_rumor_as_persistent_divine_force` | symbolic_variant | 1 | 1 |
-| `personified_vessels_in_dialogue` | functional_variant | 1 | 1 |
-| `poems_as_pearls_gathered_after_death` | symbolic_variant | 1 | 1 |
-| `poet_assuming_another_person_through_imitation` | functional_variant | 1 | 1 |
-| `poet_challenges_ruler_through_witty_reply` | functional_variant | 1 | 1 |
-| `poet_s_work_appropriated_by_false_claimant` | functional_variant | 1 | 1 |
-| `poet_satirist_compels_or_redirects_obligation` | functional_variant | 1 | 1 |
-| `poetic_contest_between_rival_poets` | functional_variant | 1 | 1 |
-| `poetic_contest_with_prize_dedication` | functional_variant | 1 | 1 |
-| `poetic_immortality_of_heroic_pair` | symbolic_variant | 1 | 1 |
-| `poetic_praise_increases_warrior_courage` | functional_variant | 1 | 1 |
-| `poetic_song_as_peacemaking_force` | functional_variant | 1 | 1 |
-| `poetic_song_survives_death` | symbolic_variant | 1 | 1 |
-| `poetry_as_fertile_garden_or_nursery` | symbolic_variant | 1 | 1 |
-| `praise_or_rebuke_restores_a_warrior_s_courage` | functional_variant | 1 | 1 |
-| `public_contest_of_performers_before_a_judging_crowd` | functional_variant | 1 | 1 |
-| `public_display_contest_of_sacred_and_poetic_texts` | functional_variant | 1 | 1 |
-| `public_recitation_leading_to_civic_and_sacred_recognition` | functional_variant | 1 | 1 |
-| `regulation_of_divine_stories_for_youth_education` | functional_variant | 1 | 1 |
-| `rescue_of_oral_tradition_from_loss` | functional_variant | 1 | 1 |
-| `rhyme_as_persuasive_sacred_style` | symbolic_variant | 1 | 1 |
-| `ritual_completion_of_scripture_through_divided_recitation` | ritual_variant | 1 | 1 |
-| `rival_praise_of_local_heroes` | uncertain | 1 | 1 |
-| `rivalry_of_poetry_and_philosophy` | functional_variant | 1 | 1 |
-| `ruler_orders_wondrous_event_recorded` | functional_variant | 1 | 1 |
-| `sacred_narrative_displayed_on_relic_shrines` | ritual_variant | 1 | 1 |
-| `sacred_opening_formula` | ritual_variant | 1 | 1 |
-| `self_composed_epitaph_before_death` | functional_variant | 1 | 1 |
-| `songbird_preserving_memory_of_former_heroes` | symbolic_variant | 1 | 1 |
-| `sorrow_banishing_drug_mixed_into_communal_wine` | functional_variant | 1 | 1 |
-| `speech_as_enchantment_of_the_mind` | functional_variant | 1 | 1 |
-| `speechless_captive_finds_alternate_communication` | functional_variant | 1 | 1 |
-| `stories_ascribed_to_a_sacred_teacher` | uncertain | 1 | 1 |
-| `storytelling_as_condition_for_release` | functional_variant | 1 | 1 |
-| `storytelling_as_survival` | child | 1 | 1 |
-| `storytelling_at_fire_and_tree_shade` | narrower_than | 1 | 1 |
-| `storytelling_before_a_ruler_wins_mercy` | functional_variant | 1 | 1 |
-| `storytelling_frame_before_a_cruel_ruler` | functional_variant | 1 | 1 |
-| `tale_as_repayment_for_food_and_drink` | functional_variant | 1 | 1 |
-| `third_party_arbiter_profits_from_a_quarrel` | functional_variant | 1 | 1 |
-| `unmade_textile_as_prolonged_device` | functional_variant | 1 | 1 |
-| `unspoken_verse_as_illness_relieved_by_recitation` | functional_variant | 1 | 1 |
-| `untranslatable_contest_or_repartee_based_on_wordplay` | functional_variant | 1 | 1 |
-| `verbal_defeat_turning_into_violence` | functional_variant | 1 | 1 |
-| `voluntary_bride_intercession` | child | 1 | 1 |
-| `war_camp_storytelling_of_heroic_feats` | functional_variant | 1 | 1 |
-| `wit_overwhelms_supernatural_force` | child | 1 | 1 |
-| `woman_weaving_the_war_caused_around_her` | symbolic_variant | 1 | 1 |
+| `covenant` | canonical_group | 15 | 327 |
+| `adaptation_of_older_sacred_customs_into_reformed_worship` | ritual_variant | 1 | 1 |
+| `afflicted_people_promised_succession_in_the_land` | functional_variant | 1 | 1 |
+| `apostasy_during_the_leader_s_absence` | functional_variant | 1 | 1 |
+| `asylum_secured_by_supplication_and_marriage_status` | functional_variant | 1 | 1 |
+| `battle_horse_oath_imagery` | symbolic_variant | 1 | 1 |
+| `battlefield_vow_restores_heroic_action` | functional_variant | 1 | 1 |
+| `binding_obligation_compels_dangerous_action` | functional_variant | 1 | 1 |
+| `blessing_after_separation_through_prophetic_descendants` | functional_variant | 1 | 1 |
+| `broken_and_renewed_covenant` | child | 1 | 1 |
+| `broken_oath_and_friendship_before_duel` | functional_variant | 1 | 1 |
+| `champion_bound_by_queen_s_bargain` | functional_variant | 1 | 1 |
+| `champion_s_protection_vow` | functional_variant | 1 | 1 |
+| `clemency_toward_defeated_enemies_secured_by_oath` | functional_variant | 1 | 1 |
+| `communal_unity_through_a_divine_bond` | functional_variant | 1 | 1 |
+| `conditional_cessation_oath_between_opponents` | functional_variant | 1 | 1 |
+| `conditional_promise_not_to_speak_of_a_hidden_former_state` | narrower_than | 1 | 1 |
+| `cosmic_bounds_oath_formula` | ritual_variant | 1 | 1 |
+| `cosmic_oath_by_celestial_and_terrestrial_signs` | ritual_variant | 1 | 1 |
+| `deathbed_injunction_not_to_abandon_a_protected_person` | functional_variant | 1 | 1 |
+| `dissolution_of_oaths_by_divine_permission` | narrower_than | 1 | 1 |
+| `divine_deliverance_from_danger_followed_by_renewed_false_worship` | functional_variant | 1 | 1 |
+| `enemy_rescued_by_those_he_hates` | functional_variant | 1 | 1 |
+| `enemy_suppliant_granted_a_pledge_of_safety` | functional_variant | 1 | 1 |
+| `exclusive_devotion_and_rejection_of_idols` | narrower_than | 1 | 1 |
+| `exclusive_devotion_to_the_one_lord` | narrower_than | 1 | 1 |
+| `exclusive_monotheistic_worship` | narrower_than | 1 | 1 |
+| `exclusive_worship_against_powerless_idols` | uncertain | 1 | 1 |
+| `exclusive_worship_and_rejection_of_divine_association` | narrower_than | 1 | 1 |
+| `false_alliance_and_abandoned_allies` | functional_variant | 1 | 1 |
+| `false_allies_abandon_those_they_promise_to_help` | functional_variant | 1 | 1 |
+| `false_oath_versus_required_obedience` | functional_variant | 1 | 1 |
+| `false_or_denied_intercession` | uncertain | 1 | 1 |
+| `false_worship_of_the_calf_during_moses_absence` | narrower_than | 1 | 1 |
+| `father_s_plea_to_save_the_beloved_son` | role_variant | 1 | 1 |
+| `feud_resolved_by_peace_agreement` | functional_variant | 1 | 1 |
+| `humble_prostration_at_fulfilled_divine_promise` | ritual_variant | 1 | 1 |
+| `idol_episode_during_mediator_s_absence` | uncertain | 1 | 1 |
+| `idol_made_during_the_leader_s_absence` | uncertain | 1 | 1 |
+| `idolatrous_substitute_during_leader_s_absence` | uncertain | 1 | 1 |
+| `idolatry_with_the_calf` | narrower_than | 1 | 1 |
+| `invulnerability_through_oaths_with_one_omitted_exception` | functional_variant | 1 | 1 |
+| `irrevocable_oath_compels_destructive_compliance` | functional_variant | 1 | 1 |
+| `literal_wording_of_an_agreement_exploited_in_battle` | functional_variant | 1 | 1 |
+| `magical_forgetfulness_delaying_completion_of_an_obligation` | functional_variant | 1 | 1 |
+| `mercy_overcoming_anger_toward_a_foe` | functional_variant | 1 | 1 |
+| `mercy_to_a_defeated_enemy` | functional_variant | 1 | 1 |
+| `mercy_toward_a_defeated_attacker` | functional_variant | 1 | 1 |
+| `mercy_toward_an_enemy` | functional_variant | 1 | 1 |
+| `mercy_toward_living_creatures_as_proof_of_moral_discipline` | ritual_variant | 1 | 1 |
+| `mercy_toward_spared_figures_amid_slaughter` | functional_variant | 1 | 1 |
+| `monotheistic_reform_against_idolatry` | functional_variant | 1 | 1 |
+| `motif_families_covenant` | narrower_than | 1 | 1 |
+| `new_law_replacing_or_reinterpreting_prior_ritual_obligations` | functional_variant | 1 | 1 |
+| `oath_and_friendship_invoked_to_avert_combat` | functional_variant | 1 | 1 |
+| `oath_before_divine_witness_to_test_fairness` | ritual_variant | 1 | 1 |
+| `oath_bound_ally_promises_single_shot_deliverance` | functional_variant | 1 | 1 |
+| `oath_bound_elder_serving_against_beloved_kin` | functional_variant | 1 | 1 |
+| `oath_protected_secret_identity` | functional_variant | 1 | 1 |
+| `oath_witnessed_by_an_underworld_deity` | ritual_variant | 1 | 1 |
+| `obligation_by_magical_or_druidic_bonds` | functional_variant | 1 | 1 |
+| `patriarchal_supplication_for_sacred_settlement` | functional_variant | 1 | 1 |
+| `peacemaking_between_brethren_after_internal_conflict` | functional_variant | 1 | 1 |
+| `prohibition_or_bond_connected_to_death` | uncertain | 1 | 1 |
+| `promise_sustaining_a_sectarian_community` | functional_variant | 1 | 1 |
+| `prophetic_renewal_of_neglected_religion` | functional_variant | 1 | 1 |
+| `protector_s_vow_to_defend_forest_ascetics` | functional_variant | 1 | 1 |
+| `public_pledge_compels_dangerous_combat` | functional_variant | 1 | 1 |
+| `public_proclamation_at_sacred_assembly` | ritual_variant | 1 | 1 |
+| `reciprocal_martial_promise_between_foster_relations` | narrower_than | 1 | 1 |
+| `reconciliation_of_former_enemies_into_brethren` | functional_variant | 1 | 1 |
+| `redemption_by_written_instrument` | functional_variant | 1 | 1 |
+| `reform_from_idolatry_to_exclusive_worship` | functional_variant | 1 | 1 |
+| `rejection_of_false_deities` | functional_variant | 1 | 1 |
+| `rejection_of_rival_divine_names_and_limited_intercession` | uncertain | 1 | 1 |
+| `religious_boundary_against_idolatrous_compromise` | narrower_than | 1 | 1 |
+| `religious_transformation_of_a_people` | uncertain | 1 | 1 |
+| `restoration_of_peace_among_brethren` | functional_variant | 1 | 1 |
+| `return_of_a_slain_warrior_under_the_letter_of_a_promise_or_law` | functional_variant | 1 | 1 |
+| `righteous_remnant_within_another_scriptural_community` | role_variant | 1 | 1 |
+| `ritual_bond_renounced_after_betrayal` | functional_variant | 1 | 1 |
+| `sacred_household_offered_a_choice_of_loyalty` | functional_variant | 1 | 1 |
+| `sacred_waters_as_contest_stake_and_oath_medium` | functional_variant | 1 | 1 |
+| `sea_monster_released_after_vow_of_non_return` | functional_variant | 1 | 1 |
+| `secrecy_oath_under_threat_in_household_crisis` | narrower_than | 1 | 1 |
+| `sequential_intercessors_test_the_captor_s_resolve` | functional_variant | 1 | 1 |
+| `social_harmony_through_agreed_rule` | functional_variant | 1 | 1 |
+| `steadfast_community_after_possible_death_of_its_prophet` | uncertain | 1 | 1 |
+| `submission_to_divine_command` | functional_variant | 1 | 1 |
+| `suppliant_denied_mercy` | child | 1 | 1 |
+| `suppliant_ransom_offer_refused` | child | 1 | 1 |
+| `supplication_and_ransom_refused` | child | 1 | 1 |
+| `supplication_at_the_feet_for_pardon` | ritual_variant | 1 | 1 |
+| `supplication_at_the_knees_before_imminent_killing` | ritual_variant | 1 | 1 |
+| `supplication_for_peace_with_unarmed_hands` | ritual_variant | 1 | 1 |
+| `supplication_softening_the_enemy` | functional_variant | 1 | 1 |
+| `supplication_with_ransom_refused` | child | 1 | 1 |
+| `temptation_toward_idolatry_after_deliverance` | functional_variant | 1 | 1 |
+| `truth_bound_promise_as_moral_constraint` | functional_variant | 1 | 1 |
+| `victorious_hero_spares_defeated_female_opponent` | functional_variant | 1 | 1 |
+| `violent_host_grants_temporary_reprieve_through_female_intercession` | functional_variant | 1 | 1 |
+| `vow_and_counter_vow_over_a_king_s_capture` | functional_variant | 1 | 1 |
+| `vow_bound_hero_made_vulnerable_by_his_own_oath` | functional_variant | 1 | 1 |
+| `vow_bound_hero_observing_paternal_command` | functional_variant | 1 | 1 |
+| `weak_supplicant_before_dominant_predator` | uncertain | 1 | 1 |
+| `weaving_undone_as_image_of_broken_obligation` | symbolic_variant | 1 | 1 |
+| `witnessed_and_written_obligation` | narrower_than | 1 | 1 |
+
+## Sacred Treasures and Power Objects
+
+- Canonical motif ID: `sacred_treasures`
+- Distinct traditions: 17
+- Occurrences: 328
+- Mapped motif IDs: 326
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `lost_ring_recovered_through_a_fish` | functional_variant | 1 | 2 |
+| `saint_s_tomb_as_pilgrimage_center` | narrower_than | 1 | 2 |
+| `accumulation_of_wonderful_objects` | narrower_than | 1 | 1 |
+| `ancestral_footprint_preserved_in_stone` | symbolic_variant | 1 | 1 |
+| `ancestral_objects_triggering_curse` | functional_variant | 1 | 1 |
+| `ancestral_or_heroic_weapons_carrying_memory_of_prior_combat` | symbolic_variant | 1 | 1 |
+| `animal_charm_for_protection` | functional_variant | 1 | 1 |
+| `animal_part_as_sacred_food_luck_object_divinatory_object_or_token` | uncertain | 1 | 1 |
+| `animated_idol_made_from_communal_ornaments` | functional_variant | 1 | 1 |
+| `animated_or_sounding_calf_that_misleads_israel` | uncertain | 1 | 1 |
+| `animated_or_speaking_weapons_and_instruments` | functional_variant | 1 | 1 |
+| `apotropaic_shield_covered_with_terrifying_battle_imagery` | functional_variant | 1 | 1 |
+| `automated_or_self_moving_sacred_objects` | functional_variant | 1 | 1 |
+| `autonomous_magic_weapon_of_a_god` | functional_variant | 1 | 1 |
+| `autonomous_or_enchanted_game_board` | functional_variant | 1 | 1 |
+| `battle_standard_as_emblem_of_martial_dominance` | functional_variant | 1 | 1 |
+| `beloved_imitators_assume_the_hero_s_bodily_mark` | uncertain | 1 | 1 |
+| `blood_stained_token_falsely_indicating_death` | functional_variant | 1 | 1 |
+| `broken_heirloom_provokes_revenge` | functional_variant | 1 | 1 |
+| `captive_refuses_treasure_secret_under_torture` | functional_variant | 1 | 1 |
+| `captive_released_from_a_magic_weapon_s_spell` | functional_variant | 1 | 1 |
+| `celestial_armor_for_the_hero` | child | 1 | 1 |
+| `chosen_hero_draws_a_divine_weapon_from_a_tree` | functional_variant | 1 | 1 |
+| `christian_bell_as_instrument_of_release_from_older_suffering` | functional_variant | 1 | 1 |
+| `coerced_removal_by_magic_like_rod` | functional_variant | 1 | 1 |
+| `coercive_cutting_of_hair_to_overcome_resistance` | uncertain | 1 | 1 |
+| `colored_flags_signal_life_or_death` | functional_variant | 1 | 1 |
+| `commanded_weapon_executes_distant_killing` | functional_variant | 1 | 1 |
+| `commanded_weapon_that_performs_tasks_and_beheading` | functional_variant | 1 | 1 |
+| `commemorative_or_etiological_stones_marking_violent_events` | functional_variant | 1 | 1 |
+| `concealed_bodily_mark_revealed_by_nature` | functional_variant | 1 | 1 |
+| `concealed_or_discarded_token_used_as_proof` | functional_variant | 1 | 1 |
+| `concealment_by_magic_ring` | functional_variant | 1 | 1 |
+| `contagious_burning_from_a_weapon` | functional_variant | 1 | 1 |
+| `contested_magical_treasure_seized_by_talons` | functional_variant | 1 | 1 |
+| `control_of_waters_by_magical_jewels` | functional_variant | 1 | 1 |
+| `control_of_waters_by_object_boundary` | functional_variant | 1 | 1 |
+| `covering_mirrors_after_death_to_prevent_soul_capture` | ritual_variant | 1 | 1 |
+| `crying_or_sounding_shield_that_summons_wider_response` | functional_variant | 1 | 1 |
+| `cult_image_as_garden_and_vineyard_guardian` | functional_variant | 1 | 1 |
+| `cure_by_the_substance_of_the_wounding_weapon` | functional_variant | 1 | 1 |
+| `cursed_treasure_or_ring_brings_bloodshed` | functional_variant | 1 | 1 |
+| `cursed_victory_giving_weapon_turns_against_its_wielder` | functional_variant | 1 | 1 |
+| `daily_miraculous_renewal_of_weapons_for_battle` | functional_variant | 1 | 1 |
+| `dangerous_fiery_weapon_restrained_by_water` | functional_variant | 1 | 1 |
+| `dangerous_sacred_stone_causing_madness` | functional_variant | 1 | 1 |
+| `deadly_object_in_a_courtship_contest` | functional_variant | 1 | 1 |
+| `deceptive_hollow_image_concealing_enemies` | functional_variant | 1 | 1 |
+| `deification_of_revered_ancestral_or_pious_figures_through_statues` | ritual_variant | 1 | 1 |
+| `deification_of_revered_religious_leaders` | uncertain | 1 | 1 |
+| `desire_for_radiant_treasure_from_the_wilderness` | functional_variant | 1 | 1 |
+| `destined_weapon_against_an_otherwise_invulnerable_enemy` | functional_variant | 1 | 1 |
+| `destruction_of_harmful_image_or_statue` | functional_variant | 1 | 1 |
+| `devotional_preservation_of_a_holy_person_s_bodily_traces` | ritual_variant | 1 | 1 |
+| `discordant_object_introduced_at_a_wedding_feast` | uncertain | 1 | 1 |
+| `distant_weapon_as_messenger_of_greater_power` | functional_variant | 1 | 1 |
+| `divine_aid_through_a_sacred_weapon` | functional_variant | 1 | 1 |
+| `divine_animal_bearing_a_god_s_storm_weapons` | role_variant | 1 | 1 |
+| `divine_bestowal_of_martial_skill_and_weapons` | functional_variant | 1 | 1 |
+| `divine_bird_vehicle` | functional_variant | 1 | 1 |
+| `divine_contest_around_the_golden_apple` | over_specific_label | 1 | 1 |
+| `divine_empowerment_through_sanctioned_armor` | functional_variant | 1 | 1 |
+| `divine_heirloom_passed_from_heaven_to_father_to_son` | functional_variant | 1 | 1 |
+| `divine_inner_metal_contrasted_with_earthly_metal` | symbolic_variant | 1 | 1 |
+| `divine_made_equipment_linked_to_the_hero_s_death_by_fire` | functional_variant | 1 | 1 |
+| `divine_musician_with_magical_instrument` | functional_variant | 1 | 1 |
+| `divine_nectar` | uncertain | 1 | 1 |
+| `divine_or_celestial_weapons_bestowed_on_the_hero` | child | 1 | 1 |
+| `divine_or_named_weapons_decide_battle` | functional_variant | 1 | 1 |
+| `divine_or_paradisal_vehicle` | functional_variant | 1 | 1 |
+| `divine_or_underworld_tempered_weapon` | symbolic_variant | 1 | 1 |
+| `divine_possession_of_cosmic_treasure_and_true_might` | symbolic_variant | 1 | 1 |
+| `divine_war_equipment_resists_attack` | functional_variant | 1 | 1 |
+| `divine_weapon_or_armor_for_a_hero` | functional_variant | 1 | 1 |
+| `divine_weapon_that_overcomes_an_otherwise_resistant_foe` | functional_variant | 1 | 1 |
+| `divine_weapon_used_by_the_hero` | functional_variant | 1 | 1 |
+| `divine_whittled_stick_symbol` | uncertain | 1 | 1 |
+| `divinely_bestowed_weapon_and_strength` | functional_variant | 1 | 1 |
+| `divinely_sourced_heroic_weapons` | child | 1 | 1 |
+| `dying_parent_gives_a_remembrance_token` | functional_variant | 1 | 1 |
+| `edible_idol_consumed_under_famine` | uncertain | 1 | 1 |
+| `effigy_fragments_as_fertility_charms` | functional_variant | 1 | 1 |
+| `elaborate_destructive_weapon_of_a_champion` | functional_variant | 1 | 1 |
+| `enchanted_burning_weapon` | symbolic_variant | 1 | 1 |
+| `enchanted_mill_produces_desired_abundance` | functional_variant | 1 | 1 |
+| `enchanted_object_that_immobilizes_the_toucher` | functional_variant | 1 | 1 |
+| `enchanted_weapon_causing_incurable_wound` | functional_variant | 1 | 1 |
+| `enchanted_weapons_made_from_fragments_of_a_felled_tree` | functional_variant | 1 | 1 |
+| `endangered_hero_aided_by_helper_with_divine_made_weapon` | functional_variant | 1 | 1 |
+| `etiology_of_an_abundance_horn` | over_specific_label | 1 | 1 |
+| `etiology_of_sea_salt_and_whirlpool_from_sunken_magic_mill` | functional_variant | 1 | 1 |
+| `failed_martial_implement_rejected_and_consigned_to_fire` | over_specific_label | 1 | 1 |
+| `fatal_demand_for_the_hero_s_weapon` | functional_variant | 1 | 1 |
+| `fatal_gift_or_cursed_ornament` | functional_variant | 1 | 1 |
+| `fatal_gift_or_garment_sent_in_jealousy` | functional_variant | 1 | 1 |
+| `fatal_gift_weapon` | functional_variant | 1 | 1 |
+| `fatal_poisoned_garment` | functional_variant | 1 | 1 |
+| `fatal_ring_as_proof_and_catalyst` | functional_variant | 1 | 1 |
+| `fatal_special_weapon_in_heroic_combat` | functional_variant | 1 | 1 |
+| `fatal_trophy_or_cursed_spoils` | functional_variant | 1 | 1 |
+| `fated_tokens_and_persons_required_before_a_city_can_fall` | functional_variant | 1 | 1 |
+| `fiery_manifestation_of_powerful_weapons` | symbolic_variant | 1 | 1 |
+| `final_remaining_weapon_succeeds_after_special_preparation` | functional_variant | 1 | 1 |
+| `flight_granting_jewel` | functional_variant | 1 | 1 |
+| `flying_car_possessed_by_a_wealth_god` | over_specific_label | 1 | 1 |
+| `gifted_divine_horses_and_heroic_prestige` | functional_variant | 1 | 1 |
+| `golden_fruit_used_to_delay_a_pursuer_or_rival` | functional_variant | 1 | 1 |
+| `grief_induced_loss_of_sight_followed_by_restoration_through_a_token` | functional_variant | 1 | 1 |
+| `guarded_golden_apples_as_treasure_or_marvelous_produce` | narrower_than | 1 | 1 |
+| `guarded_golden_fruit_beyond_ocean` | narrower_than | 1 | 1 |
+| `guarded_mythic_fruit` | narrower_than | 1 | 1 |
+| `haunted_or_sterile_tomb_of_a_saintly_figure` | uncertain | 1 | 1 |
+| `healing_sign` | child | 1 | 1 |
+| `healing_skin_of_a_wondrous_animal` | functional_variant | 1 | 1 |
+| `healing_token_from_absent_beloved_son` | functional_variant | 1 | 1 |
+| `healing_token_restores_sight` | functional_variant | 1 | 1 |
+| `heaven_sent_protective_object_preserving_the_city` | functional_variant | 1 | 1 |
+| `heavenly_garment_transmitted_across_patriarchs` | functional_variant | 1 | 1 |
+| `helper_prepares_hero_s_special_weapon_through_controlled_water` | functional_variant | 1 | 1 |
+| `hero_armed_in_divine_armor_for_battle` | functional_variant | 1 | 1 |
+| `hero_armed_with_divine_gifts_before_battle` | functional_variant | 1 | 1 |
+| `hero_receives_divine_vehicle_and_weapons` | functional_variant | 1 | 1 |
+| `hero_recognized_by_distinctive_shield` | functional_variant | 1 | 1 |
+| `hero_s_weapon_as_strategic_vulnerability` | functional_variant | 1 | 1 |
+| `hero_wears_another_hero_s_armor_as_substitute_image` | uncertain | 1 | 1 |
+| `hero_with_divine_or_legendary_weapon` | narrower_than | 1 | 1 |
+| `heroic_banners_with_emblematic_identities` | symbolic_variant | 1 | 1 |
+| `heroic_shield_description` | over_specific_label | 1 | 1 |
+| `heroic_weapon_destined_to_accomplish_a_city_s_fall` | functional_variant | 1 | 1 |
+| `hidden_heroic_relics_retrieved_from_under_a_rock` | narrower_than | 1 | 1 |
+| `hidden_heroic_weapons_recovered_from_a_tree` | functional_variant | 1 | 1 |
+| `hidden_treasure_beneath_tree_in_cave` | over_specific_label | 1 | 1 |
+| `hidden_treasure_found_by_following_supernatural_advice` | functional_variant | 1 | 1 |
+| `hidden_treasure_inside_an_object` | narrower_than | 1 | 1 |
+| `hidden_treasure_search_with_unexpected_reward` | functional_variant | 1 | 1 |
+| `hidden_weapons_concealed_in_a_tree` | functional_variant | 1 | 1 |
+| `holy_face_image_impressed_on_cloth` | symbolic_variant | 1 | 1 |
+| `honor_token_bestowed_on_a_bride_or_maiden` | functional_variant | 1 | 1 |
+| `honored_humans_becoming_idols` | uncertain | 1 | 1 |
+| `identity_tested_by_hidden_token` | functional_variant | 1 | 1 |
+| `idol` | child | 1 | 1 |
+| `idol_made_through_sacred_trace_and_then_destroyed` | uncertain | 1 | 1 |
+| `immortality_substance_withheld_and_destroyed` | functional_variant | 1 | 1 |
+| `indistinguishable_combatants_require_a_recognition_token` | functional_variant | 1 | 1 |
+| `inextinguishable_destructive_fire_weapon` | functional_variant | 1 | 1 |
+| `infallible_returning_weapon_with_fatal_consequences` | functional_variant | 1 | 1 |
+| `inherited_named_treasures_of_a_hero_sire` | narrower_than | 1 | 1 |
+| `inseparable_animal_skin_with_annual_wool_renewal` | uncertain | 1 | 1 |
+| `instrument_of_victory_becomes_instrument_of_control` | functional_variant | 1 | 1 |
+| `intercessory_divine_images` | uncertain | 1 | 1 |
+| `invisibility_granting_dark_cap` | narrower_than | 1 | 1 |
+| `invisible_killer_under_a_magical_concealment` | functional_variant | 1 | 1 |
+| `iron_as_apotropaic_protection_against_spirits` | functional_variant | 1 | 1 |
+| `irreplaceable_lost_object` | uncertain | 1 | 1 |
+| `loss_and_replacement_of_a_sacred_musical_instrument` | functional_variant | 1 | 1 |
+| `loss_of_a_magical_musical_object_to_underwater_powers` | functional_variant | 1 | 1 |
+| `lost_recognition_token_recovered_by_separated_beloved` | functional_variant | 1 | 1 |
+| `lost_ring_recovered_through_a_salmon` | functional_variant | 1 | 1 |
+| `lost_talisman_recovered_from_animal_body` | functional_variant | 1 | 1 |
+| `lost_talisman_triggers_separation_and_concealment` | functional_variant | 1 | 1 |
+| `lunar_emblems_in_divine_keeping` | symbolic_variant | 1 | 1 |
+| `magic_ancestral_weapon_marked_by_fire` | narrower_than | 1 | 1 |
+| `magic_objects_controlling_flood_and_ebb` | functional_variant | 1 | 1 |
+| `magic_small_object_becomes_lifesaving_aid` | functional_variant | 1 | 1 |
+| `magic_weapon_binds_a_powerful_hero` | functional_variant | 1 | 1 |
+| `magic_weapon_mastery` | functional_variant | 1 | 1 |
+| `magical_animal_producing_sustenance_and_treasure` | functional_variant | 1 | 1 |
+| `magical_binding_or_drawing_by_thread` | uncertain | 1 | 1 |
+| `magical_flight_by_wish_granting_object` | functional_variant | 1 | 1 |
+| `magical_furnishing_conferring_invisibility_and_sight` | functional_variant | 1 | 1 |
+| `magical_hunting_aids_that_cannot_fail` | functional_variant | 1 | 1 |
+| `magical_inanimate_objects_grant_power_to_their_possessor` | alias | 1 | 1 |
+| `magical_object_summons_an_obedient_supernatural_servant` | functional_variant | 1 | 1 |
+| `magical_or_extraordinary_fishing_with_simple_natural_objects` | heuristic_family_name_match | 1 | 1 |
+| `magical_protection_through_otherworldly_gifts` | functional_variant | 1 | 1 |
+| `magical_vehicle_with_hidden_controls` | functional_variant | 1 | 1 |
+| `magical_weapon_aid_from_sky_god` | functional_variant | 1 | 1 |
+| `magical_weapon_pursues_offender_until_submission` | functional_variant | 1 | 1 |
+| `magical_weapons_controlled_by_formula_or_power` | functional_variant | 1 | 1 |
+| `magical_wedding_feast_provisioning_objects` | functional_variant | 1 | 1 |
+| `magically_potent_plant_implement` | functional_variant | 1 | 1 |
+| `marvelous_aerial_or_royal_vehicle_with_animal_imagery` | functional_variant | 1 | 1 |
+| `marvelous_branch_that_removes_grief_and_induces_sleep` | functional_variant | 1 | 1 |
+| `marvelous_garden_objects` | narrower_than | 1 | 1 |
+| `marvelous_object_producing_inexhaustible_wealth` | functional_variant | 1 | 1 |
+| `marvelous_objects_transform_a_household_garden` | functional_variant | 1 | 1 |
+| `material_proof_of_supernatural_promise` | functional_variant | 1 | 1 |
+| `military_victory_commemorated_by_divine_statue` | over_specific_label | 1 | 1 |
+| `miraculous_bodily_sign_without_harm` | symbolic_variant | 1 | 1 |
+| `miraculous_food_producing_household_object` | functional_variant | 1 | 1 |
+| `miraculous_garment_with_healing_and_recognition_power` | functional_variant | 1 | 1 |
+| `miraculous_inexhaustible_provider` | functional_variant | 1 | 1 |
+| `miraculous_staff_swallows_rival_instruments` | functional_variant | 1 | 1 |
+| `mirror_as_medium_for_the_dead_beloved_parent` | functional_variant | 1 | 1 |
+| `mirror_as_soul_and_heart_index` | symbolic_variant | 1 | 1 |
+| `monster_remains_transformed_into_fearsome_war_instruments` | functional_variant | 1 | 1 |
+| `monumental_cult_image_of_the_solar_god` | symbolic_variant | 1 | 1 |
+| `mortal_weapon_failing_against_divine_armament` | functional_variant | 1 | 1 |
+| `mountain_store_house_of_preserved_youthful_treasures` | functional_variant | 1 | 1 |
+| `named_heroic_weapons` | narrower_than | 1 | 1 |
+| `named_inherited_weapon_used_in_decisive_combat` | functional_variant | 1 | 1 |
+| `named_supernatural_or_exceptional_weapons_in_heroic_combat` | functional_variant | 1 | 1 |
+| `named_weapon_restored_to_hero_before_battle` | functional_variant | 1 | 1 |
+| `natural_fruit_turned_into_a_lethal_weapon` | functional_variant | 1 | 1 |
+| `object_from_paradise_entering_the_realm_of_decay` | symbolic_variant | 1 | 1 |
+| `omenic_weapon_signaling_victory` | functional_variant | 1 | 1 |
+| `ominous_cursed_tree_as_test_or_dispute_object` | uncertain | 1 | 1 |
+| `oracle_objects_kept_in_a_sacred_or_idol_temple` | functional_variant | 1 | 1 |
+| `oracular_remains_of_a_hero` | child | 1 | 1 |
+| `personal_battle_standards_as_identity_signs` | functional_variant | 1 | 1 |
+| `personified_divine_weapons_obey_the_hero` | functional_variant | 1 | 1 |
+| `petrifying_gaze_and_severed_head_as_weapon` | functional_variant | 1 | 1 |
+| `petrifying_head_used_as_supernatural_weapon` | functional_variant | 1 | 1 |
+| `petrifying_monster_head_weapon` | functional_variant | 1 | 1 |
+| `petrifying_trophy_used_against_hostile_ruler` | functional_variant | 1 | 1 |
+| `poisoned_garment_that_cannot_be_removed` | functional_variant | 1 | 1 |
+| `precious_object_bribe_causing_betrayal` | functional_variant | 1 | 1 |
+| `precious_stones_obtained_through_animal_intermediaries` | functional_variant | 1 | 1 |
+| `privileged_hide_as_sleep_place` | uncertain | 1 | 1 |
+| `proof_token_placed_at_the_perilous_site` | functional_variant | 1 | 1 |
+| `prosperity_from_marvelous_household_objects` | functional_variant | 1 | 1 |
+| `protective_and_consecrating_sacred_sign` | functional_variant | 1 | 1 |
+| `protective_concealment_from_weapons_and_war` | functional_variant | 1 | 1 |
+| `protective_hidden_cult_statue_securing_a_city` | functional_variant | 1 | 1 |
+| `protective_mark` | child | 1 | 1 |
+| `protective_metal_charm` | functional_variant | 1 | 1 |
+| `protective_object_enabling_monster_combat` | functional_variant | 1 | 1 |
+| `protective_shield_rescue_in_battle` | functional_variant | 1 | 1 |
+| `providential_gem_formation` | symbolic_variant | 1 | 1 |
+| `public_heroic_boasting_verified_by_dangerous_objects` | functional_variant | 1 | 1 |
+| `punishment_transformed_into_weapon` | functional_variant | 1 | 1 |
+| `recognition_by_token_and_kinship` | functional_variant | 1 | 1 |
+| `reconciliation_of_hostile_beings_through_a_sacred_wand` | functional_variant | 1 | 1 |
+| `recovery_and_restoration_of_a_ring_from_water` | over_specific_label | 1 | 1 |
+| `recovery_of_named_weapon_from_the_slain_body` | functional_variant | 1 | 1 |
+| `reforged_ancestral_weapon_arms_the_hero` | functional_variant | 1 | 1 |
+| `reminder_tokens_prevent_forgetfulness` | functional_variant | 1 | 1 |
+| `rescue_summoned_by_signal_instrument` | functional_variant | 1 | 1 |
+| `revenge_through_enchanted_object_and_provoked_conflict` | functional_variant | 1 | 1 |
+| `ritual_handling_of_animal_body_parts_to_preserve_powers` | ritual_variant | 1 | 1 |
+| `ritual_plant_preparation_conferring_invulnerability` | functional_variant | 1 | 1 |
+| `ritual_specialist_with_magical_stones` | uncertain | 1 | 1 |
+| `river_exposes_destructive_treasure` | functional_variant | 1 | 1 |
+| `rooted_treasure_freed_by_plowing` | functional_variant | 1 | 1 |
+| `sacred_city_protecting_image_required_for_conquest` | functional_variant | 1 | 1 |
+| `sacred_emblem_or_ritual_object` | broader_label | 1 | 1 |
+| `sacred_garment_as_lineage_sign` | symbolic_variant | 1 | 1 |
+| `sacred_household_object_determines_settlement_site` | functional_variant | 1 | 1 |
+| `sacred_instrument_mishandled_by_an_unworthy_possessor` | functional_variant | 1 | 1 |
+| `sacred_object_darkened_by_human_contact_or_sin` | symbolic_variant | 1 | 1 |
+| `sacred_object_protected_by_duplicate_copies` | functional_variant | 1 | 1 |
+| `sacred_or_dangerous_object_protected_from_ground_contact` | ritual_variant | 1 | 1 |
+| `sacred_or_ritual_objects_repurposed_as_weapons` | functional_variant | 1 | 1 |
+| `sacred_protective_object_made_from_animal_skin` | functional_variant | 1 | 1 |
+| `sacred_relics_of_a_departed_ruler` | role_variant | 1 | 1 |
+| `sacred_stone_authenticated_by_miraculous_property` | symbolic_variant | 1 | 1 |
+| `sacred_stone_from_paradise_mediated_by_an_angel` | symbolic_variant | 1 | 1 |
+| `sacred_stones_transported_from_a_holy_place_and_worshipped` | functional_variant | 1 | 1 |
+| `sacred_treasure_housed_in_a_temple` | narrower_than | 1 | 1 |
+| `sacred_treasures` | canonical_group | 1 | 1 |
+| `saintly_shrine_and_relic_devotion` | ritual_variant | 1 | 1 |
+| `sanctuary_object_protects_a_wrongdoer` | functional_variant | 1 | 1 |
+| `satanic_objects_causing_social_division_and_ritual_forgetfulness` | uncertain | 1 | 1 |
+| `scripture_as_oath_oracle_and_protective_object` | functional_variant | 1 | 1 |
+| `seal_of_authority_lost_to_a_demon` | functional_variant | 1 | 1 |
+| `secret_charms_claimed_to_avert_divine_anger` | uncertain | 1 | 1 |
+| `secret_decisive_weapon_withheld_from_shared_martial_knowledge` | functional_variant | 1 | 1 |
+| `secret_transport_of_treasure_under_ordinary_goods` | over_specific_label | 1 | 1 |
+| `secret_treasure_discovered_and_stolen_by_observer` | functional_variant | 1 | 1 |
+| `selective_charmed_water_weapon` | functional_variant | 1 | 1 |
+| `self_acting_blood_demanding_sword` | functional_variant | 1 | 1 |
+| `self_acting_or_inexhaustible_magical_objects` | child | 1 | 1 |
+| `self_filling_horn_of_abundance` | functional_variant | 1 | 1 |
+| `self_moving_divine_artifacts` | functional_variant | 1 | 1 |
+| `sentient_or_obedient_wonder_ship_saves_crew` | functional_variant | 1 | 1 |
+| `sentient_weapon_refuses_unjust_killing` | functional_variant | 1 | 1 |
+| `severed_head_or_image_that_petrifies_through_terror` | functional_variant | 1 | 1 |
+| `shipwrecked_outsider_acquires_a_magical_object_on_an_island` | functional_variant | 1 | 1 |
+| `specialized_secret_or_exceptional_weapon_decides_combat` | functional_variant | 1 | 1 |
+| `stolen_object` | over_specific_label | 1 | 1 |
+| `strength_enhancing_belt_used_in_trial` | functional_variant | 1 | 1 |
+| `submerged_weapon_image` | uncertain | 1 | 1 |
+| `substitute_weapon_fashioned_from_a_tree` | functional_variant | 1 | 1 |
+| `supernatural_cries_from_warriors_weapons` | symbolic_variant | 1 | 1 |
+| `supernatural_or_named_weapon_turns_battle` | functional_variant | 1 | 1 |
+| `supernatural_or_unmatched_hunting_hound` | functional_variant | 1 | 1 |
+| `supernatural_weapon_expanding_to_immense_size` | functional_variant | 1 | 1 |
+| `supernatural_weapon_overcomes_invulnerable_armor` | functional_variant | 1 | 1 |
+| `supernatural_weapon_that_cannot_be_discharged_in_vain` | functional_variant | 1 | 1 |
+| `supernaturally_made_or_consecrated_weapon` | functional_variant | 1 | 1 |
+| `supernaturally_swift_or_earth_shaking_steeds` | functional_variant | 1 | 1 |
+| `testing_and_choosing_the_tireless_steed` | functional_variant | 1 | 1 |
+| `testing_the_supernatural_object_by_ordeal_of_fire` | functional_variant | 1 | 1 |
+| `tide_controlling_royal_objects` | functional_variant | 1 | 1 |
+| `token_or_reward_associated_with_entering_combat` | functional_variant | 1 | 1 |
+| `token_proving_an_otherwise_unbelievable_encounter` | functional_variant | 1 | 1 |
+| `token_ring_as_celestial_sign` | symbolic_variant | 1 | 1 |
+| `transported_divine_image_establishes_a_local_cult_form` | functional_variant | 1 | 1 |
+| `treasure_as_sexual_or_moral_temptation` | symbolic_variant | 1 | 1 |
+| `treasure_cave` | narrower_than | 1 | 1 |
+| `treasure_hidden_in_a_cave` | narrower_than | 1 | 1 |
+| `treasure_hidden_in_a_river_under_oath_of_secrecy` | functional_variant | 1 | 1 |
+| `treasure_theft_by_eloping_pair` | functional_variant | 1 | 1 |
+| `tree_fragments_confer_magic_and_welfare` | functional_variant | 1 | 1 |
+| `trident_as_divine_power_object` | child | 1 | 1 |
+| `unexpected_treasure_discovered_while_ploughing` | functional_variant | 1 | 1 |
+| `unfailing_provisioning_implement` | functional_variant | 1 | 1 |
+| `unfamiliar_mirror_mistaken_for_another_person` | functional_variant | 1 | 1 |
+| `unique_ancestral_weapon_wielded_only_by_the_hero` | narrower_than | 1 | 1 |
+| `unique_or_privileged_weapon_of_the_hero` | functional_variant | 1 | 1 |
+| `unique_weapon_needed_to_slay_a_giant` | functional_variant | 1 | 1 |
+| `valuable_object_induces_betrayal_and_begins_a_revenge_cycle` | functional_variant | 1 | 1 |
+| `valuable_object_unrecognized_by_its_owners` | functional_variant | 1 | 1 |
+| `venerated_cult_image_with_animal_attribute` | uncertain | 1 | 1 |
+| `venerated_stone_linked_to_divine_myth` | symbolic_variant | 1 | 1 |
+| `victory_memorial_through_dedicated_arms` | ritual_variant | 1 | 1 |
+| `violent_revelation_by_body_part_token` | functional_variant | 1 | 1 |
+| `warning_against_a_deceptive_sacred_object_ignored_after_ominous_sign` | functional_variant | 1 | 1 |
+| `wealth_obtained_by_damaging_a_sacred_image` | uncertain | 1 | 1 |
+| `weapon_fails_against_protected_foe` | functional_variant | 1 | 1 |
+| `weapon_inheritance_and_transferred_heroic_prowess` | functional_variant | 1 | 1 |
+| `wonder_working_abundance_object` | functional_variant | 1 | 1 |
+| `wondrous_equipment_enabling_a_heroic_feat` | functional_variant | 1 | 1 |
+| `wondrous_hound_that_subdues_wild_beasts` | functional_variant | 1 | 1 |
+| `world_revealing_magic_mirror` | functional_variant | 1 | 1 |
+| `youth_renewing_fruit_guarded_on_the_tree` | functional_variant | 1 | 1 |
+
+## Culture Hero and Founder
+
+- Canonical motif ID: `culture_hero`
+- Distinct traditions: 17
+- Occurrences: 289
+- Mapped motif IDs: 24
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `culture_hero` | canonical_group | 17 | 266 |
+| `armed_founder_succeeds_where_unarmed_founder_fails` | functional_variant | 1 | 1 |
+| `development_from_inspired_prophet_to_political_founder` | role_variant | 1 | 1 |
+| `divinely_granted_cultural_emblems` | functional_variant | 1 | 1 |
+| `divinely_sanctioned_foundational_lawgiver` | role_variant | 1 | 1 |
+| `first_ship_or_first_warship` | functional_variant | 1 | 1 |
+| `flight_from_incestuous_crime_followed_by_city_foundation` | functional_variant | 1 | 1 |
+| `founding_ancestor_renounces_idolatry` | role_variant | 1 | 1 |
+| `founding_and_naming_of_roads_castles_and_places` | functional_variant | 1 | 1 |
+| `fugitive_city_rebuilder_gains_veneration_by_slaying_a_ravaging_animal` | functional_variant | 1 | 1 |
+| `hero_as_liberator_through_wealth_or_battle` | functional_variant | 1 | 1 |
+| `heroic_bearer_of_household_gods_into_a_new_land` | functional_variant | 1 | 1 |
+| `heroic_removal_of_local_oppression` | functional_variant | 1 | 1 |
+| `oracle_guided_city_foundation_by_ambiguous_sign` | functional_variant | 1 | 1 |
+| `origin_of_brewing` | functional_variant | 1 | 1 |
+| `origin_of_society_from_human_need` | functional_variant | 1 | 1 |
+| `origin_of_the_city_through_specialization_and_exchange` | functional_variant | 1 | 1 |
+| `religious_founder_incorporating_prior_traditions` | role_variant | 1 | 1 |
+| `religious_reverence_for_an_outside_cultural_hero` | role_variant | 1 | 1 |
+| `rival_prophetic_claimants_recur_after_the_founder_s_death` | heuristic_family_name_match | 1 | 1 |
+| `sacred_or_paradisal_origin_of_useful_metal_implements` | functional_variant | 1 | 1 |
+| `shared_ancestry_explaining_language_affinity` | uncertain | 1 | 1 |
+| `waters_regulated_for_fertility_and_settlement_prosperity` | functional_variant | 1 | 1 |
+| `women_s_sacred_procession_carrying_civilizing_symbols` | ritual_variant | 1 | 1 |
+
+## Lament, Mourning, and Tragic Recognition
+
+- Canonical motif ID: `lament_and_mourning`
+- Distinct traditions: 17
+- Occurrences: 248
+- Mapped motif IDs: 248
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `aetiology_of_pearls_and_bird_plumage_from_a_hero_s_tears` | symbolic_variant | 1 | 1 |
+| `aged_hero_recalls_lost_youthful_power` | symbolic_variant | 1 | 1 |
+| `aging_singer_laments_loss_of_voice` | functional_variant | 1 | 1 |
+| `animal_grief_mirrors_human_grief` | symbolic_variant | 1 | 1 |
+| `animal_mourning_for_human_master_or_companions` | functional_variant | 1 | 1 |
+| `animals_lamenting_a_slain_human_companion` | role_variant | 1 | 1 |
+| `appeal_to_hostile_divinity_for_death_as_relief` | functional_variant | 1 | 1 |
+| `attempted_suicide_interrupted_by_caregiver` | functional_variant | 1 | 1 |
+| `battle_halted_by_the_arrival_of_a_grieving_queen_woman` | functional_variant | 1 | 1 |
+| `beautiful_youth_with_untimely_death` | symbolic_variant | 1 | 1 |
+| `beloved_hero_mourned_by_city_and_nature` | functional_variant | 1 | 1 |
+| `bereaved_child_discovers_slain_parent` | functional_variant | 1 | 1 |
+| `bereaved_father_mourning_a_fallen_son` | functional_variant | 1 | 1 |
+| `bereaved_mother_laments_last_child_and_ruined_house` | functional_variant | 1 | 1 |
+| `bereaved_mother_s_dying_curse` | functional_variant | 1 | 1 |
+| `best_not_to_be_born` | symbolic_variant | 1 | 1 |
+| `cessation_of_ritual_festivity_and_commerce_in_mourning` | ritual_variant | 1 | 1 |
+| `city_mourns_absent_ruler` | child | 1 | 1 |
+| `collective_lament_for_the_fallen_champion` | narrower_than | 1 | 1 |
+| `collective_lamentation_for_a_fallen_defender` | narrower_than | 1 | 1 |
+| `comic_reversal_of_mourning` | functional_variant | 1 | 1 |
+| `communal_female_mourning` | ritual_variant | 1 | 1 |
+| `compassionate_lament_for_condemned_outcasts` | functional_variant | 1 | 1 |
+| `consolatory_comparison_of_bereaved_parents` | functional_variant | 1 | 1 |
+| `cosmic_mourning_after_a_divine_death` | broader_label | 1 | 1 |
+| `cosmic_or_atmospheric_mourning_for_a_slain_child` | symbolic_variant | 1 | 1 |
+| `daughter_lamenting_bad_marital_placement_by_mother` | functional_variant | 1 | 1 |
+| `dead_ruler_still_looking_toward_lost_possessions` | symbolic_variant | 1 | 1 |
+| `death_as_final_sleep_watched_by_nature` | symbolic_variant | 1 | 1 |
+| `death_from_grief_and_blame_after_destruction_of_two_lands` | over_specific_label | 1 | 1 |
+| `death_from_grief_and_fear_after_witnessing_a_killing` | over_specific_label | 1 | 1 |
+| `death_from_grief_for_wounded_spouse` | functional_variant | 1 | 1 |
+| `death_from_shame_after_others_die_on_one_s_account` | functional_variant | 1 | 1 |
+| `death_from_shame_after_slaughter_caused_by_protection` | over_specific_label | 1 | 1 |
+| `death_memorial_covered_by_living_flowers` | symbolic_variant | 1 | 1 |
+| `decline_and_end_of_a_heroic_company` | broader_label | 1 | 1 |
+| `departed_companions_precede_the_speaker_into_death` | functional_variant | 1 | 1 |
+| `dependent_blind_parents_lose_their_only_guide` | over_specific_label | 1 | 1 |
+| `destruction_in_the_furnace_of_grief` | symbolic_variant | 1 | 1 |
+| `diminished_survivor_of_a_vanished_company` | functional_variant | 1 | 1 |
+| `disciple_mourning_slain_teacher` | functional_variant | 1 | 1 |
+| `doomed_aged_king_arms_himself_during_the_fall_of_the_city` | over_specific_label | 1 | 1 |
+| `dying_animal_laments_the_manner_of_its_death` | role_variant | 1 | 1 |
+| `dying_hero_arranges_successor_relationship_for_his_bride` | child | 1 | 1 |
+| `dying_mother_addresses_daughter` | over_specific_label | 1 | 1 |
+| `dying_swan_song_as_image_for_lament` | symbolic_variant | 1 | 1 |
+| `dying_warrior_amid_lamentation` | functional_variant | 1 | 1 |
+| `echoed_lament_and_farewell` | symbolic_variant | 1 | 1 |
+| `empty_vehicle_as_sign_of_absent_hero` | symbolic_variant | 1 | 1 |
+| `excessive_grief_leading_to_violation_of_human_and_divine_norms` | functional_variant | 1 | 1 |
+| `fairy_women_lament_as_origin_of_a_named_wail` | functional_variant | 1 | 1 |
+| `fallen_royal_tree_lament` | symbolic_variant | 1 | 1 |
+| `fallen_youth_compared_to_a_plucked_flower` | symbolic_variant | 1 | 1 |
+| `false_death_report_leading_to_mistaken_mourning_rites` | functional_variant | 1 | 1 |
+| `family_reunion_after_mourning` | functional_variant | 1 | 1 |
+| `farewell_lament_of_the_royal_household` | narrower_than | 1 | 1 |
+| `fate_lament` | child | 1 | 1 |
+| `fatherly_supplication_for_mercy_from_a_killer_or_enemy` | functional_variant | 1 | 1 |
+| `foreign_sanctuary_preserves_memory_of_homeland_suffering` | functional_variant | 1 | 1 |
+| `former_heroic_strength_contrasted_with_old_age` | uncertain | 1 | 1 |
+| `funeral_lament_followed_by_sudden_love_for_the_widow` | over_specific_label | 1 | 1 |
+| `funeral_or_mourning_rite_for_insects_or_animals` | ritual_variant | 1 | 1 |
+| `grave_growth_sign_controlling_remarriage` | uncertain | 1 | 1 |
+| `grief_anticipating_early_death` | functional_variant | 1 | 1 |
+| `grief_as_futile_tears_of_blood` | symbolic_variant | 1 | 1 |
+| `grief_at_body_ashes_tomb_and_name` | over_specific_label | 1 | 1 |
+| `grief_death_of_the_royal_father` | functional_variant | 1 | 1 |
+| `grief_driven_plunge_into_water` | functional_variant | 1 | 1 |
+| `grief_for_absent_kin_leading_to_decline_or_death` | child | 1 | 1 |
+| `grief_for_lost_kinsman_or_comrade` | alias | 1 | 1 |
+| `grief_leading_to_speech` | functional_variant | 1 | 1 |
+| `grief_overflowing_as_blood_and_water` | symbolic_variant | 1 | 1 |
+| `grief_tears_transformed_into_precious_substances` | symbolic_variant | 1 | 1 |
+| `grief_transformed_into_poetic_form` | functional_variant | 1 | 1 |
+| `grief_transformed_into_water` | symbolic_variant | 1 | 1 |
+| `grief_weakening_warriors_before_battle` | functional_variant | 1 | 1 |
+| `grieving_animals_at_a_hero_s_death` | symbolic_variant | 1 | 1 |
+| `grieving_beloved_wastes_away_and_vanishes` | functional_variant | 1 | 1 |
+| `grieving_hero_on_mountain_height` | functional_variant | 1 | 1 |
+| `grieving_messenger_sent_to_tell_a_beloved_warrior_of_death` | over_specific_label | 1 | 1 |
+| `grieving_mother_at_the_grave` | functional_variant | 1 | 1 |
+| `grieving_mother_turns_to_vengeance_for_a_murdered_child` | functional_variant | 1 | 1 |
+| `grieving_parent_mourns_absent_son_as_dead` | child | 1 | 1 |
+| `grieving_parent_returns_to_battle_seeking_death_or_vengeance` | functional_variant | 1 | 1 |
+| `grieving_spouse_fading_after_loss` | functional_variant | 1 | 1 |
+| `hero_mourns_sacrificed_beloved_and_place_name_preserves_memory` | over_specific_label | 1 | 1 |
+| `hero_s_lament_for_a_slain_opponent` | functional_variant | 1 | 1 |
+| `hero_threatens_landscape_in_grief` | functional_variant | 1 | 1 |
+| `heroic_death_followed_by_keening_lament` | ritual_variant | 1 | 1 |
+| `heroic_grief_expressed_through_bodily_abasement` | ritual_variant | 1 | 1 |
+| `heroic_lament_and_escorted_return_of_a_fallen_youth` | functional_variant | 1 | 1 |
+| `hidden_suffering_revealed_by_bodily_scars` | functional_variant | 1 | 1 |
+| `honored_hero_cremation_with_precious_container_and_companion_burial` | narrower_than | 1 | 1 |
+| `human_grief_mirrored_by_protective_animal_parent` | symbolic_variant | 1 | 1 |
+| `hypocritical_mourner_with_false_tears` | functional_variant | 1 | 1 |
+| `immortal_horses_mourning_a_dead_hero` | narrower_than | 1 | 1 |
+| `immortality_experienced_as_lamentation` | child | 1 | 1 |
+| `impermanence_of_glory_after_a_great_teacher_s_death` | over_specific_label | 1 | 1 |
+| `inconsolable_grief_after_slain_companions_or_beloveds` | narrower_than | 1 | 1 |
+| `innocent_victim_killed_and_later_regretted` | functional_variant | 1 | 1 |
+| `keening_and_memorialization_after_tragic_error` | functional_variant | 1 | 1 |
+| `killing_and_lament_of_a_cherished_hound` | functional_variant | 1 | 1 |
+| `lament_after_killing_a_friend_or_opponent` | narrower_than | 1 | 1 |
+| `lament_after_tragic_death` | alias | 1 | 1 |
+| `lament_beside_water` | symbolic_variant | 1 | 1 |
+| `lament_comparing_joy_to_free_flowing_water_and_sorrow_to_frozen_or_imprisoned_water` | symbolic_variant | 1 | 1 |
+| `lament_for_a_fallen_warrior` | narrower_than | 1 | 1 |
+| `lament_for_a_fallen_warrior_kinsman` | narrower_than | 1 | 1 |
+| `lament_for_a_lost_heroic_age` | symbolic_variant | 1 | 1 |
+| `lament_for_beloved_speaking_bird` | narrower_than | 1 | 1 |
+| `lament_for_dead_heroic_companions` | narrower_than | 1 | 1 |
+| `lament_for_fallen_companion_and_endangered_kin` | narrower_than | 1 | 1 |
+| `lament_for_slain_friend_opponent` | narrower_than | 1 | 1 |
+| `lament_for_the_dead_beloved` | narrower_than | 1 | 1 |
+| `lament_for_the_dead_hero_by_his_wife` | narrower_than | 1 | 1 |
+| `lament_for_the_fallen_hero` | narrower_than | 1 | 1 |
+| `lament_for_the_land_defending_hero` | narrower_than | 1 | 1 |
+| `lament_of_guilt_and_future_infamy` | functional_variant | 1 | 1 |
+| `lament_of_stranded_hero_recognized_and_answered` | functional_variant | 1 | 1 |
+| `lament_of_the_last_survivor_of_a_heroic_band` | narrower_than | 1 | 1 |
+| `lament_over_a_slain_opponent` | narrower_than | 1 | 1 |
+| `lament_over_a_slain_sworn_companion` | narrower_than | 1 | 1 |
+| `lament_over_being_left_behind` | functional_variant | 1 | 1 |
+| `lament_over_the_dead_companion` | narrower_than | 1 | 1 |
+| `lament_over_the_fallen_king` | role_variant | 1 | 1 |
+| `lament_over_the_fallen_warrior_by_mother_and_widow` | role_variant | 1 | 1 |
+| `lament_over_the_fallen_warrior_king` | role_variant | 1 | 1 |
+| `lament_voiced_through_natural_material_and_instrument` | symbolic_variant | 1 | 1 |
+| `lamenting_or_questioning_bird_at_an_abandoned_seat_of_power` | symbolic_variant | 1 | 1 |
+| `lamenting_survivor_beside_slain_beloved_and_kin` | functional_variant | 1 | 1 |
+| `lamenting_wife_offers_healing_to_doomed_warrior` | functional_variant | 1 | 1 |
+| `last_survivor_lamenting_a_vanished_heroic_company` | functional_variant | 1 | 1 |
+| `leader_s_consoling_speech_after_communal_catastrophe` | functional_variant | 1 | 1 |
+| `life_ending_grief` | narrower_than | 1 | 1 |
+| `life_s_transience_and_irreversible_death` | symbolic_variant | 1 | 1 |
+| `loss_of_heirs_extinguishing_household_continuity` | functional_variant | 1 | 1 |
+| `loyal_servant_mourns_the_absent_master` | functional_variant | 1 | 1 |
+| `maternal_lament_at_separation_from_exiled_children` | functional_variant | 1 | 1 |
+| `maternal_lament_for_absent_endangered_son` | narrower_than | 1 | 1 |
+| `maternal_lament_over_loss_of_the_cherished_son` | narrower_than | 1 | 1 |
+| `messenger_announces_the_death_of_a_beloved_companion` | functional_variant | 1 | 1 |
+| `metamorphosis_into_enduring_mourning_landmark` | functional_variant | 1 | 1 |
+| `misinterpreted_lament_provokes_jealous_suspicion` | functional_variant | 1 | 1 |
+| `mistaken_hunting_kill_of_a_child` | functional_variant | 1 | 1 |
+| `mistaken_killing_of_beloved_during_hunt` | functional_variant | 1 | 1 |
+| `mistaken_killing_of_one_s_own_child` | functional_variant | 1 | 1 |
+| `mistaken_return_or_presence_through_another_s_armor` | functional_variant | 1 | 1 |
+| `mortal_lament_for_vanished_heroic_company` | functional_variant | 1 | 1 |
+| `mortality_of_companions_and_remembrance_with_wine` | functional_variant | 1 | 1 |
+| `mother_s_lament_for_slain_and_unburied_son` | narrower_than | 1 | 1 |
+| `mother_son_grief_at_separation` | narrower_than | 1 | 1 |
+| `mourner_as_fallen_heavenly_body` | symbolic_variant | 1 | 1 |
+| `mourner_s_tears_released_by_contact_with_the_dead` | ritual_variant | 1 | 1 |
+| `mourner_transformed_into_weeping_stone` | symbolic_variant | 1 | 1 |
+| `mourning_after_destruction_of_homeland` | functional_variant | 1 | 1 |
+| `mourning_after_loss_of_protectors` | functional_variant | 1 | 1 |
+| `mourning_animal_in_funeral_procession` | symbolic_variant | 1 | 1 |
+| `mourning_beloved_refuses_joy_and_sustenance` | functional_variant | 1 | 1 |
+| `mourning_expressed_through_embracing_and_kissing_the_deceased_warrior_s_horse_and_equipment` | child | 1 | 1 |
+| `mourning_fast_before_renewed_combat` | ritual_variant | 1 | 1 |
+| `mourning_father_and_unavenged_son` | functional_variant | 1 | 1 |
+| `mourning_interrupted_or_postponed_for_the_meal` | ritual_variant | 1 | 1 |
+| `mourning_messenger_brings_news_of_royal_death` | functional_variant | 1 | 1 |
+| `mourning_mother_imagines_son_in_the_realm_of_death` | symbolic_variant | 1 | 1 |
+| `mourning_musician_whose_song_moves_nature` | functional_variant | 1 | 1 |
+| `mourning_or_sentient_landscape` | uncertain | 1 | 1 |
+| `mourning_over_the_slain_royal_warrior` | functional_variant | 1 | 1 |
+| `mourning_parents_touch_the_slain_child` | over_specific_label | 1 | 1 |
+| `mourning_spouse_attempts_to_replace_the_dead_beloved_with_an_artificial_bride` | over_specific_label | 1 | 1 |
+| `natural_world_mourns_a_beloved_figure_s_departure` | symbolic_variant | 1 | 1 |
+| `nightly_death_watch_of_one_among_three_companions` | uncertain | 1 | 1 |
+| `nostalgic_lament_for_vanished_heroic_companions` | narrower_than | 1 | 1 |
+| `old_age_contrasted_with_heroic_youth` | symbolic_variant | 1 | 1 |
+| `old_warrior_lamenting_lost_heroic_age` | narrower_than | 1 | 1 |
+| `ominous_hearing_of_public_lament_before_recognition_of_death` | over_specific_label | 1 | 1 |
+| `one_death_dooms_a_dependent_family` | functional_variant | 1 | 1 |
+| `orphaned_child_deprived_by_the_father_s_death` | functional_variant | 1 | 1 |
+| `orphaned_wanderer_s_lament` | functional_variant | 1 | 1 |
+| `parental_lament_for_a_dead_hero` | child | 1 | 1 |
+| `parental_supplication_before_a_hero_s_fatal_combat` | functional_variant | 1 | 1 |
+| `parental_supplication_to_avert_heroic_death` | functional_variant | 1 | 1 |
+| `past_guilt_returning_during_present_grief` | functional_variant | 1 | 1 |
+| `pathos_of_slain_young_warriors_through_genealogy_and_simile` | meta_artifact | 1 | 1 |
+| `perpetual_mourning_assigned_to_transformed_being` | symbolic_variant | 1 | 1 |
+| `personified_grief_fed_by_mourning` | symbolic_variant | 1 | 1 |
+| `place_name_origin_from_death_or_animal_sign` | functional_variant | 1 | 1 |
+| `place_of_past_suffering_revives_painful_memory` | functional_variant | 1 | 1 |
+| `post_battle_funeral_lament_by_bereaved_women` | narrower_than | 1 | 1 |
+| `posthumous_inscribed_flower_of_lament` | symbolic_variant | 1 | 1 |
+| `prayer_for_visible_death_in_daylight` | over_specific_label | 1 | 1 |
+| `prolonged_mourning_without_relief_leading_to_physical_collapse_death` | child | 1 | 1 |
+| `prophecy_like_lament_for_ruined_survivors` | functional_variant | 1 | 1 |
+| `public_grief_echoing_through_nature` | symbolic_variant | 1 | 1 |
+| `public_lamentation_over_slain_warrior` | child | 1 | 1 |
+| `rain_as_divine_weeping` | symbolic_variant | 1 | 1 |
+| `recognition_followed_by_reversal_of_life` | heuristic_family_name_match | 1 | 1 |
+| `refusal_and_reversal_of_mourning_among_kin` | functional_variant | 1 | 1 |
+| `refusal_to_praise_an_enemy_because_of_remembered_kin_slaying` | uncertain | 1 | 1 |
+| `remorse_after_a_brother_s_death` | functional_variant | 1 | 1 |
+| `renowned_tragic_grave_of_heroine` | narrower_than | 1 | 1 |
+| `return_of_the_fallen_son_to_the_grieving_father` | functional_variant | 1 | 1 |
+| `ritual_lament_for_a_named_figure` | ritual_variant | 1 | 1 |
+| `ritual_procession_of_mourners` | ritual_variant | 1 | 1 |
+| `royal_seclusion_overturned_by_grief` | functional_variant | 1 | 1 |
+| `sea_as_agent_of_death_and_lament` | symbolic_variant | 1 | 1 |
+| `sea_nymph_mourning_procession` | role_variant | 1 | 1 |
+| `self_blame_for_destruction_of_kin` | functional_variant | 1 | 1 |
+| `separation_causing_refusal_of_food_and_care` | functional_variant | 1 | 1 |
+| `shared_epitaph_as_marital_memorial` | over_specific_label | 1 | 1 |
+| `slain_son_mourned_and_avenged_by_father` | functional_variant | 1 | 1 |
+| `slaughtered_band_of_youthful_allies` | over_specific_label | 1 | 1 |
+| `slayer_laments_slain_opponent` | functional_variant | 1 | 1 |
+| `son_s_prostrate_lament_for_deceased_father` | narrower_than | 1 | 1 |
+| `song_reserved_for_the_moment_before_death` | ritual_variant | 1 | 1 |
+| `song_reveals_hidden_grief_of_the_hero` | functional_variant | 1 | 1 |
+| `sorrow_figured_as_overwhelming_water` | symbolic_variant | 1 | 1 |
+| `speaking_tree_lamenting_human_use_and_seasonal_suffering` | symbolic_variant | 1 | 1 |
+| `spouse_dies_of_grief_beside_the_dead_beloved` | functional_variant | 1 | 1 |
+| `spring_landscape_intensifies_separation_lament` | symbolic_variant | 1 | 1 |
+| `suicide_after_catastrophic_loss` | functional_variant | 1 | 1 |
+| `supernatural_female_lament_for_a_hero` | role_variant | 1 | 1 |
+| `tears_as_heavenly_sign_of_grief` | symbolic_variant | 1 | 1 |
+| `tears_of_mourning_bind_or_disturb_the_dead` | functional_variant | 1 | 1 |
+| `threefold_lamenting_birds` | symbolic_variant | 1 | 1 |
+| `tragic_heroine_s_lament_at_death` | narrower_than | 1 | 1 |
+| `tree_emblem_of_mortal_fragility` | symbolic_variant | 1 | 1 |
+| `unaware_supplication_for_one_already_dead` | functional_variant | 1 | 1 |
+| `uncertainty_of_death_place_or_burial_place` | uncertain | 1 | 1 |
+| `unknown_fate_of_absent_husband` | functional_variant | 1 | 1 |
+| `unrecognized_child_slain_by_father` | functional_variant | 1 | 1 |
+| `unresolved_heroic_quarrel_persists_after_death` | functional_variant | 1 | 1 |
+| `unseen_lament_heard_at_threshold_of_journey` | functional_variant | 1 | 1 |
+| `victor_laments_the_slain_friend` | child | 1 | 1 |
+| `violent_retaliation_after_overheard_lament` | functional_variant | 1 | 1 |
+| `warrior_band_mourning_an_absent_lord` | functional_variant | 1 | 1 |
+| `wealth_gained_abroad_overshadowed_by_grief_and_loss` | functional_variant | 1 | 1 |
+| `widow_and_mother_keening_over_slain_husband_and_sons` | narrower_than | 1 | 1 |
+| `widow_s_lament_beside_the_body` | narrower_than | 1 | 1 |
+| `widow_s_lament_for_the_fallen_husband` | narrower_than | 1 | 1 |
+| `widow_s_lament_over_fallen_warrior_king` | functional_variant | 1 | 1 |
+| `widow_s_lament_over_the_dead_king` | narrower_than | 1 | 1 |
+| `wife_brings_weapons_and_performs_lament` | functional_variant | 1 | 1 |
+| `wish_for_death_reversed_by_fear_of_death` | functional_variant | 1 | 1 |
+| `wish_for_non_birth_or_infant_death_in_maiden_s_lament` | narrower_than | 1 | 1 |
+| `woman_on_tower_watching_battle_and_fearing_for_absent_husband` | functional_variant | 1 | 1 |
+| `women_s_lament_over_a_dead_ruler` | narrower_than | 1 | 1 |
+| `young_warrior_cut_down_like_a_tree` | symbolic_variant | 1 | 1 |
+| `youth_cut_down_like_an_uprooted_tree` | symbolic_variant | 1 | 1 |
 
 ## Sacred Combat and Ritual Warfare
 
 - Canonical motif ID: `sacred_combat`
-- Distinct traditions: 15
-- Occurrences: 702
-- Mapped motif IDs: 691
+- Distinct traditions: 16
+- Occurrences: 719
+- Mapped motif IDs: 708
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -5455,8 +5238,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ambush_overcome_with_lone_survivor` | functional_variant | 1 | 1 |
 | `ancestral_and_household_exhortation_before_last_stand` | functional_variant | 1 | 1 |
 | `ancestral_feud_continuing_through_bloodline` | functional_variant | 1 | 1 |
+| `animal_armies_wage_a_mock_heroic_war` | over_specific_label | 1 | 1 |
 | `animal_attackers_in_heroic_combat` | functional_variant | 1 | 1 |
 | `animal_chooses_a_side_in_battle` | role_variant | 1 | 1 |
+| `animal_vengeance_and_interspecies_blood_feud` | functional_variant | 1 | 1 |
 | `anonymous_champion_defeats_repeated_challengers` | functional_variant | 1 | 1 |
 | `appeasement_of_heroic_wrath` | functional_variant | 1 | 1 |
 | `armed_champion_combat_to_settle_a_claim_of_honor` | functional_variant | 1 | 1 |
@@ -5525,6 +5310,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `burning_of_a_hostile_city` | functional_variant | 1 | 1 |
 | `captives_reclaimed_after_killing_their_captors` | functional_variant | 1 | 1 |
 | `capture_of_divine_horses_as_battle_spoil` | functional_variant | 1 | 1 |
+| `cattle_acquisition_for_army_provisioning` | functional_variant | 1 | 1 |
 | `cattle_as_wealth_and_social_measure` | symbolic_variant | 1 | 1 |
 | `cattle_demand_as_trigger_in_a_cattle_driving_narrative` | functional_variant | 1 | 1 |
 | `cattle_driving_narrative_frame` | over_specific_label | 1 | 1 |
@@ -5559,6 +5345,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `city_destroyed_by_nocturnal_assault_and_fire` | narrower_than | 1 | 1 |
 | `city_destruction_by_fire_after_capture` | narrower_than | 1 | 1 |
 | `city_sacked_for_a_woman` | functional_variant | 1 | 1 |
+| `city_taken_or_lost_through_stratagem_and_gate_surrender` | functional_variant | 1 | 1 |
+| `city_under_emergency_defense` | uncertain | 1 | 1 |
 | `civic_tools_transformed_into_weapons` | functional_variant | 1 | 1 |
 | `closure_and_binding_of_war` | ritual_variant | 1 | 1 |
 | `collective_heroic_hunt_against_a_monstrous_beast` | functional_variant | 1 | 1 |
@@ -5611,6 +5399,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `defeated_enemy_spared_and_combat_deferred` | functional_variant | 1 | 1 |
 | `defeated_opponent_spared_and_sent_as_messenger` | functional_variant | 1 | 1 |
 | `defeated_warrior_hidden_while_victor_seeks_him` | over_specific_label | 1 | 1 |
+| `defense_against_threatened_burning_of_ships` | over_specific_label | 1 | 1 |
 | `defense_of_women_and_herds_as_battle_cause` | functional_variant | 1 | 1 |
 | `desired_prized_animal_to_be_seized_by_force` | functional_variant | 1 | 1 |
 | `destined_defeat_of_sorceresses_by_former_pupil` | functional_variant | 1 | 1 |
@@ -5618,6 +5407,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `destruction_of_supernatural_or_mound_dwellings_in_war` | functional_variant | 1 | 1 |
 | `devastation_avenged_by_champion` | functional_variant | 1 | 1 |
 | `disarming_rivals_before_vengeance` | over_specific_label | 1 | 1 |
+| `disciplined_communal_warrior_state` | narrower_than | 1 | 1 |
 | `display_of_enemy_body_parts_as_trophies` | ritual_variant | 1 | 1 |
 | `dispute_over_division_of_a_special_animal_leading_to_renewed_violence` | functional_variant | 1 | 1 |
 | `disputed_feast_portion_leading_to_battle` | functional_variant | 1 | 1 |
@@ -5627,6 +5417,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `divinely_aided_heroic_breach_of_a_fortified_boundary` | functional_variant | 1 | 1 |
 | `divinely_authorized_armed_defense` | functional_variant | 1 | 1 |
 | `division_of_a_prestigious_boar` | functional_variant | 1 | 1 |
+| `division_of_heroic_forces_by_city_gates_and_directions` | over_specific_label | 1 | 1 |
 | `doom_prophecy_before_raid` | child | 1 | 1 |
 | `elemental_magical_warfare` | functional_variant | 1 | 1 |
 | `embassy_before_war` | functional_variant | 1 | 1 |
@@ -5649,6 +5440,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `failed_negotiated_exchange` | child | 1 | 1 |
 | `failed_parley_followed_by_siege_of_a_fortified_dwelling` | over_specific_label | 1 | 1 |
 | `fall_of_a_heroic_warrior_band` | narrower_than | 1 | 1 |
+| `fall_of_the_city_with_royal_blood_captive_women_and_child_killing` | over_specific_label | 1 | 1 |
 | `fallen_heroic_brothers_under_enemy_triumph_claim` | over_specific_label | 1 | 1 |
 | `fatal_ambush_at_a_sacred_wedding_setting` | uncertain | 1 | 1 |
 | `fatal_cattle_raid_and_ambush` | narrower_than | 1 | 1 |
@@ -5678,6 +5470,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ford_duel_as_crisis_point` | narrower_than | 1 | 1 |
 | `ford_duel_decided_by_a_spear_throw` | over_specific_label | 1 | 1 |
 | `foreign_host_invades_to_impose_tribute` | functional_variant | 1 | 1 |
+| `foreign_or_extraordinary_ally_arrives_to_aid_a_doomed_city_and_dies` | over_specific_label | 1 | 1 |
 | `foretelling_or_announcing_armed_conflict` | functional_variant | 1 | 1 |
 | `formal_alternation_of_weapon_choice_in_heroic_combat` | ritual_variant | 1 | 1 |
 | `formal_combat_challenge_and_threat` | ritual_variant | 1 | 1 |
@@ -5803,6 +5596,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `king_killed_as_suppliant_at_an_altar` | over_specific_label | 1 | 1 |
 | `kinship_and_fosterage_restraining_battlefield_violence` | functional_variant | 1 | 1 |
 | `kinship_loyalty_opposed_to_heroic_honour` | functional_variant | 1 | 1 |
+| `kinship_restraint_in_internal_warfare` | functional_variant | 1 | 1 |
 | `kinship_warning_ignored_because_of_pledged_honor` | functional_variant | 1 | 1 |
 | `kinsman_s_death_triggers_feud_and_revenge_threats` | functional_variant | 1 | 1 |
 | `kinsmen_fighting_in_a_civil_war` | functional_variant | 1 | 1 |
@@ -5826,6 +5620,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `magical_invisibility_covering_in_battle` | functional_variant | 1 | 1 |
 | `magical_vengeance_by_the_kin_of_a_slain_giant` | functional_variant | 1 | 1 |
 | `maiden_accompanies_raiders_and_dies_in_battle` | role_variant | 1 | 1 |
+| `maiden_s_worth_vindicated_through_tournament_challenge` | functional_variant | 1 | 1 |
 | `many_attackers_against_the_single_champion` | functional_variant | 1 | 1 |
 | `marked_ally_distinguished_before_combat` | functional_variant | 1 | 1 |
 | `marriage_conditioned_on_cattle_raid_success` | functional_variant | 1 | 1 |
@@ -5867,10 +5662,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `oath_bound_heroic_combat` | functional_variant | 1 | 1 |
 | `object_won_after_failed_mediation_and_combat` | over_specific_label | 1 | 1 |
 | `obstruction_of_weapon_preparation_by_releasing_water` | functional_variant | 1 | 1 |
+| `ominous_carrion_birds_and_blood_after_battle` | uncertain | 1 | 1 |
 | `ominous_lone_warrior_approaching_a_camp` | over_specific_label | 1 | 1 |
 | `ominous_midnight_battlefield` | uncertain | 1 | 1 |
 | `one_day_war_ending_at_sunset` | functional_variant | 1 | 1 |
 | `opposing_armies_claim_divine_inspiration` | role_variant | 1 | 1 |
+| `ordered_martial_muster_on_a_height` | uncertain | 1 | 1 |
 | `outnumbered_defenders_facing_successive_foreign_champions` | narrower_than | 1 | 1 |
 | `paired_attackers_seek_glory_by_killing_a_wounded_warrior` | over_specific_label | 1 | 1 |
 | `paired_champion_single_combats` | functional_variant | 1 | 1 |
@@ -5905,6 +5702,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `recognition_and_cataloguing_of_warriors_before_battle` | functional_variant | 1 | 1 |
 | `recognition_catalogue_of_warriors` | functional_variant | 1 | 1 |
 | `reconnaissance_before_assault_on_a_fortified_enemy_city` | over_specific_label | 1 | 1 |
+| `recovery_of_seized_tribute_cattle_by_animal_call` | narrower_than | 1 | 1 |
 | `recruitment_of_pledged_warrior_companion` | role_variant | 1 | 1 |
 | `recurring_heroic_combats_and_slayings` | broader_label | 1 | 1 |
 | `refuge_from_weapons_and_battle` | functional_variant | 1 | 1 |
@@ -5917,6 +5715,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rejected_suitor_s_war_over_a_bride` | functional_variant | 1 | 1 |
 | `rejection_of_diplomacy_in_favor_of_force` | functional_variant | 1 | 1 |
 | `rejection_of_domestic_wealth_for_battle_won_treasure` | functional_variant | 1 | 1 |
+| `religion_established_by_the_sword` | uncertain | 1 | 1 |
 | `reluctant_champion_compelled_by_taunts` | functional_variant | 1 | 1 |
 | `reluctant_champion_compelled_to_fight_former_pupil` | over_specific_label | 1 | 1 |
 | `reluctant_combat_between_foster_brothers` | narrower_than | 1 | 1 |
@@ -6129,17 +5928,668 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `woman_with_sustaining_cattle_supports_an_army` | functional_variant | 1 | 1 |
 | `women_as_messengers_and_mediators_between_raiding_and_rescue_parties` | role_variant | 1 | 1 |
 | `world_shaking_duel_of_hero_and_giant_king` | functional_variant | 1 | 1 |
+| `wounded_cherished_animal_as_trigger_of_feud` | uncertain | 1 | 1 |
 | `wounded_hero_defending_cattle_alone` | narrower_than | 1 | 1 |
 | `youth_disguised_as_adult_to_compel_combat` | functional_variant | 1 | 1 |
 | `youthful_hero_in_cattle_expedition` | narrower_than | 1 | 1 |
 | `youthful_war_band_attempts_rescue_and_is_annihilated` | over_specific_label | 1 | 1 |
 
+## Dream, Vision, and Altered Perception
+
+- Canonical motif ID: `dream_and_vision`
+- Distinct traditions: 16
+- Occurrences: 216
+- Mapped motif IDs: 216
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `ambiguous_oracle_misunderstood_across_generations` | functional_variant | 1 | 1 |
+| `animal_alarm_before_strangers_arrive` | uncertain | 1 | 1 |
+| `animal_associated_with_prophecy` | symbolic_variant | 1 | 1 |
+| `animal_omen_interpreted_as_war_and_peace` | functional_variant | 1 | 1 |
+| `art_as_enchantment_illusion_and_moral_danger` | symbolic_variant | 1 | 1 |
+| `attempt_to_evade_prophetic_disclosure_by_changing_the_murder_weapon` | functional_variant | 1 | 1 |
+| `augural_bird_sign_prompting_battle` | functional_variant | 1 | 1 |
+| `auspicious_omens_before_battle` | functional_variant | 1 | 1 |
+| `bad_omen_reversed_by_favorable_interpretation` | functional_variant | 1 | 1 |
+| `battle_delayed_until_favorable_omen` | functional_variant | 1 | 1 |
+| `battle_foretold_by_druids` | role_variant | 1 | 1 |
+| `battle_omen_at_the_ford` | functional_variant | 1 | 1 |
+| `battlefield_carrion_birds_foretold` | symbolic_variant | 1 | 1 |
+| `bird_of_prey_drops_sign_at_altar` | symbolic_variant | 1 | 1 |
+| `bird_omen_confirms_companions_safety` | functional_variant | 1 | 1 |
+| `bird_omens_of_wealth_disease_and_fire` | functional_variant | 1 | 1 |
+| `blood_like_atmospheric_omen_or_marvel` | symbolic_variant | 1 | 1 |
+| `blood_omen_from_heaven_before_heroic_death` | functional_variant | 1 | 1 |
+| `blood_omen_in_an_abandoned_object` | uncertain | 1 | 1 |
+| `blood_omen_revealing_absent_hero_s_danger` | symbolic_variant | 1 | 1 |
+| `blood_water_portent_of_slaughter` | functional_variant | 1 | 1 |
+| `bodily_omen_before_death_or_disaster` | functional_variant | 1 | 1 |
+| `bodily_omen_of_right_and_left_eye_throbbing` | symbolic_variant | 1 | 1 |
+| `buddha_s_appearance_marked_by_cosmic_signs` | functional_variant | 1 | 1 |
+| `celestial_omens_prompting_royal_action` | functional_variant | 1 | 1 |
+| `celestial_portent_before_battle` | functional_variant | 1 | 1 |
+| `celestial_sign_at_the_death_of_a_powerful_doctor` | functional_variant | 1 | 1 |
+| `city_overwhelmed_by_the_sea_as_omen_of_defeat` | symbolic_variant | 1 | 1 |
+| `consulting_diviners_before_an_undertaking` | functional_variant | 1 | 1 |
+| `cosmic_omens_confirming_spiritual_destiny` | functional_variant | 1 | 1 |
+| `cosmic_portents_during_heroic_combat` | functional_variant | 1 | 1 |
+| `cosmic_signs_at_the_death_of_a_holy_person` | functional_variant | 1 | 1 |
+| `counter_vision_through_magic_concealment` | functional_variant | 1 | 1 |
+| `daydream_ending_in_self_caused_loss` | functional_variant | 1 | 1 |
+| `death_by_pyre_as_omen_to_departing_enemy` | functional_variant | 1 | 1 |
+| `death_dream_sent_to_doomed_sleeper` | functional_variant | 1 | 1 |
+| `death_omen_recognized_through_harp_sound` | functional_variant | 1 | 1 |
+| `death_or_misfortune_apparition` | functional_variant | 1 | 1 |
+| `deceptive_divine_dream_sent_to_a_ruler` | functional_variant | 1 | 1 |
+| `deceptive_dream_sent_by_a_god` | functional_variant | 1 | 1 |
+| `deceptive_dream_sent_from_a_deity` | functional_variant | 1 | 1 |
+| `deceptive_image_mistaken_for_reality` | symbolic_variant | 1 | 1 |
+| `deceptive_power_of_illusion` | symbolic_variant | 1 | 1 |
+| `defeated_king_s_prophecy_of_future_avenger` | functional_variant | 1 | 1 |
+| `departed_spirits_return_to_warn_the_living` | functional_variant | 1 | 1 |
+| `desolate_capital_as_omen_of_disaster` | symbolic_variant | 1 | 1 |
+| `disease_corrupts_divinatory_signs` | functional_variant | 1 | 1 |
+| `distant_perception_of_a_disciple_s_death` | functional_variant | 1 | 1 |
+| `distant_perception_of_kin_s_distress` | functional_variant | 1 | 1 |
+| `divination_by_burning_branch` | ritual_variant | 1 | 1 |
+| `divination_by_lots_before_undertaking_an_enterprise` | functional_variant | 1 | 1 |
+| `divination_with_yew_wands` | ritual_variant | 1 | 1 |
+| `divinatory_arrows_held_by_cult_images` | uncertain | 1 | 1 |
+| `divine_animal_omen_before_battle` | functional_variant | 1 | 1 |
+| `divine_approval_by_lightning_sign` | symbolic_variant | 1 | 1 |
+| `divine_command_transmitted_through_dream_apparition` | functional_variant | 1 | 1 |
+| `divine_instruction_by_vision` | functional_variant | 1 | 1 |
+| `divine_lordship_over_omen_birds_and_animals` | symbolic_variant | 1 | 1 |
+| `divine_or_supernatural_sleep_dwelling_in_a_dark_liminal_place` | symbolic_variant | 1 | 1 |
+| `divine_removal_of_obscuring_darkness` | functional_variant | 1 | 1 |
+| `divine_sign_and_naming_omen` | functional_variant | 1 | 1 |
+| `divine_sign_of_temporary_silence` | symbolic_variant | 1 | 1 |
+| `divine_warning_before_battle` | functional_variant | 1 | 1 |
+| `divinely_sent_consolatory_dream_message` | functional_variant | 1 | 1 |
+| `dream_apparition_announces_death` | functional_variant | 1 | 1 |
+| `dream_appearance_of_the_dead_or_absent_speaker` | functional_variant | 1 | 1 |
+| `dream_epiphany_of_protective_goddess` | functional_variant | 1 | 1 |
+| `dream_identity_crossing_human_and_animal_forms` | functional_variant | 1 | 1 |
+| `dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption` | child | 1 | 1 |
+| `dream_like_paralysis_in_battle` | functional_variant | 1 | 1 |
+| `dream_messenger_announces_death` | functional_variant | 1 | 1 |
+| `dream_or_apparition_in_the_form_of_a_loved_one` | functional_variant | 1 | 1 |
+| `dream_revealing_or_intensifying_forbidden_love` | functional_variant | 1 | 1 |
+| `dream_reveals_the_hidden_corpse` | functional_variant | 1 | 1 |
+| `dream_revelation_of_a_hidden_captive_being` | functional_variant | 1 | 1 |
+| `dreams_as_omens_governing_weather_health_luck_victory_and_hunting` | narrower_than | 1 | 1 |
+| `dying_hero_foretells_the_war_band_s_ruin` | functional_variant | 1 | 1 |
+| `dying_prophecy_of_the_slayer_s_death` | functional_variant | 1 | 1 |
+| `enchanted_music_that_brings_sleep_and_relief` | functional_variant | 1 | 1 |
+| `encounter_with_apparitions` | symbolic_variant | 1 | 1 |
+| `failed_or_questioned_auspicious_prophecy` | functional_variant | 1 | 1 |
+| `failure_to_read_signs_of_crisis` | functional_variant | 1 | 1 |
+| `false_omen_exposed` | functional_variant | 1 | 1 |
+| `false_promise_of_imminent_victory_preceding_suffering` | uncertain | 1 | 1 |
+| `fatal_omens_before_self_destruction` | functional_variant | 1 | 1 |
+| `fear_bringing_dream_figure` | symbolic_variant | 1 | 1 |
+| `feared_oracle_fulfilled_despite_attempted_avoidance` | functional_variant | 1 | 1 |
+| `fiery_omen_on_a_bride_to_be` | functional_variant | 1 | 1 |
+| `foreknown_tomb_and_name` | functional_variant | 1 | 1 |
+| `forest_obstruction_removed_for_supernatural_sight` | functional_variant | 1 | 1 |
+| `foretelling_fulfilled_in_old_age` | functional_variant | 1 | 1 |
+| `forewarned_combat_injury` | functional_variant | 1 | 1 |
+| `founding_attempt_interrupted_by_ominous_revelation` | functional_variant | 1 | 1 |
+| `ghost_of_dead_father_appears_to_son` | functional_variant | 1 | 1 |
+| `guide_interprets_visionary_procession` | functional_variant | 1 | 1 |
+| `heavenly_omen_inaugurates_battle` | functional_variant | 1 | 1 |
+| `idle_poor_man_invests_inheritance_and_daydreams_over_fragile_goods` | over_specific_label | 1 | 1 |
+| `ignored_omen_before_destructive_desire` | functional_variant | 1 | 1 |
+| `ill_omens_before_battle` | functional_variant | 1 | 1 |
+| `inner_beast_revealed_in_sleep` | symbolic_variant | 1 | 1 |
+| `intoxication_as_spirit_possession_or_inspiration` | functional_variant | 1 | 1 |
+| `landscape_and_birds_as_warning_voices` | functional_variant | 1 | 1 |
+| `limited_vision_before_unveiled_future` | functional_variant | 1 | 1 |
+| `magical_mirror_used_for_distant_vision` | functional_variant | 1 | 1 |
+| `marked_lot_divination_for_choosing_action_or_target` | functional_variant | 1 | 1 |
+| `marvelous_chariot_apparition_with_distorted_animal_and_red_figures` | over_specific_label | 1 | 1 |
+| `miraculous_sign_in_the_heavens` | symbolic_variant | 1 | 1 |
+| `mirage_as_deceptive_water_appearance` | uncertain | 1 | 1 |
+| `misheard_natural_sound_as_cosmic_disaster` | functional_variant | 1 | 1 |
+| `mistaken_smoke_portent` | functional_variant | 1 | 1 |
+| `moon_as_guide_and_comforter` | folded_child_motif | 1 | 1 |
+| `moon_as_witness_to_future_absence` | folded_child_motif | 1 | 1 |
+| `mountain_vantage_reveals_hidden_figures` | functional_variant | 1 | 1 |
+| `murdered_dead_reveals_hidden_truth_in_dream` | functional_variant | 1 | 1 |
+| `mysterious_music_from_an_unseen_hidden_place` | uncertain | 1 | 1 |
+| `night_as_pregnant_with_future_events` | symbolic_variant | 1 | 1 |
+| `night_procession_with_stars` | uncertain | 1 | 1 |
+| `nocturnal_spirit_causing_dreams_and_apparitions` | functional_variant | 1 | 1 |
+| `omen_based_divination` | functional_variant | 1 | 1 |
+| `omen_marking_divergent_fates` | functional_variant | 1 | 1 |
+| `omen_of_favorable_birds_at_parting` | functional_variant | 1 | 1 |
+| `omen_of_fortune_from_bird_flight` | functional_variant | 1 | 1 |
+| `omens_announce_danger` | functional_variant | 1 | 1 |
+| `omens_announcing_war_before_settlement` | functional_variant | 1 | 1 |
+| `omens_before_combat` | functional_variant | 1 | 1 |
+| `omens_before_conflict` | functional_variant | 1 | 1 |
+| `ominous_animal_and_bloodshed_at_a_feast` | uncertain | 1 | 1 |
+| `ominous_animals_and_bodily_portent_before_disaster` | functional_variant | 1 | 1 |
+| `ominous_arrival_bringing_woe_to_a_watcher` | functional_variant | 1 | 1 |
+| `ominous_bird_apparition` | functional_variant | 1 | 1 |
+| `ominous_blood_cloud_before_battle` | symbolic_variant | 1 | 1 |
+| `ominous_bodily_sign_before_disaster` | symbolic_variant | 1 | 1 |
+| `ominous_bodily_sign_before_separation` | symbolic_variant | 1 | 1 |
+| `ominous_choice_among_supernatural_signs` | uncertain | 1 | 1 |
+| `ominous_dream_foretelling_royal_death` | functional_variant | 1 | 1 |
+| `ominous_dream_with_internal_interpretation` | functional_variant | 1 | 1 |
+| `ominous_hunger_prophecy_recalled_during_journey` | functional_variant | 1 | 1 |
+| `ominous_mishap_before_sending_a_message` | over_specific_label | 1 | 1 |
+| `ominous_natural_stillness_before_danger` | symbolic_variant | 1 | 1 |
+| `ominous_portents_before_battle` | functional_variant | 1 | 1 |
+| `ominous_portents_before_confrontation` | functional_variant | 1 | 1 |
+| `ominous_serpent_carried_by_a_bird` | uncertain | 1 | 1 |
+| `ominous_sign_before_discovery_of_loss` | over_specific_label | 1 | 1 |
+| `ominous_supernatural_sound_before_calamity` | functional_variant | 1 | 1 |
+| `ominous_token_foretelling_hero_s_destruction` | functional_variant | 1 | 1 |
+| `ominous_transformation_of_the_doomed_looking_opponent` | functional_variant | 1 | 1 |
+| `ominous_vision_of_a_blood_bathed_host` | symbolic_variant | 1 | 1 |
+| `ominous_wedding_signs_preceding_death` | functional_variant | 1 | 1 |
+| `oracle_fulfilled_through_animal_emblems` | functional_variant | 1 | 1 |
+| `oracle_sanctioned_marriage_exception` | functional_variant | 1 | 1 |
+| `oracle_warning_against_marriage` | functional_variant | 1 | 1 |
+| `oracle_warning_fulfilled_through_misinterpretation` | functional_variant | 1 | 1 |
+| `oracular_restraint_and_required_recantation` | functional_variant | 1 | 1 |
+| `partial_knowledge_of_fate_concealed_from_a_hero` | functional_variant | 1 | 1 |
+| `personified_dream_figures_foretell_conquest_and_strategy` | functional_variant | 1 | 1 |
+| `plant_used_for_omen_drawing_on_a_calendrical_feast_day` | ritual_variant | 1 | 1 |
+| `prayer_answered_by_ambiguous_divine_sign` | functional_variant | 1 | 1 |
+| `prayer_for_confirming_omens_from_two_places` | functional_variant | 1 | 1 |
+| `prior_birth_bodhisatta_receives_prophecy_of_future_buddhahood` | functional_variant | 1 | 1 |
+| `prolonged_dream_vision_followed_by_awakening` | narrower_than | 1 | 1 |
+| `prophecy_concerning_an_exceptional_figure` | functional_variant | 1 | 1 |
+| `prophecy_dismissed_by_its_subject` | functional_variant | 1 | 1 |
+| `prophecy_fulfilled_in_mutual_mortal_combat` | functional_variant | 1 | 1 |
+| `prophecy_fulfilled_through_attempted_avoidance` | functional_variant | 1 | 1 |
+| `prophecy_fulfilled_through_attempted_violence` | functional_variant | 1 | 1 |
+| `prophecy_like_taunt_of_city_fall_and_hero_flight` | uncertain | 1 | 1 |
+| `prophecy_marks_that_a_hero_will_not_die_in_a_given_fight` | functional_variant | 1 | 1 |
+| `prophecy_of_a_future_city` | functional_variant | 1 | 1 |
+| `prophecy_of_battlefield_slaughter_and_carrion_birds` | functional_variant | 1 | 1 |
+| `prophecy_of_destruction_surrounding_a_woman` | uncertain | 1 | 1 |
+| `prophecy_of_enemy_s_fall_invoked_before_combat` | functional_variant | 1 | 1 |
+| `prophecy_of_future_trouble_after_killing_a_hidden_king` | functional_variant | 1 | 1 |
+| `prophecy_of_reversal_after_defeat` | functional_variant | 1 | 1 |
+| `prophecy_of_the_hero_sacking_the_hold` | functional_variant | 1 | 1 |
+| `prophecy_of_vengeance_for_slain_kin` | functional_variant | 1 | 1 |
+| `prophecy_shadowed_union_leading_toward_doom` | functional_variant | 1 | 1 |
+| `prophetic_apparition_warning_travelers` | functional_variant | 1 | 1 |
+| `prophetic_battlefield_doom_speech` | functional_variant | 1 | 1 |
+| `prophetic_dream_of_danger_with_corrective_interpretation` | functional_variant | 1 | 1 |
+| `prophetic_dream_of_enemy_downfall_and_rescue` | functional_variant | 1 | 1 |
+| `prophetic_dream_verified_by_later_fulfillment` | functional_variant | 1 | 1 |
+| `prophetic_night_apparition_directs_conflict` | functional_variant | 1 | 1 |
+| `prophetic_or_warning_dream_before_conflict` | functional_variant | 1 | 1 |
+| `prophetic_sea_being_whose_approach_brings_dread` | role_variant | 1 | 1 |
+| `prophetic_sleep_and_dream_before_battle` | functional_variant | 1 | 1 |
+| `prophetic_speaking_horse_warns_of_hero_s_doom` | functional_variant | 1 | 1 |
+| `protective_saint_warns_ruler_in_dream` | functional_variant | 1 | 1 |
+| `punishment_for_withholding_a_dream` | uncertain | 1 | 1 |
+| `recognized_hall_tableau_from_a_prior_vision` | functional_variant | 1 | 1 |
+| `red_sky_as_sign_of_supernatural_death` | symbolic_variant | 1 | 1 |
+| `rejected_ominous_dream` | functional_variant | 1 | 1 |
+| `retainers_foreboding_before_lord_s_combat` | functional_variant | 1 | 1 |
+| `revelatory_dream_altering_courage` | functional_variant | 1 | 1 |
+| `riddle_observance_connected_with_dreams_divination_or_corpse_presence` | uncertain | 1 | 1 |
+| `ritual_frenzy_overcoming_a_sacred_singer` | functional_variant | 1 | 1 |
+| `ritual_request_for_augury_before_a_perilous_journey` | ritual_variant | 1 | 1 |
+| `sacred_site_omen_synchronized_with_holy_successor_s_death` | functional_variant | 1 | 1 |
+| `safe_crossing_versus_broken_bridge_as_dream_omen` | functional_variant | 1 | 1 |
+| `saintly_presentiment_of_approaching_death` | functional_variant | 1 | 1 |
+| `scout_observes_ominous_signs_before_the_arrival_of_an_army` | functional_variant | 1 | 1 |
+| `shadow_or_illusion_mistaken_for_reality` | symbolic_variant | 1 | 1 |
+| `sleeping_victim_perceives_attacker_as_in_a_dream` | functional_variant | 1 | 1 |
+| `supernatural_battle_omen_by_birds_and_demons` | functional_variant | 1 | 1 |
+| `supernatural_foreknowledge_of_battlefield_death` | functional_variant | 1 | 1 |
+| `supernatural_scale_sign_accompanies_heroic_deed` | symbolic_variant | 1 | 1 |
+| `sympathetic_omen_of_flourishing_or_withering` | functional_variant | 1 | 1 |
+| `temporary_divine_possession_producing_prophecy_or_divination` | functional_variant | 1 | 1 |
+| `true_and_false_dreams_distinguished_by_gates` | narrower_than | 1 | 1 |
+| `true_magical_event_mistaken_for_dream_or_madness` | functional_variant | 1 | 1 |
+| `unbelieved_true_prophecy_before_catastrophe` | functional_variant | 1 | 1 |
+| `unheeded_prophecy_before_catastrophe` | functional_variant | 1 | 1 |
+| `universal_stilling_and_suspension_at_a_decisive_moment` | uncertain | 1 | 1 |
+| `vanishing_prophetic_woman_after_transaction` | uncertain | 1 | 1 |
+| `victory_confirmed_by_celestial_signs` | functional_variant | 1 | 1 |
+| `wager_over_a_sacred_prediction` | functional_variant | 1 | 1 |
+| `war_omen_through_praise_song` | functional_variant | 1 | 1 |
+
+## Pride, Hubris, and Downfall
+
+- Canonical motif ID: `pride_and_downfall`
+- Distinct traditions: 16
+- Occurrences: 147
+- Mapped motif IDs: 146
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `hunter_becomes_hunted` | curated_mapping | 2 | 2 |
+| `admired_feature_becomes_cause_of_ruin` | functional_variant | 1 | 1 |
+| `ambitious_courtier_betrays_benefactor` | functional_variant | 1 | 1 |
+| `artisan_excellence_provoking_envy_and_murder_plot` | functional_variant | 1 | 1 |
+| `attempted_restraint_increases_destructive_anger` | functional_variant | 1 | 1 |
+| `boast_answered_by_bodily_comparison` | over_specific_label | 1 | 1 |
+| `boast_answered_by_supernatural_opposition` | functional_variant | 1 | 1 |
+| `boast_before_combat_followed_by_decisive_defeat` | functional_variant | 1 | 1 |
+| `boast_of_many_children_against_a_divine_rival` | functional_variant | 1 | 1 |
+| `boastful_challenger_immediately_destroyed` | functional_variant | 1 | 1 |
+| `boastful_comparison_followed_by_reversal` | functional_variant | 1 | 1 |
+| `boastful_comparison_overturned_by_events` | functional_variant | 1 | 1 |
+| `boastful_contestant_humbled_in_combat` | functional_variant | 1 | 1 |
+| `boastful_courage_exposed_by_danger` | functional_variant | 1 | 1 |
+| `boastful_demon_king_displays_cosmic_and_royal_power` | functional_variant | 1 | 1 |
+| `boastful_lesser_light_humbled_by_extinction` | functional_variant | 1 | 1 |
+| `boastful_recounting_of_past_victories_to_silence_challengers` | functional_variant | 1 | 1 |
+| `boasting_when_detection_is_impossible` | functional_variant | 1 | 1 |
+| `borrowed_finery_exposed` | functional_variant | 1 | 1 |
+| `constitutional_and_ethical_decline` | uncertain | 1 | 1 |
+| `corruption_into_tyranny_through_seduction_and_implanted_passion` | functional_variant | 1 | 1 |
+| `corruption_of_the_best_nature` | uncertain | 1 | 1 |
+| `counterproductive_remedy_intensifies_the_problem` | functional_variant | 1 | 1 |
+| `counterproductive_removal_of_a_perceived_cause` | functional_variant | 1 | 1 |
+| `death_pursuing_the_wealth_seeker` | functional_variant | 1 | 1 |
+| `death_through_envy_after_surpassing_warriors` | functional_variant | 1 | 1 |
+| `decline_across_generations_into_tyranny` | functional_variant | 1 | 1 |
+| `decline_from_cultural_flowering_into_waste_and_decay` | functional_variant | 1 | 1 |
+| `decline_from_ideal_order_into_timocratic_militarism` | uncertain | 1 | 1 |
+| `decline_from_ideal_order_through_successive_corrupt_forms` | uncertain | 1 | 1 |
+| `decline_through_corrupted_generation` | functional_variant | 1 | 1 |
+| `delayed_revenge_after_fall_from_power` | uncertain | 1 | 1 |
+| `derisive_boast_provokes_vengeance` | functional_variant | 1 | 1 |
+| `desire_ruling_the_self` | uncertain | 1 | 1 |
+| `destructive_overreaching_against_nature` | functional_variant | 1 | 1 |
+| `destructive_passion_leading_to_death` | narrower_than | 1 | 1 |
+| `destructive_pride_in_conflict` | functional_variant | 1 | 1 |
+| `discord_grows_when_met_with_violence` | functional_variant | 1 | 1 |
+| `disrespect_before_failed_imitation` | functional_variant | 1 | 1 |
+| `doomed_warrior_ignores_prudent_counsel` | functional_variant | 1 | 1 |
+| `endurance_of_a_record_contrasted_with_daily_transience` | child | 1 | 1 |
+| `envious_imitation_of_a_beneficent_marvel_fails` | functional_variant | 1 | 1 |
+| `envious_rival_prepares_a_poisoned_ambush` | functional_variant | 1 | 1 |
+| `envy_as_harmful_force` | narrower_than | 1 | 1 |
+| `envy_as_possession_leading_to_obstruction` | functional_variant | 1 | 1 |
+| `envy_leading_to_failed_imitation` | functional_variant | 1 | 1 |
+| `envy_leads_to_self_harming_abandonment_of_livelihood` | functional_variant | 1 | 1 |
+| `exaggerated_self_image_leading_to_destruction` | alias | 1 | 1 |
+| `excess_as_cause_of_decay` | symbolic_variant | 1 | 1 |
+| `failed_attempt_to_change_innate_nature_by_imitation` | functional_variant | 1 | 1 |
+| `fall_from_former_status` | broader_label | 1 | 1 |
+| `fall_of_overconfident_monumental_work` | functional_variant | 1 | 1 |
+| `fallen_royal_glory_and_animal_occupied_ruins` | symbolic_variant | 1 | 1 |
+| `false_champion_exposed_by_real_danger` | functional_variant | 1 | 1 |
+| `false_confidence_leads_to_disaster` | narrower_than | 1 | 1 |
+| `false_courage_against_a_powerless_substitute` | functional_variant | 1 | 1 |
+| `false_security_created_by_delayed_harm` | functional_variant | 1 | 1 |
+| `false_self_exaltation_of_a_small_creature` | functional_variant | 1 | 1 |
+| `fame_seeking_destruction_of_a_sacred_building_by_fire` | functional_variant | 1 | 1 |
+| `fatal_disregard_of_a_guiding_middle_path` | functional_variant | 1 | 1 |
+| `fatal_pursuit_of_splendid_spoils` | functional_variant | 1 | 1 |
+| `fear_driven_conversion_from_honor_to_wealth` | functional_variant | 1 | 1 |
+| `fire_and_clay_hierarchy_claim` | symbolic_variant | 1 | 1 |
+| `fortunate_removal_contrasted_with_failed_imitation` | functional_variant | 1 | 1 |
+| `greedy_imitation_brings_worthless_result` | functional_variant | 1 | 1 |
+| `greedy_imitator_misuses_or_destroys_a_wonder_working_object` | functional_variant | 1 | 1 |
+| `hero_warned_to_limit_pursuit_but_exceeds_bounds` | functional_variant | 1 | 1 |
+| `heroic_anger_as_civic_danger` | functional_variant | 1 | 1 |
+| `heroic_wrath_with_destructive_consequences` | functional_variant | 1 | 1 |
+| `hidden_subterranean_wealth_unleashes_vice_and_war` | functional_variant | 1 | 1 |
+| `human_imitation_of_celestial_paradise_followed_by_heavenly_destruction` | functional_variant | 1 | 1 |
+| `humbling_of_overconfident_believers` | functional_variant | 1 | 1 |
+| `humiliation_concealed_by_boastful_explanation` | functional_variant | 1 | 1 |
+| `impermanence_of_royal_glory` | symbolic_variant | 1 | 1 |
+| `impermanence_of_royal_grandeur` | symbolic_variant | 1 | 1 |
+| `impermanence_of_worldly_power` | broader_label | 1 | 1 |
+| `insatiable_greed` | narrower_than | 1 | 1 |
+| `intoxication_by_freedom_leading_to_tyranny` | functional_variant | 1 | 1 |
+| `inversion_of_luxury_into_shame_or_bondage` | functional_variant | 1 | 1 |
+| `isolated_master_becomes_fearful_captive` | functional_variant | 1 | 1 |
+| `isolated_master_fearing_revolt_of_dependents` | functional_variant | 1 | 1 |
+| `jealous_imitation_of_a_revered_figure` | functional_variant | 1 | 1 |
+| `jealous_master_destroys_talented_pupil` | functional_variant | 1 | 1 |
+| `kinslaying_for_a_hoard` | functional_variant | 1 | 1 |
+| `limited_mission_with_forbidden_overreach` | functional_variant | 1 | 1 |
+| `losing_a_real_possession_while_seeking_an_illusory_greater_gain` | functional_variant | 1 | 1 |
+| `luxury_produces_conflict` | functional_variant | 1 | 1 |
+| `missed_decisive_victory_through_rage_for_slaughter` | functional_variant | 1 | 1 |
+| `mockery_of_cowardice_after_failed_bravado` | functional_variant | 1 | 1 |
+| `mortal_challenges_deity_in_craft_contest` | functional_variant | 1 | 1 |
+| `obstinate_refusal_of_rescue_or_guidance` | functional_variant | 1 | 1 |
+| `ordered_decline_from_ideal_order_to_tyranny` | functional_variant | 1 | 1 |
+| `ordered_decline_of_regimes` | functional_variant | 1 | 1 |
+| `overbold_pursuit_followed_by_sudden_flight` | functional_variant | 1 | 1 |
+| `overeating_leads_to_entrapment` | functional_variant | 1 | 1 |
+| `personified_envy_infects_a_human_heart` | symbolic_variant | 1 | 1 |
+| `pleasure_causing_neglect_of_duty` | functional_variant | 1 | 1 |
+| `political_degeneration_expressed_through_animal_and_monster_imagery` | symbolic_variant | 1 | 1 |
+| `power_reversed_by_circumstance` | uncertain | 1 | 1 |
+| `precarious_height_and_downfall_of_the_powerful` | symbolic_variant | 1 | 1 |
+| `pretender_made_ridiculous` | functional_variant | 1 | 1 |
+| `pride_and_accidental_superiority_before_reversal` | narrower_than | 1 | 1 |
+| `pride_as_brief_rule_followed_by_downfall_dissolution` | child | 1 | 1 |
+| `pride_corrected_by_humiliation_or_punishment` | functional_variant | 1 | 1 |
+| `pride_from_temporary_wealth_before_a_fall` | narrower_than | 1 | 1 |
+| `pride_humbled_in_divine_containment` | child | 1 | 1 |
+| `pride_leading_to_loss` | alias | 1 | 1 |
+| `prideful_beings_attempt_to_bridge_heaven_and_earth` | functional_variant | 1 | 1 |
+| `prideful_weak_animal_challenges_stronger_animal` | functional_variant | 1 | 1 |
+| `protector_corrupted_into_predator_tyrant` | functional_variant | 1 | 1 |
+| `protector_transformed_into_tyrant` | functional_variant | 1 | 1 |
+| `proud_adversary_refuses_divine_command` | functional_variant | 1 | 1 |
+| `proud_warrior_ignores_ominous_warnings` | functional_variant | 1 | 1 |
+| `public_approval_and_public_humiliation` | functional_variant | 1 | 1 |
+| `public_expert_exposed_by_private_failure` | functional_variant | 1 | 1 |
+| `public_success_produces_jealous_hostility` | narrower_than | 1 | 1 |
+| `rash_request_to_wield_divine_power` | functional_variant | 1 | 1 |
+| `refused_counsel_before_destructive_war` | functional_variant | 1 | 1 |
+| `rejected_prudent_escape_counsel` | functional_variant | 1 | 1 |
+| `rejection_of_a_divine_warner_by_proud_opponents` | functional_variant | 1 | 1 |
+| `reversal_of_fortune_humbles_the_proud` | functional_variant | 1 | 1 |
+| `ruined_splendor_questioning_vanished_power` | symbolic_variant | 1 | 1 |
+| `ruler_sustains_power_through_manufactured_war` | functional_variant | 1 | 1 |
+| `seeming_gain_becomes_fatal_danger` | functional_variant | 1 | 1 |
+| `self_chosen_path_to_destruction` | functional_variant | 1 | 1 |
+| `self_destructive_overreaching_for_an_inaccessible_object` | functional_variant | 1 | 1 |
+| `self_inflicted_harm_while_attacking_a_smaller_enemy` | functional_variant | 1 | 1 |
+| `small_creature_destroyed_by_misjudging_size_or_capacity` | functional_variant | 1 | 1 |
+| `strong_figure_defeated_frail_figures_endure` | uncertain | 1 | 1 |
+| `successive_declining_generations_of_humanity` | broader_label | 1 | 1 |
+| `superior_healer_slain_by_jealous_healer` | functional_variant | 1 | 1 |
+| `temptation_through_royal_wealth_and_power` | narrower_than | 1 | 1 |
+| `triumph_followed_by_sudden_downfall` | functional_variant | 1 | 1 |
+| `tyranny_as_disease_or_death_of_government` | symbolic_variant | 1 | 1 |
+| `tyrant_as_embodiment_of_lawless_wickedness` | role_variant | 1 | 1 |
+| `tyrant_as_slave_of_inner_desires` | symbolic_variant | 1 | 1 |
+| `tyrant_s_generalized_vengeance_after_betrayal` | functional_variant | 1 | 1 |
+| `unattainable_object_disparaged_after_failure` | functional_variant | 1 | 1 |
+| `vanished_kings_and_the_ruin_of_worldly_power` | functional_variant | 1 | 1 |
+| `victor_destroyed_by_lesser_danger` | functional_variant | 1 | 1 |
+| `warning_against_arrogant_suitors` | functional_variant | 1 | 1 |
+| `warning_before_battle_is_ignored_or_belittled` | functional_variant | 1 | 1 |
+| `wealth_leading_to_insolence_and_admonition` | functional_variant | 1 | 1 |
+| `wealth_transformed_into_golden_touch_legend` | functional_variant | 1 | 1 |
+| `wise_counsel_rejected_before_foretold_ruin` | functional_variant | 1 | 1 |
+| `wise_warning_rejected_before_ruin` | functional_variant | 1 | 1 |
+
+## Otherworld and Enchanted Realm
+
+- Canonical motif ID: `otherworld`
+- Distinct traditions: 16
+- Occurrences: 138
+- Mapped motif IDs: 136
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `paradisal_garden_with_flowing_rivers` | narrower_than | 1 | 3 |
+| `abandoned_sleeper_on_a_strange_island` | uncertain | 1 | 1 |
+| `abundant_faraway_land` | narrower_than | 1 | 1 |
+| `abundant_food_and_drink_in_the_marvelous_land` | narrower_than | 1 | 1 |
+| `accidental_encounter_with_supernatural_beings_in_a_wild_place` | functional_variant | 1 | 1 |
+| `animal_conveyance_protecting_traveler_from_time_or_mortality` | functional_variant | 1 | 1 |
+| `appeal_to_a_powerful_otherworld_or_enemy_ruler_for_aid` | functional_variant | 1 | 1 |
+| `attachment_to_homeland_over_otherworldly_reward` | functional_variant | 1 | 1 |
+| `beneficent_fairy_realm_under_a_divine_lord` | narrower_than | 1 | 1 |
+| `blemishless_and_sinless_condition_of_inhabitants` | narrower_than | 1 | 1 |
+| `blessed_abode_for_heroic_demi_gods` | narrower_than | 1 | 1 |
+| `blessed_island_with_painless_divine_death_in_old_age` | narrower_than | 1 | 1 |
+| `bounded_long_enchantment_with_prophesied_release_condition` | functional_variant | 1 | 1 |
+| `cave_dwelling_monstrous_race` | narrower_than | 1 | 1 |
+| `cave_emergence_of_an_otherworld_woman` | functional_variant | 1 | 1 |
+| `celestial_performance_entrancing_human_guests` | functional_variant | 1 | 1 |
+| `changeling_substitution_and_recovery` | functional_variant | 1 | 1 |
+| `child_taken_by_wood_spirits_and_recovered_in_a_tree` | enchanted_abduction_variant | 1 | 1 |
+| `deathless_joyful_fairy_land` | narrower_than | 1 | 1 |
+| `deathless_remote_northern_happy_land` | narrower_than | 1 | 1 |
+| `defense_of_an_oppressed_supernatural_household_in_a_hill` | functional_variant | 1 | 1 |
+| `different_passage_of_time_in_an_otherworld` | narrower_than | 1 | 1 |
+| `divine_city_of_immortals` | narrower_than | 1 | 1 |
+| `divine_or_semi_divine_blessed_inhabitants_of_an_ideal_state` | narrower_than | 1 | 1 |
+| `enchanted_hunt_leading_to_disorientation` | functional_variant | 1 | 1 |
+| `enchanted_or_splendid_otherworldly_hall` | narrower_than | 1 | 1 |
+| `enchanted_slumber_or_captivity_imposed_by_elves` | functional_variant | 1 | 1 |
+| `enchanted_tree_with_hidden_musician` | heuristic_family_name_match | 1 | 1 |
+| `enchanted_woman_as_interlocutor` | heuristic_family_name_match | 1 | 1 |
+| `enclosed_refuge_in_the_wood` | narrower_than | 1 | 1 |
+| `fabled_promised_land_under_supernatural_rulership` | narrower_than | 1 | 1 |
+| `faery_otherworld_romance_setting` | narrower_than | 1 | 1 |
+| `fairy_money_that_becomes_worthless_matter` | symbolic_variant | 1 | 1 |
+| `fairy_vengeance` | functional_variant | 1 | 1 |
+| `false_island_revealed_as_a_sea_creature` | functional_variant | 1 | 1 |
+| `familiarity_with_the_fairy_country` | narrower_than | 1 | 1 |
+| `food_of_the_otherworld_binds_the_eater` | functional_variant | 1 | 1 |
+| `game_that_obscures_the_passage_of_time` | functional_variant | 1 | 1 |
+| `goat_formed_woodland_spirit` | spirit_being_variant | 1 | 1 |
+| `goat_like_woodland_spirit_race` | spirit_being_variant | 1 | 1 |
+| `heaven_like_jeweled_palace` | symbolic_variant | 1 | 1 |
+| `hero_as_equal_and_guest_of_the_gods` | role_variant | 1 | 1 |
+| `hero_protects_otherworldly_community_from_recurring_bird_threat` | functional_variant | 1 | 1 |
+| `hero_remains_in_dangerous_sacred_grove` | uncertain | 1 | 1 |
+| `hidden_otherworld_dwellings_after_defeat` | narrower_than | 1 | 1 |
+| `hidden_terrifying_being_beneath_bark` | uncertain | 1 | 1 |
+| `hidden_transformed_kingdom_beneath_altered_landscape` | functional_variant | 1 | 1 |
+| `hidden_underwater_pleasure_palace` | symbolic_variant | 1 | 1 |
+| `hospitality_in_an_otherworldly_house` | functional_variant | 1 | 1 |
+| `human_mistaken_for_giant_child_s_plaything` | over_specific_label | 1 | 1 |
+| `hybrid_aquatic_human_figure` | symbolic_variant | 1 | 1 |
+| `ideal_city_in_the_clouds` | symbolic_variant | 1 | 1 |
+| `ideal_far_northern_paradise` | narrower_than | 1 | 1 |
+| `illusory_or_transforming_house_trap` | functional_variant | 1 | 1 |
+| `impenetrable_enchanted_or_royal_city` | functional_variant | 1 | 1 |
+| `impossible_or_repetitive_otherworld_tasks` | functional_variant | 1 | 1 |
+| `intermediate_realm_between_extremes` | narrower_than | 1 | 1 |
+| `island_of_abundance_and_refuge` | symbolic_variant | 1 | 1 |
+| `isolated_invincible_island_fortress` | narrower_than | 1 | 1 |
+| `jewel_lit_chess_contest_obscuring_passage_of_time` | functional_variant | 1 | 1 |
+| `little_woodland_imps_in_comic_movement` | narrower_than | 1 | 1 |
+| `lost_or_sunken_marvelous_city` | symbolic_variant | 1 | 1 |
+| `magical_concealment_by_mist` | symbolic_variant | 1 | 1 |
+| `magical_herbal_and_charm_healing_from_fairy_source` | functional_variant | 1 | 1 |
+| `magical_opening_of_a_hill_by_ritual_object` | functional_variant | 1 | 1 |
+| `marvelous_hospitality_in_an_enormous_castle` | functional_variant | 1 | 1 |
+| `marvelous_island_fauna_and_giant_bird_predation` | functional_variant | 1 | 1 |
+| `marvelous_otherworld_trees` | symbolic_variant | 1 | 1 |
+| `marvelous_singing_tree_and_bird` | symbolic_variant | 1 | 1 |
+| `marvelous_troop_equipped_by_fairy_gifts` | functional_variant | 1 | 1 |
+| `meadow_nymph_circle_dance` | uncertain | 1 | 1 |
+| `mistaken_shelter_as_giant_object` | functional_variant | 1 | 1 |
+| `monsters_dwelling_on_a_remote_oceanic_island` | narrower_than | 1 | 1 |
+| `mountain_roaming_wild_deity` | role_variant | 1 | 1 |
+| `mysterious_vanishing_departure` | functional_variant | 1 | 1 |
+| `mythical_geography_incorporating_a_real_distant_country` | uncertain | 1 | 1 |
+| `named_fairy_mound_or_sid_as_significant_locale` | narrower_than | 1 | 1 |
+| `nature_animated_by_local_nymphs` | symbolic_variant | 1 | 1 |
+| `opening_or_violating_fairy_mounds_to_recover_a_person` | functional_variant | 1 | 1 |
+| `otherworld_abundance_without_ordinary_need` | symbolic_variant | 1 | 1 |
+| `otherworld_associated_labor_fulfilling_a_demand` | functional_variant | 1 | 1 |
+| `otherworld_exchange` | child | 1 | 1 |
+| `otherworld_music_and_singing_birds_visit_a_sidhe_hill` | narrower_than | 1 | 1 |
+| `otherworld_palace_of_abundance` | narrower_than | 1 | 1 |
+| `otherworld_protection_in_small_form` | child | 1 | 1 |
+| `otherworld_raiders_emerging_from_hill_or_cave` | functional_variant | 1 | 1 |
+| `otherworld_sojourn` | child | 1 | 1 |
+| `otherworld_warrior_counselor_who_vanishes` | role_variant | 1 | 1 |
+| `otherworldly_empty_interior_with_central_fountain_and_suspended_objects` | over_specific_label | 1 | 1 |
+| `otherworldly_fiery_place_associated_with_female_beings` | symbolic_variant | 1 | 1 |
+| `otherworldly_or_fairy_kin_aid_a_hero_s_wooing_expedition` | functional_variant | 1 | 1 |
+| `otherworldly_protection_in_a_fragrant_enclosure` | symbolic_variant | 1 | 1 |
+| `paradisal_encampment_detains_travelers` | functional_variant | 1 | 1 |
+| `paradisal_food_resembling_earthly_food` | narrower_than | 1 | 1 |
+| `paradise_as_gardens_and_rivers` | symbolic_variant | 1 | 1 |
+| `remote_blessed_land_preserving_primordial_customs` | narrower_than | 1 | 1 |
+| `remote_or_monstrous_peoples_at_the_edge_of_knowledge` | uncertain | 1 | 1 |
+| `remote_world_beyond_the_surrounding_ocean` | narrower_than | 1 | 1 |
+| `richly_adorned_otherworldly_forest_household` | narrower_than | 1 | 1 |
+| `rivers_of_blessed_abundance` | symbolic_variant | 1 | 1 |
+| `shipwreck_survivor_reaches_strange_island` | functional_variant | 1 | 1 |
+| `sick_hero_invited_to_another_land` | functional_variant | 1 | 1 |
+| `sidhe_music_causing_sleep_before_entry_into_an_uncanny_dwelling` | functional_variant | 1 | 1 |
+| `sleep_during_magical_or_unusual_voyage` | functional_variant | 1 | 1 |
+| `stranded_sailors_abandoned_on_a_dangerous_island` | functional_variant | 1 | 1 |
+| `strange_hospitality_ending_in_displacement_after_sleep` | functional_variant | 1 | 1 |
+| `strange_land_with_altered_rhythms_of_work_and_rest` | uncertain | 1 | 1 |
+| `submarine_divine_palace_and_sea_court` | narrower_than | 1 | 1 |
+| `supernatural_abduction_explains_sudden_disappearance` | functional_variant | 1 | 1 |
+| `supernatural_animal_revealed_as_fairy_benefactor` | functional_variant | 1 | 1 |
+| `supernatural_animal_transport_across_boundaries` | functional_variant | 1 | 1 |
+| `supernatural_beings_tied_to_natural_places` | role_variant | 1 | 1 |
+| `supernatural_mound_folk_as_powerful_pre_christian_demons` | uncertain | 1 | 1 |
+| `supernatural_obscuring_mist` | symbolic_variant | 1 | 1 |
+| `supernatural_vehicle_crossing_sea_and_land` | functional_variant | 1 | 1 |
+| `tree_or_plant_bound_maiden_spirit` | symbolic_variant | 1 | 1 |
+| `tree_presiding_nymphs` | role_variant | 1 | 1 |
+| `tree_spirit_embodied_in_tree_and_effigy` | symbolic_variant | 1 | 1 |
+| `truthful_land_without_evil` | symbolic_variant | 1 | 1 |
+| `unfailing_otherworldly_food_and_drink` | symbolic_variant | 1 | 1 |
+| `utopian_land_without_possessive_division_or_blemish` | symbolic_variant | 1 | 1 |
+| `vanishing_dwelling_after_night_feast` | functional_variant | 1 | 1 |
+| `vanishing_enchanted_castle` | symbolic_variant | 1 | 1 |
+| `vast_otherworldly_or_heroic_feast_hall` | narrower_than | 1 | 1 |
+| `violation_of_otherworld_dwelling_brings_later_retribution` | functional_variant | 1 | 1 |
+| `violation_of_otherworld_hill_followed_by_revenge_on_descendants` | functional_variant | 1 | 1 |
+| `warriors_carried_away_by_a_strange_horse` | functional_variant | 1 | 1 |
+| `water_maiden_dwelling_in_underwater_caverns` | narrower_than | 1 | 1 |
+| `water_riding_otherworldly_arrival` | functional_variant | 1 | 1 |
+| `water_spirits_as_music_making_beings_at_rivers_and_streams` | role_variant | 1 | 1 |
+| `welcome_mediated_by_female_companion` | role_variant | 1 | 1 |
+| `wild_huntress_companions_and_frightened_woodland_beings` | uncertain | 1 | 1 |
+| `woman_located_at_an_elf_mound` | narrower_than | 1 | 1 |
+| `women_only_island_confronting_arriving_male_heroes` | functional_variant | 1 | 1 |
+| `women_only_land_with_seasonal_husbands` | narrower_than | 1 | 1 |
+| `world_edge_divine_absence` | uncertain | 1 | 1 |
+
+## Storytelling and Narrative as Sacred Power
+
+- Canonical motif ID: `storytelling_as_power`
+- Distinct traditions: 16
+- Occurrences: 112
+- Mapped motif IDs: 112
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `animal_centered_moral_tales` | broader_label | 1 | 1 |
+| `animal_storyteller_frame` | functional_variant | 1 | 1 |
+| `authorship_as_public_immortality` | symbolic_variant | 1 | 1 |
+| `bardic_performance_nested_within_the_main_narrative` | functional_variant | 1 | 1 |
+| `blind_poor_bard_remembered_as_sweetest_singer` | symbolic_variant | 1 | 1 |
+| `book_completed_by_divine_favor` | functional_variant | 1 | 1 |
+| `comic_misunderstanding_of_learned_performance` | functional_variant | 1 | 1 |
+| `contest_of_song_between_mortals_and_goddesses` | functional_variant | 1 | 1 |
+| `cursed_poetic_work_causing_madness_in_readers` | functional_variant | 1 | 1 |
+| `dawn_suspense_reprieve` | child | 1 | 1 |
+| `deity_invoked_to_enter_and_bless_a_song` | ritual_variant | 1 | 1 |
+| `deity_praised_by_natural_and_human_singers` | functional_variant | 1 | 1 |
+| `demonic_storyteller_frame` | functional_variant | 1 | 1 |
+| `divine_musician_and_leader_of_song` | role_variant | 1 | 1 |
+| `divine_patronage_of_singers_and_music` | functional_variant | 1 | 1 |
+| `divine_song_transforms_nature_into_provisions_and_wealth` | functional_variant | 1 | 1 |
+| `divinely_affiliated_singer_with_lyre` | role_variant | 1 | 1 |
+| `divinely_arranged_suffering_preserved_in_song` | functional_variant | 1 | 1 |
+| `domestic_lullaby_storytelling_by_cradle_and_fire` | functional_variant | 1 | 1 |
+| `efficacious_poetic_speech_alters_royal_action` | functional_variant | 1 | 1 |
+| `eloquence_represented_as_golden_chains_from_the_mouth` | symbolic_variant | 1 | 1 |
+| `embedded_tale_within_judicial_inquiry` | functional_variant | 1 | 1 |
+| `emotional_contagion_through_represented_suffering` | functional_variant | 1 | 1 |
+| `enchanted_drink_causing_sleep_at_a_feast` | functional_variant | 1 | 1 |
+| `enchanting_power_of_words` | symbolic_variant | 1 | 1 |
+| `enchantment_of_the_soul_by_speech` | functional_variant | 1 | 1 |
+| `enduring_sacred_fame_guaranteed_by_natural_permanence` | symbolic_variant | 1 | 1 |
+| `enemy_rhetoric_exploiting_grievance` | functional_variant | 1 | 1 |
+| `exile_of_deceptive_poetic_imitation` | uncertain | 1 | 1 |
+| `feast_drink_prompting_communal_song` | functional_variant | 1 | 1 |
+| `foundation_text_of_a_cultural_past` | functional_variant | 1 | 1 |
+| `framed_past_life_exemplum` | functional_variant | 1 | 1 |
+| `hero_praised_through_catalogue_of_exploits_before_battle` | functional_variant | 1 | 1 |
+| `heroic_fame_as_the_remaining_possession_of_the_dead` | symbolic_variant | 1 | 1 |
+| `heroic_life_made_into_authoritative_epic_narration` | meta_artifact | 1 | 1 |
+| `heroic_name_proclaimed_among_peoples` | functional_variant | 1 | 1 |
+| `human_wins_favor_of_demons_through_performance` | functional_variant | 1 | 1 |
+| `ill_timed_song_as_danger_signal` | functional_variant | 1 | 1 |
+| `incantatory_folk_poetry_linked_with_pagan_religious_practice` | ritual_variant | 1 | 1 |
+| `invocation_of_divine_witnesses_for_heroic_catalogue` | uncertain | 1 | 1 |
+| `last_minute_interruption_of_execution` | functional_variant | 1 | 1 |
+| `last_minute_rescue_from_execution` | functional_variant | 1 | 1 |
+| `liberating_song_opens_bonds` | functional_variant | 1 | 1 |
+| `liberator_threatened_by_captive` | child | 1 | 1 |
+| `lineage_of_poetic_authority_and_patronage` | role_variant | 1 | 1 |
+| `living_or_animated_speech` | symbolic_variant | 1 | 1 |
+| `lost_ancient_tribes_remembered_through_tradition_and_scripture` | functional_variant | 1 | 1 |
+| `magical_satire_and_insult_song` | functional_variant | 1 | 1 |
+| `magical_song_as_overpowering_force` | functional_variant | 1 | 1 |
+| `marvelous_voice_producing_abundance_and_delight` | functional_variant | 1 | 1 |
+| `music_summons_a_shade_giving_grove` | over_specific_label | 1 | 1 |
+| `national_songs_preserved_in_memory_before_writing` | narrower_than | 1 | 1 |
+| `nearly_extinguished_speech_revived_into_living_word` | symbolic_variant | 1 | 1 |
+| `one_eyed_wanderers_with_separate_marvelous_histories` | over_specific_label | 1 | 1 |
+| `oral_preservation_by_trained_bards` | functional_variant | 1 | 1 |
+| `oral_songs_arising_from_communal_memory_of_war` | functional_variant | 1 | 1 |
+| `oral_tradition_passed_to_future_generations` | functional_variant | 1 | 1 |
+| `oral_transmission_of_heroic_legend_in_domestic_settings` | functional_variant | 1 | 1 |
+| `pacification_through_poetic_speech` | functional_variant | 1 | 1 |
+| `personified_report_as_supernatural_agent` | symbolic_variant | 1 | 1 |
+| `personified_speech_or_rumor_as_persistent_divine_force` | symbolic_variant | 1 | 1 |
+| `personified_vessels_in_dialogue` | functional_variant | 1 | 1 |
+| `poems_as_pearls_gathered_after_death` | symbolic_variant | 1 | 1 |
+| `poet_assuming_another_person_through_imitation` | functional_variant | 1 | 1 |
+| `poet_challenges_ruler_through_witty_reply` | functional_variant | 1 | 1 |
+| `poet_s_work_appropriated_by_false_claimant` | functional_variant | 1 | 1 |
+| `poet_satirist_compels_or_redirects_obligation` | functional_variant | 1 | 1 |
+| `poetic_contest_between_rival_poets` | functional_variant | 1 | 1 |
+| `poetic_contest_with_prize_dedication` | functional_variant | 1 | 1 |
+| `poetic_immortality_of_heroic_pair` | symbolic_variant | 1 | 1 |
+| `poetic_praise_increases_warrior_courage` | functional_variant | 1 | 1 |
+| `poetic_song_as_peacemaking_force` | functional_variant | 1 | 1 |
+| `poetic_song_survives_death` | symbolic_variant | 1 | 1 |
+| `poetry_as_fertile_garden_or_nursery` | symbolic_variant | 1 | 1 |
+| `praise_or_rebuke_restores_a_warrior_s_courage` | functional_variant | 1 | 1 |
+| `public_contest_of_performers_before_a_judging_crowd` | functional_variant | 1 | 1 |
+| `public_display_contest_of_sacred_and_poetic_texts` | functional_variant | 1 | 1 |
+| `public_recitation_leading_to_civic_and_sacred_recognition` | functional_variant | 1 | 1 |
+| `regulation_of_divine_stories_for_youth_education` | functional_variant | 1 | 1 |
+| `rescue_of_oral_tradition_from_loss` | functional_variant | 1 | 1 |
+| `rhyme_as_persuasive_sacred_style` | symbolic_variant | 1 | 1 |
+| `ritual_completion_of_scripture_through_divided_recitation` | ritual_variant | 1 | 1 |
+| `rival_praise_of_local_heroes` | uncertain | 1 | 1 |
+| `rivalry_of_poetry_and_philosophy` | functional_variant | 1 | 1 |
+| `ruler_healed_by_faithful_attendants_and_honors_them_through_poetic_commemoration` | uncertain | 1 | 1 |
+| `ruler_orders_wondrous_event_recorded` | functional_variant | 1 | 1 |
+| `sacred_narrative_displayed_on_relic_shrines` | ritual_variant | 1 | 1 |
+| `sacred_opening_formula` | ritual_variant | 1 | 1 |
+| `self_composed_epitaph_before_death` | functional_variant | 1 | 1 |
+| `songbird_preserving_memory_of_former_heroes` | symbolic_variant | 1 | 1 |
+| `sorrow_banishing_drug_mixed_into_communal_wine` | functional_variant | 1 | 1 |
+| `speech_as_enchantment_of_the_mind` | functional_variant | 1 | 1 |
+| `speechless_captive_finds_alternate_communication` | functional_variant | 1 | 1 |
+| `staged_grief_as_coercive_strategy` | functional_variant | 1 | 1 |
+| `stories_ascribed_to_a_sacred_teacher` | uncertain | 1 | 1 |
+| `storytelling_as_condition_for_release` | functional_variant | 1 | 1 |
+| `storytelling_as_survival` | child | 1 | 1 |
+| `storytelling_at_fire_and_tree_shade` | narrower_than | 1 | 1 |
+| `storytelling_before_a_ruler_wins_mercy` | functional_variant | 1 | 1 |
+| `storytelling_frame_before_a_cruel_ruler` | functional_variant | 1 | 1 |
+| `successive_heroic_arrivals_and_recognition_by_a_knowledgeable_speaker` | functional_variant | 1 | 1 |
+| `tale_as_repayment_for_food_and_drink` | functional_variant | 1 | 1 |
+| `third_party_arbiter_profits_from_a_quarrel` | functional_variant | 1 | 1 |
+| `three_kinds_of_music_named_from_childbirth_emotions` | functional_variant | 1 | 1 |
+| `unmade_textile_as_prolonged_device` | functional_variant | 1 | 1 |
+| `unspoken_verse_as_illness_relieved_by_recitation` | functional_variant | 1 | 1 |
+| `untranslatable_contest_or_repartee_based_on_wordplay` | functional_variant | 1 | 1 |
+| `verbal_defeat_turning_into_violence` | functional_variant | 1 | 1 |
+| `voluntary_bride_intercession` | child | 1 | 1 |
+| `war_camp_storytelling_of_heroic_feats` | functional_variant | 1 | 1 |
+| `wit_overwhelms_supernatural_force` | child | 1 | 1 |
+| `woman_weaving_the_war_caused_around_her` | symbolic_variant | 1 | 1 |
+
 ## Sacred Fire and Divine Light
 
 - Canonical motif ID: `sacred_fire`
 - Distinct traditions: 15
-- Occurrences: 160
-- Mapped motif IDs: 95
+- Occurrences: 162
+- Mapped motif IDs: 97
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -6200,6 +6650,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `purifying_and_protective_fire_for_people_and_livestock` | ritual_variant | 1 | 1 |
 | `quenched_war_fire` | symbolic_variant | 1 | 1 |
 | `radiance_spreading_from_holy_tomb` | symbolic_variant | 1 | 1 |
+| `released_animal_carrying_destructive_fire` | heuristic_keyword_match | 1 | 1 |
 | `ritual_fire_at_a_goddess_sanctuary` | ritual_variant | 1 | 1 |
 | `ritual_fire_made_under_metal_prohibition` | ritual_variant | 1 | 1 |
 | `ritual_fire_or_torch_custom_associated_with_a_deity` | ritual_variant | 1 | 1 |
@@ -6225,6 +6676,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `solar_fire_of_disciplined_individual_art` | uncertain | 1 | 1 |
 | `solar_hero_marked_by_radiance_and_golden_armour` | symbolic_variant | 1 | 1 |
 | `special_production_of_ritual_fire_by_wood_friction` | ritual_variant | 1 | 1 |
+| `successive_swallowing_of_a_dangerous_fiery_object_by_fish` | over_specific_label | 1 | 1 |
 | `sun_as_reflection_of_divine_glory` | symbolic_variant | 1 | 1 |
 | `sun_as_source_of_illumination_and_growth` | folded_child_motif | 1 | 1 |
 | `sun_confined_and_released_from_a_tower` | folded_child_motif | 1 | 1 |
@@ -6239,150 +6691,172 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `woman_figured_as_purifying_fire` | symbolic_variant | 1 | 1 |
 | `world_illuminating_sacred_body` | symbolic_variant | 1 | 1 |
 
-## Otherworld and Enchanted Realm
+## Threshold Guardian
 
-- Canonical motif ID: `otherworld`
+- Canonical motif ID: `threshold_guardian`
 - Distinct traditions: 15
-- Occurrences: 130
-- Mapped motif IDs: 128
+- Occurrences: 150
+- Mapped motif IDs: 150
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `paradisal_garden_with_flowing_rivers` | narrower_than | 1 | 3 |
-| `abundant_faraway_land` | narrower_than | 1 | 1 |
-| `abundant_food_and_drink_in_the_marvelous_land` | narrower_than | 1 | 1 |
-| `accidental_encounter_with_supernatural_beings_in_a_wild_place` | functional_variant | 1 | 1 |
-| `animal_conveyance_protecting_traveler_from_time_or_mortality` | functional_variant | 1 | 1 |
-| `appeal_to_a_powerful_otherworld_or_enemy_ruler_for_aid` | functional_variant | 1 | 1 |
-| `attachment_to_homeland_over_otherworldly_reward` | functional_variant | 1 | 1 |
-| `beneficent_fairy_realm_under_a_divine_lord` | narrower_than | 1 | 1 |
-| `blemishless_and_sinless_condition_of_inhabitants` | narrower_than | 1 | 1 |
-| `blessed_abode_for_heroic_demi_gods` | narrower_than | 1 | 1 |
-| `blessed_island_with_painless_divine_death_in_old_age` | narrower_than | 1 | 1 |
-| `bounded_long_enchantment_with_prophesied_release_condition` | functional_variant | 1 | 1 |
-| `cave_emergence_of_an_otherworld_woman` | functional_variant | 1 | 1 |
-| `celestial_performance_entrancing_human_guests` | functional_variant | 1 | 1 |
-| `changeling_substitution_and_recovery` | functional_variant | 1 | 1 |
-| `child_taken_by_wood_spirits_and_recovered_in_a_tree` | enchanted_abduction_variant | 1 | 1 |
-| `deathless_joyful_fairy_land` | narrower_than | 1 | 1 |
-| `deathless_remote_northern_happy_land` | narrower_than | 1 | 1 |
-| `defense_of_an_oppressed_supernatural_household_in_a_hill` | functional_variant | 1 | 1 |
-| `different_passage_of_time_in_an_otherworld` | narrower_than | 1 | 1 |
-| `divine_city_of_immortals` | narrower_than | 1 | 1 |
-| `divine_or_semi_divine_blessed_inhabitants_of_an_ideal_state` | narrower_than | 1 | 1 |
-| `enchanted_hunt_leading_to_disorientation` | functional_variant | 1 | 1 |
-| `enchanted_or_splendid_otherworldly_hall` | narrower_than | 1 | 1 |
-| `enchanted_slumber_or_captivity_imposed_by_elves` | functional_variant | 1 | 1 |
-| `enchanted_tree_with_hidden_musician` | heuristic_family_name_match | 1 | 1 |
-| `enchanted_woman_as_interlocutor` | heuristic_family_name_match | 1 | 1 |
-| `enclosed_refuge_in_the_wood` | narrower_than | 1 | 1 |
-| `fabled_promised_land_under_supernatural_rulership` | narrower_than | 1 | 1 |
-| `faery_otherworld_romance_setting` | narrower_than | 1 | 1 |
-| `fairy_money_that_becomes_worthless_matter` | symbolic_variant | 1 | 1 |
-| `fairy_vengeance` | functional_variant | 1 | 1 |
-| `false_island_revealed_as_a_sea_creature` | functional_variant | 1 | 1 |
-| `familiarity_with_the_fairy_country` | narrower_than | 1 | 1 |
-| `food_of_the_otherworld_binds_the_eater` | functional_variant | 1 | 1 |
-| `game_that_obscures_the_passage_of_time` | functional_variant | 1 | 1 |
-| `goat_formed_woodland_spirit` | spirit_being_variant | 1 | 1 |
-| `goat_like_woodland_spirit_race` | spirit_being_variant | 1 | 1 |
-| `heaven_like_jeweled_palace` | symbolic_variant | 1 | 1 |
-| `hero_as_equal_and_guest_of_the_gods` | role_variant | 1 | 1 |
-| `hero_protects_otherworldly_community_from_recurring_bird_threat` | functional_variant | 1 | 1 |
-| `hero_remains_in_dangerous_sacred_grove` | uncertain | 1 | 1 |
-| `hidden_otherworld_dwellings_after_defeat` | narrower_than | 1 | 1 |
-| `hidden_transformed_kingdom_beneath_altered_landscape` | functional_variant | 1 | 1 |
-| `hidden_underwater_pleasure_palace` | symbolic_variant | 1 | 1 |
-| `hospitality_in_an_otherworldly_house` | functional_variant | 1 | 1 |
-| `human_mistaken_for_giant_child_s_plaything` | over_specific_label | 1 | 1 |
-| `hybrid_aquatic_human_figure` | symbolic_variant | 1 | 1 |
-| `ideal_far_northern_paradise` | narrower_than | 1 | 1 |
-| `illusory_or_transforming_house_trap` | functional_variant | 1 | 1 |
-| `impenetrable_enchanted_or_royal_city` | functional_variant | 1 | 1 |
-| `impossible_or_repetitive_otherworld_tasks` | functional_variant | 1 | 1 |
-| `intermediate_realm_between_extremes` | narrower_than | 1 | 1 |
-| `island_of_abundance_and_refuge` | symbolic_variant | 1 | 1 |
-| `jewel_lit_chess_contest_obscuring_passage_of_time` | functional_variant | 1 | 1 |
-| `little_woodland_imps_in_comic_movement` | narrower_than | 1 | 1 |
-| `lost_or_sunken_marvelous_city` | symbolic_variant | 1 | 1 |
-| `magical_concealment_by_mist` | symbolic_variant | 1 | 1 |
-| `magical_herbal_and_charm_healing_from_fairy_source` | functional_variant | 1 | 1 |
-| `magical_opening_of_a_hill_by_ritual_object` | functional_variant | 1 | 1 |
-| `marvelous_hospitality_in_an_enormous_castle` | functional_variant | 1 | 1 |
-| `marvelous_island_fauna_and_giant_bird_predation` | functional_variant | 1 | 1 |
-| `marvelous_otherworld_trees` | symbolic_variant | 1 | 1 |
-| `marvelous_singing_tree_and_bird` | symbolic_variant | 1 | 1 |
-| `marvelous_troop_equipped_by_fairy_gifts` | functional_variant | 1 | 1 |
-| `meadow_nymph_circle_dance` | uncertain | 1 | 1 |
-| `mistaken_shelter_as_giant_object` | functional_variant | 1 | 1 |
-| `monsters_dwelling_on_a_remote_oceanic_island` | narrower_than | 1 | 1 |
-| `mountain_roaming_wild_deity` | role_variant | 1 | 1 |
-| `mysterious_vanishing_departure` | functional_variant | 1 | 1 |
-| `mythical_geography_incorporating_a_real_distant_country` | uncertain | 1 | 1 |
-| `named_fairy_mound_or_sid_as_significant_locale` | narrower_than | 1 | 1 |
-| `nature_animated_by_local_nymphs` | symbolic_variant | 1 | 1 |
-| `opening_or_violating_fairy_mounds_to_recover_a_person` | functional_variant | 1 | 1 |
-| `otherworld_abundance_without_ordinary_need` | symbolic_variant | 1 | 1 |
-| `otherworld_associated_labor_fulfilling_a_demand` | functional_variant | 1 | 1 |
-| `otherworld_exchange` | child | 1 | 1 |
-| `otherworld_music_and_singing_birds_visit_a_sidhe_hill` | narrower_than | 1 | 1 |
-| `otherworld_palace_of_abundance` | narrower_than | 1 | 1 |
-| `otherworld_protection_in_small_form` | child | 1 | 1 |
-| `otherworld_raiders_emerging_from_hill_or_cave` | functional_variant | 1 | 1 |
-| `otherworld_sojourn` | child | 1 | 1 |
-| `otherworld_warrior_counselor_who_vanishes` | role_variant | 1 | 1 |
-| `otherworldly_empty_interior_with_central_fountain_and_suspended_objects` | over_specific_label | 1 | 1 |
-| `otherworldly_fiery_place_associated_with_female_beings` | symbolic_variant | 1 | 1 |
-| `otherworldly_or_fairy_kin_aid_a_hero_s_wooing_expedition` | functional_variant | 1 | 1 |
-| `otherworldly_protection_in_a_fragrant_enclosure` | symbolic_variant | 1 | 1 |
-| `paradisal_encampment_detains_travelers` | functional_variant | 1 | 1 |
-| `paradisal_food_resembling_earthly_food` | narrower_than | 1 | 1 |
-| `paradise_as_gardens_and_rivers` | symbolic_variant | 1 | 1 |
-| `remote_blessed_land_preserving_primordial_customs` | narrower_than | 1 | 1 |
-| `remote_world_beyond_the_surrounding_ocean` | narrower_than | 1 | 1 |
-| `richly_adorned_otherworldly_forest_household` | narrower_than | 1 | 1 |
-| `rivers_of_blessed_abundance` | symbolic_variant | 1 | 1 |
-| `shipwreck_survivor_reaches_strange_island` | functional_variant | 1 | 1 |
-| `sick_hero_invited_to_another_land` | functional_variant | 1 | 1 |
-| `sidhe_music_causing_sleep_before_entry_into_an_uncanny_dwelling` | functional_variant | 1 | 1 |
-| `sleep_during_magical_or_unusual_voyage` | functional_variant | 1 | 1 |
-| `strange_hospitality_ending_in_displacement_after_sleep` | functional_variant | 1 | 1 |
-| `strange_land_with_altered_rhythms_of_work_and_rest` | uncertain | 1 | 1 |
-| `submarine_divine_palace_and_sea_court` | narrower_than | 1 | 1 |
-| `supernatural_abduction_explains_sudden_disappearance` | functional_variant | 1 | 1 |
-| `supernatural_animal_revealed_as_fairy_benefactor` | functional_variant | 1 | 1 |
-| `supernatural_animal_transport_across_boundaries` | functional_variant | 1 | 1 |
-| `supernatural_beings_tied_to_natural_places` | role_variant | 1 | 1 |
-| `supernatural_mound_folk_as_powerful_pre_christian_demons` | uncertain | 1 | 1 |
-| `supernatural_obscuring_mist` | symbolic_variant | 1 | 1 |
-| `supernatural_vehicle_crossing_sea_and_land` | functional_variant | 1 | 1 |
-| `tree_or_plant_bound_maiden_spirit` | symbolic_variant | 1 | 1 |
-| `tree_presiding_nymphs` | role_variant | 1 | 1 |
-| `tree_spirit_embodied_in_tree_and_effigy` | symbolic_variant | 1 | 1 |
-| `truthful_land_without_evil` | symbolic_variant | 1 | 1 |
-| `unfailing_otherworldly_food_and_drink` | symbolic_variant | 1 | 1 |
-| `utopian_land_without_possessive_division_or_blemish` | symbolic_variant | 1 | 1 |
-| `vanishing_dwelling_after_night_feast` | functional_variant | 1 | 1 |
-| `vanishing_enchanted_castle` | symbolic_variant | 1 | 1 |
-| `vast_otherworldly_or_heroic_feast_hall` | narrower_than | 1 | 1 |
-| `violation_of_otherworld_dwelling_brings_later_retribution` | functional_variant | 1 | 1 |
-| `violation_of_otherworld_hill_followed_by_revenge_on_descendants` | functional_variant | 1 | 1 |
-| `water_maiden_dwelling_in_underwater_caverns` | narrower_than | 1 | 1 |
-| `water_riding_otherworldly_arrival` | functional_variant | 1 | 1 |
-| `water_spirits_as_music_making_beings_at_rivers_and_streams` | role_variant | 1 | 1 |
-| `welcome_mediated_by_female_companion` | role_variant | 1 | 1 |
-| `wild_huntress_companions_and_frightened_woodland_beings` | uncertain | 1 | 1 |
-| `woman_located_at_an_elf_mound` | narrower_than | 1 | 1 |
-| `women_only_island_confronting_arriving_male_heroes` | functional_variant | 1 | 1 |
-| `women_only_land_with_seasonal_husbands` | narrower_than | 1 | 1 |
-| `world_edge_divine_absence` | uncertain | 1 | 1 |
+| `animal_guardian_at_sacred_threshold` | role_variant | 1 | 1 |
+| `armed_watcher_defeats_supernatural_seeming_intruder` | role_variant | 1 | 1 |
+| `arrival_of_stranger_through_guarded_threshold` | functional_variant | 1 | 1 |
+| `blinded_cannibal_monster_pursuing_escaped_voyagers` | functional_variant | 1 | 1 |
+| `blinding_of_a_one_eyed_cannibal_giant_with_heated_spits` | functional_variant | 1 | 1 |
+| `bound_maiden_threatened_by_devouring_monster` | uncertain | 1 | 1 |
+| `boundary_watch_and_threshold_encounter` | functional_variant | 1 | 1 |
+| `cannibal_giant_in_a_castle_of_bones` | uncertain | 1 | 1 |
+| `cannibal_giant_in_a_cave` | functional_variant | 1 | 1 |
+| `cannibal_monster_s_hidden_lair` | narrower_than | 1 | 1 |
+| `cave_encounter_with_a_monstrous_solitary_herdsman` | uncertain | 1 | 1 |
+| `children_unwittingly_reveal_a_concealed_entrance` | functional_variant | 1 | 1 |
+| `city_gates_as_refuge_from_pursuing_death` | functional_variant | 1 | 1 |
+| `combat_with_guardian_and_guardian_s_sons` | functional_variant | 1 | 1 |
+| `combat_with_spectral_being` | uncertain | 1 | 1 |
+| `concealed_predatory_nature_beneath_attractive_appearance` | functional_variant | 1 | 1 |
+| `concealment_by_blocking_travel_and_communication` | functional_variant | 1 | 1 |
+| `contested_household_entrance` | functional_variant | 1 | 1 |
+| `contested_landing_at_a_liminal_shore` | functional_variant | 1 | 1 |
+| `corruption_or_bypassing_of_guardians` | functional_variant | 1 | 1 |
+| `courteous_approach_pacifies_a_dangerous_encounter` | functional_variant | 1 | 1 |
+| `dangerous_enchantment_overcome_by_counter_music` | functional_variant | 1 | 1 |
+| `dangerous_hospitality_at_a_monster_s_dwelling` | functional_variant | 1 | 1 |
+| `dangerous_hospitality_from_a_man_eating_host` | functional_variant | 1 | 1 |
+| `dangerous_hybrid_singers_lure_seafarers_to_death` | functional_variant | 1 | 1 |
+| `dangerous_intruders_in_the_household` | functional_variant | 1 | 1 |
+| `dangerous_island_inhabited_by_a_strangling_monster` | functional_variant | 1 | 1 |
+| `dangerous_navigation_between_paired_hazards` | functional_variant | 1 | 1 |
+| `dangerous_threshold_of_the_lair` | narrower_than | 1 | 1 |
+| `dangerous_water_source_guarded_by_a_predatory_creature` | functional_variant | 1 | 1 |
+| `deadly_boundary_against_further_negotiation` | uncertain | 1 | 1 |
+| `deadly_siren_seascape` | functional_variant | 1 | 1 |
+| `deceptive_request_for_aid_by_a_dangerous_enemy` | functional_variant | 1 | 1 |
+| `deceptive_supernatural_spouse_who_consumes_the_human_partner` | functional_variant | 1 | 1 |
+| `destructive_female_lure` | functional_variant | 1 | 1 |
+| `directional_guardian_deities` | role_variant | 1 | 1 |
+| `divine_defense_of_a_civic_threshold` | functional_variant | 1 | 1 |
+| `divine_or_supernatural_boundary_imposed_on_pursuit` | functional_variant | 1 | 1 |
+| `enchanted_birds_lure_or_provoke_the_hero` | functional_variant | 1 | 1 |
+| `enchanted_lodging_as_trap` | functional_variant | 1 | 1 |
+| `enchanted_prevention_of_landing` | functional_variant | 1 | 1 |
+| `enchanted_threshold_capture` | functional_variant | 1 | 1 |
+| `enchanting_sirens_whose_song_affects_nature` | functional_variant | 1 | 1 |
+| `entrapment_at_threshold` | functional_variant | 1 | 1 |
+| `entry_into_a_guarded_royal_palace` | functional_variant | 1 | 1 |
+| `exceptional_stranger_at_the_gate` | role_variant | 1 | 1 |
+| `failed_magical_or_musical_lure_replaced_by_practical_action` | functional_variant | 1 | 1 |
+| `false_bride_or_false_marriage_lure` | functional_variant | 1 | 1 |
+| `false_hospitality_conceals_predation` | functional_variant | 1 | 1 |
+| `fear_of_repeated_monster_house_entrapment` | functional_variant | 1 | 1 |
+| `feast_as_threshold_of_danger` | functional_variant | 1 | 1 |
+| `female_guardian_of_the_hero_s_death` | role_variant | 1 | 1 |
+| `fierce_animal_guardian_of_an_enclosed_settlement` | role_variant | 1 | 1 |
+| `fiery_guardian_blocking_the_road` | symbolic_variant | 1 | 1 |
+| `flight_from_irresistible_voice` | functional_variant | 1 | 1 |
+| `floral_lure_for_a_female_figure` | functional_variant | 1 | 1 |
+| `ford_obstruction_delaying_pursuit_or_attack` | functional_variant | 1 | 1 |
+| `gatekeeping_dwarf_blocks_access_to_a_lord` | functional_variant | 1 | 1 |
+| `giant_hurls_rocks_at_fleeing_ship` | functional_variant | 1 | 1 |
+| `giant_s_dangerous_appetite_restrained_by_enchanted_sleep` | narrower_than | 1 | 1 |
+| `guarded_heavens_repelling_devils` | functional_variant | 1 | 1 |
+| `guarded_passage_requiring_combat` | functional_variant | 1 | 1 |
+| `guarded_threshold_at_a_ford` | functional_variant | 1 | 1 |
+| `guardian_as_potential_predator` | role_variant | 1 | 1 |
+| `guardian_figure_unsuccessfully_blocks_abductor` | functional_variant | 1 | 1 |
+| `guardian_monster_bypassed_by_enchanted_food` | functional_variant | 1 | 1 |
+| `guardian_of_hidden_treasures` | role_variant | 1 | 1 |
+| `headless_devouring_giant_blocks_and_seizes_heroes` | functional_variant | 1 | 1 |
+| `hero_bound_to_a_mast` | functional_variant | 1 | 1 |
+| `hero_defeats_aerial_enchantress_through_a_small_aperture` | uncertain | 1 | 1 |
+| `hero_defeats_hostile_guardians_with_magic_weapon` | functional_variant | 1 | 1 |
+| `heroic_boundary_challenge_halting_an_army` | role_variant | 1 | 1 |
+| `heroic_obstacle_at_a_threshold_ford` | functional_variant | 1 | 1 |
+| `hospitality_as_trap_through_enchanted_food_or_drink` | functional_variant | 1 | 1 |
+| `hospitality_request_concealing_danger` | functional_variant | 1 | 1 |
+| `household_boundary_and_controlled_access` | functional_variant | 1 | 1 |
+| `illusory_water_at_a_palace_threshold` | functional_variant | 1 | 1 |
+| `inscribed_obstacle_test_blocks_an_army` | functional_variant | 1 | 1 |
+| `invincible_monster_at_a_perilous_passage` | functional_variant | 1 | 1 |
+| `kinship_replaces_estrangement_among_guardians` | uncertain | 1 | 1 |
+| `lethal_contest_imposed_on_travelers` | functional_variant | 1 | 1 |
+| `lethal_sea_lure_and_drowning_power` | functional_variant | 1 | 1 |
+| `locked_many_gated_obstacle` | functional_variant | 1 | 1 |
+| `loyal_ally_guarding_a_river_boundary_for_an_exiled_hero` | role_variant | 1 | 1 |
+| `magical_barrier_preventing_reunion` | functional_variant | 1 | 1 |
+| `magical_lure_separates_the_protector_from_the_victim` | functional_variant | 1 | 1 |
+| `many_eyed_vigilant_guardian` | role_variant | 1 | 1 |
+| `monster_haunting_a_dangerous_threshold` | functional_variant | 1 | 1 |
+| `monster_in_a_cave_attacking_passing_ships` | functional_variant | 1 | 1 |
+| `monster_in_a_cave_seizing_sailors` | functional_variant | 1 | 1 |
+| `monster_predator_with_fiery_signs_approaches_at_night` | functional_variant | 1 | 1 |
+| `monstrous_armed_host_at_a_royal_gate` | functional_variant | 1 | 1 |
+| `monstrous_harbour_obstruction_overcome_by_heroes` | functional_variant | 1 | 1 |
+| `monstrous_one_eyed_guardian_with_conditional_death` | functional_variant | 1 | 1 |
+| `monstrous_sea_hazard_at_a_dangerous_strait` | functional_variant | 1 | 1 |
+| `monstrous_sisters_at_the_edge_of_the_world` | role_variant | 1 | 1 |
+| `moving_island_or_clashing_rocks_become_fixed` | functional_variant | 1 | 1 |
+| `music_used_to_lure_dangerous_beings` | functional_variant | 1 | 1 |
+| `musical_compulsion_of_animal_and_fatal_chase` | functional_variant | 1 | 1 |
+| `numbered_otherworld_guardians_as_a_test` | functional_variant | 1 | 1 |
+| `otherworldly_gifts_lure_warriors_into_peril` | functional_variant | 1 | 1 |
+| `perilous_giant_host_encounter` | role_variant | 1 | 1 |
+| `perilous_island_warning` | functional_variant | 1 | 1 |
+| `perilous_passage_between_two_deadly_threats` | functional_variant | 1 | 1 |
+| `perilous_passage_passable_only_by_woman_s_help` | functional_variant | 1 | 1 |
+| `perilous_sacred_boundary` | narrower_than | 1 | 1 |
+| `phantom_lure_into_isolated_forest` | functional_variant | 1 | 1 |
+| `promised_woman_as_lure_leading_warriors_to_death` | functional_variant | 1 | 1 |
+| `proper_reverence_toward_cosmic_guardians` | ritual_variant | 1 | 1 |
+| `protective_barrier_against_monstrous_or_hostile_peoples` | functional_variant | 1 | 1 |
+| `reluctant_watchman_at_a_dangerous_place` | role_variant | 1 | 1 |
+| `rescued_survivor_from_a_cannibal_giant` | functional_variant | 1 | 1 |
+| `rescuers_overcome_by_hostile_enchantment` | functional_variant | 1 | 1 |
+| `ritual_combat_with_a_spirit_through_a_floor_opening` | functional_variant | 1 | 1 |
+| `ritual_confrontation_with_an_enchanter` | uncertain | 1 | 1 |
+| `ritualized_sevenfold_hunt_at_a_boundary_or_gate` | ritual_variant | 1 | 1 |
+| `rival_predator_interrupts_tribute_journey` | uncertain | 1 | 1 |
+| `ruined_protective_boundary_and_endangered_community` | functional_variant | 1 | 1 |
+| `sea_born_monster_causing_chariot_catastrophe` | uncertain | 1 | 1 |
+| `semi_supernatural_guardian_or_swift_hound` | role_variant | 1 | 1 |
+| `serpent_infested_wilderness_path` | functional_variant | 1 | 1 |
+| `ship_destroying_giant_or_hostile_people` | functional_variant | 1 | 1 |
+| `single_eye_shared_among_sisters` | symbolic_variant | 1 | 1 |
+| `slayer_replaces_the_slain_guardian` | role_variant | 1 | 1 |
+| `sleepless_many_eyed_watcher_guarding_a_transformed_woman` | role_variant | 1 | 1 |
+| `specialized_guardian_class` | heuristic_family_name_match | 1 | 1 |
+| `subdued_threshold_guardian_followed_by_entry` | functional_variant | 1 | 1 |
+| `summoned_sea_monster_confronts_the_hero_s_vessel` | functional_variant | 1 | 1 |
+| `summoning_or_revealing_monstrous_creatures_by_sounding_a_horn` | functional_variant | 1 | 1 |
+| `supernatural_hindrance_at_a_ford_during_heroic_combat` | functional_variant | 1 | 1 |
+| `supernatural_hound_bound_in_sleep` | uncertain | 1 | 1 |
+| `tempting_golden_animal_leads_hero_away` | functional_variant | 1 | 1 |
+| `threat_at_the_boundary_of_the_camp` | functional_variant | 1 | 1 |
+| `threshold_challenge_with_water_after_harvest_rite` | heuristic_family_name_match | 1 | 1 |
+| `threshold_encounter_with_water_maidens` | role_variant | 1 | 1 |
+| `threshold_guarded_by_monstrous_and_avenging_figures` | narrower_than | 1 | 1 |
+| `threshold_guardian_admits_strangers_into_hidden_splendor` | functional_variant | 1 | 1 |
+| `threshold_guardian_bars_entry_to_a_fortified_city` | narrower_than | 1 | 1 |
+| `threshold_guardian_defeated_by_magic_through_one_weak_point` | functional_variant | 1 | 1 |
+| `threshold_guardian_who_seizes_shadows` | symbolic_variant | 1 | 1 |
+| `threshold_guards_overcome_in_silence` | functional_variant | 1 | 1 |
+| `treacherous_lure_into_a_concealed_water_trap` | functional_variant | 1 | 1 |
+| `tree_as_shared_shelter_and_trap_threshold` | heuristic_family_name_match | 1 | 1 |
+| `triple_form_crossroads_goddess` | role_variant | 1 | 1 |
+| `uncanny_ford_encounter` | child | 1 | 1 |
+| `vengeful_blood_fine_demand_by_harmful_supernatural_challengers` | role_variant | 1 | 1 |
+| `water_woman_enticing_mortals_at_a_waterfall` | functional_variant | 1 | 1 |
+| `weapon_resistant_animal_adversary` | role_variant | 1 | 1 |
+| `woodland_deity_guarding_field_boundaries` | role_variant | 1 | 1 |
+| `wrathful_envoy_at_the_city_gate` | role_variant | 1 | 1 |
 
 ## Divine Warrior and Sacred Combat
 
 - Canonical motif ID: `divine_warrior`
 - Distinct traditions: 14
-- Occurrences: 425
-- Mapped motif IDs: 420
+- Occurrences: 439
+- Mapped motif IDs: 434
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -6441,6 +6915,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `contest_over_a_dead_hero_s_arms_leads_to_a_warrior_s_suicide` | over_specific_label | 1 | 1 |
 | `contest_over_the_arms_of_a_fallen_warrior` | functional_variant | 1 | 1 |
 | `cosmic_amplification_of_battle_noise` | symbolic_variant | 1 | 1 |
+| `creator_deity_versus_warrior_king` | uncertain | 1 | 1 |
 | `curse_lifted_from_a_wilderness_by_monster_s_defeat` | functional_variant | 1 | 1 |
 | `daily_practice_of_extraordinary_martial_feats` | role_variant | 1 | 1 |
 | `dangerous_sleeper_with_involuntary_heroic_violence` | functional_variant | 1 | 1 |
@@ -6463,6 +6938,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `devastating_warrior_compared_to_natural_force` | symbolic_variant | 1 | 1 |
 | `devouring_giant_on_the_battlefield` | functional_variant | 1 | 1 |
 | `differentiated_heroic_courage` | role_variant | 1 | 1 |
+| `disguised_combat_leading_to_recognition_of_kin` | heuristic_keyword_match | 1 | 1 |
 | `divine_aid_determines_battle_momentum` | functional_variant | 1 | 1 |
 | `divine_aid_in_battle_through_heavenly_auxiliaries` | functional_variant | 1 | 1 |
 | `divine_aid_in_battle_through_unseen_hosts` | functional_variant | 1 | 1 |
@@ -6557,6 +7033,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `hero_defeats_giant_brothers_in_battle` | functional_variant | 1 | 1 |
 | `hero_dies_by_an_enemy_s_arrow` | over_specific_label | 1 | 1 |
 | `hero_disables_invulnerable_attacker_with_special_cast` | functional_variant | 1 | 1 |
+| `hero_excluded_from_battle_by_weakness_yet_affirmed_in_honor` | over_specific_label | 1 | 1 |
 | `hero_fights_alone_against_overwhelming_numbers` | role_variant | 1 | 1 |
 | `hero_frees_companions_by_killing_enchanters` | functional_variant | 1 | 1 |
 | `hero_overwhelmed_in_unequal_group_combat` | functional_variant | 1 | 1 |
@@ -6599,6 +7076,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `heroic_refusal_to_flee` | role_variant | 1 | 1 |
 | `heroic_restraint_before_use_of_decisive_weapon` | functional_variant | 1 | 1 |
 | `heroic_reversal_after_being_struck_or_wounded` | functional_variant | 1 | 1 |
+| `heroic_seizure_of_an_enemy_likened_to_eagle_and_serpent` | over_specific_label | 1 | 1 |
 | `heroic_shame_versus_survival_deliberation` | functional_variant | 1 | 1 |
 | `heroic_single_combat_against_a_demon_opponent` | functional_variant | 1 | 1 |
 | `heroic_slaying_of_a_destroyer_of_men` | functional_variant | 1 | 1 |
@@ -6639,6 +7117,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `magical_storm_of_natural_objects_and_weapons` | functional_variant | 1 | 1 |
 | `maimed_warrior_continues_with_altered_weapon_use` | functional_variant | 1 | 1 |
 | `martial_boast_against_overwhelming_opponent` | functional_variant | 1 | 1 |
+| `martial_display_through_physical_description_weapons_and_ornaments` | over_specific_label | 1 | 1 |
 | `martial_invocation_with_heroic_epithets` | ritual_variant | 1 | 1 |
 | `martial_vow_to_return_only_with_enemy_s_head_and_regalia` | functional_variant | 1 | 1 |
 | `mass_battlefield_death_for_glory` | functional_variant | 1 | 1 |
@@ -6676,6 +7155,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `overwhelming_hero_defeats_massed_enemies` | functional_variant | 1 | 1 |
 | `partial_trophy_and_disputed_proof` | functional_variant | 1 | 1 |
 | `personified_victory_as_winged_goddess` | role_variant | 1 | 1 |
+| `place_name_arising_from_combat_event` | heuristic_keyword_match | 1 | 1 |
 | `predatory_warrior_singles_out_a_victim` | functional_variant | 1 | 1 |
 | `progressive_dismemberment_of_monstrous_foe` | functional_variant | 1 | 1 |
 | `protected_survivor_returned_to_halt_a_warrior_s_fury` | functional_variant | 1 | 1 |
@@ -6693,6 +7173,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rebuke_against_cowardly_retreat` | over_specific_label | 1 | 1 |
 | `rebuke_of_delayed_hero_to_restore_martial_honor` | functional_variant | 1 | 1 |
 | `reciprocal_divine_intervention_in_heroic_combat` | functional_variant | 1 | 1 |
+| `recognition_of_champion_by_knowledgeable_witness` | role_variant | 1 | 1 |
 | `recurrent_battle_against_supernatural_adversaries` | functional_variant | 1 | 1 |
 | `refusal_to_challenge_an_exceptionally_dangerous_hero` | role_variant | 1 | 1 |
 | `regenerating_monstrous_body_in_combat` | functional_variant | 1 | 1 |
@@ -6702,10 +7183,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rising_sun_threatened_by_devouring_devil_and_saved_by_animals` | functional_variant | 1 | 1 |
 | `ritual_praise_of_deified_monster_slaying_hero` | ritual_variant | 1 | 1 |
 | `ritualized_reward_for_valor` | ritual_variant | 1 | 1 |
+| `rival_animal_champions_in_destructive_combat` | heuristic_keyword_match | 1 | 1 |
 | `rival_claim_to_heroic_object_followed_by_self_destruction` | over_specific_label | 1 | 1 |
 | `rivalry_and_rebuke_spur_greater_battle_deeds` | functional_variant | 1 | 1 |
 | `rousing_the_cursed_sleeping_giant_for_battle` | over_specific_label | 1 | 1 |
 | `sea_roving_outlaw_warrior` | role_variant | 1 | 1 |
+| `serpent_imagery_on_warrior_equipment` | symbolic_variant | 1 | 1 |
 | `servant_urges_wounded_hero_to_resume_action` | functional_variant | 1 | 1 |
 | `severed_heads_displayed_as_tokens_of_prowess` | over_specific_label | 1 | 1 |
 | `severed_monster_body_part_as_trophy_and_proof` | functional_variant | 1 | 1 |
@@ -6743,6 +7226,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `terrifying_heroic_shout_causes_supernatural_response_and_enemy_deaths` | functional_variant | 1 | 1 |
 | `terrifying_roar_as_weapon_of_battle` | functional_variant | 1 | 1 |
 | `terrifying_warrior_whose_approach_scatters_an_army` | role_variant | 1 | 1 |
+| `threatened_departure_of_a_warrior_retainer_over_delayed_reward` | heuristic_keyword_match | 1 | 1 |
 | `thunder_deity_with_fiery_weapon_and_chariot` | role_variant | 1 | 1 |
 | `thunder_god_supremacy_over_waters` | functional_variant | 1 | 1 |
 | `torch_lit_night_battle_and_fall_of_a_hero_s_son` | over_specific_label | 1 | 1 |
@@ -6765,6 +7249,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `vengeful_survivor_vows_daily_slaughter` | functional_variant | 1 | 1 |
 | `verbal_provocation_to_awaken_battle_fury` | functional_variant | 1 | 1 |
 | `victor_honors_the_defeated_foe` | functional_variant | 1 | 1 |
+| `victorious_animal_carries_enemy_remains_as_trophy` | role_variant | 1 | 1 |
 | `victory_festival_commemorating_divine_conquest` | ritual_variant | 1 | 1 |
 | `victory_recorded_on_a_warrior_s_shield` | over_specific_label | 1 | 1 |
 | `vow_bound_vengeance_before_sunset` | functional_variant | 1 | 1 |
@@ -6786,15 +7271,18 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `warrior_fury_manifesting_as_supernatural_heat` | child | 1 | 1 |
 | `warrior_honor_and_burial` | child | 1 | 1 |
 | `warrior_identity_expressed_through_preference_for_battle_sound` | over_specific_label | 1 | 1 |
+| `warrior_maiden_of_supernatural_speed` | role_variant | 1 | 1 |
 | `warrior_regains_strength_and_fights_alone_against_many` | functional_variant | 1 | 1 |
 | `warrior_ruler_refuses_praise_before_impending_battle` | functional_variant | 1 | 1 |
 | `warrior_rushes_into_certain_death_when_surrounded` | functional_variant | 1 | 1 |
 | `warrior_s_destructive_chariot_aristeia` | functional_variant | 1 | 1 |
 | `warrior_seeking_noble_death_by_wounds` | functional_variant | 1 | 1 |
+| `warrior_taunt_invoking_exile_dependence_and_failed_protection` | heuristic_keyword_match | 1 | 1 |
 | `warriors_identified_by_standards_mounts_and_chariots` | over_specific_label | 1 | 1 |
 | `warriors_likened_to_destructive_elements` | symbolic_variant | 1 | 1 |
 | `warriors_rallied_from_flight_by_a_prince_s_speech` | functional_variant | 1 | 1 |
 | `wild_nature_alarmed_by_human_martial_power` | symbolic_variant | 1 | 1 |
+| `woman_promised_as_reward_for_undertaking_dangerous_combat` | heuristic_keyword_match | 1 | 1 |
 | `women_marvel_at_the_beautiful_warrior_after_a_fearsome_manifestation` | over_specific_label | 1 | 1 |
 | `world_striding_deity_subdues_adversary` | functional_variant | 1 | 1 |
 | `wounded_body_held_together_for_battle` | functional_variant | 1 | 1 |
@@ -6807,160 +7295,12 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `wounded_warrior_requires_skilled_healer` | heuristic_family_name_match | 1 | 1 |
 | `wrathful_hero_returning_from_combat_threatens_his_own_community` | functional_variant | 1 | 1 |
 
-## Threshold Guardian
-
-- Canonical motif ID: `threshold_guardian`
-- Distinct traditions: 14
-- Occurrences: 138
-- Mapped motif IDs: 138
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `animal_guardian_at_sacred_threshold` | role_variant | 1 | 1 |
-| `armed_watcher_defeats_supernatural_seeming_intruder` | role_variant | 1 | 1 |
-| `arrival_of_stranger_through_guarded_threshold` | functional_variant | 1 | 1 |
-| `blinded_cannibal_monster_pursuing_escaped_voyagers` | functional_variant | 1 | 1 |
-| `blinding_of_a_one_eyed_cannibal_giant_with_heated_spits` | functional_variant | 1 | 1 |
-| `bound_maiden_threatened_by_devouring_monster` | uncertain | 1 | 1 |
-| `boundary_watch_and_threshold_encounter` | functional_variant | 1 | 1 |
-| `cannibal_giant_in_a_castle_of_bones` | uncertain | 1 | 1 |
-| `cannibal_monster_s_hidden_lair` | narrower_than | 1 | 1 |
-| `children_unwittingly_reveal_a_concealed_entrance` | functional_variant | 1 | 1 |
-| `city_gates_as_refuge_from_pursuing_death` | functional_variant | 1 | 1 |
-| `combat_with_guardian_and_guardian_s_sons` | functional_variant | 1 | 1 |
-| `combat_with_spectral_being` | uncertain | 1 | 1 |
-| `concealed_predatory_nature_beneath_attractive_appearance` | functional_variant | 1 | 1 |
-| `concealment_by_blocking_travel_and_communication` | functional_variant | 1 | 1 |
-| `contested_household_entrance` | functional_variant | 1 | 1 |
-| `contested_landing_at_a_liminal_shore` | functional_variant | 1 | 1 |
-| `corruption_or_bypassing_of_guardians` | functional_variant | 1 | 1 |
-| `courteous_approach_pacifies_a_dangerous_encounter` | functional_variant | 1 | 1 |
-| `dangerous_enchantment_overcome_by_counter_music` | functional_variant | 1 | 1 |
-| `dangerous_hospitality_at_a_monster_s_dwelling` | functional_variant | 1 | 1 |
-| `dangerous_hybrid_singers_lure_seafarers_to_death` | functional_variant | 1 | 1 |
-| `dangerous_island_inhabited_by_a_strangling_monster` | functional_variant | 1 | 1 |
-| `dangerous_navigation_between_paired_hazards` | functional_variant | 1 | 1 |
-| `dangerous_threshold_of_the_lair` | narrower_than | 1 | 1 |
-| `dangerous_water_source_guarded_by_a_predatory_creature` | functional_variant | 1 | 1 |
-| `deadly_boundary_against_further_negotiation` | uncertain | 1 | 1 |
-| `deadly_siren_seascape` | functional_variant | 1 | 1 |
-| `deceptive_request_for_aid_by_a_dangerous_enemy` | functional_variant | 1 | 1 |
-| `deceptive_supernatural_spouse_who_consumes_the_human_partner` | functional_variant | 1 | 1 |
-| `destructive_female_lure` | functional_variant | 1 | 1 |
-| `directional_guardian_deities` | role_variant | 1 | 1 |
-| `divine_defense_of_a_civic_threshold` | functional_variant | 1 | 1 |
-| `divine_or_supernatural_boundary_imposed_on_pursuit` | functional_variant | 1 | 1 |
-| `enchanted_birds_lure_or_provoke_the_hero` | functional_variant | 1 | 1 |
-| `enchanted_lodging_as_trap` | functional_variant | 1 | 1 |
-| `enchanted_prevention_of_landing` | functional_variant | 1 | 1 |
-| `enchanted_threshold_capture` | functional_variant | 1 | 1 |
-| `enchanting_sirens_whose_song_affects_nature` | functional_variant | 1 | 1 |
-| `entrapment_at_threshold` | functional_variant | 1 | 1 |
-| `entry_into_a_guarded_royal_palace` | functional_variant | 1 | 1 |
-| `exceptional_stranger_at_the_gate` | role_variant | 1 | 1 |
-| `failed_magical_or_musical_lure_replaced_by_practical_action` | functional_variant | 1 | 1 |
-| `false_bride_or_false_marriage_lure` | functional_variant | 1 | 1 |
-| `false_hospitality_conceals_predation` | functional_variant | 1 | 1 |
-| `fear_of_repeated_monster_house_entrapment` | functional_variant | 1 | 1 |
-| `feast_as_threshold_of_danger` | functional_variant | 1 | 1 |
-| `female_guardian_of_the_hero_s_death` | role_variant | 1 | 1 |
-| `fierce_animal_guardian_of_an_enclosed_settlement` | role_variant | 1 | 1 |
-| `fiery_guardian_blocking_the_road` | symbolic_variant | 1 | 1 |
-| `flight_from_irresistible_voice` | functional_variant | 1 | 1 |
-| `floral_lure_for_a_female_figure` | functional_variant | 1 | 1 |
-| `ford_obstruction_delaying_pursuit_or_attack` | functional_variant | 1 | 1 |
-| `gatekeeping_dwarf_blocks_access_to_a_lord` | functional_variant | 1 | 1 |
-| `giant_hurls_rocks_at_fleeing_ship` | functional_variant | 1 | 1 |
-| `giant_s_dangerous_appetite_restrained_by_enchanted_sleep` | narrower_than | 1 | 1 |
-| `guarded_heavens_repelling_devils` | functional_variant | 1 | 1 |
-| `guarded_passage_requiring_combat` | functional_variant | 1 | 1 |
-| `guarded_threshold_at_a_ford` | functional_variant | 1 | 1 |
-| `guardian_as_potential_predator` | role_variant | 1 | 1 |
-| `guardian_figure_unsuccessfully_blocks_abductor` | functional_variant | 1 | 1 |
-| `guardian_monster_bypassed_by_enchanted_food` | functional_variant | 1 | 1 |
-| `guardian_of_hidden_treasures` | role_variant | 1 | 1 |
-| `headless_devouring_giant_blocks_and_seizes_heroes` | functional_variant | 1 | 1 |
-| `hero_bound_to_a_mast` | functional_variant | 1 | 1 |
-| `hero_defeats_aerial_enchantress_through_a_small_aperture` | uncertain | 1 | 1 |
-| `hero_defeats_hostile_guardians_with_magic_weapon` | functional_variant | 1 | 1 |
-| `heroic_boundary_challenge_halting_an_army` | role_variant | 1 | 1 |
-| `heroic_obstacle_at_a_threshold_ford` | functional_variant | 1 | 1 |
-| `hospitality_as_trap_through_enchanted_food_or_drink` | functional_variant | 1 | 1 |
-| `hospitality_request_concealing_danger` | functional_variant | 1 | 1 |
-| `illusory_water_at_a_palace_threshold` | functional_variant | 1 | 1 |
-| `inscribed_obstacle_test_blocks_an_army` | functional_variant | 1 | 1 |
-| `invincible_monster_at_a_perilous_passage` | functional_variant | 1 | 1 |
-| `lethal_contest_imposed_on_travelers` | functional_variant | 1 | 1 |
-| `lethal_sea_lure_and_drowning_power` | functional_variant | 1 | 1 |
-| `locked_many_gated_obstacle` | functional_variant | 1 | 1 |
-| `loyal_ally_guarding_a_river_boundary_for_an_exiled_hero` | role_variant | 1 | 1 |
-| `magical_barrier_preventing_reunion` | functional_variant | 1 | 1 |
-| `magical_lure_separates_the_protector_from_the_victim` | functional_variant | 1 | 1 |
-| `many_eyed_vigilant_guardian` | role_variant | 1 | 1 |
-| `monster_haunting_a_dangerous_threshold` | functional_variant | 1 | 1 |
-| `monster_in_a_cave_attacking_passing_ships` | functional_variant | 1 | 1 |
-| `monster_in_a_cave_seizing_sailors` | functional_variant | 1 | 1 |
-| `monster_predator_with_fiery_signs_approaches_at_night` | functional_variant | 1 | 1 |
-| `monstrous_armed_host_at_a_royal_gate` | functional_variant | 1 | 1 |
-| `monstrous_harbour_obstruction_overcome_by_heroes` | functional_variant | 1 | 1 |
-| `monstrous_one_eyed_guardian_with_conditional_death` | functional_variant | 1 | 1 |
-| `monstrous_sea_hazard_at_a_dangerous_strait` | functional_variant | 1 | 1 |
-| `monstrous_sisters_at_the_edge_of_the_world` | role_variant | 1 | 1 |
-| `moving_island_or_clashing_rocks_become_fixed` | functional_variant | 1 | 1 |
-| `music_used_to_lure_dangerous_beings` | functional_variant | 1 | 1 |
-| `numbered_otherworld_guardians_as_a_test` | functional_variant | 1 | 1 |
-| `otherworldly_gifts_lure_warriors_into_peril` | functional_variant | 1 | 1 |
-| `perilous_giant_host_encounter` | role_variant | 1 | 1 |
-| `perilous_island_warning` | functional_variant | 1 | 1 |
-| `perilous_passage_between_two_deadly_threats` | functional_variant | 1 | 1 |
-| `perilous_passage_passable_only_by_woman_s_help` | functional_variant | 1 | 1 |
-| `perilous_sacred_boundary` | narrower_than | 1 | 1 |
-| `phantom_lure_into_isolated_forest` | functional_variant | 1 | 1 |
-| `promised_woman_as_lure_leading_warriors_to_death` | functional_variant | 1 | 1 |
-| `proper_reverence_toward_cosmic_guardians` | ritual_variant | 1 | 1 |
-| `protective_barrier_against_monstrous_or_hostile_peoples` | functional_variant | 1 | 1 |
-| `reluctant_watchman_at_a_dangerous_place` | role_variant | 1 | 1 |
-| `rescued_survivor_from_a_cannibal_giant` | functional_variant | 1 | 1 |
-| `rescuers_overcome_by_hostile_enchantment` | functional_variant | 1 | 1 |
-| `ritual_combat_with_a_spirit_through_a_floor_opening` | functional_variant | 1 | 1 |
-| `ritual_confrontation_with_an_enchanter` | uncertain | 1 | 1 |
-| `ritualized_sevenfold_hunt_at_a_boundary_or_gate` | ritual_variant | 1 | 1 |
-| `ruined_protective_boundary_and_endangered_community` | functional_variant | 1 | 1 |
-| `sea_born_monster_causing_chariot_catastrophe` | uncertain | 1 | 1 |
-| `semi_supernatural_guardian_or_swift_hound` | role_variant | 1 | 1 |
-| `serpent_infested_wilderness_path` | functional_variant | 1 | 1 |
-| `single_eye_shared_among_sisters` | symbolic_variant | 1 | 1 |
-| `slayer_replaces_the_slain_guardian` | role_variant | 1 | 1 |
-| `sleepless_many_eyed_watcher_guarding_a_transformed_woman` | role_variant | 1 | 1 |
-| `specialized_guardian_class` | heuristic_family_name_match | 1 | 1 |
-| `subdued_threshold_guardian_followed_by_entry` | functional_variant | 1 | 1 |
-| `summoned_sea_monster_confronts_the_hero_s_vessel` | functional_variant | 1 | 1 |
-| `summoning_or_revealing_monstrous_creatures_by_sounding_a_horn` | functional_variant | 1 | 1 |
-| `supernatural_hindrance_at_a_ford_during_heroic_combat` | functional_variant | 1 | 1 |
-| `supernatural_hound_bound_in_sleep` | uncertain | 1 | 1 |
-| `tempting_golden_animal_leads_hero_away` | functional_variant | 1 | 1 |
-| `threshold_challenge_with_water_after_harvest_rite` | heuristic_family_name_match | 1 | 1 |
-| `threshold_encounter_with_water_maidens` | role_variant | 1 | 1 |
-| `threshold_guarded_by_monstrous_and_avenging_figures` | narrower_than | 1 | 1 |
-| `threshold_guardian_admits_strangers_into_hidden_splendor` | functional_variant | 1 | 1 |
-| `threshold_guardian_bars_entry_to_a_fortified_city` | narrower_than | 1 | 1 |
-| `threshold_guardian_defeated_by_magic_through_one_weak_point` | functional_variant | 1 | 1 |
-| `threshold_guardian_who_seizes_shadows` | symbolic_variant | 1 | 1 |
-| `threshold_guards_overcome_in_silence` | functional_variant | 1 | 1 |
-| `treacherous_lure_into_a_concealed_water_trap` | functional_variant | 1 | 1 |
-| `tree_as_shared_shelter_and_trap_threshold` | heuristic_family_name_match | 1 | 1 |
-| `triple_form_crossroads_goddess` | role_variant | 1 | 1 |
-| `uncanny_ford_encounter` | child | 1 | 1 |
-| `vengeful_blood_fine_demand_by_harmful_supernatural_challengers` | role_variant | 1 | 1 |
-| `water_woman_enticing_mortals_at_a_waterfall` | functional_variant | 1 | 1 |
-| `woodland_deity_guarding_field_boundaries` | role_variant | 1 | 1 |
-
 ## Sacred Vessel and Container
 
 - Canonical motif ID: `sacred_vessel`
 - Distinct traditions: 14
-- Occurrences: 53
-- Mapped motif IDs: 53
+- Occurrences: 55
+- Mapped motif IDs: 55
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -6974,6 +7314,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cosmos_as_vessel` | symbolic_variant | 1 | 1 |
 | `dangerous_container_opened_from_impatience_or_greed` | functional_variant | 1 | 1 |
 | `dangerous_trophy_kept_in_a_sealed_container` | functional_variant | 1 | 1 |
+| `empty_cup_marking_absence_or_remembrance` | symbolic_variant | 1 | 1 |
+| `fatal_flawed_vessel` | uncertain | 1 | 1 |
 | `fire_assault_on_sacred_or_protected_vessels` | functional_variant | 1 | 1 |
 | `forbidden_opening_of_a_guarded_container_releases_destructive_forces` | functional_variant | 1 | 1 |
 | `forbidden_or_mistaken_opening_of_a_container_holding_winds` | functional_variant | 1 | 1 |
@@ -7058,8 +7400,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_craft`
 - Distinct traditions: 12
-- Occurrences: 82
-- Mapped motif IDs: 82
+- Occurrences: 84
+- Mapped motif IDs: 84
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -7067,6 +7409,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `animated_cult_image_made_by_magical_craft` | child | 1 | 1 |
 | `animated_images_responding_to_music` | functional_variant | 1 | 1 |
 | `animated_or_life_like_manufactured_image` | narrower_than | 1 | 1 |
+| `animation_of_a_clay_bird_by_breath` | curated_mapping | 1 | 1 |
 | `animation_of_a_cult_object_by_supernatural_residue` | functional_variant | 1 | 1 |
 | `animation_of_clay_creatures` | functional_variant | 1 | 1 |
 | `army_builds_a_bridge_across_the_sea` | functional_variant | 1 | 1 |
@@ -7132,6 +7475,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_object_assisting_temple_construction` | functional_variant | 1 | 1 |
 | `sea_bridge_built_by_a_heroic_craftsman_figure` | functional_variant | 1 | 1 |
 | `sea_crossing_by_constructed_bridge` | functional_variant | 1 | 1 |
+| `skilled_strangers_outcompete_local_craftsmen_and_provoke_lethal_hostility` | functional_variant | 1 | 1 |
 | `smith_s_crafted_revenge` | functional_variant | 1 | 1 |
 | `speaking_trees_disclose_their_fitness_for_sacred_or_magic_craft` | uncertain | 1 | 1 |
 | `subterranean_dwarf_smiths_make_magical_divine_gifts` | narrower_than | 1 | 1 |
@@ -7146,12 +7490,70 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `wondrous_object_forged_from_extraordinary_ingredients` | narrower_than | 1 | 1 |
 | `world_bounding_ocean_on_a_crafted_shield` | uncertain | 1 | 1 |
 
+## Recognition Tokens and Identity Proofs
+
+- Canonical motif ID: `recognition_tokens_hidden_identity`
+- Distinct traditions: 12
+- Occurrences: 50
+- Mapped motif IDs: 48
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `false_token_of_death` | functional_variant | 1 | 2 |
+| `recognition_by_bodily_scar` | uncertain | 1 | 2 |
+| `altered_food_token_signals_changed_fidelity_status` | functional_variant | 1 | 1 |
+| `ambiguous_supernatural_identity_of_a_strange_captive` | heuristic_family_name_match | 1 | 1 |
+| `animal_returns_bearing_proof_of_death` | functional_variant | 1 | 1 |
+| `bloodied_garment_as_deception_of_a_parent` | functional_variant | 1 | 1 |
+| `concealed_identity_of_the_prophesied_threat` | functional_variant | 1 | 1 |
+| `concealed_identity_of_the_revered_poet` | narrower_than | 1 | 1 |
+| `concealed_proof_revealed_to_expose_error` | functional_variant | 1 | 1 |
+| `concealed_sex_at_birth_and_raised_as_boy_identity` | heuristic_family_name_match | 1 | 1 |
+| `delayed_private_recognition_or_disclosure` | functional_variant | 1 | 1 |
+| `divine_banquet_with_selective_recognition` | uncertain | 1 | 1 |
+| `divine_concealment_of_recognition` | functional_variant | 1 | 1 |
+| `domestic_work_reveals_the_secluded_maiden` | functional_variant | 1 | 1 |
+| `failed_recognition_in_a_place_of_revelry` | functional_variant | 1 | 1 |
+| `far_traveling_bodily_token_identifies_hidden_woman` | heuristic_keyword_match | 1 | 1 |
+| `hero_s_boast_revealing_true_identity` | functional_variant | 1 | 1 |
+| `hidden_identity_revealed_to_kin` | heuristic_keyword_match | 1 | 1 |
+| `hidden_idol_as_false_object_of_devotion` | heuristic_keyword_match | 1 | 1 |
+| `hidden_messenger_comforts_the_distressed_captive` | heuristic_keyword_match | 1 | 1 |
+| `hidden_power_released_after_bodily_departure` | heuristic_keyword_match | 1 | 1 |
+| `hidden_youth_discovered_through_water_drawing` | functional_variant | 1 | 1 |
+| `imitation_shaping_identity` | heuristic_family_name_match | 1 | 1 |
+| `kinsman_recognized_among_enemies_changes_sides` | functional_variant | 1 | 1 |
+| `mixed_parentage_marked_by_inherited_trait` | functional_variant | 1 | 1 |
+| `noble_beauty_concealed_by_poverty_or_worn_garments` | uncertain | 1 | 1 |
+| `old_nurse_as_hidden_identity_recognizer` | role_variant | 1 | 1 |
+| `recognition_by_added_identifying_feature` | functional_variant | 1 | 1 |
+| `recognition_by_bodily_mark` | heuristic_keyword_match | 1 | 1 |
+| `recognition_by_exchanged_ring` | heuristic_keyword_match | 1 | 1 |
+| `recognition_by_marginal_or_silent_witnesses` | functional_variant | 1 | 1 |
+| `recognition_by_personal_tokens` | child_motif | 1 | 1 |
+| `recognition_by_scent_on_food_or_object` | child_motif | 1 | 1 |
+| `recognition_of_herald_by_visible_tokens` | child_motif | 1 | 1 |
+| `recognition_prevents_kin_slaying_by_poison` | child_motif | 1 | 1 |
+| `recognition_through_a_talisman_or_token` | child_motif | 1 | 1 |
+| `recognition_through_hidden_identity_and_voice` | child_motif | 1 | 1 |
+| `recognition_token_as_bodily_scar` | child_motif | 1 | 1 |
+| `recognition_token_exchanged_while_one_beloved_sleeps` | child_motif | 1 | 1 |
+| `recognition_token_proving_an_otherwise_denied_encounter` | child_motif | 1 | 1 |
+| `recognition_token_sent_by_envoy` | child_motif | 1 | 1 |
+| `recognition_token_sent_through_a_messenger` | child_motif | 1 | 1 |
+| `recognition_tokens_from_the_abducted_beloved` | child_motif | 1 | 1 |
+| `recognition_withheld_between_separated_kin` | functional_variant | 1 | 1 |
+| `recognized_kin_concealed_from_kin` | functional_variant | 1 | 1 |
+| `secret_liaison_exposed_by_stolen_token` | functional_variant | 1 | 1 |
+| `testing_or_recognizing_true_religious_identity_in_conflict` | heuristic_family_name_match | 1 | 1 |
+| `true_figure_identified_among_identical_claimants` | functional_variant | 1 | 1 |
+
 ## Heroic Funeral Rites and Memorialization
 
 - Canonical motif ID: `heroic_funeral_rites`
 - Distinct traditions: 11
-- Occurrences: 153
-- Mapped motif IDs: 151
+- Occurrences: 154
+- Mapped motif IDs: 152
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -7236,6 +7638,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `hero_cult_games_and_victory_crowns` | ritual_variant | 1 | 1 |
 | `heroic_death_followed_by_funerary_honors` | functional_variant | 1 | 1 |
 | `heroic_honors_for_fallen_warriors` | alias | 1 | 1 |
+| `heroic_infiltration_and_inspection_of_a_ruler_s_private_chamber` | heuristic_keyword_match | 1 | 1 |
 | `heroic_relic_marked_by_an_enemy_s_blood` | symbolic_variant | 1 | 1 |
 | `heroic_threat_of_corpse_feeding_birds` | functional_variant | 1 | 1 |
 | `holy_man_s_preparation_for_death_and_burial` | ritual_variant | 1 | 1 |
@@ -7345,17 +7748,19 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `theophany`
 - Distinct traditions: 11
-- Occurrences: 75
-- Mapped motif IDs: 75
+- Occurrences: 77
+- Mapped motif IDs: 77
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `angelic_proclamation_of_a_coming_sacred_age_or_figure` | functional_variant | 1 | 1 |
+| `animal_embodiment_of_a_deity` | symbolic_variant | 1 | 1 |
 | `anthropomorphic_or_corporeal_deity` | uncertain | 1 | 1 |
 | `appearance_of_christ_in_human_form_with_identity_proclamation` | narrower_than | 1 | 1 |
 | `armed_goddess_manifests_with_cosmic_response` | functional_variant | 1 | 1 |
 | `artistic_image_modeled_on_divine_poetic_epiphany` | meta_artifact | 1 | 1 |
 | `ascetic_command_summons_divine_manifestation` | functional_variant | 1 | 1 |
+| `claimed_angelic_revelation_as_authority_for_a_rival_leader` | uncertain | 1 | 1 |
 | `cosmic_order_falls_silent_before_supreme_divine_speech` | functional_variant | 1 | 1 |
 | `cosmic_praise_of_god` | ritual_variant | 1 | 1 |
 | `covered_sacred_image_remains_visible` | symbolic_variant | 1 | 1 |
@@ -7430,8 +7835,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `death_by_fate`
 - Distinct traditions: 10
-- Occurrences: 129
-- Mapped motif IDs: 129
+- Occurrences: 131
+- Mapped motif IDs: 131
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -7447,6 +7852,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `brief_glory_granted_before_foretold_death` | functional_variant | 1 | 1 |
 | `condemnation_of_ritual_superstition_attributed_to_divine_institution` | heuristic_family_name_match | 1 | 1 |
 | `cosmic_order_governed_by_personified_necessity_and_fates` | broader_label | 1 | 1 |
+| `cosmic_ordering_of_fate` | broader_label | 1 | 1 |
 | `death_as_predatory_bird_overtaking_the_powerful` | symbolic_variant | 1 | 1 |
 | `death_attributed_to_non_human_agency_and_to_fate_destiny` | child | 1 | 1 |
 | `death_by_a_weapon_made_partly_from_oneself_or_one_s_kind` | death_mechanism_variant | 1 | 1 |
@@ -7561,67 +7967,17 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `warning_before_fated_combat` | functional_variant | 1 | 1 |
 | `warning_before_fated_single_combat_with_a_beloved_foster_brother` | over_specific_label | 1 | 1 |
 | `warning_ignored_before_fatal_encounter` | functional_variant | 1 | 1 |
+| `warrior_and_war_horse_bound_in_shared_fate` | functional_variant | 1 | 1 |
 | `warrior_surrounded_and_killed_by_massed_spears` | functional_variant | 1 | 1 |
 | `world_strength_overcome_by_death` | symbolic_variant | 1 | 1 |
 | `written_and_unalterable_destiny` | broader_label | 1 | 1 |
-
-## Recognition Tokens and Identity Proofs
-
-- Canonical motif ID: `recognition_tokens_hidden_identity`
-- Distinct traditions: 10
-- Occurrences: 43
-- Mapped motif IDs: 41
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `false_token_of_death` | functional_variant | 1 | 2 |
-| `recognition_by_bodily_scar` | uncertain | 1 | 2 |
-| `altered_food_token_signals_changed_fidelity_status` | functional_variant | 1 | 1 |
-| `ambiguous_supernatural_identity_of_a_strange_captive` | heuristic_family_name_match | 1 | 1 |
-| `animal_returns_bearing_proof_of_death` | functional_variant | 1 | 1 |
-| `bloodied_garment_as_deception_of_a_parent` | functional_variant | 1 | 1 |
-| `concealed_identity_of_the_prophesied_threat` | functional_variant | 1 | 1 |
-| `concealed_identity_of_the_revered_poet` | narrower_than | 1 | 1 |
-| `concealed_proof_revealed_to_expose_error` | functional_variant | 1 | 1 |
-| `concealed_sex_at_birth_and_raised_as_boy_identity` | heuristic_family_name_match | 1 | 1 |
-| `delayed_private_recognition_or_disclosure` | functional_variant | 1 | 1 |
-| `divine_banquet_with_selective_recognition` | uncertain | 1 | 1 |
-| `divine_concealment_of_recognition` | functional_variant | 1 | 1 |
-| `domestic_work_reveals_the_secluded_maiden` | functional_variant | 1 | 1 |
-| `failed_recognition_in_a_place_of_revelry` | functional_variant | 1 | 1 |
-| `hero_s_boast_revealing_true_identity` | functional_variant | 1 | 1 |
-| `hidden_youth_discovered_through_water_drawing` | functional_variant | 1 | 1 |
-| `imitation_shaping_identity` | heuristic_family_name_match | 1 | 1 |
-| `kinsman_recognized_among_enemies_changes_sides` | functional_variant | 1 | 1 |
-| `mixed_parentage_marked_by_inherited_trait` | functional_variant | 1 | 1 |
-| `noble_beauty_concealed_by_poverty_or_worn_garments` | uncertain | 1 | 1 |
-| `old_nurse_as_hidden_identity_recognizer` | role_variant | 1 | 1 |
-| `recognition_by_added_identifying_feature` | functional_variant | 1 | 1 |
-| `recognition_by_marginal_or_silent_witnesses` | functional_variant | 1 | 1 |
-| `recognition_by_personal_tokens` | child_motif | 1 | 1 |
-| `recognition_by_scent_on_food_or_object` | child_motif | 1 | 1 |
-| `recognition_of_herald_by_visible_tokens` | child_motif | 1 | 1 |
-| `recognition_prevents_kin_slaying_by_poison` | child_motif | 1 | 1 |
-| `recognition_through_a_talisman_or_token` | child_motif | 1 | 1 |
-| `recognition_through_hidden_identity_and_voice` | child_motif | 1 | 1 |
-| `recognition_token_as_bodily_scar` | child_motif | 1 | 1 |
-| `recognition_token_exchanged_while_one_beloved_sleeps` | child_motif | 1 | 1 |
-| `recognition_token_proving_an_otherwise_denied_encounter` | child_motif | 1 | 1 |
-| `recognition_token_sent_by_envoy` | child_motif | 1 | 1 |
-| `recognition_token_sent_through_a_messenger` | child_motif | 1 | 1 |
-| `recognition_tokens_from_the_abducted_beloved` | child_motif | 1 | 1 |
-| `recognition_withheld_between_separated_kin` | functional_variant | 1 | 1 |
-| `recognized_kin_concealed_from_kin` | functional_variant | 1 | 1 |
-| `secret_liaison_exposed_by_stolen_token` | functional_variant | 1 | 1 |
-| `testing_or_recognizing_true_religious_identity_in_conflict` | heuristic_family_name_match | 1 | 1 |
-| `true_figure_identified_among_identical_claimants` | functional_variant | 1 | 1 |
 
 ## Ancestor Rites and Feeding the Dead
 
 - Canonical motif ID: `ancestor_rites`
 - Distinct traditions: 10
-- Occurrences: 25
-- Mapped motif IDs: 25
+- Occurrences: 26
+- Mapped motif IDs: 26
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -7650,13 +8006,14 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_river_funerary_libation_for_a_father` | ritual_variant | 1 | 1 |
 | `sacred_tree_associated_with_graves_of_the_dead` | symbolic_variant | 1 | 1 |
 | `southern_orientation_in_rites_for_the_dead` | ritual_variant | 1 | 1 |
+| `successors_praying_for_purified_communal_memory` | uncertain | 1 | 1 |
 
 ## Supreme Ruler and Cosmic Sovereignty
 
 - Canonical motif ID: `supreme_ruler`
 - Distinct traditions: 9
-- Occurrences: 25
-- Mapped motif IDs: 25
+- Occurrences: 26
+- Mapped motif IDs: 26
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -7667,6 +8024,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cosmic_order_under_divine_sovereignty` | broader_label | 1 | 1 |
 | `cosmic_order_upheld_by_divine_permission` | functional_variant | 1 | 1 |
 | `cosmic_supremacy_displayed_through_a_world_binding_chain` | symbolic_variant | 1 | 1 |
+| `cosmic_universal_worship` | heuristic_keyword_match | 1 | 1 |
 | `creation_and_divine_rule_from_the_throne` | functional_variant | 1 | 1 |
 | `deity_encompassing_creator_preserver_and_destroyer` | broader_label | 1 | 1 |
 | `divine_enthronement_after_creation` | functional_variant | 1 | 1 |
@@ -7878,8 +8236,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `conditional_invulnerability_hidden_weakness`
 - Distinct traditions: 7
-- Occurrences: 24
-- Mapped motif IDs: 24
+- Occurrences: 25
+- Mapped motif IDs: 25
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -7892,6 +8250,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `failed_execution_by_elements_and_tree_hanging` | functional_variant | 1 | 1 |
 | `hero_killed_through_a_vulnerable_heel` | child | 1 | 1 |
 | `hero_slain_through_a_vulnerable_body_part` | child | 1 | 1 |
+| `hidden_fugitive_exposed_by_his_own_action` | heuristic_keyword_match | 1 | 1 |
 | `huntress_in_secluded_grove_becomes_vulnerable_when_separated_from_weapons` | functional_variant | 1 | 1 |
 | `invulnerability_boon_with_fatal_human_exception` | narrower_than | 1 | 1 |
 | `invulnerability_boon_with_overlooked_human_vulnerability` | narrower_than | 1 | 1 |
@@ -7932,6 +8291,28 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `unbidden_guest_at_a_feast` | functional_variant | 1 | 1 |
 | `uninvited_guest_at_hostile_feast` | functional_variant | 1 | 1 |
 | `vengeful_hostess_conjures_armed_pursuers` | functional_variant | 1 | 1 |
+
+## World Ages and Cosmic Decline
+
+- Canonical motif ID: `world_ages_cosmic_decline`
+- Distinct traditions: 7
+- Occurrences: 12
+- Mapped motif IDs: 12
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `communal_spouses_and_property_in_imagined_early_society` | symbolic_variant | 1 | 1 |
+| `decline_through_successive_metallic_ages` | child_motif | 1 | 1 |
+| `declining_ages_of_humankind` | child_motif | 1 | 1 |
+| `distinct_heroic_age_of_demi_gods` | child | 1 | 1 |
+| `divine_peace_stead_and_golden_age` | child_motif | 1 | 1 |
+| `former_existence_of_mankind` | broader_label | 1 | 1 |
+| `four_age_decline_of_the_world_period` | child_motif | 1 | 1 |
+| `four_ages_of_the_world` | child_motif | 1 | 1 |
+| `lost_age_of_magic_and_decline_of_the_world` | symbolic_variant | 1 | 1 |
+| `primeval_age_followed_by_degeneration` | child_motif | 1 | 1 |
+| `primordial_innocence_followed_by_loss_of_effortless_abundance` | child_motif | 1 | 1 |
+| `world_supported_or_framed_by_cosmic_bulls` | heuristic_keyword_match | 1 | 1 |
 
 ## Beauty Paired with Pain and Paradox
 
@@ -8009,27 +8390,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sages_living_or_reappearing_across_ages` | functional_variant | 1 | 1 |
 | `youth_renewing_divine_food` | symbolic_variant | 1 | 1 |
 
-## World Ages and Cosmic Decline
-
-- Canonical motif ID: `world_ages_cosmic_decline`
-- Distinct traditions: 6
-- Occurrences: 11
-- Mapped motif IDs: 11
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `communal_spouses_and_property_in_imagined_early_society` | symbolic_variant | 1 | 1 |
-| `decline_through_successive_metallic_ages` | child_motif | 1 | 1 |
-| `declining_ages_of_humankind` | child_motif | 1 | 1 |
-| `distinct_heroic_age_of_demi_gods` | child | 1 | 1 |
-| `divine_peace_stead_and_golden_age` | child_motif | 1 | 1 |
-| `former_existence_of_mankind` | broader_label | 1 | 1 |
-| `four_age_decline_of_the_world_period` | child_motif | 1 | 1 |
-| `four_ages_of_the_world` | child_motif | 1 | 1 |
-| `lost_age_of_magic_and_decline_of_the_world` | symbolic_variant | 1 | 1 |
-| `primeval_age_followed_by_degeneration` | child_motif | 1 | 1 |
-| `primordial_innocence_followed_by_loss_of_effortless_abundance` | child_motif | 1 | 1 |
-
 ## Fate Figures and Cosmic Weaving
 
 - Canonical motif ID: `fate_figures_cosmic_weaving`
@@ -8052,15 +8412,16 @@ This report counts only motif IDs that already map to a canonical normalization 
 ## Primordial Sacrifice and Dismemberment
 
 - Canonical motif ID: `primordial_sacrifice`
-- Distinct traditions: 4
-- Occurrences: 7
-- Mapped motif IDs: 7
+- Distinct traditions: 5
+- Occurrences: 8
+- Mapped motif IDs: 8
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `abraham_as_primordial_monotheist_ancestor` | heuristic_family_name_match | 1 | 1 |
 | `blood_forming_a_river` | symbolic_variant | 1 | 1 |
 | `body_as_landscape_shaper` | child | 1 | 1 |
+| `body_mark_as_memorial_of_primordial_condition` | heuristic_keyword_match | 1 | 1 |
 | `celestial_placement_of_a_slain_giant_s_eyes` | narrower_than | 1 | 1 |
 | `generation_of_beings_from_a_primordial_body` | narrower_than | 1 | 1 |
 | `landscape_formed_from_transformed_body` | symbolic_variant | 1 | 1 |
@@ -8070,8 +8431,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `jealous_stepmother_persecuted_child`
 - Distinct traditions: 3
-- Occurrences: 7
-- Mapped motif IDs: 7
+- Occurrences: 8
+- Mapped motif IDs: 8
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -8082,16 +8443,18 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `jealous_wife_or_stepmother_harms_children` | child_motif | 1 | 1 |
 | `repentance_of_the_jealous_stepmother` | functional_variant | 1 | 1 |
 | `stepmother_s_own_child_intensifies_threat_to_stepchild` | narrower_than | 1 | 1 |
+| `unkind_stepmother_threatens_father_child_bond` | heuristic_keyword_match | 1 | 1 |
 
 ## Restless Dead, Haunting, and Vengeance
 
 - Canonical motif ID: `restless_dead_haunting_vengeance`
-- Distinct traditions: 2
-- Occurrences: 2
-- Mapped motif IDs: 2
+- Distinct traditions: 3
+- Occurrences: 3
+- Mapped motif IDs: 3
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
+| `posthumous_haunting_and_vengeance_oath` | heuristic_keyword_match | 1 | 1 |
 | `restless_dead_haunting_former_homes` | narrower_than | 1 | 1 |
 | `vengeful_phantom_kin` | child | 1 | 1 |
 
@@ -8111,16 +8474,97 @@ This report counts only motif IDs that already map to a canonical normalization 
 ## Textual and Scholarly Artifacts
 
 - Canonical motif ID: `_meta_textual`
-- Distinct traditions: 5
-- Occurrences: 7
-- Mapped motif IDs: 7
+- Distinct traditions: 13
+- Occurrences: 88
+- Mapped motif IDs: 88
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
+| `animal_analogy_for_civic_function` | meta_artifact | 1 | 1 |
+| `animal_and_elemental_similes_intensifying_battle_narration` | meta_artifact | 1 | 1 |
+| `animal_centered_fable_encounter_headings` | meta_artifact | 1 | 1 |
+| `animal_centered_fable_title_pattern` | meta_artifact | 1 | 1 |
+| `animal_figures_paired_or_grouped_in_fable_titles` | meta_artifact | 1 | 1 |
+| `animal_host_as_possible_memory_of_human_tribe` | meta_artifact | 1 | 1 |
 | `animal_or_lizard_form_of_the_soul_as_a_variant_marker` | meta_artifact | 1 | 1 |
+| `animal_pair_encounter_title` | meta_artifact | 1 | 1 |
+| `animal_pair_or_animal_group_fable_heading` | meta_artifact | 1 | 1 |
+| `animal_pairings_in_fable_titles` | meta_artifact | 1 | 1 |
+| `animal_protagonists_in_didactic_fable` | meta_artifact | 1 | 1 |
+| `animal_simile_for_usurpation_and_vengeance` | meta_artifact | 1 | 1 |
+| `animal_war_in_mock_heroic_form` | meta_artifact | 1 | 1 |
 | `assimilation_of_local_underworld_to_greek_hades` | meta_artifact | 1 | 1 |
+| `assimilation_through_marriage_alliance_and_adoption_of_language` | meta_artifact | 1 | 1 |
+| `battle_catalogue_of_named_heroic_chiefs` | meta_artifact | 1 | 1 |
+| `battle_described_through_natural_and_animal_similes` | meta_artifact | 1 | 1 |
+| `battle_named_by_color_from_absence_of_blood_on_survivor` | over_specific_label | 1 | 1 |
+| `bird_arising_from_city_flames_as_name_explanation` | over_specific_label | 1 | 1 |
+| `birth_by_a_named_river_with_name_derived_from_place` | over_specific_label | 1 | 1 |
+| `birth_of_named_hero` | over_specific_label | 1 | 1 |
+| `call_to_a_named_figure` | over_specific_label | 1 | 1 |
+| `capture_of_a_named_human_figure` | over_specific_label | 1 | 1 |
+| `catalogue_of_martial_arrivals_and_identifications` | meta_artifact | 1 | 1 |
+| `catalogue_of_named_hunting_hounds` | meta_artifact | 1 | 1 |
+| `catalogue_of_named_warrior_contingents` | meta_artifact | 1 | 1 |
 | `chthonic_wealth_divinity_confused_with_underworld_god` | meta_artifact | 1 | 1 |
+| `dangerous_adversary_compared_to_lion` | meta_artifact | 1 | 1 |
+| `dangerous_challenger_figured_as_devouring_beast` | meta_artifact | 1 | 1 |
+| `dark_night_enabling_narrative_action` | meta_artifact | 1 | 1 |
+| `defeated_rebel_escapes_in_disguise_from_a_fallen_fortress` | over_specific_label | 1 | 1 |
+| `deity_named_in_fable_title` | meta_artifact | 1 | 1 |
+| `disordered_document_ruins_official_presentation` | meta_artifact | 1 | 1 |
+| `epic_assembled_from_pre_existing_songs` | meta_artifact | 1 | 1 |
+| `ethnographic_geography_of_named_peoples` | meta_artifact | 1 | 1 |
+| `fable_generated_by_misunderstood_word_or_epithet` | meta_artifact | 1 | 1 |
+| `fatal_triangle_expressed_through_animal_simile` | meta_artifact | 1 | 1 |
+| `fixed_animal_emblem_used_instead_of_human_character` | meta_artifact | 1 | 1 |
+| `flower_on_barren_hillside_as_striking_image` | meta_artifact | 1 | 1 |
+| `formal_reception_of_named_strangers_into_a_ruler_s_hall` | over_specific_label | 1 | 1 |
+| `graded_reverence_according_to_danger_or_usefulness` | meta_artifact | 1 | 1 |
+| `hero_praises_another_woman_before_his_named_beloved_or_spouse` | over_specific_label | 1 | 1 |
+| `heroic_combat_animalized_through_bull_and_hunt_imagery` | meta_artifact | 1 | 1 |
 | `hidden_token_of_the_dead_mother_misunderstood_as_evidence_of_wrongdoing` | over_specific_label | 1 | 1 |
+| `historical_names_replaced_by_generic_kingship` | meta_artifact | 1 | 1 |
+| `human_role_paired_with_animal_figure` | meta_artifact | 1 | 1 |
+| `humbling_riding_dress_before_ordeal_like_travel` | over_specific_label | 1 | 1 |
+| `iconographic_shift_from_unstable_fortune_to_beneficent_luck` | meta_artifact | 1 | 1 |
+| `ideal_constitution_compared_with_later_legal_order` | meta_artifact | 1 | 1 |
+| `idealized_foreign_simplicity` | meta_artifact | 1 | 1 |
+| `impractical_plan_requiring_a_dangerous_executor` | meta_artifact | 1 | 1 |
+| `journey_episode_indicated_by_chapter_title` | meta_artifact | 1 | 1 |
+| `literary_garden_as_cultivated_path_for_readers` | meta_artifact | 1 | 1 |
+| `literary_labor_as_useful_discipline_of_youth` | meta_artifact | 1 | 1 |
+| `malicious_child_speech_answered_by_hostess_defense` | over_specific_label | 1 | 1 |
+| `mismatched_or_makeshift_work_team` | meta_artifact | 1 | 1 |
+| `mistaking_a_marker_of_solar_progress_for_a_means_of_arresting_the_sun` | meta_artifact | 1 | 1 |
+| `mistaking_distress_for_improper_merriment` | over_specific_label | 1 | 1 |
 | `mock_rehearsal_for_royal_audience` | over_specific_label | 1 | 1 |
+| `mythic_creature_rationalized_as_ship` | meta_artifact | 1 | 1 |
+| `mythic_elements_mingled_with_historical_epic_memory` | meta_artifact | 1 | 1 |
+| `name_based_comparison_of_metalworking_figures` | meta_artifact | 1 | 1 |
+| `named_battle_episode_explained_by_weapon_type` | meta_artifact | 1 | 1 |
+| `named_figure_in_a_special_place` | meta_artifact | 1 | 1 |
+| `named_mythic_figures_in_fable_headings` | meta_artifact | 1 | 1 |
 | `oral_transmission_producing_interpolated_and_fragmentary_poetic_tradition` | child | 1 | 1 |
+| `ordered_whole_as_political_and_artistic_principle` | meta_artifact | 1 | 1 |
+| `ordered_whole_over_privileged_part` | meta_artifact | 1 | 1 |
+| `ordering_an_authoritative_poetic_corpus` | meta_artifact | 1 | 1 |
+| `patronage_request_encoded_in_poetic_indirection` | meta_artifact | 1 | 1 |
+| `prophecy_or_foreshadowing_fulfilled_in_a_related_war_tale` | meta_artifact | 1 | 1 |
+| `refusal_of_adornment_requested_by_an_older_singer` | over_specific_label | 1 | 1 |
+| `religious_diffusion_through_neighboring_contact_and_migration` | meta_artifact | 1 | 1 |
+| `reversal_of_expected_burden_humans_carry_the_pack_animal` | over_specific_label | 1 | 1 |
+| `river_current_carries_an_animal_away` | over_specific_label | 1 | 1 |
+| `same_narrative_appearing_across_buddhist_textual_corpora` | meta_artifact | 1 | 1 |
+| `servant_as_watchman_and_announcer_of_the_enemy_s_arrival` | over_specific_label | 1 | 1 |
+| `ships_bearing_mythic_creature_names` | meta_artifact | 1 | 1 |
+| `single_animal_fable_identified_by_alternative_animal_titles` | meta_artifact | 1 | 1 |
+| `textual_authority_formed_through_manuscripts` | meta_artifact | 1 | 1 |
 | `textual_reconstruction_through_emendation_and_documentation_of_variants` | child | 1 | 1 |
+| `totemic_animal_worship_unrelated_to_agriculture` | meta_artifact | 1 | 1 |
+| `transmission_of_birth_story_tale_cycles_across_commentarial_and_literary_corpora` | meta_artifact | 1 | 1 |
+| `transmission_of_native_tradition_across_a_cultural_border` | meta_artifact | 1 | 1 |
+| `traveling_fable_tradition` | meta_artifact | 1 | 1 |
+| `variantly_named_spouse_in_heroic_tradition` | meta_artifact | 1 | 1 |
+| `vision_or_dream_adapted_as_philosophical_myth` | meta_artifact | 1 | 1 |
+| `watchfires_before_a_besieged_city` | over_specific_label | 1 | 1 |
