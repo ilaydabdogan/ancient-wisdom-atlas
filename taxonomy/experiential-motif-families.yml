@@ -1,0 +1,742 @@
+---
+# Experiential corpus taxonomy.
+#
+# This file is the canonical taxonomy for the experiential layer of the Atlas
+# (NDE / psychedelic / contemplative). It is INDEPENDENT of the ancient corpus
+# taxonomy at taxonomy/motif-normalization.yml — the families below were
+# discovered by reading the 12 experiential source texts and grouping the 321
+# raw motif slugs that emerged from extraction. Family names were chosen from
+# the experiential vocabulary itself, deliberately not borrowed from the
+# ancient text family names.
+#
+# This separation is methodologically central. The comparison between the two
+# taxonomies (step 5) is meaningful only because neither was designed to match
+# the other. Mapping motifs from one corpus to the other family list before
+# the comparison would destroy the finding before it could be observed.
+#
+# Each family declares:
+#   id           — slugified family id
+#   label        — human-readable label
+#   description  — phenomenological characterization grounded in the corpus
+#   sub_corpora  — which sub-corpora (nde / psychedelic / contemplative) the
+#                  family appears in
+#   children     — primary raw motif slugs assigned to this family
+#   related      — sibling families with phenomenological overlap
+
+generated_on: '2026-05-01'
+authored_by: human_reading
+source_index: data/indexes/experiential-motif-occurrences.yml
+isolation_note: |-
+  This taxonomy is for experiential motifs only. It must NOT be merged with or
+  mapped onto taxonomy/motif-normalization.yml (the ancient corpus taxonomy).
+  The independent comparison is performed in
+  data/indexes/cross-corpus-taxonomy-comparison.yml.
+
+experiential_motif_families:
+
+  - id: luminous_presence
+    label: Luminous Presence
+    description: |-
+      Light experienced as conscious, personal, and knowing rather than as an
+      impersonal phenomenon. Includes the central being-of-light reported in
+      NDEs, the clear light of awareness in the bardo tradition, and the
+      luminous companions and surrounding light reported across NDE and
+      contemplative frameworks. The light is consistently described as
+      brilliant but not painful to look at, and as bearing love or recognition
+      directly to the experiencer.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [profound_peace_and_bliss, overwhelming_love, dissolution_of_self]
+    children:
+      - being_of_light
+      - brilliant_light_not_painful
+      - clear_light_of_awareness
+      - dim_inner_light_at_threshold
+      - dimmer_light_of_conditioned_existence
+      - golden_or_white_light
+      - ground_of_awareness
+      - light_at_end_of_tunnel
+      - luminous_companions
+      - luminous_quiet_state
+      - peacock_iridescence
+      - saturated_colors
+      - vast_unobstructed_openness
+
+  - id: dark_passage_threshold
+    label: Dark Passage and Threshold
+    description: |-
+      The experienced transition through a dark enclosed space — tunnel,
+      corridor, valley — toward light or toward another state. Frequently
+      accompanied by an unusual sound (buzzing, ringing, music) and by a
+      somatic rush. The motion is described as drawing or being-pulled rather
+      than self-propelled, and the darkness is felt as enclosing rather than
+      threatening.
+    sub_corpora: [nde, psychedelic]
+    related: [luminous_presence, separation_from_body, threshold_and_return]
+    children:
+      - dark_tunnel
+      - rapid_smooth_transit
+      - threshold_sound
+      - buzzing_or_ringing
+      - celestial_music
+      - enclosing_darkness_not_threatening
+      - somatic_rush
+
+  - id: separation_from_body
+    label: Separation from the Body
+    description: |-
+      The experiencer perceives themselves as distinct from the physical body
+      and often watches the body from outside — typically from above. Includes
+      a felt subtle body, panoramic clear vision unconfined by walls, the
+      ability to pass through solid objects, and the cessation or
+      reorganization of ordinary somatic boundaries (cessation of breath,
+      dissolution of elements, inability to be heard by the living, food
+      cannot be eaten).
+    sub_corpora: [nde, contemplative]
+    related: [dark_passage_threshold, dissolution_of_self, threshold_and_return]
+    children:
+      - awareness_of_being_dead
+      - cannot_be_heard_by_living
+      - cessation_of_breath
+      - detached_observation_of_dying_body
+      - dissolution_of_elements
+      - food_cannot_be_eaten
+      - hearing_pronouncement_of_death
+      - inner_signs_at_death
+      - nonphysical_hearing
+      - out_of_body_experience
+      - panoramic_clear_vision
+      - passing_through_solid_objects
+      - self_distinct_from_body
+      - sense_of_dying_or_being_pulled_apart
+      - subtle_body
+      - unable_to_be_heard_by_living
+      - viewing_body_from_above
+
+  - id: dissolution_of_self
+    label: Dissolution of Self and Boundaries
+    description: |-
+      Dissolution of the boundary between self and what is observed, between
+      self and the world, or between self and what is greater than self. Can
+      take a positive form (oceanic unity, cosmic continuity) or a frightening
+      form (terror of dissolution, ego obliteration). Includes the inward
+      collapse of the inner observer (no separate witness to mental contents)
+      and the dissolution of the subject-object distinction in deep
+      absorption.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [luminous_presence, contemplative_absorption_states, dread_and_engulfment]
+    children:
+      - continuity_with_world
+      - cosmic_unity
+      - dissolution_of_inner_observer
+      - dissolution_of_self_other_boundary
+      - dissolution_of_subject_object
+      - ego_death
+      - ego_obliteration
+      - external_unity
+      - feeling_at_home_in_being
+      - internal_unity
+      - narrowing_gap_between_subject_and_object
+      - oceanic_unity
+      - terror_of_dissolution
+      - transcendence_of_personal_self
+      - union_with_greater_than_self
+
+  - id: encounter_with_other_beings
+    label: Encounter with Other Beings
+    description: |-
+      Encounter with conscious, present, other entities — distinct from
+      deceased relatives. Includes peaceful and wrathful deities (bardo),
+      religious figures and mystical presences (NDE / contemplative), and the
+      diverse entity types reported in psychedelic experiences (humanoid,
+      mechanical, insectoid, geometric, plant-like). Beings are often felt as
+      already in progress when the experiencer arrives, more advanced or
+      knowing, and recognizing the experiencer.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [encounter_with_deceased, mind_to_mind_communication, otherworldly_environment]
+    children:
+      - entity_encounter
+      - entities_expecting_visitor
+      - entities_more_advanced_or_knowing
+      - figures_as_projections_of_mind
+      - geometric_entities
+      - humanoid_entities
+      - insectoid_entities
+      - mechanical_entities
+      - mystical_presence
+      - numinous_encounter
+      - peaceful_deities
+      - plant_like_entities
+      - recognition_by_entities
+      - religious_figure_perceived
+      - wrathful_deities
+
+  - id: encounter_with_deceased
+    label: Encounter with the Deceased
+    description: |-
+      Recognition of and meeting with deceased persons — typically relatives
+      or close friends, occasionally a person whose death the experiencer did
+      not yet know about. The deceased are described as recognizable but
+      sometimes radiant, younger, or restored, and they appear in roles of
+      greeter, guide, or companion. Recognition is direct and immediate.
+    sub_corpora: [nde]
+    related: [encounter_with_other_beings, threshold_and_return, mind_to_mind_communication]
+    children:
+      - deceased_appear_radiant_or_younger
+      - deceased_as_greeters_or_guides
+      - meeting_deceased_relatives
+      - meeting_unknown_deceased
+      - spiritual_guides
+
+  - id: mind_to_mind_communication
+    label: Mind-to-Mind Communication and Transmission
+    description: |-
+      Communication described as direct rather than spoken — felt as the
+      transmission of meaning from being to being without language, sometimes
+      compressed or larger than the experiencer can hold. Includes locutions
+      heard as inner words (Christian mystical), the deafening sound of the
+      bardo deities, and the bodies of information transmitted in psychedelic
+      and contemplative encounters.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [encounter_with_other_beings, encounter_with_deceased, noetic_certainty]
+    children:
+      - compressed_message
+      - deafening_sound
+      - difficulty_recovering_content
+      - direct_mind_to_mind_communication
+      - direct_transmission_of_meaning
+      - heard_voices
+      - information_transmission
+      - locutions
+
+  - id: profound_peace_and_bliss
+    label: Profound Peace and Bliss
+    description: |-
+      The pervasive emotional ground of the experience: profound peace beyond
+      any in ordinary life, with cessation of pain and anxiety, and with bliss
+      or joy that does not depend on circumstance. Distinct from awe,
+      sacredness, or love (which have their own families) — this is the
+      affective tone itself. Often felt as the medium of the entire state.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [overwhelming_love, sacredness_and_awe, contemplative_absorption_states]
+    children:
+      - bliss_or_joy
+      - cessation_of_anxiety
+      - cessation_of_pain
+      - ecstasy
+      - gratitude_and_wonder
+      - inflowing_peace
+      - noncontingent_positive_state
+      - nourishment_from_abundant_source
+      - profound_peace
+      - spiritual_consolation
+
+  - id: overwhelming_love
+    label: Overwhelming Love
+    description: |-
+      Unconditional love directed toward all beings, the world, and being
+      itself — distinct from peace or bliss. Includes the felt being-known of
+      the encounter with the being of light, the wound of love at the threshold
+      of mystical union, and the tears of recognition or gratitude that often
+      accompany the state. Love is uniformly distributed and not contingent on
+      the qualities of its objects.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [profound_peace_and_bliss, luminous_presence, mystical_union_and_unitive_life]
+    children:
+      - being_knows_experiencer_completely
+      - complete_acceptance
+      - overwhelming_love
+      - sharp_longing_amid_joy
+      - tears_of_recognition_or_gratitude
+      - unconditional_love_for_all_beings
+      - wound_of_love
+
+  - id: sacredness_and_awe
+    label: Sacredness and Awe
+    description: |-
+      The state and what is encountered are felt as sacred. Reverence, awe,
+      and a felt smallness before vastness mark the experience. The world
+      appears charged with significance, and ordinary things become eloquent
+      with meaning that ordinary perception had been filtering out.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [profound_peace_and_bliss, noetic_certainty, transformation_of_values]
+    children:
+      - opening_of_perception_to_magnitude
+      - recognition_of_divine_as_real
+      - reverence_and_awe
+      - sacredness
+      - smallness_before_vastness
+      - world_charged_with_significance
+
+  - id: noetic_certainty
+    label: Noetic Certainty and Direct Knowing
+    description: |-
+      Knowledge that does not depend on inference: direct apprehension of how
+      things really are, sudden grasp of fundamental matters, comprehension
+      larger than any single insight. Felt as more real than ordinary
+      perception, naked rather than mediated by concepts, and as certainty
+      grounded in direct experience rather than belief.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [life_review_and_perspective_taking, sacredness_and_awe, transformation_of_values]
+    children:
+      - certainty_grounded_in_direct_experience
+      - clear_unmistaken_knowledge
+      - comprehension_of_fundamental_truths
+      - cosmic_revelation
+      - direct_insight
+      - direct_knowledge_of_reality
+      - knowing_without_chatter_of_categories
+      - more_real_than_ordinary_reality
+      - naked_perception
+      - noetic_quality
+      - thought_acceleration
+      - understanding_larger_than_any_single_insight
+      - vivid_mental_clarity
+
+  - id: life_review_and_perspective_taking
+    label: Life Review and Perspective-Taking
+    description: |-
+      A panoramic re-experiencing of one's life — events seen at once or in
+      vivid sequence, sometimes from the perspectives of others affected by
+      one's actions. The review is comprehensive and held in compassion
+      rather than condemnation. Includes the karmic-judgment visions of the
+      sidpa bardo, where the consciousness encounters the results of its
+      acts as scenes.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [noetic_certainty, transformation_of_values, encounter_with_other_beings]
+    children:
+      - emotional_processing
+      - karmic_judgment_visions
+      - multiple_perspectives_in_review
+      - panoramic_life_review
+      - significant_moments_stand_out
+      - understanding_without_judgment
+      - vivid_memory
+
+  - id: transcendence_of_time_and_space
+    label: Transcendence of Time and Space
+    description: |-
+      Suspension or distortion of ordinary time and space. Time may stop,
+      expand into eternity, compress, or contain all of itself at once. Space
+      may become unbounded, vast without location, everywhere and nowhere,
+      or held to its own internal rules different from waking space.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [dissolution_of_self, otherworldly_environment, dread_and_engulfment]
+    children:
+      - experience_of_eternity_or_timelessness
+      - feeling_of_being_everywhere_and_nowhere
+      - simultaneity_of_past_and_present
+      - spacelessness
+      - time_distortion
+      - time_stops_eternal_suffering
+      - timeless_state
+      - vastness_without_location
+
+  - id: otherworldly_environment
+    label: Otherworldly Environment
+    description: |-
+      Environments unlike any earthly place — celestial landscapes, gardens,
+      meadows, paradisical settings, the cosmic egg or starry cosmos, the
+      autonomous alternate reality reported in psychedelic experiences (place
+      already there, returnable, with its own consistency and inhabitants),
+      the visions of realms of rebirth in the bardo, and the architectures of
+      light and sacred buildings encountered in deep states.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [encounter_with_other_beings, visionary_imagery, transcendence_of_time_and_space]
+    children:
+      - autonomous_alternate_reality
+      - celestial_landscape
+      - cosmic_egg_or_starry_cosmos
+      - heavenly_garden_or_meadow
+      - more_substantial_than_ordinary
+      - otherworld_paradoxically_familiar
+      - otherworldly_environment
+      - paradisical_garden
+      - place_was_already_there
+      - realm_with_its_own_rules
+      - repeatable_destination
+      - sacred_architecture_imagery
+      - visions_of_realms_of_rebirth
+
+  - id: visionary_imagery
+    label: Visionary Imagery
+    description: |-
+      Visual content ranging from elementary geometry (lattices, gratings,
+      spirals, kaleidoscopic patterns, cobwebs) through complex three-
+      dimensional figurative scenes, mandala-like forms, fractal
+      architecture, and the perception of geometry as alive and conscious.
+      Includes synesthesia, sound visualized as color, and the changed
+      meaning of percepts where ordinary objects appear charged with
+      significance.
+    sub_corpora: [psychedelic, contemplative, nde]
+    related: [otherworldly_environment, sacredness_and_awe, visions_locutions_raptures]
+    children:
+      - changed_meaning_of_perception
+      - cobweb_or_lattice_structures
+      - complex_visionary_imagery
+      - fractal_architecture
+      - geometric_imagery
+      - kaleidoscopic_patterns
+      - living_geometry
+      - mandala_imagery
+      - scenes_from_unfamiliar_places
+      - sound_visualized_as_color
+      - synesthesia
+      - three_dimensional_visions
+      - world_saturated_with_meaning
+
+  - id: threshold_and_return
+    label: Threshold of Return
+    description: |-
+      The boundary or limit beyond which return would not be possible —
+      perceived as a fence, water, gate, line, or horizon — and the
+      experience of being turned back, told to return, or choosing return.
+      Includes the reluctance to return to the body, the felt-sense that the
+      experience is one's true home, the rapid return from psychedelic
+      states, and the decisive crossing into the womb in the sidpa bardo.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [separation_from_body, dread_and_engulfment, transformation_of_values]
+    children:
+      - border_or_limit
+      - desire_to_cross_threshold
+      - drawn_by_karmic_affinity
+      - entry_into_womb
+      - experience_felt_as_true_home
+      - forced_or_chosen_return
+      - forgetting_at_rebirth
+      - point_of_no_return
+      - rapid_return
+      - reluctance_to_return_to_body
+      - return_to_complete_unfinished_task
+
+  - id: dread_and_engulfment
+    label: Dread, Engulfment, and Hellish Content
+    description: |-
+      The negative ground tone — claustrophobic engulfment, no-exit
+      hopelessness, existential despair, absolute meaninglessness, and
+      hellish imagery: being swallowed by a monster, sealed in a tomb,
+      trapped in hell, suspended in a frozen wasteland. Time may feel like
+      eternal suffering. Includes paranoia, the perception of malevolent
+      environment, and the persecutory pursuers of the bardo.
+    sub_corpora: [psychedelic, contemplative, nde]
+    related: [transcendence_of_time_and_space, dissolution_of_self, ego_death_rebirth_struggle]
+    children:
+      - absolute_meaninglessness
+      - anxiety_at_onset
+      - anxiety_or_panic
+      - buffeted_by_winds
+      - claustrophobic_engulfment
+      - dread_no_exit
+      - existential_despair
+      - failure_to_recognize_own_nature
+      - flight_leads_to_further_descent
+      - frozen_cold_wasteland
+      - hidden_hostile_intentions_visible
+      - illusory_shelter
+      - loss_of_control
+      - loss_of_volitional_control
+      - malevolent_environment
+      - paranoia
+      - persecutors_or_pursuers
+      - sealed_in_tomb
+      - swallowed_by_monster
+      - trapped_in_hell
+
+  - id: ego_death_rebirth_struggle
+    label: Ego Death, Struggle, and Rebirth
+    description: |-
+      The violent transition out of conditioned self into liberation —
+      titanic struggle, sexual ecstasy and violence combined, sadomasochistic,
+      scatological, and demonic imagery, ritual sacrifice and combat — and
+      the emergence into rebirth: world reconstituted as new, resurrection
+      imagery, opening flowers, divine couple reunion, sacred marriage, the
+      silkworm-butterfly transformation. Liberation as the crossing-out of a
+      structure of suffering that had been mistaken for life.
+    sub_corpora: [psychedelic, contemplative]
+    related: [dread_and_engulfment, dissolution_of_self, mystical_union_and_unitive_life]
+    children:
+      - demonic_imagery
+      - divine_couple_reunion
+      - dragon_or_combat_imagery
+      - liberation
+      - opening_flowers
+      - rebirth_after_death
+      - resurrection_imagery
+      - ritual_sacrifice_imagery
+      - sacred_marriage
+      - sadomasochistic_imagery
+      - scatological_imagery
+      - sexual_ecstasy_and_violence
+      - silkworm_butterfly_transformation
+      - terror_and_ecstasy_combined
+      - titanic_struggle
+      - violent_movement
+      - world_perceived_as_new
+
+  - id: dark_night_and_purification
+    label: Dark Night and Purification
+    description: |-
+      The withdrawal of consolation from the contemplative life — the
+      apparent absence of God or the divine, prayer dry, despair and doubt,
+      the sense of being lost — and the long work of purification through
+      ascetic practice, detachment, and continuing practice without reward.
+      Includes the early-stage difficulties (distraction in early practice,
+      stubborn return, many turn back) as well as the more developed dark
+      night that follows illumination. The deepening through loss is the
+      structural function of this stage.
+    sub_corpora: [contemplative]
+    related: [dread_and_engulfment, contemplative_practice_stages, transformation_of_values]
+    children:
+      - ascetic_practice
+      - continuing_practice_without_reward
+      - dark_night_of_intense_presence
+      - dark_night_of_soul
+      - deepening_through_loss
+      - despair_or_doubt
+      - detachment_from_attachments
+      - distraction_in_early_practice
+      - felt_abandonment
+      - many_turn_back
+      - purification
+      - relief_and_grief
+      - spiritual_dryness
+      - stubborn_return_to_practice
+      - via_purgativa
+      - withdrawal_of_consolation
+
+  - id: ineffability
+    label: Ineffability and Inadequacy of Language
+    description: |-
+      The experience cannot be put into words. Ordinary language refers to
+      ordinary categories, and what was perceived stands behind or beyond
+      those categories. Includes the difficulty of describing the experience
+      to others, the social isolation that follows, the public
+      misunderstanding of mystics, and the difficulty of remembering the
+      content of deep states once one has returned to ordinary consciousness.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [noetic_certainty, transformation_of_values]
+    children:
+      - difficulty_describing_to_others
+      - difficulty_remembering_in_ordinary_state
+      - inadequacy_of_ordinary_language
+      - ineffability
+      - isolation_after_experience
+      - public_misunderstanding_of_mystic
+      - reality_beyond_concepts
+      - structural_limit_of_language
+
+  - id: transformation_of_values
+    label: Lasting Transformation of Values and Orientation
+    description: |-
+      The lasting reorganization of life that follows the experience: loss
+      of fear of death, death reframed as transition, materialism and status
+      concerns recede, relationships and contemplation take center, the
+      experiencer becomes a comforter of the dying and grieving. Includes the
+      sudden conversion of the awakening of self, the irreversible
+      orientation to God, the felt vocation, and the productive vocational
+      activity of the unitive life.
+    sub_corpora: [nde, psychedelic, contemplative]
+    related: [noetic_certainty, mystical_union_and_unitive_life, ineffability]
+    children:
+      - comforter_of_dying_and_grieving
+      - continuing_metaphysical_curiosity
+      - death_as_transition_not_ending
+      - deprioritization_of_materialism
+      - effective_action_in_world
+      - irreversible_orientation_to_god
+      - lasting_value_transformation
+      - loss_of_fear_of_death
+      - recentered_on_relationships_and_care
+      - sudden_conversion
+      - transparency_to_world
+      - vocation
+      - vocation_as_productive_activity
+
+  - id: contemplative_practice_stages
+    label: Contemplative Practice — Preparatory and Structural Stages
+    description: |-
+      The structural and ethical conditions of practice as enumerated across
+      the contemplative texts: ethical restraint and observance (yamas,
+      niyamas), bodily preparation (asana, breath regulation, sense
+      withdrawal), the early stages of inner attention (turning attention
+      inward, self-knowledge, established practice, continuous recollection
+      of God), and the danger of subtle complacency at intermediate stages.
+      The family captures the disciplines that stabilize the ground for the
+      deeper absorption states.
+    sub_corpora: [contemplative]
+    related: [contemplative_absorption_states, dark_night_and_purification, transformation_of_values]
+    children:
+      - body_quieted_as_distraction
+      - breath_regulation
+      - conservation_of_vital_energy
+      - contemplative_prayer
+      - contentment_independent_of_circumstance
+      - continuous_meditation
+      - continuous_recollection_of_god
+      - discipline_through_friction
+      - established_practice
+      - ethical_restraint
+      - field_of_mind_itself
+      - non_clinging_to_objects
+      - non_grasping
+      - nonviolence_in_thought_and_act
+      - one_pointed_concentration
+      - purity_of_body_speech_mind
+      - regularization_of_breath
+      - self_knowledge
+      - self_study
+      - sense_withdrawal
+      - senses_drawn_inward
+      - stable_comfortable_seat
+      - subtle_breath
+      - subtle_complacency
+      - surrender_to_ultimate
+      - training_of_attention
+      - truthfulness
+      - turning_attention_inward
+
+  - id: contemplative_absorption_states
+    label: Contemplative Absorption States
+    description: |-
+      The progressive states of meditative absorption — concentration with
+      and without conceptual reasoning, subtle absorption, absorption with
+      bliss, absorption resting on the bare sense of "I am", and the
+      seedless samadhi where all content falls away and unconditioned
+      awareness stands alone. Also includes the Christian-mystical analogues:
+      prayer of quiet, prayer of union, and the felt passive reception of
+      states that are not produced by the practitioner's effort. The deeper
+      end of this family touches dissolution-of-self.
+    sub_corpora: [contemplative]
+    related: [dissolution_of_self, mystical_union_and_unitive_life, contemplative_practice_stages]
+    children:
+      - absorption
+      - absorption_with_concepts
+      - absorption_without_concepts
+      - bare_sense_of_i_am
+      - bliss_as_object_of_meditation
+      - cessation_of_mental_modifications
+      - faculties_absorbed
+      - object_grasped_with_name
+      - passive_reception
+      - prayer_of_quiet
+      - prayer_of_union
+      - pure_subjectivity
+      - recognition_yields_liberation
+      - seedless_samadhi
+      - standing_in_true_nature
+      - subtle_absorption
+      - subtle_absorption_without_reasoning
+      - unconditioned_awareness_without_content
+
+  - id: mystical_union_and_unitive_life
+    label: Mystical Union and the Unitive Life
+    description: |-
+      The settled, continuous union with the divine that follows the dark
+      night — spiritual marriage, the steady ground in which ordinary life
+      becomes the medium of union, action holds rather than disrupts the
+      state, the alternation between presence and absence ends. The unitive
+      life is described as quiet rather than ecstatic and as productive in
+      the world rather than withdrawn from it. Includes the encounter with
+      the divine still as Other (illumination) before that encounter is
+      replaced by settled presence.
+    sub_corpora: [contemplative]
+    related: [contemplative_absorption_states, transformation_of_values, overwhelming_love]
+    children:
+      - encounter_with_divine_as_other
+      - encounter_with_ground_of_being
+      - end_of_alternation_presence_absence
+      - illumination
+      - ordinary_life_as_medium_of_union
+      - quiet_rather_than_ecstatic
+      - settled_continuous_presence_of_god
+      - spiritual_marriage
+      - union_holds_in_action
+      - unitive_life
+
+  - id: visions_locutions_raptures
+    label: Visions, Locutions, and Raptures
+    description: |-
+      The graced contents that arise during contemplative practice — visions
+      (interior, imaginary, rarely corporeal), locutions (words received
+      rather than spoken, marked by authority, peace, lasting effect), and
+      raptures (sudden, irresistible elevations in which the body becomes
+      still and the senses suspended). Includes the warning, repeatedly
+      sounded across the contemplative literature, not to mistake these
+      gifts for the giver.
+    sub_corpora: [contemplative]
+    related: [visionary_imagery, mind_to_mind_communication, mystical_union_and_unitive_life]
+    children:
+      - bodily_stillness_in_rapture
+      - do_not_mistake_gifts_for_giver
+      - raptures
+      - senses_suspended
+      - visions
+
+  - id: altered_cognition_and_vigilance
+    label: Altered Cognition and Vigilance
+    description: |-
+      Disturbed or restructured thought, attention, and wakefulness —
+      thoughts looping or intruding, attention escaping voluntary control,
+      mind running as a runaway machine, reduced vigilance shading into
+      drowsiness or dream-fragments intruding into waking. Distinct from the
+      dissolution-of-self family because here the structural integrity of
+      thought-control is disrupted rather than the sense of self being
+      dissolved.
+    sub_corpora: [psychedelic]
+    related: [dread_and_engulfment, dissolution_of_self, dark_passage_threshold]
+    children:
+      - blurred_sleep_wake_boundary
+      - drowsiness_or_dream_intrusion
+      - loss_of_attentional_control
+      - reduced_efficiency_of_thought
+      - reduced_wakefulness
+      - runaway_machine_of_mind
+      - thought_loops_or_intrusion
+
+  - id: heightened_or_altered_perception
+    label: Heightened or Altered Perception
+    description: |-
+      Perception that is unusually vivid, clear, or distorted — beyond the
+      synesthesia and figurative imagery of visionary_imagery. Includes
+      saturation of color outside the ordinary spectrum, music carrying
+      meaning that ordinary listening had not heard, hallucinatory sounds
+      with no external source, and the heightened auditory and visual
+      perception that frequently accompanies altered states even when
+      figurative content is not present.
+    sub_corpora: [nde, psychedelic]
+    related: [visionary_imagery, dark_passage_threshold, otherworldly_environment]
+    children:
+      - hallucinatory_sounds
+      - heard_music_without_source
+      - heightened_auditory_perception
+      - heightened_perception
+      - music_carrying_unfamiliar_meaning
+      - perception_outside_normal_spectrum
+
+  - id: corroborative_phenomena
+    label: Corroborative and Distance-Knowledge Phenomena
+    description: |-
+      Reports of access to information not available to the dying or
+      meditating body — knowledge of conversations or events at a distance,
+      verifiable details perceived during clinical death and later confirmed,
+      precognitive visions of future events, and apparent extrasensory
+      perception. Treated by experiencers as evidence that the experience
+      was not generated by the body alone; included here as a recurring
+      feature of the corpus, not as a metaphysical claim.
+    sub_corpora: [nde]
+    related: [separation_from_body, noetic_certainty, life_review_and_perspective_taking]
+    children:
+      - corroboration_of_perceived_details
+      - direct_knowing_of_future
+      - extrasensory_perception
+      - knowledge_at_a_distance
+      - precognition
+
+# ----------------------------------------------------------------------------
+# Notes
+# ----------------------------------------------------------------------------
+# A handful of motif slugs intentionally cross multiple families
+# phenomenologically. In this file each motif is assigned to a SINGLE PRIMARY
+# family — the one that best characterizes its core. The `related` field on
+# each family captures the strongest phenomenological neighbours so the
+# multi-family overlap is preserved without breaking the strict 1-to-1 mapping
+# required for the comparison step.
