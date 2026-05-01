@@ -1,0 +1,447 @@
+---
+# Cross-corpus taxonomy comparison.
+#
+# This index pairs the experiential taxonomy (28 families, derived bottom-up
+# from the consciousness-bridge corpus of 12 NDE / psychedelic / contemplative
+# texts) with the ancient corpus taxonomy (65 families, derived bottom-up from
+# 9,072 motifs in 31,658 occurrences across ~20 traditions).
+#
+# Both taxonomies were built independently. Neither was designed to fit the
+# other. The mappings recorded here are observations of *post-hoc* convergence
+# — places where families discovered separately in the two corpora describe
+# overlapping phenomenology — and divergence — places where one corpus
+# surfaces patterns the other does not.
+#
+# Mapping strength rubric:
+#   strong    — the families are largely about the same phenomenon, even
+#               though one is narrative and the other phenomenological
+#   moderate  — significant overlap, but each family also covers material
+#               the other does not
+#   partial   — the experiential family touches part of the ancient family
+#               (or vice versa) but is mostly distinct
+#   weak      — recognizable resonance only; not a confident pairing
+#   none      — no ancient family corresponds at any usable strength
+
+generated_on: '2026-05-01'
+authored_by: human_reading
+sources:
+  experiential_taxonomy: taxonomy/experiential-motif-families.yml
+  ancient_taxonomy: taxonomy/motif-normalization.yml
+  ancient_frequency_index: data/indexes/canonical-motif-frequency.yml
+
+experiential_to_ancient:
+
+  - experiential_family: luminous_presence
+    strength: strong
+    ancient_family_refs: [theophany, sacred_fire]
+    note: |-
+      Theophany — divine manifestation often through brilliant light, fire, or
+      cloud — is the closest ancient analogue to the experiential being-of-
+      light, the brilliant-light-not-painful, and the clear-light-of-awareness.
+      Sacred fire adds the specifically luminous quality of divine presence.
+      Cross-tradition convergence here is one of the strongest in the
+      comparison.
+
+  - experiential_family: dark_passage_threshold
+    strength: moderate
+    ancient_family_refs: [descent, threshold_guardian]
+    note: |-
+      The dark transit toward light maps onto the descent narratives of many
+      traditions (Inanna, Orpheus, the Egyptian funerary corpus). The ancient
+      family threshold_guardian captures the figure-at-the-boundary
+      structurally; the experiential dark_passage is the felt traversal
+      itself rather than the encounter with a guardian.
+
+  - experiential_family: separation_from_body
+    strength: moderate
+    ancient_family_refs: [external_soul, ancestor_rites, soul_loss_restoration]
+    note: |-
+      The ancient external_soul motif (the soul kept outside the body, often
+      hidden in an object) and the shamanic soul_loss-and-restoration pattern
+      share the underlying premise that the experiencer is not the body.
+      Ancestor rites describe interactions with the disembodied dead. The
+      experiential corpus describes the structural separation as a felt event
+      during dying or deep practice; the ancient corpus describes it as a
+      narrative or ritual fact.
+
+  - experiential_family: dissolution_of_self
+    strength: moderate
+    ancient_family_refs: [mystical_quest, theophany]
+    note: |-
+      The ancient family mystical_quest covers Sufi annihilation, fanaa,
+      and the dissolving union with the divine beloved — phenomenologically
+      adjacent to ego death, oceanic unity, and dissolution-of-subject-object.
+      Theophany contributes the moment of dissolution before the divine.
+      The cross-mapping is real but partial: ancient texts narrativize the
+      dissolution rather than enumerate its phenomenological features.
+
+  - experiential_family: encounter_with_other_beings
+    strength: moderate
+    ancient_family_refs: [theophany, divine_intervention, serpent_guardian]
+    note: |-
+      Encounters with deities, angels, spirits, animal helpers, and serpent
+      guardians populate the ancient corpus. The experiential family adds
+      the modern entity-typology (humanoid / mechanical / insectoid /
+      geometric / plant-like) that has no precise ancient counterpart.
+      Where the ancient family is about which beings appear, the experiential
+      family is about the structural fact of encountering conscious-other-
+      presence in non-ordinary states.
+
+  - experiential_family: encounter_with_deceased
+    strength: strong
+    ancient_family_refs: [ancestor_rites, restless_dead_haunting_vengeance, afterlife_passage]
+    note: |-
+      Meeting the dead — recognized, sometimes radiant, sometimes restored —
+      maps directly onto ancestor rites and the wider afterlife traditions.
+      Restless-dead-and-haunting captures the more troubled forms; the
+      experiential family describes the predominantly benign meeting at
+      threshold. Both corpora treat encounter-with-the-dead as a structurally
+      central pattern.
+
+  - experiential_family: mind_to_mind_communication
+    strength: moderate
+    ancient_family_refs: [prophecy_divination, sacred_knowledge, theophany]
+    note: |-
+      Direct knowledge given without ordinary speech — oracular utterance,
+      revelation, the locution received in deep prayer — connects the
+      experiential mind-to-mind communication to ancient prophecy and
+      revelation. Both describe transmission marked by authority, brevity,
+      and lasting effect.
+
+  - experiential_family: profound_peace_and_bliss
+    strength: weak
+    ancient_family_refs: [sacred_love, mystical_quest]
+    note: |-
+      The pervasive affective ground state — peace, bliss, joy — is
+      represented in ancient devotional poetry (Sufi tradition especially)
+      but is not surfaced as a distinct family by the ancient extraction.
+      The ancient corpus lifts up the relational love-of-the-beloved
+      (sacred_love) rather than the standalone affective tone. This is a
+      genuine divergence: the experiential corpus isolates the qualia, the
+      ancient corpus narrates the relation.
+
+  - experiential_family: overwhelming_love
+    strength: strong
+    ancient_family_refs: [sacred_love, mystical_quest]
+    note: |-
+      Unconditional divine love — the wound of love, being-known, the
+      tears-of-recognition — maps cleanly onto sacred_love and the
+      annihilation-union arc of mystical_quest. This is among the strongest
+      convergences: the Sufi tradition in particular describes phenomenology
+      in language nearly indistinguishable from the modern experiential
+      reports.
+
+  - experiential_family: sacredness_and_awe
+    strength: moderate
+    ancient_family_refs: [theophany]
+    note: |-
+      Awe, reverence, and the felt smallness before vastness are pervasive
+      across ancient theophany narratives (Sinai, the trembling at Olympus,
+      Arjuna's vision of Krishna's cosmic form). The ancient corpus
+      narrativizes the moment; the experiential corpus catalogues the
+      affective signature directly.
+
+  - experiential_family: noetic_certainty
+    strength: strong
+    ancient_family_refs: [sacred_knowledge, initiation, mystical_quest]
+    note: |-
+      Direct knowing — wisdom received as inner certainty rather than
+      argued for — is a primary ancient family (sacred_knowledge) and a
+      structural feature of initiation. The experiential corpus refines the
+      phenomenology (naked perception, comprehension-larger-than-any-single-
+      insight) but the underlying claim is held by both.
+
+  - experiential_family: life_review_and_perspective_taking
+    strength: strong
+    ancient_family_refs: [divine_judgment, afterlife_passage]
+    note: |-
+      Divine judgment in the ancient corpus — the weighing of the heart in
+      Egyptian funerary tradition, the weighing of deeds in many afterlife
+      narratives, the karmic visions of Buddhist and Hindu cosmology — is
+      structurally the same event as the panoramic life review. The
+      experiential corpus emphasizes the multiple-perspectives and
+      understanding-without-judgment quality that ancient narrative
+      sometimes preserves and sometimes does not.
+
+  - experiential_family: transcendence_of_time_and_space
+    strength: strong
+    ancient_family_refs: [sacred_time]
+    note: |-
+      Sacred time — the eternal present, the Dreamtime, ritual time, time
+      that contains all of itself — is present across the ancient corpus
+      and corresponds directly to the experiential timelessness, simultaneity
+      of past and present, and felt eternity.
+
+  - experiential_family: otherworldly_environment
+    strength: strong
+    ancient_family_refs: [otherworld, axis_mundi, afterlife_passage]
+    note: |-
+      Otherworld is a named ancient family. The experiential celestial
+      landscapes, paradisical gardens, and autonomous alternate realities
+      map onto the ancient otherworld imagery (Tír na nÓg, the Egyptian
+      Field of Reeds, the heavenly regions of the bardo, the Pure Land).
+      Axis_mundi adds the structural-cosmological dimension that the
+      experiential corpus does not explicitly enumerate but is implicit in
+      its descriptions of vastness and architectures of light.
+
+  - experiential_family: visionary_imagery
+    strength: moderate
+    ancient_family_refs: [dream_and_vision]
+    note: |-
+      Dream-and-vision is the natural ancient counterpart, but the ancient
+      family is overwhelmingly figurative and narrative (visions of beings,
+      events, places). The experiential corpus adds elementary geometry,
+      kaleidoscopic patterns, fractal architectures, and synesthesia — modes
+      of visual content that the ancient corpus surfaces only rarely (and
+      then in narrow contexts such as Tibetan mandala iconography).
+
+  - experiential_family: threshold_and_return
+    strength: strong
+    ancient_family_refs: [hero_journey, descent, initiation]
+    note: |-
+      The hero's journey arc — crossing the threshold, descent, return
+      transformed — is structurally the same event as the experiential
+      arc of going to the limit and choosing or being-sent-back. This is
+      among the strongest convergences: both corpora preserve the same
+      sequence of leaving, encountering, and returning.
+
+  - experiential_family: dread_and_engulfment
+    strength: moderate
+    ancient_family_refs: [descent, restless_dead_haunting_vengeance, lament_and_mourning]
+    note: |-
+      Hellish content — being swallowed, sealed in a tomb, persecuted by
+      pursuers, suspended in despair — appears in ancient descent and
+      restless-dead narratives (Greek Tartarus, Mesopotamian underworld,
+      the wasteland of various traditions). Lament and mourning capture the
+      affective texture of grief and loss. The experiential corpus catalogues
+      the phenomenology of these dark states with more specificity than the
+      ancient narrative tradition typically requires.
+
+  - experiential_family: ego_death_rebirth_struggle
+    strength: strong
+    ancient_family_refs: [death_and_transformation, sacrifice, primordial_sacrifice, initiation]
+    note: |-
+      Death and rebirth is among the most strongly recurring ancient
+      families. The dismemberment narratives (Osiris, Dionysus, Purusha),
+      the sacrificial death-and-renewal cycles, and the initiation ordeal
+      are structurally the same event as the BPM III death-rebirth struggle
+      and the BPM IV liberation. This is the central convergence: both
+      corpora insist that liberation passes through annihilation.
+
+  - experiential_family: dark_night_and_purification
+    strength: moderate
+    ancient_family_refs: [initiation, mystical_quest]
+    note: |-
+      Initiatory ordeals across the ancient corpus — fasting, exposure,
+      isolation, the trials of the catechumen — share the structural
+      function of the dark night: the practitioner endures a stripping that
+      cannot be willed to end, and emerges differently. The experiential
+      corpus, drawing primarily on contemplative literatures, refines the
+      sequence (purification, illumination, dark night, union) that the
+      ancient corpus narrativizes piecemeal.
+
+  - experiential_family: ineffability
+    strength: weak
+    ancient_family_refs: []
+    note: |-
+      Ineffability is essentially absent as a category in the ancient
+      corpus. Texts that experience the limits of language nonetheless
+      attempt to describe them, often with negation (the Tao that can be
+      told is not the Tao; the Brahman of the Upanishads as neti neti).
+      But these are second-order reflections within particular texts, not
+      a recurring family across the ancient corpus. The experiential corpus
+      treats ineffability as a structural feature of the experience itself —
+      a divergence that may reflect the contemplative literature's
+      sophistication about its own descriptive limits.
+
+  - experiential_family: transformation_of_values
+    strength: strong
+    ancient_family_refs: [hero_journey, initiation, culture_hero]
+    note: |-
+      The "returns transformed" stage of the hero's journey, the post-
+      initiation reorientation of life, and the founding/teaching activity
+      of the culture hero map onto the experiential pattern of lasting
+      value-transformation, loss of fear of death, and reorientation of
+      vocation. Both corpora insist that the experience must be brought
+      back into the world.
+
+  - experiential_family: contemplative_practice_stages
+    strength: weak
+    ancient_family_refs: [initiation]
+    note: |-
+      The structural enumeration of contemplative practice (yamas, niyamas,
+      asana, pranayama, pratyahara, dharana, dhyana, samadhi; the seven
+      mansions) does not have a clear ancient family analogue. Initiatory
+      texts include preparatory disciplines but the systematic listing of
+      practice stages is a refinement of the contemplative traditions that
+      the ancient corpus does not surface. This is a methodological
+      divergence: the contemplative corpora are about how to do something;
+      the ancient corpora are largely about what happens.
+
+  - experiential_family: contemplative_absorption_states
+    strength: weak
+    ancient_family_refs: [mystical_quest, theophany]
+    note: |-
+      The progressive absorption states (savitarka, nirvitarka, savichara,
+      nirvichara, sananda, sasmita, asamprajnata samadhi; the prayer of
+      quiet, prayer of union) have no systematic ancient-corpus counterpart.
+      The Sufi tradition's annihilation-union vocabulary touches some of
+      this territory; the rest is a contemplative refinement.
+
+  - experiential_family: mystical_union_and_unitive_life
+    strength: strong
+    ancient_family_refs: [mystical_quest, sacred_love]
+    note: |-
+      The settled, continuous union with the divine — spiritual marriage,
+      union holding through ordinary action, the unitive life as productive
+      vocation — maps onto the Sufi annihilation-union arc and the wider
+      mystical_quest family. The ancient corpus offers especially rich
+      material in this register through Persian and Sufi devotional poetry.
+
+  - experiential_family: visions_locutions_raptures
+    strength: strong
+    ancient_family_refs: [dream_and_vision, theophany, prophecy_divination]
+    note: |-
+      Visions and oracular speech are central ancient categories. The
+      experiential family preserves the contemplative-tradition specificity
+      (rapture as bodily stillness, locutions as words received with
+      authority, the warning not to mistake gifts for the giver) which the
+      ancient corpus narrates rather than schematizes.
+
+  - experiential_family: altered_cognition_and_vigilance
+    strength: none
+    ancient_family_refs: []
+    note: |-
+      Disturbed thought-control, runaway mind, drowsiness shading into dream
+      intrusion — these are predominantly psychedelic phenomena that the
+      ancient corpus does not surface. The closest ancient analogue is the
+      narrative of being-driven-mad-by-the-gods (e.g. the Bacchae) but the
+      ancient family is about narrative consequences rather than first-
+      person phenomenology of disturbed cognition. This is a clear
+      experiential-only family.
+
+  - experiential_family: heightened_or_altered_perception
+    strength: weak
+    ancient_family_refs: [theophany, dream_and_vision]
+    note: |-
+      Saturated colors, music carrying unfamiliar meaning, hallucinatory
+      sounds — these are surfaced in ancient theophany and dream-vision
+      narratives but not as a distinct family. The experiential
+      categorization of altered perception is a refinement of the modern
+      research literature that does not have a structural ancient analogue.
+
+  - experiential_family: corroborative_phenomena
+    strength: moderate
+    ancient_family_refs: [prophecy_divination]
+    note: |-
+      Verifiable details, knowledge at distance, precognitive vision — the
+      ancient prophecy_divination family covers the structurally similar
+      phenomenon of access to knowledge unavailable to ordinary perception.
+      The experiential family adds the empirical-corroboration framing
+      (later confirmation of perceived details) that ancient narrative does
+      not require.
+
+# ----------------------------------------------------------------------------
+# Ancient families with no clear experiential counterpart
+# ----------------------------------------------------------------------------
+#
+# These ancient families either (a) describe character archetypes,
+# narrative tropes, or social/cosmological structures that the experiential
+# corpus does not enumerate, or (b) cover content the experiential corpus
+# touches only obliquely. Their absence from the experiential side is itself
+# a finding: the experiential corpus is overwhelmingly first-person
+# phenomenological and the ancient corpus is overwhelmingly third-person
+# narrative.
+
+ancient_families_without_experiential_counterpart:
+
+  - _meta_textual
+  - ascent
+  - beauty_and_paradox
+  - betrayal_violated_trust
+  - conditional_invulnerability_hidden_weakness
+  - cosmic_origin
+  - covenant
+  - curse_blessing_speech
+  - death_by_fate
+  - divine_race
+  - divine_warrior
+  - duality
+  - enchanting_music
+  - fate_figures_cosmic_weaving
+  - flood_and_renewal
+  - heroic_funeral_rites
+  - hospitality_test_stranger_guest
+  - immortality_without_renewal
+  - jealous_stepmother_persecuted_child
+  - miraculous_child
+  - mother_goddess
+  - pride_and_downfall
+  - recognition_tokens_hidden_identity
+  - royal_legitimacy
+  - sacred_combat
+  - sacred_craft
+  - sacred_exchange
+  - sacred_law
+  - sacred_substance
+  - sacred_treasures
+  - sacred_twins
+  - sacred_vessel
+  - sacred_waters
+  - shapeshifter
+  - storytelling_as_power
+  - supreme_ruler
+  - trickster
+  - world_ages_cosmic_decline
+
+# ----------------------------------------------------------------------------
+# Experiential families with no clear ancient counterpart
+# ----------------------------------------------------------------------------
+
+experiential_families_without_ancient_counterpart:
+  - altered_cognition_and_vigilance
+  - ineffability  # (touched only obliquely; treated here as no clear family-level analogue)
+  - contemplative_practice_stages
+  - contemplative_absorption_states
+  - heightened_or_altered_perception
+  - profound_peace_and_bliss  # (the affective ground state isolated as a category — no ancient family captures the qualia directly)
+
+# ----------------------------------------------------------------------------
+# Aggregate convergence statistics
+# ----------------------------------------------------------------------------
+
+mapping_strength_distribution:
+  strong: 12      # luminous_presence, encounter_with_deceased, overwhelming_love, noetic_certainty, life_review_and_perspective_taking, transcendence_of_time_and_space, otherworldly_environment, threshold_and_return, ego_death_rebirth_struggle, transformation_of_values, mystical_union_and_unitive_life, visions_locutions_raptures
+  moderate: 10
+  weak: 5
+  none: 1
+  total_experiential_families: 28
+
+# ----------------------------------------------------------------------------
+# Structural observation
+# ----------------------------------------------------------------------------
+
+structural_observation: |-
+  The two corpora converge most strongly where ancient narrative is itself
+  describing a phenomenological state — theophany, otherworld, descent,
+  divine judgment, sacred time, mystical union, hero's journey. They diverge
+  most clearly along the seam between narrative and phenomenology. The
+  ancient corpus surfaces character archetypes, social and cosmological
+  structures, and ritual sequences as families because that is what the
+  ancient texts emphasize. The experiential corpus surfaces process
+  descriptions, inner qualia, and the structure of altered states because
+  that is what the experiential texts emphasize. Where both corpora take up
+  the same territory — the encounter with light, the meeting of the dead,
+  the dissolution of self into something larger, the return transformed —
+  the language and structure converge to a degree that becomes harder to
+  attribute to common cultural inheritance the more independent the
+  derivation has been.
+
+  The strongest convergences cluster around six themes: encounter with
+  luminous presence; meeting the deceased; the panoramic review of life;
+  death and rebirth; the threshold of return; and the lasting transformation
+  of values. These are the points at which the consciousness-bridge layer
+  begins to do its work — making visible the structural overlap between
+  what humans across thousands of years have said about death and what
+  modern survivors of cardiac arrest, deep meditation, and psychedelic
+  research describe.
