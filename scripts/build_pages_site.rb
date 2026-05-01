@@ -1310,6 +1310,7 @@ def build_assets
   File.write(site_path("assets", "style.css"), STYLE_CSS)
   File.write(site_path("assets", "app.js"), APP_JS)
   File.write(site_path(".nojekyll"), "")
+  File.write(site_path("CNAME"), "ancientwisdomatlas.com\n")
 end
 
 def build_home(texts, comparisons, motif_index, extractions)
