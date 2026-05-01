@@ -1292,9 +1292,11 @@ def records_for_markdown(glob)
 end
 
 def extraction_records
-  Dir.glob(File.join(ROOT, "extractions", "**", "*.{yml,yaml}")).sort.map do |path|
-    data = load_yaml(path)
+  Dir.glob(File.join(ROOT, "extractions", "**", "*.{yml,yaml}")).sort.filter_map do |path|
     rel = relative(path)
+    next if rel.start_with?("extractions/generated/experiential-batch/")
+    data = load_yaml(path)
+    next if data["source_text_path"].to_s.start_with?("texts/experiential/")
     {
       path: rel,
       output: output_for_repo_path(rel),
