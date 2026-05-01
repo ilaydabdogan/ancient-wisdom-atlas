@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.psychedelic_asc_dimensions.elementary_imagery
+source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Visionary Restructuralization — Elementary Imagery
+  start: '79'
+  end: '82'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Lattices, gratings, tunnels, spirals, cobweb structures, kaleidoscopic patterns; primitive forms prior to figurative content.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lattices, gratings, tunnels, spirals, cobweb structures, kaleidoscopic patterns; primitive forms prior to figurative content.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Geometric imagery
+  taxonomy_refs:
+  - geometric_imagery
+  basis: Lattices
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Kaleidoscopic patterns
+  taxonomy_refs:
+  - kaleidoscopic_patterns
+  basis: Kaleidoscopic patterns reported
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Cobweb or lattice structures
+  taxonomy_refs:
+  - cobweb_or_lattice_structures
+  basis: Cobweb and lattice structures reported
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Visionary Restructuralization — Elementary Imagery (lines 79-82)'
+  quote_or_summary: 'Closed-eye and sometimes open-eye imagery presents itself: lattices, gratings, tunnels, spirals, cobweb structures, kaleidoscopic patterns. The imagery is described as elementary in the sense that it appears prior to figurative content — the primitive forms out of which more complex imagery is built.'
+  source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.asc_dimensions.dittrich_5d_asc.'

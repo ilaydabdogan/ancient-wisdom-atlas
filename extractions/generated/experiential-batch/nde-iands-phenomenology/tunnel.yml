@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_iands_phenomenology.tunnel
+source_text_path: texts/experiential/nde/iands-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: The Tunnel Experience
+  start: '69'
+  end: '72'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Movement through dark enclosed space toward light; rapid, smooth, drawing rather than self-propelled.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Movement through dark enclosed space toward light; rapid, smooth, drawing rather than self-propelled.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Dark tunnel
+  taxonomy_refs:
+  - dark_tunnel
+  basis: Direct description of tunnel-like passage
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Light at end of tunnel
+  taxonomy_refs:
+  - light_at_end_of_tunnel
+  basis: Movement is toward light
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Rapid smooth transit
+  taxonomy_refs:
+  - rapid_smooth_transit
+  basis: Motion described as drawing
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The Tunnel Experience (lines 69-72)'
+  quote_or_summary: The experiencer moves through a dark enclosed space toward light. The space is variously described as a tunnel, a corridor, a valley, a cylinder, or an undifferentiated darkness through which the person travels. Movement is rapid, smooth, and felt as drawing rather than self-propulsion.
+  source_text_path: texts/experiential/nde/iands-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.iands_phenomenology.iands_consensus.'

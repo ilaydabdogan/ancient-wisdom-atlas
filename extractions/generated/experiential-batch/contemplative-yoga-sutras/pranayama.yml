@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.contemplative_yoga_sutras.pranayama
+source_text_path: texts/experiential/contemplative/yoga-sutras.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: Pranayama — Breath Regulation
+  start: '71'
+  end: '74'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Conscious work with breath; breath becomes long, smooth, subtle; gaps between exhale and inhale lengthen; senses begin to draw inward; state luminous and quiet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Conscious work with breath; breath becomes long, smooth, subtle; gaps between exhale and inhale lengthen; senses begin to draw inward; state luminous and quiet.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Breath regulation
+  taxonomy_refs:
+  - breath_regulation
+  basis: Direct description of conscious work with breath
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Subtle breath
+  taxonomy_refs:
+  - subtle_breath
+  basis: Breath becomes long
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Senses drawn inward
+  taxonomy_refs:
+  - senses_drawn_inward
+  basis: Senses begin to draw inward
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:4
+  label: Luminous quiet state
+  taxonomy_refs:
+  - luminous_quiet_state
+  basis: State induced as luminous and quiet
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Pranayama — Breath Regulation (lines 71-74)'
+  quote_or_summary: Conscious work with the breath. The phenomenology is felt — the breath becomes long, smooth, and subtle; gaps between exhale and inhale lengthen; the energy of the body settles and intensifies. Pranayama begins to draw the senses inward and prepares the ground for the inner limbs.
+  source_text_path: texts/experiential/contemplative/yoga-sutras.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.yoga_sutras.patanjali.'

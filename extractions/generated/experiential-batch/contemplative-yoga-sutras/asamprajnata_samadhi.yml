@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.contemplative_yoga_sutras.asamprajnata_samadhi
+source_text_path: texts/experiential/contemplative/yoga-sutras.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: Asamprajnata Samadhi — Seedless Samadhi
+  start: '115'
+  end: '117'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Deepest samadhi; objects of awareness gone; sense of pure self gone; unconditioned awareness with no content; long-running modifications of mind cease.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Deepest samadhi; objects of awareness gone; sense of pure self gone; unconditioned awareness with no content; long-running modifications of mind cease.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Seedless samadhi
+  taxonomy_refs:
+  - seedless_samadhi
+  basis: Direct description of seedless samadhi
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Unconditioned awareness without content
+  taxonomy_refs:
+  - unconditioned_awareness_without_content
+  basis: Awareness with no content
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Cessation of mental modifications
+  taxonomy_refs:
+  - cessation_of_mental_modifications
+  basis: Modifications of mind cease
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Standing in true nature
+  taxonomy_refs:
+  - standing_in_true_nature
+  basis: Practitioner stands in true nature
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Asamprajnata Samadhi — Seedless Samadhi (lines 115-117)'
+  quote_or_summary: The deepest samadhi. The objects of awareness are gone; even the sense of pure self is gone. What remains is unconditioned awareness, with no content.
+  source_text_path: texts/experiential/contemplative/yoga-sutras.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.yoga_sutras.patanjali.'

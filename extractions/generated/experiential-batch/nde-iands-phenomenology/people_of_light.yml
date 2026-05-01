@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_iands_phenomenology.people_of_light
+source_text_path: texts/experiential/nde/iands-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: People of Light
+  start: '73'
+  end: '76'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Encounter with luminous beings other than the central being of light; felt as personal, conscious, and present, sometimes recognized as deceased loved ones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Encounter with luminous beings other than the central being of light; felt as personal, conscious, and present, sometimes recognized as deceased loved ones.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Luminous companions
+  taxonomy_refs:
+  - luminous_companions
+  basis: Direct description of luminous beings other than the central light
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Meeting deceased relatives
+  taxonomy_refs:
+  - meeting_deceased_relatives
+  basis: Some are recognized as deceased loved ones
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Spiritual guides
+  taxonomy_refs:
+  - spiritual_guides
+  basis: Beings greet
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: People of Light (lines 73-76)'
+  quote_or_summary: Encounter with luminous beings other than the central being of light. They are felt as personal, conscious, present. They greet, accompany, or guide the experiencer.
+  source_text_path: texts/experiential/nde/iands-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.iands_phenomenology.iands_consensus.'

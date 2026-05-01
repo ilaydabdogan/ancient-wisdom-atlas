@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.meeting_others
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Meeting Others
+  start: '80'
+  end: '83'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Encounter with deceased relatives or spiritual beings who appear as guides or greeters; communication is direct and mind-to-mind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Encounter with deceased relatives or spiritual beings who appear as guides or greeters; communication is direct and mind-to-mind.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Meeting deceased relatives
+  taxonomy_refs:
+  - meeting_deceased_relatives
+  basis: Loved ones who have died appear and are recognized
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Spiritual guides
+  taxonomy_refs:
+  - spiritual_guides
+  basis: Spiritual beings appear to help with the transition
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Deceased appear radiant or younger
+  taxonomy_refs:
+  - deceased_appear_radiant_or_younger
+  basis: Recognized loved ones appear in luminous or restored form
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:4
+  label: Direct mind-to-mind communication
+  taxonomy_refs:
+  - direct_mind_to_mind_communication
+  basis: Communication is described as direct
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Meeting Others (lines 80-83)'
+  quote_or_summary: The experiencer becomes aware of the presence of others — sometimes deceased relatives or friends, sometimes spiritual beings, sometimes both. The recognition is direct and immediate. Loved ones who have died appear in a form that is recognizably them but radiant or younger.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

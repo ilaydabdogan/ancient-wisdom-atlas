@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.psychedelic_meq30_dimensions.tenderness_love
+source_text_path: texts/experiential/psychedelic/meq30-dimensions.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Positive Mood — Tenderness and Love
+  start: '89'
+  end: '92'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Overwhelming love directed toward all beings, world, and being itself; unconditional and uniformly distributed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Overwhelming love directed toward all beings, world, and being itself; unconditional and uniformly distributed.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Overwhelming love
+  taxonomy_refs:
+  - overwhelming_love
+  basis: Direct description of overwhelming love
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Unconditional love for all beings
+  taxonomy_refs:
+  - unconditional_love_for_all_beings
+  basis: Love is unconditional and universal
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Tears of recognition or gratitude
+  taxonomy_refs:
+  - tears_of_recognition_or_gratitude
+  basis: Tears of recognition or gratitude common
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Positive Mood — Tenderness and Love (lines 89-92)'
+  quote_or_summary: Overwhelming feelings of love directed toward all beings, the world, and being itself. The love is not sentimental — it is unconditional and uniformly distributed, not contingent on the qualities of its objects. Tears of recognition or gratitude are common.
+  source_text_path: texts/experiential/psychedelic/meq30-dimensions.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.meq30_dimensions.maclean_barrett.'

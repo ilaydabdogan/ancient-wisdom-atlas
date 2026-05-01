@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.psychedelic_strassman_dmt.return_aftermath
+source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Return and Aftermath
+  start: '86'
+  end: '88'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Return is rapid; ordinary perception resumes; lasting effects on attitudes toward death, materialism, and consciousness; continuing curiosity about whether realms have independent existence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Return is rapid; ordinary perception resumes; lasting effects on attitudes toward death, materialism, and consciousness; continuing curiosity about whether realms have independent existence.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Rapid return
+  taxonomy_refs:
+  - rapid_return
+  basis: Return is rapid
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:2
+  label: Lasting value transformation
+  taxonomy_refs:
+  - lasting_value_transformation
+  basis: Lasting effects on attitudes
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Continuing metaphysical curiosity
+  taxonomy_refs:
+  - continuing_metaphysical_curiosity
+  basis: Continuing curiosity about ontological status of realms
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Return and Aftermath (lines 86-88)'
+  quote_or_summary: The return is described as rapid. The structure of the experience collapses or recedes; ordinary perception resumes. Many volunteers reported lasting effects — changes in attitudes toward death, toward materialism, toward consciousness itself, and a continuing curiosity about whether the realms encountered have an existence apart from the volunteer's own mind.
+  source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.strassman_dmt.spirit_molecule.'

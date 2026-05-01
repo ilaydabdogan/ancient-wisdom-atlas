@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.psychedelic_meq30_dimensions.transcendence
+source_text_path: texts/experiential/psychedelic/meq30-dimensions.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Mystical Dimension — Transcendence
+  start: '73'
+  end: '76'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Experiencer transcends ordinary categories of self, time, and space; encounters or unites with something greater than the personal self.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Experiencer transcends ordinary categories of self, time, and space; encounters or unites with something greater than the personal self.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Transcendence of personal self
+  taxonomy_refs:
+  - transcendence_of_personal_self
+  basis: Direct claim of transcending personal self
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Union with greater than self
+  taxonomy_refs:
+  - union_with_greater_than_self
+  basis: Felt unity with something greater
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Encounter with ground of being
+  taxonomy_refs:
+  - encounter_with_ground_of_being
+  basis: Experience names something like ultimate reality
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Mystical Dimension — Transcendence (lines 73-76)'
+  quote_or_summary: The experiencer transcends the ordinary categories of self, time, and space. They feel themselves to encounter or to be united with something greater than the personal self. Religious traditions name this differently — Ground of Being, the Absolute, ultimate reality — but the experience itself does not depend on the name.
+  source_text_path: texts/experiential/psychedelic/meq30-dimensions.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.meq30_dimensions.maclean_barrett.'

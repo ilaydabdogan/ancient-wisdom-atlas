@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.hearing_news_of_death
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Hearing the News of Death
+  start: '60'
+  end: '63'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: The experiencer hears themselves pronounced dead while seemingly unconscious, often with detached interest rather than alarm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The experiencer hears themselves pronounced dead while seemingly unconscious, often with detached interest rather than alarm.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Hearing pronouncement of death
+  taxonomy_refs:
+  - hearing_pronouncement_of_death
+  basis: Hearing oneself declared dead is reported as an opening element
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Detached observation of the dying body
+  taxonomy_refs:
+  - detached_observation_of_dying_body
+  basis: Reports describe surprise and detached interest rather than fear
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Nonphysical hearing
+  taxonomy_refs:
+  - nonphysical_hearing
+  basis: Hearing is described as immediate apprehension rather than sensory hearing
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Hearing the News of Death (lines 60-63)'
+  quote_or_summary: A common opening element is hearing oneself pronounced dead. The person, while seemingly unconscious, hears the doctor or attendant declare that the patient is gone, or hears the family members react. The hearing is not understood as physical hearing — it is described as an immediate apprehension, often accompanied by surprise, mild curiosity, or detached interest, rather than alarm.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

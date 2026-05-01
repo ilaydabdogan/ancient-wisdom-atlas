@@ -1,0 +1,93 @@
+---
+record_id: extraction.experiential.contemplative_underhill_mystical_way.awakening
+source_text_path: texts/experiential/contemplative/underhill-mystical-way.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: The Awakening of Self
+  start: '58'
+  end: '61'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Sudden conversion or gradual deepening; recognition of real Other and its centrality; world charged with significance; orientation is permanent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sudden conversion or gradual deepening; recognition of real Other and its centrality; world charged with significance; orientation is permanent.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sudden conversion
+  taxonomy_refs:
+  - sudden_conversion
+  basis: Some experience awakening as sudden conversion
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Recognition of divine as real
+  taxonomy_refs:
+  - recognition_of_divine_as_real
+  basis: Recognition that there is a real Other
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: World charged with significance
+  taxonomy_refs:
+  - world_charged_with_significance
+  basis: World appears charged with significance
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Irreversible orientation to God
+  taxonomy_refs:
+  - irreversible_orientation_to_god
+  basis: Orientation cannot be returned from
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Vocation
+  taxonomy_refs:
+  - vocation
+  basis: Sense of vocation accompanies awakening
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The Awakening of Self (lines 58-61)'
+  quote_or_summary: The mystical life begins with an awakening. Some experience this as a sudden conversion — a moment in which the felt presence of the divine breaks into ordinary life and rearranges everything. Others come to it more slowly, through a gradual deepening of attention.
+  source_text_path: texts/experiential/contemplative/underhill-mystical-way.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.underhill_mystical_way.mysticism_1911.'

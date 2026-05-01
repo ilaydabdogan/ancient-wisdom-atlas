@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.threshold_noise
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: The Noise
+  start: '68'
+  end: '71'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: An unusual sound — buzzing, ringing, roaring, or sublime music — accompanies the transition out of the body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unusual sound — buzzing, ringing, roaring, or sublime music — accompanies the transition out of the body.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Threshold sound
+  taxonomy_refs:
+  - threshold_sound
+  basis: Sound marks the transition out of ordinary embodiment
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Buzzing or ringing
+  taxonomy_refs:
+  - buzzing_or_ringing
+  basis: Sounds are variously buzzing
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Celestial music
+  taxonomy_refs:
+  - celestial_music
+  basis: For some
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The Noise (lines 68-71)'
+  quote_or_summary: Many reports include an unusual sound that marks the transition out of ordinary embodiment. The sound is variously described as a buzzing, ringing, whirring, roaring, or musical tone. For some it is harsh; for others it is sublime — bells, choirs, or an unearthly harmony.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

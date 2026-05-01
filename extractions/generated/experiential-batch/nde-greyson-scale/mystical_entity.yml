@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_greyson_scale.mystical_entity
+source_text_path: texts/experiential/nde/greyson-scale.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Mystical Entity
+  start: '117'
+  end: '120'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Encounter with a being recognized as sacred or spiritual; numinous quality.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Encounter with a being recognized as sacred or spiritual; numinous quality.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Mystical presence
+  taxonomy_refs:
+  - mystical_presence
+  basis: Encounter with sacred or spiritual being
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Numinous encounter
+  taxonomy_refs:
+  - numinous_encounter
+  basis: Encounter has numinous quality
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Religious figure perceived
+  taxonomy_refs:
+  - religious_figure_perceived
+  basis: May be identified as angel
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Mystical Entity (lines 117-120)'
+  quote_or_summary: Encounter with a being recognized as sacred or spiritual — described as a guide, a sacred presence, an angel, or a religious figure depending on the experiencer's background. The encounter has a numinous quality.
+  source_text_path: texts/experiential/nde/greyson-scale.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.greyson_scale.greyson_1983.'

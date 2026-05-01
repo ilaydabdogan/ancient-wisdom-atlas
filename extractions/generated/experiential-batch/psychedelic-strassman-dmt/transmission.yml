@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.psychedelic_strassman_dmt.transmission
+source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Invisible Worlds — Transmission and Instruction
+  start: '82'
+  end: '85'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Volunteers receive transmissions — bodies of information delivered by beings or by the place itself; transmission compressed and deliberate.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Volunteers receive transmissions — bodies of information delivered by beings or by the place itself; transmission compressed and deliberate.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Information transmission
+  taxonomy_refs:
+  - information_transmission
+  basis: Direct description of receiving transmissions
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Compressed message
+  taxonomy_refs:
+  - compressed_message
+  basis: Transmission felt as compressed
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:3
+  label: Difficulty recovering content
+  taxonomy_refs:
+  - difficulty_recovering_content
+  basis: Cannot always recover content after
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Invisible Worlds — Transmission and Instruction (lines 82-85)'
+  quote_or_summary: In some sessions volunteers received what they described as transmissions — bodies of information delivered to them by the beings or by the structure of the place itself. The transmission was felt as compressed and deliberate. Volunteers sometimes returned with the conviction that they had been given a message, even when they could not recover the content.
+  source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.strassman_dmt.spirit_molecule.'

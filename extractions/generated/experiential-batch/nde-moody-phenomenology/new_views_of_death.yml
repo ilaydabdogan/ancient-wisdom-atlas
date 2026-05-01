@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.new_views_of_death
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: New Views of Death
+  start: '108'
+  end: '111'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Fear of death is gone or sharply reduced; death is felt as a transition rather than an ending, held as direct knowledge rather than belief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fear of death is gone or sharply reduced; death is felt as a transition rather than an ending, held as direct knowledge rather than belief.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Loss of fear of death
+  taxonomy_refs:
+  - loss_of_fear_of_death
+  basis: Direct claim that fear is gone or reduced
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Death as transition not ending
+  taxonomy_refs:
+  - death_as_transition_not_ending
+  basis: Death reframed as passage rather than terminus
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Certainty grounded in direct experience
+  taxonomy_refs:
+  - certainty_grounded_in_direct_experience
+  basis: New view held as felt knowing
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: New Views of Death (lines 108-111)'
+  quote_or_summary: The fear of death is gone or greatly reduced. Death is no longer experienced as the end but as a transition. This is not a doctrinal belief held intellectually; it is a felt certainty grounded in what was directly experienced.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

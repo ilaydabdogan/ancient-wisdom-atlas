@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.psychedelic_asc_dimensions.anxious_threatening_self_loss
+source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Anxious Ego Dissolution — Threatening Self-Loss
+  start: '67'
+  end: '70'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Same dissolution felt as profoundly threatening; coming apart, being annihilated, absorbed against one's will; anxiety, terror, panic.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Same dissolution felt as profoundly threatening; coming apart, being annihilated, absorbed against one's will; anxiety, terror, panic.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Terror of dissolution
+  taxonomy_refs:
+  - terror_of_dissolution
+  basis: Self-loss felt as threatening
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Ego obliteration
+  taxonomy_refs:
+  - ego_obliteration
+  basis: Self comes apart against will
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Anxiety or panic
+  taxonomy_refs:
+  - anxiety_or_panic
+  basis: Anxiety
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Loss of control
+  taxonomy_refs:
+  - loss_of_control
+  basis: Felt as loss of control too rapid to resist
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Anxious Ego Dissolution — Threatening Self-Loss (lines 67-70)'
+  quote_or_summary: The same dissolution of self can be felt as profoundly threatening. The boundary that ordinarily contains the self gives way, and the experiencer feels they are coming apart, being annihilated, being absorbed against their will. The emotional tone is anxiety, terror, panic.
+  source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.asc_dimensions.dittrich_5d_asc.'

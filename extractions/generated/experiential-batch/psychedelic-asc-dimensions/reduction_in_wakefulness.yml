@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.psychedelic_asc_dimensions.reduction_in_wakefulness
+source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Vigilance Reduction — Reduction in Wakefulness
+  start: '103'
+  end: '106'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Reduced clarity, alertness, orientation; attention harder to direct; thought less efficient; memory patchy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Reduced clarity, alertness, orientation; attention harder to direct; thought less efficient; memory patchy.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Reduced wakefulness
+  taxonomy_refs:
+  - reduced_wakefulness
+  basis: Direct description of reduced clarity and alertness
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Reduced efficiency of thought
+  taxonomy_refs:
+  - reduced_efficiency_of_thought
+  basis: Thought less efficient
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Vigilance Reduction — Reduction in Wakefulness (lines 103-106)'
+  quote_or_summary: The state may include reductions in clarity, alertness, and orientation. Attention is harder to direct; thought is less efficient; memory of what is currently happening is patchy. The experiencer may move between dream-like and waking states without clear transitions.
+  source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.asc_dimensions.dittrich_5d_asc.'

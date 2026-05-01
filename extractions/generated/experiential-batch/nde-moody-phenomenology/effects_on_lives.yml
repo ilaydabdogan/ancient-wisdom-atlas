@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.effects_on_lives
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Effects on Lives
+  start: '104'
+  end: '107'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: The experience produces lasting reorganization of values; status and possessions recede, relationships and acts of care become central.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The experience produces lasting reorganization of values; status and possessions recede, relationships and acts of care become central.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Lasting value transformation
+  taxonomy_refs:
+  - lasting_value_transformation
+  basis: Values shift; reorganization persists over time
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Deprioritization of materialism
+  taxonomy_refs:
+  - deprioritization_of_materialism
+  basis: Concerns about possessions and status recede
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Recentered on relationships and care
+  taxonomy_refs:
+  - recentered_on_relationships_and_care
+  basis: Relationships and learning become central
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Effects on Lives (lines 104-107)'
+  quote_or_summary: The experience produces lasting changes. Values shift. Concerns about status, possessions, and competition recede.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

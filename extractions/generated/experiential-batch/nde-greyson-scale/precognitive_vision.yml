@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.nde_greyson_scale.precognitive_vision
+source_text_path: texts/experiential/nde/greyson-scale.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Precognitive Vision
+  start: '103'
+  end: '106'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Awareness of future events; visions felt as direct knowledge rather than speculation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Awareness of future events; visions felt as direct knowledge rather than speculation.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Precognition
+  taxonomy_refs:
+  - precognition
+  basis: Visions of future events
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:2
+  label: Direct knowing of future
+  taxonomy_refs:
+  - direct_knowing_of_future
+  basis: Future events felt as known rather than guessed
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Precognitive Vision (lines 103-106)'
+  quote_or_summary: Awareness of future events — sometimes images of one's own future, sometimes glimpses of future events involving others. The visions are felt as direct knowledge rather than speculation.
+  source_text_path: texts/experiential/nde/greyson-scale.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.greyson_scale.greyson_1983.'

@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_greyson_scale.sudden_understanding
+source_text_path: texts/experiential/nde/greyson-scale.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Sudden Understanding
+  start: '71'
+  end: '74'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Sudden grasp of large or fundamental matters; understanding felt as direct rather than inferred.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sudden grasp of large or fundamental matters; understanding felt as direct rather than inferred.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Noetic quality
+  taxonomy_refs:
+  - noetic_quality
+  basis: Direct knowing rather than reasoning
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Comprehension of fundamental truths
+  taxonomy_refs:
+  - comprehension_of_fundamental_truths
+  basis: Sudden grasp of large matters
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Understanding larger than any single insight
+  taxonomy_refs:
+  - understanding_larger_than_any_single_insight
+  basis: Felt as larger than discrete insight
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Sudden Understanding (lines 71-74)'
+  quote_or_summary: A sudden grasp of large or fundamental matters — answers to questions one had not consciously held, or comprehension of how things fit together. The understanding is felt as direct rather than worked out, and as larger than any single insight.
+  source_text_path: texts/experiential/nde/greyson-scale.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.greyson_scale.greyson_1983.'

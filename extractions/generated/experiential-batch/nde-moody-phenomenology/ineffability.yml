@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.ineffability
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Ineffability
+  start: '56'
+  end: '59'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: The experience is described as fundamentally beyond ordinary language; experiencers report that words are structurally inadequate to convey what was perceived.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The experience is described as fundamentally beyond ordinary language; experiencers report that words are structurally inadequate to convey what was perceived.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Ineffability
+  taxonomy_refs:
+  - ineffability
+  basis: Direct claim that the experience cannot be expressed in words
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Inadequacy of ordinary language
+  taxonomy_refs:
+  - inadequacy_of_ordinary_language
+  basis: Language is described as structurally unfit to the experience
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: More real than ordinary reality
+  taxonomy_refs:
+  - more_real_than_ordinary_reality
+  basis: Experience is felt as more real
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Ineffability (lines 56-59)'
+  quote_or_summary: The experience is described as fundamentally beyond words. Those who have undergone it report that ordinary language is inadequate — that the categories used to describe waking life do not stretch to cover what was perceived. Many say they could speak about it for hours and still fail to convey what it was.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

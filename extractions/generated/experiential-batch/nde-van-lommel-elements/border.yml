@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_van_lommel_elements.border
+source_text_path: texts/experiential/nde/van-lommel-elements.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Presence of a Border
+  start: '93'
+  end: '95'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: A boundary or limit beyond which there is no return; experiencer recognizes irreversibility and is turned back.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A boundary or limit beyond which there is no return; experiencer recognizes irreversibility and is turned back.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Border or limit
+  taxonomy_refs:
+  - border_or_limit
+  basis: Direct mention of a boundary
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Point of no return
+  taxonomy_refs:
+  - point_of_no_return
+  basis: Crossing recognized as irrevocable
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Forced or chosen return
+  taxonomy_refs:
+  - forced_or_chosen_return
+  basis: Patient is turned back or returns by decision
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Presence of a Border (lines 93-95)'
+  quote_or_summary: Awareness of a boundary or limit beyond which there is no return. The border may take many forms — a body of water, a fence, a line, a horizon. The experiencer recognizes that crossing it would be irrevocable.
+  source_text_path: texts/experiential/nde/van-lommel-elements.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.van_lommel_elements.lancet_2001.'

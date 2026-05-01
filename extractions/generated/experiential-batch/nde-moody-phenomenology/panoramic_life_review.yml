@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.panoramic_life_review
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: The Review
+  start: '88'
+  end: '91'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: A comprehensive review of the person's life unfolds in the presence of the being of light, often from the perspective of those affected by the experiencer's actions; understanding rather than judgment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A comprehensive review of the person's life unfolds in the presence of the being of light, often from the perspective of those affected by the experiencer's actions; understanding rather than judgment.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Panoramic life review
+  taxonomy_refs:
+  - panoramic_life_review
+  basis: The whole life is seen at once or in vivid sequence
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Multiple perspectives in review
+  taxonomy_refs:
+  - multiple_perspectives_in_review
+  basis: Events seen from the perspective of others affected
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Understanding without judgment
+  taxonomy_refs:
+  - understanding_without_judgment
+  basis: Review is held in compassion
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Significant moments stand out
+  taxonomy_refs:
+  - significant_moments_stand_out
+  basis: Some events are more vivid than others in the review
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The Review (lines 88-91)'
+  quote_or_summary: In the presence of the being of light, a panoramic review of the person's life unfolds. The whole life is seen at once, or replayed in vivid sequence, sometimes from multiple perspectives — including the perspective of those who were affected by the experiencer's actions. The review is not felt as judgment from outside, but as understanding from within.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

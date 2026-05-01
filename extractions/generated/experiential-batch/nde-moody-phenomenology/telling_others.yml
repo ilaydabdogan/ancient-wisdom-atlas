@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.telling_others
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Telling Others
+  start: '100'
+  end: '103'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Attempts to describe the experience to others meet disbelief or polite incomprehension; experiencers often hold it in silence for years.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Attempts to describe the experience to others meet disbelief or polite incomprehension; experiencers often hold it in silence for years.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Difficulty describing to others
+  taxonomy_refs:
+  - difficulty_describing_to_others
+  basis: Attempts to convey are met with disbelief or dismissal
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Isolation after the experience
+  taxonomy_refs:
+  - isolation_after_experience
+  basis: Cultural absence of frameworks leaves experiencer isolated
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Telling Others (lines 100-103)'
+  quote_or_summary: Attempts to describe the experience to those around them are met with disbelief, dismissal, or polite incomprehension. The experiencer learns to stop talking about it. Some hold the experience in silence for years.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

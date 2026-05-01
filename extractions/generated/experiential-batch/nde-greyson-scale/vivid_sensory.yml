@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_greyson_scale.vivid_sensory
+source_text_path: texts/experiential/nde/greyson-scale.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Vivid Sensory Experiences
+  start: '95'
+  end: '98'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Sensory perceptions unusually clear, sharp, or saturated; experience felt as more real than ordinary reality.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sensory perceptions unusually clear, sharp, or saturated; experience felt as more real than ordinary reality.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Heightened perception
+  taxonomy_refs:
+  - heightened_perception
+  basis: Direct description of unusually vivid senses
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: More real than ordinary reality
+  taxonomy_refs:
+  - more_real_than_ordinary_reality
+  basis: Experience reported as more real
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Saturated colors
+  taxonomy_refs:
+  - saturated_colors
+  basis: Colors more intense than ordinary
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Vivid Sensory Experiences (lines 95-98)'
+  quote_or_summary: Sensory perceptions that are unusually clear, sharp, or saturated. Sights are more vivid than ordinary sight; colors are more intense; sounds are more distinct. The experience is felt as more real than ordinary reality, not less.
+  source_text_path: texts/experiential/nde/greyson-scale.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.greyson_scale.greyson_1983.'

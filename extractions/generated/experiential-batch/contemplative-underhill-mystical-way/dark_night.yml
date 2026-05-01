@@ -1,0 +1,111 @@
+---
+record_id: extraction.experiential.contemplative_underhill_mystical_way.dark_night
+source_text_path: texts/experiential/contemplative/underhill-mystical-way.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: The Dark Night of the Soul
+  start: '70'
+  end: '73'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Felt presence of God withdrawn; prayer becomes dry; consolation disappears; despair, doubt, sense of being lost; deeper layers of self addressed by withdrawal of consolation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Felt presence of God withdrawn; prayer becomes dry; consolation disappears; despair, doubt, sense of being lost; deeper layers of self addressed by withdrawal of consolation.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Dark night of the soul
+  taxonomy_refs:
+  - dark_night_of_soul
+  basis: Direct description of dark night
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Felt abandonment
+  taxonomy_refs:
+  - felt_abandonment
+  basis: Direct description of stripping of supports
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Withdrawal of consolation
+  taxonomy_refs:
+  - withdrawal_of_consolation
+  basis: Consolations disappear
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Spiritual dryness
+  taxonomy_refs:
+  - spiritual_dryness
+  basis: Prayer becomes dry
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Despair or doubt
+  taxonomy_refs:
+  - despair_or_doubt
+  basis: Despair
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:6
+  label: Continuing practice without reward
+  taxonomy_refs:
+  - continuing_practice_without_reward
+  basis: Mystic continues without rewards
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:7
+  label: Deepening through loss
+  taxonomy_refs:
+  - deepening_through_loss
+  basis: Deeper layers addressed by withdrawal
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The Dark Night of the Soul (lines 70-73)'
+  quote_or_summary: For those who go further, illumination gives way to a state of acute deprivation. The felt presence of God is withdrawn. Prayer becomes dry; consolation disappears; the practices that were once living are suddenly empty.
+  source_text_path: texts/experiential/contemplative/underhill-mystical-way.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.underhill_mystical_way.mysticism_1911.'

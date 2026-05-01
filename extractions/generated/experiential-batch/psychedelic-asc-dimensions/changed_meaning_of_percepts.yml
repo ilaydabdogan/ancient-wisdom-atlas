@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.psychedelic_asc_dimensions.changed_meaning_of_percepts
+source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Visionary Restructuralization — Changed Meaning of Percepts
+  start: '91'
+  end: '94'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Ordinary objects and events take on new significance; world perceived as more eloquent, mythic, saturated with intention.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ordinary objects and events take on new significance; world perceived as more eloquent, mythic, saturated with intention.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Changed meaning of perception
+  taxonomy_refs:
+  - changed_meaning_of_perception
+  basis: Ordinary things charged with new significance
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: World saturated with meaning
+  taxonomy_refs:
+  - world_saturated_with_meaning
+  basis: World is more eloquent
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Visionary Restructuralization — Changed Meaning of Percepts (lines 91-94)'
+  quote_or_summary: Ordinary objects and events take on new significance. A leaf, a doorway, a stranger's gesture appears charged with meaning that ordinary perception had been filtering out. The world is felt as more eloquent, more mythic, more saturated with intention.
+  source_text_path: texts/experiential/psychedelic/asc-dimensions.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.asc_dimensions.dittrich_5d_asc.'

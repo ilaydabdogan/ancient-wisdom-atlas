@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.nde_greyson_scale.feeling_of_joy
+source_text_path: texts/experiential/nde/greyson-scale.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Feeling of Joy
+  start: '81'
+  end: '84'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Profound joy described as bliss or ecstasy; not contingent on circumstance and not followed by loss when remembered.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Profound joy described as bliss or ecstasy; not contingent on circumstance and not followed by loss when remembered.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Bliss or joy
+  taxonomy_refs:
+  - bliss_or_joy
+  basis: Direct description of profound joy or bliss
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Noncontingent positive state
+  taxonomy_refs:
+  - noncontingent_positive_state
+  basis: Joy not dependent on circumstances
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Feeling of Joy (lines 81-84)'
+  quote_or_summary: A profound joy — sometimes described as bliss, ecstasy, or the most intense happiness ever experienced. Unlike ordinary joy it does not seem to depend on circumstances and is not followed by any sense of loss when remembered.
+  source_text_path: texts/experiential/nde/greyson-scale.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.greyson_scale.greyson_1983.'

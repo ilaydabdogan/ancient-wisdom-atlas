@@ -1,0 +1,93 @@
+---
+record_id: extraction.experiential.psychedelic_strassman_dmt.invisible_worlds_consensus
+source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Invisible Worlds — Consensus Alternate Realities
+  start: '78'
+  end: '81'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Autonomous reality with its own rules, inhabitants, consistency; place was already there, would have continued without volunteer; can be entered repeatedly; same locations, same beings on subsequent visits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Autonomous reality with its own rules, inhabitants, consistency; place was already there, would have continued without volunteer; can be entered repeatedly; same locations, same beings on subsequent visits.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Autonomous alternate reality
+  taxonomy_refs:
+  - autonomous_alternate_reality
+  basis: Realm has independent existence
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Place was already there
+  taxonomy_refs:
+  - place_was_already_there
+  basis: Realm felt as already there
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Repeatable destination
+  taxonomy_refs:
+  - repeatable_destination
+  basis: Same locations across visits
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:4
+  label: Recognition by entities
+  taxonomy_refs:
+  - recognition_by_entities
+  basis: Same beings recognize the volunteer
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:5
+  label: Realm with its own rules
+  taxonomy_refs:
+  - realm_with_its_own_rules
+  basis: Place has its own consistency and inhabitants
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Invisible Worlds — Consensus Alternate Realities (lines 78-81)'
+  quote_or_summary: A distinctive feature of the DMT reports was the consistent description of an autonomous reality with its own rules, inhabitants, and consistency — a place that volunteers said was already there, would have continued without them, and could be entered repeatedly. Some volunteers described returning across multiple sessions to the same locations. Others described being recognized by the same beings on subsequent visits.
+  source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.strassman_dmt.spirit_molecule.'

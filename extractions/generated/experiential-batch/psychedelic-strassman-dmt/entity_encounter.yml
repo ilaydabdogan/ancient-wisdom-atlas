@@ -1,0 +1,129 @@
+---
+record_id: extraction.experiential.psychedelic_strassman_dmt.entity_encounter
+source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Transpersonal — Beings, Entities, and Other Realms
+  start: '66'
+  end: '69'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Encounter with beings perceived as conscious, present, other; humanoid, mechanical, insectoid, geometric, plant-like; expecting the volunteer; communicate through direct transmission of meaning; felt as more advanced or knowing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Encounter with beings perceived as conscious, present, other; humanoid, mechanical, insectoid, geometric, plant-like; expecting the volunteer; communicate through direct transmission of meaning; felt as more advanced or knowing.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Entity encounter
+  taxonomy_refs:
+  - entity_encounter
+  basis: Direct description of encountering beings
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Humanoid entities
+  taxonomy_refs:
+  - humanoid_entities
+  basis: Some entities humanoid
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:3
+  label: Insectoid entities
+  taxonomy_refs:
+  - insectoid_entities
+  basis: Some insectoid
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:4
+  label: Mechanical entities
+  taxonomy_refs:
+  - mechanical_entities
+  basis: Some mechanical
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:5
+  label: Geometric entities
+  taxonomy_refs:
+  - geometric_entities
+  basis: Some geometric
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:6
+  label: Plant-like entities
+  taxonomy_refs:
+  - plant_like_entities
+  basis: Some plant-like
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:7
+  label: Entities expecting the visitor
+  taxonomy_refs:
+  - entities_expecting_visitor
+  basis: Already in progress when volunteer arrives
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:8
+  label: Direct transmission of meaning
+  taxonomy_refs:
+  - direct_transmission_of_meaning
+  basis: Communication through transmission rather than language
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:9
+  label: Entities more advanced or knowing
+  taxonomy_refs:
+  - entities_more_advanced_or_knowing
+  basis: Felt as more knowing
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Transpersonal — Beings, Entities, and Other Realms (lines 66-69)'
+  quote_or_summary: A larger subset of experiences included encounter with beings — entities perceived as conscious, present, and other. The beings took many forms — humanoid, mechanical, insectoid, geometric, plant-like. Many volunteers described them as expecting them — as being already in progress with their own activities when the volunteer arrived.
+  source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.strassman_dmt.spirit_molecule.'

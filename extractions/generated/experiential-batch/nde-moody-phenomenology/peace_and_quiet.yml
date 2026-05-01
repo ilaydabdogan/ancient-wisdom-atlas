@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.peace_and_quiet
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Feelings of Peace and Quiet
+  start: '64'
+  end: '67'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: An extraordinary peace replaces the dying body's pain and struggle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An extraordinary peace replaces the dying body's pain and struggle.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Profound peace
+  taxonomy_refs:
+  - profound_peace
+  basis: Peace is described as deeper than any in ordinary life
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Cessation of pain
+  taxonomy_refs:
+  - cessation_of_pain
+  basis: Pain is reported as immediately gone
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Cessation of anxiety
+  taxonomy_refs:
+  - cessation_of_anxiety
+  basis: All carried anxieties are reported to drop away
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Feelings of Peace and Quiet (lines 64-67)'
+  quote_or_summary: Almost immediately after the apparent moment of death, an extraordinary peace takes over. Pain is gone. Whatever struggle accompanied the dying body falls away.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

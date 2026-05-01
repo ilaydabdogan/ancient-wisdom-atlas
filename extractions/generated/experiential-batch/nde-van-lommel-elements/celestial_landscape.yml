@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_van_lommel_elements.celestial_landscape
+source_text_path: texts/experiential/nde/van-lommel-elements.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Observation of a Celestial Landscape
+  start: '81'
+  end: '84'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Environment unlike any earthly place — a landscape, garden, or city of unearthly beauty; familiar and entirely new at once.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Environment unlike any earthly place — a landscape, garden, or city of unearthly beauty; familiar and entirely new at once.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Celestial landscape
+  taxonomy_refs:
+  - celestial_landscape
+  basis: Otherworldly environment is perceived
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Heavenly garden or meadow
+  taxonomy_refs:
+  - heavenly_garden_or_meadow
+  basis: Common imagery of garden
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:3
+  label: Otherworld paradoxically familiar
+  taxonomy_refs:
+  - otherworld_paradoxically_familiar
+  basis: Place felt as both new and recognized
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Observation of a Celestial Landscape (lines 81-84)'
+  quote_or_summary: Perception of an environment unlike any earthly place — described as a landscape, garden, meadow, or city of unearthly beauty. The environment is reported as both familiar and entirely new. There is often water, light, vegetation, or architecture, but the qualities are not those of ordinary places.
+  source_text_path: texts/experiential/nde/van-lommel-elements.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.van_lommel_elements.lancet_2001.'

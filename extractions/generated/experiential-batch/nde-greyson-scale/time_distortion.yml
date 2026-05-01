@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_greyson_scale.time_distortion
+source_text_path: texts/experiential/nde/greyson-scale.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Time Distortion
+  start: '59'
+  end: '62'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Subjective time differs from clock time — stopped, expanded into eternal present, or compressed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Subjective time differs from clock time — stopped, expanded into eternal present, or compressed.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Time distortion
+  taxonomy_refs:
+  - time_distortion
+  basis: Direct claim that time passed differently
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Experience of eternity or timelessness
+  taxonomy_refs:
+  - experience_of_eternity_or_timelessness
+  basis: Time may seem to stop or expand to a felt eternity
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Simultaneity of past and present
+  taxonomy_refs:
+  - simultaneity_of_past_and_present
+  basis: Long sequences may happen at once
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Time Distortion (lines 59-62)'
+  quote_or_summary: The experiencer reports that time passed differently — that subjective duration did not match clock time. Time may have seemed to stop, expand to a kind of eternal present, compress so that long sequences happened at once, or slow so that brief intervals contained vast amounts of awareness.
+  source_text_path: texts/experiential/nde/greyson-scale.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.greyson_scale.greyson_1983.'

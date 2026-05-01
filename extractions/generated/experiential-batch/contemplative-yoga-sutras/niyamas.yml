@@ -1,0 +1,93 @@
+---
+record_id: extraction.experiential.contemplative_yoga_sutras.niyamas
+source_text_path: texts/experiential/contemplative/yoga-sutras.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: Niyamas — The Five Observances
+  start: '63'
+  end: '66'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Five disciplines toward oneself — cleanliness, contentment, discipline, self-study, surrender; internal ground from which deeper practice becomes possible.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Five disciplines toward oneself — cleanliness, contentment, discipline, self-study, surrender; internal ground from which deeper practice becomes possible.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Purity of body speech and mind
+  taxonomy_refs:
+  - purity_of_body_speech_mind
+  basis: Saucha is cleanliness
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Contentment independent of circumstance
+  taxonomy_refs:
+  - contentment_independent_of_circumstance
+  basis: Santosha is settled contentment
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Discipline through friction
+  taxonomy_refs:
+  - discipline_through_friction
+  basis: Tapas purifies through friction
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Self-study
+  taxonomy_refs:
+  - self_study
+  basis: Svadhyaya is examination of one's mind
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Surrender to ultimate
+  taxonomy_refs:
+  - surrender_to_ultimate
+  basis: Ishvara pranidhana is orientation toward something greater
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Niyamas — The Five Observances (lines 63-66)'
+  quote_or_summary: Five disciplines govern relation to oneself. Cleanliness (saucha) — purity of body, speech, and mind. Contentment (santosha) — a settled satisfaction independent of circumstance.
+  source_text_path: texts/experiential/contemplative/yoga-sutras.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.yoga_sutras.patanjali.'

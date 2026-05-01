@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.coming_back
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Coming Back
+  start: '96'
+  end: '99'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Return to the body is sudden; some choose to return for unfinished tasks, others are sent back; ordinary life feels heavy by comparison.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Return to the body is sudden; some choose to return for unfinished tasks, others are sent back; ordinary life feels heavy by comparison.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Forced or chosen return
+  taxonomy_refs:
+  - forced_or_chosen_return
+  basis: Some return is decided
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Reluctance to return to the body
+  taxonomy_refs:
+  - reluctance_to_return_to_body
+  basis: Body and ordinary life feel heavy and constraining
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Return to complete an unfinished task
+  taxonomy_refs:
+  - return_to_complete_unfinished_task
+  basis: Care for children or unfinished work cited as reason
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Coming Back (lines 96-99)'
+  quote_or_summary: The return is sudden. The experiencer is back in the body, often in pain, often disappointed. Some report a deliberate decision to return — to care for children, to complete a task.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.nde_iands_phenomenology.out_of_body
+source_text_path: texts/experiential/nde/iands-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Out-of-Body Experience
+  start: '65'
+  end: '68'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Person perceives themselves above the body, watching the resuscitation; vision is panoramic, clear, unconfined.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Person perceives themselves above the body, watching the resuscitation; vision is panoramic, clear, unconfined.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Out-of-body experience
+  taxonomy_refs:
+  - out_of_body_experience
+  basis: Direct description of OBE
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Viewing the body from above
+  taxonomy_refs:
+  - viewing_body_from_above
+  basis: Vantage point above the bed
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Panoramic clear vision
+  taxonomy_refs:
+  - panoramic_clear_vision
+  basis: Vision unconfined by walls
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Subtle body
+  taxonomy_refs:
+  - subtle_body
+  basis: Light
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Out-of-Body Experience (lines 65-68)'
+  quote_or_summary: The person perceives themselves apart from the physical body, often above it, watching the resuscitation, watching the room, watching themselves. Vision during this state is described as clear, panoramic, and unconfined by walls. The person feels themselves to have a body but it is light, weightless, and not subject to ordinary location.
+  source_text_path: texts/experiential/nde/iands-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.iands_phenomenology.iands_consensus.'

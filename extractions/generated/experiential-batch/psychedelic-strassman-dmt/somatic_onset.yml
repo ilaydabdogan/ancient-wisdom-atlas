@@ -1,0 +1,93 @@
+---
+record_id: extraction.experiential.psychedelic_strassman_dmt.somatic_onset
+source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+tradition: psychedelic
+sub_corpus: psychedelic
+passage_locator:
+  label: Threshold — Somatic Onset and Body Load
+  start: '58'
+  end: '61'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Intense somatic rush within seconds — wave moving up body, pressure, vibration, buzzing, humming; anxiety, sense of dying, loss of volitional control.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Intense somatic rush within seconds — wave moving up body, pressure, vibration, buzzing, humming; anxiety, sense of dying, loss of volitional control.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Somatic rush
+  taxonomy_refs:
+  - somatic_rush
+  basis: Wave moving up body
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Buzzing or ringing
+  taxonomy_refs:
+  - buzzing_or_ringing
+  basis: Buzzing or humming reported
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Anxiety at onset
+  taxonomy_refs:
+  - anxiety_at_onset
+  basis: Anxiety often accompanies onset
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Sense of dying or being pulled apart
+  taxonomy_refs:
+  - sense_of_dying_or_being_pulled_apart
+  basis: Volunteers feel they are dying or pulled apart
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Loss of volitional control
+  taxonomy_refs:
+  - loss_of_volitional_control
+  basis: Loss of volitional control reported
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Threshold — Somatic Onset and Body Load (lines 58-61)'
+  quote_or_summary: The first phenomenological territory is the body. Within seconds of administration, volunteers describe an intense rush — a wave moving up the body, pressure, vibration, sometimes a buzzing or humming. Anxiety often accompanies this onset; some volunteers feel they are dying, being pulled apart, or losing all volitional control.
+  source_text_path: texts/experiential/psychedelic/strassman-dmt.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: psychedelic.strassman_dmt.spirit_molecule.'

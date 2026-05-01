@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.nde_van_lommel_elements.awareness_of_being_dead
+source_text_path: texts/experiential/nde/van-lommel-elements.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Awareness of Being Dead
+  start: '57'
+  end: '60'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: A direct, often startled awareness that one has died; recognition is immediate, not inferred.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A direct, often startled awareness that one has died; recognition is immediate, not inferred.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Awareness of being dead
+  taxonomy_refs:
+  - awareness_of_being_dead
+  basis: Direct recognition of one's death
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Self distinct from body
+  taxonomy_refs:
+  - self_distinct_from_body
+  basis: Person knows themselves not to be the body
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Awareness of Being Dead (lines 57-60)'
+  quote_or_summary: A clear, often startled awareness that one has died. The recognition is immediate and direct rather than inferred. The person knows the body is dead and that they are not the body.
+  source_text_path: texts/experiential/nde/van-lommel-elements.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.van_lommel_elements.lancet_2001.'

@@ -1,0 +1,84 @@
+---
+record_id: extraction.experiential.contemplative_interior_castle.first_mansion
+source_text_path: texts/experiential/contemplative/interior-castle.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: The First Mansion — Self-Knowledge and Beginning
+  start: '60'
+  end: '63'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Soul enters castle through prayer; first territory is self-knowledge; light from inner mansions reaches dimly; phenomenology is beginnings, distractions constant, world's noise reaches in.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Soul enters castle through prayer; first territory is self-knowledge; light from inner mansions reaches dimly; phenomenology is beginnings, distractions constant, world's noise reaches in.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Turning attention inward
+  taxonomy_refs:
+  - turning_attention_inward
+  basis: Soul enters castle through prayer
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Self-knowledge
+  taxonomy_refs:
+  - self_knowledge
+  basis: First territory is self-knowledge
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Dim inner light at threshold
+  taxonomy_refs:
+  - dim_inner_light_at_threshold
+  basis: Light from inner mansions reaches only dimly
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+- id: motif:4
+  label: Distraction in early practice
+  taxonomy_refs:
+  - distraction_in_early_practice
+  basis: Distractions are constant
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The First Mansion — Self-Knowledge and Beginning (lines 60-63)'
+  quote_or_summary: The soul enters the castle through prayer. The first territory is self-knowledge — a clear seeing of one's own state, including its disorder. The light from the inner mansions reaches here only dimly.
+  source_text_path: texts/experiential/contemplative/interior-castle.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.interior_castle.teresa_avila.'

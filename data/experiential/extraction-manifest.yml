@@ -1,0 +1,1175 @@
+---
+# Experiential corpus extraction manifest.
+#
+# This file is the source of truth for the manual motif extraction performed on
+# the 12 experiential corpus texts. It is paired with
+# scripts/build_experiential_extraction_records.rb, which expands each passage
+# entry into a canonical YAML extraction record under
+# extractions/generated/experiential-batch/<text_slug>/.
+#
+# The manifest is authored manually, by reading each source text and identifying
+# the recurring experiential phenomena. Slugified motif IDs are deliberately
+# experiential — they are not drawn from the ancient text taxonomy. The mapping
+# from these raw motifs into experiential families happens in step 4 (separate
+# experiential taxonomy file).
+#
+# Schema (per text):
+#   text_id, source_path, tradition, sub_corpus, author_attribution, passages: [...]
+# Schema (per passage):
+#   passage_slug   — stable slug, used in record_id and as passage anchor
+#   section        — exact ## heading from the source text, used for evidence lookup
+#   summary        — short abstract of the passage (used for canonical_text.summary)
+#   motifs:
+#     - slug       — slugified experiential motif id (lowercase, underscores)
+#       label      — human-readable label
+#       basis      — short reason for the motif assignment
+#       confidence — high | medium | low
+#       cautions   — optional, scope/ambiguity notes
+
+generated_by: manual_extraction_2026_05_01
+extraction_method: human_reading
+notes: |-
+  No API model was used. Extraction reflects direct reading of each text by the
+  Claude session that produced it on 2026-05-01. Every motif is grounded in the
+  passage it is assigned to; evidence quotes are pulled programmatically from
+  the source text by the build script.
+
+texts:
+
+# ============================================================================
+# NDE — Near-Death Experience
+# ============================================================================
+
+- text_id: nde.moody_phenomenology.life_after_life_1975
+  source_path: texts/experiential/nde/moody-phenomenology.md
+  tradition: nde
+  sub_corpus: nde
+  author_attribution: Raymond A. Moody Jr.
+  passages:
+
+    - passage_slug: ineffability
+      section: Ineffability
+      summary: The experience is described as fundamentally beyond ordinary language; experiencers report that words are structurally inadequate to convey what was perceived.
+      motifs:
+        - { slug: ineffability, label: Ineffability, basis: Direct claim that the experience cannot be expressed in words, confidence: high }
+        - { slug: inadequacy_of_ordinary_language, label: Inadequacy of ordinary language, basis: Language is described as structurally unfit to the experience, confidence: high }
+        - { slug: more_real_than_ordinary_reality, label: More real than ordinary reality, basis: Experience is felt as more real, not less, than waking reality, confidence: medium }
+
+    - passage_slug: hearing_news_of_death
+      section: Hearing the News of Death
+      summary: The experiencer hears themselves pronounced dead while seemingly unconscious, often with detached interest rather than alarm.
+      motifs:
+        - { slug: hearing_pronouncement_of_death, label: Hearing pronouncement of death, basis: Hearing oneself declared dead is reported as an opening element, confidence: high }
+        - { slug: detached_observation_of_dying_body, label: Detached observation of the dying body, basis: Reports describe surprise and detached interest rather than fear, confidence: high }
+        - { slug: nonphysical_hearing, label: Nonphysical hearing, basis: Hearing is described as immediate apprehension rather than sensory hearing, confidence: medium }
+
+    - passage_slug: peace_and_quiet
+      section: Feelings of Peace and Quiet
+      summary: An extraordinary peace replaces the dying body's pain and struggle.
+      motifs:
+        - { slug: profound_peace, label: Profound peace, basis: Peace is described as deeper than any in ordinary life, confidence: high }
+        - { slug: cessation_of_pain, label: Cessation of pain, basis: Pain is reported as immediately gone, confidence: high }
+        - { slug: cessation_of_anxiety, label: Cessation of anxiety, basis: All carried anxieties are reported to drop away, confidence: high }
+
+    - passage_slug: threshold_noise
+      section: The Noise
+      summary: An unusual sound — buzzing, ringing, roaring, or sublime music — accompanies the transition out of the body.
+      motifs:
+        - { slug: threshold_sound, label: Threshold sound, basis: Sound marks the transition out of ordinary embodiment, confidence: high }
+        - { slug: buzzing_or_ringing, label: Buzzing or ringing, basis: Sounds are variously buzzing, ringing, whirring, or roaring, confidence: high }
+        - { slug: celestial_music, label: Celestial music, basis: For some, the sound is bells, choirs, or unearthly harmony, confidence: medium }
+
+    - passage_slug: dark_tunnel
+      section: The Dark Tunnel
+      summary: Movement through a dark enclosed space with light visible at the far end; the motion is rapid, smooth, and felt as drawing forward.
+      motifs:
+        - { slug: dark_tunnel, label: Dark tunnel, basis: Direct description of moving through tunnel, valley, void, or corridor, confidence: high }
+        - { slug: rapid_smooth_transit, label: Rapid smooth transit, basis: Motion is described as rapid, smooth, and irresistible, confidence: high }
+        - { slug: light_at_end_of_tunnel, label: Light at end of tunnel, basis: Light is usually visible at the far end of the dark space, confidence: high }
+        - { slug: enclosing_darkness_not_threatening, label: Enclosing darkness not threatening, basis: Darkness is felt as enclosing rather than threatening, confidence: medium }
+
+    - passage_slug: out_of_body
+      section: Out of the Body
+      summary: The experiencer perceives themselves apart from the physical body, often watching it from above with panoramic clarity.
+      motifs:
+        - { slug: out_of_body_experience, label: Out-of-body experience, basis: Experiencer is apart from body and sees it from outside, confidence: high }
+        - { slug: viewing_body_from_above, label: Viewing the body from above, basis: Common vantage point is above the bed, confidence: high }
+        - { slug: panoramic_clear_vision, label: Panoramic clear vision, basis: Vision in the OBE is described as sharp and panoramic, confidence: high }
+        - { slug: subtle_body, label: Subtle body, basis: A weightless nonphysical body is perceived, confidence: high }
+        - { slug: unable_to_be_heard_by_living, label: Unable to be heard by the living, basis: Attempts to speak to those present fail, confidence: medium }
+
+    - passage_slug: meeting_others
+      section: Meeting Others
+      summary: Encounter with deceased relatives or spiritual beings who appear as guides or greeters; communication is direct and mind-to-mind.
+      motifs:
+        - { slug: meeting_deceased_relatives, label: Meeting deceased relatives, basis: Loved ones who have died appear and are recognized, confidence: high }
+        - { slug: spiritual_guides, label: Spiritual guides, basis: Spiritual beings appear to help with the transition, confidence: high }
+        - { slug: deceased_appear_radiant_or_younger, label: Deceased appear radiant or younger, basis: Recognized loved ones appear in luminous or restored form, confidence: medium }
+        - { slug: direct_mind_to_mind_communication, label: Direct mind-to-mind communication, basis: Communication is described as direct, without speech, confidence: high }
+
+    - passage_slug: being_of_light
+      section: The Being of Light
+      summary: Encounter with a luminous personal presence felt as overwhelmingly loving, knowing, and accepting; identified through the experiencer's religious frame but with consistent core features.
+      motifs:
+        - { slug: being_of_light, label: Being of light, basis: A luminous presence is perceived as personal and conscious, confidence: high }
+        - { slug: brilliant_light_not_painful, label: Brilliant light not painful to look at, basis: Light is more intense than earthly light yet not blinding, confidence: high }
+        - { slug: overwhelming_love, label: Overwhelming love, basis: Encounter is suffused with unconditional love, confidence: high }
+        - { slug: complete_acceptance, label: Complete acceptance, basis: The being's stance is total acceptance, confidence: high }
+        - { slug: being_knows_experiencer_completely, label: Being knows experiencer completely, basis: The being is felt to know the person fully, confidence: high }
+
+    - passage_slug: panoramic_life_review
+      section: The Review
+      summary: A comprehensive review of the person's life unfolds in the presence of the being of light, often from the perspective of those affected by the experiencer's actions; understanding rather than judgment.
+      motifs:
+        - { slug: panoramic_life_review, label: Panoramic life review, basis: The whole life is seen at once or in vivid sequence, confidence: high }
+        - { slug: multiple_perspectives_in_review, label: Multiple perspectives in review, basis: Events seen from the perspective of others affected, confidence: high }
+        - { slug: understanding_without_judgment, label: Understanding without judgment, basis: Review is held in compassion, not condemnation, confidence: high }
+        - { slug: significant_moments_stand_out, label: Significant moments stand out, basis: Some events are more vivid than others in the review, confidence: medium }
+
+    - passage_slug: border_or_limit
+      section: The Border or Limit
+      summary: A boundary appears beyond which return would not be possible; the experiencer often desires to cross but is turned back.
+      motifs:
+        - { slug: border_or_limit, label: Border or limit, basis: A fence, water, gate, line, or horizon is perceived, confidence: high }
+        - { slug: point_of_no_return, label: Point of no return, basis: Crossing is recognized as irrevocable, confidence: high }
+        - { slug: desire_to_cross_threshold, label: Desire to cross the threshold, basis: Experiencer often wishes to cross, confidence: medium }
+
+    - passage_slug: coming_back
+      section: Coming Back
+      summary: Return to the body is sudden; some choose to return for unfinished tasks, others are sent back; ordinary life feels heavy by comparison.
+      motifs:
+        - { slug: forced_or_chosen_return, label: Forced or chosen return, basis: Some return is decided, some imposed, confidence: high }
+        - { slug: reluctance_to_return_to_body, label: Reluctance to return to the body, basis: Body and ordinary life feel heavy and constraining, confidence: high }
+        - { slug: return_to_complete_unfinished_task, label: Return to complete an unfinished task, basis: Care for children or unfinished work cited as reason, confidence: medium }
+
+    - passage_slug: telling_others
+      section: Telling Others
+      summary: Attempts to describe the experience to others meet disbelief or polite incomprehension; experiencers often hold it in silence for years.
+      motifs:
+        - { slug: difficulty_describing_to_others, label: Difficulty describing to others, basis: Attempts to convey are met with disbelief or dismissal, confidence: high }
+        - { slug: isolation_after_experience, label: Isolation after the experience, basis: Cultural absence of frameworks leaves experiencer isolated, confidence: medium }
+
+    - passage_slug: effects_on_lives
+      section: Effects on Lives
+      summary: The experience produces lasting reorganization of values; status and possessions recede, relationships and acts of care become central.
+      motifs:
+        - { slug: lasting_value_transformation, label: Lasting value transformation, basis: Values shift; reorganization persists over time, confidence: high }
+        - { slug: deprioritization_of_materialism, label: Deprioritization of materialism, basis: Concerns about possessions and status recede, confidence: high }
+        - { slug: recentered_on_relationships_and_care, label: Recentered on relationships and care, basis: Relationships and learning become central, confidence: high }
+
+    - passage_slug: new_views_of_death
+      section: New Views of Death
+      summary: Fear of death is gone or sharply reduced; death is felt as a transition rather than an ending, held as direct knowledge rather than belief.
+      motifs:
+        - { slug: loss_of_fear_of_death, label: Loss of fear of death, basis: Direct claim that fear is gone or reduced, confidence: high }
+        - { slug: death_as_transition_not_ending, label: Death as transition not ending, basis: Death reframed as passage rather than terminus, confidence: high }
+        - { slug: certainty_grounded_in_direct_experience, label: Certainty grounded in direct experience, basis: New view held as felt knowing, not doctrine, confidence: medium }
+
+    - passage_slug: corroboration
+      section: Corroboration
+      summary: Some experiencers report perceiving details inaccessible to the dying body that are later confirmed; treated as evidence the experience was not generated by the brain alone.
+      motifs:
+        - { slug: corroboration_of_perceived_details, label: Corroboration of perceived details, basis: Distant or hidden details perceived during clinical death are later verified, confidence: medium, cautions: "Reported in some cases; not all NDEs include verifiable elements." }
+        - { slug: knowledge_at_a_distance, label: Knowledge at a distance, basis: Conversations or events outside the body's range are perceived, confidence: medium }
+
+# ----------------------------------------------------------------------------
+- text_id: nde.van_lommel_elements.lancet_2001
+  source_path: texts/experiential/nde/van-lommel-elements.md
+  tradition: nde
+  sub_corpus: nde
+  author_attribution: Pim van Lommel and colleagues
+  passages:
+
+    - passage_slug: awareness_of_being_dead
+      section: Awareness of Being Dead
+      summary: A direct, often startled awareness that one has died; recognition is immediate, not inferred.
+      motifs:
+        - { slug: awareness_of_being_dead, label: Awareness of being dead, basis: Direct recognition of one's death, confidence: high }
+        - { slug: self_distinct_from_body, label: Self distinct from body, basis: Person knows themselves not to be the body, confidence: high }
+
+    - passage_slug: positive_emotions
+      section: Positive Emotions
+      summary: Pervasive well-being, peace, or joy; a positive emotional tone qualitatively unlike ordinary good feeling.
+      motifs:
+        - { slug: profound_peace, label: Profound peace, basis: Peace is reported as the dominant tone, confidence: high }
+        - { slug: bliss_or_joy, label: Bliss or joy, basis: Strong positive feeling described as unlike ordinary good moods, confidence: high }
+        - { slug: cessation_of_anxiety, label: Cessation of anxiety, basis: Anxieties of the cardiac event are absent, confidence: high }
+
+    - passage_slug: out_of_body
+      section: Out-of-Body Experience
+      summary: Patient perceives themselves separated from the physical body, often above the bed, observing the resuscitation; vision is continuous and clear.
+      motifs:
+        - { slug: out_of_body_experience, label: Out-of-body experience, basis: Direct description of separation from body, confidence: high }
+        - { slug: viewing_body_from_above, label: Viewing the body from above, basis: Vantage point above the bed reported, confidence: high }
+        - { slug: corroboration_of_perceived_details, label: Corroboration of perceived details, basis: Verifiable details of resuscitation later confirmed, confidence: medium }
+
+    - passage_slug: tunnel
+      section: Moving Through a Tunnel
+      summary: Sensation of moving through enclosed dark space toward light; motion is smooth and irresistible.
+      motifs:
+        - { slug: dark_tunnel, label: Dark tunnel, basis: Direct mention of tunnel, corridor, or dark passage, confidence: high }
+        - { slug: rapid_smooth_transit, label: Rapid smooth transit, basis: Movement described as smooth and drawing rather than self-propelled, confidence: high }
+        - { slug: light_at_end_of_tunnel, label: Light at end of tunnel, basis: Light is visible at end or ahead, confidence: high }
+
+    - passage_slug: communication_with_light
+      section: Communication with the Light
+      summary: Encounter with a luminous presence experienced as conscious and personal; communication is direct, mind-to-mind, without spoken words.
+      motifs:
+        - { slug: being_of_light, label: Being of light, basis: Luminous presence is conscious and personal, confidence: high }
+        - { slug: direct_mind_to_mind_communication, label: Direct mind-to-mind communication, basis: Communication is described as wordless, confidence: high }
+        - { slug: complete_acceptance, label: Complete acceptance, basis: The light's stance is acceptance and complete knowing, confidence: medium }
+
+    - passage_slug: observation_of_colors
+      section: Observation of Colours
+      summary: Perception of colors unlike any seen in waking life; described as more vivid, saturated, or outside the normal visible spectrum.
+      motifs:
+        - { slug: saturated_colors, label: Saturated colors, basis: Colors are vivid and saturated beyond ordinary perception, confidence: high }
+        - { slug: perception_outside_normal_spectrum, label: Perception outside normal spectrum, basis: Some colors described as not part of ordinary vision, confidence: medium }
+
+    - passage_slug: celestial_landscape
+      section: Observation of a Celestial Landscape
+      summary: Environment unlike any earthly place — a landscape, garden, or city of unearthly beauty; familiar and entirely new at once.
+      motifs:
+        - { slug: celestial_landscape, label: Celestial landscape, basis: Otherworldly environment is perceived, confidence: high }
+        - { slug: heavenly_garden_or_meadow, label: Heavenly garden or meadow, basis: Common imagery of garden, meadow, or vegetation, confidence: medium }
+        - { slug: otherworld_paradoxically_familiar, label: Otherworld paradoxically familiar, basis: Place felt as both new and recognized, confidence: medium }
+
+    - passage_slug: meeting_deceased
+      section: Meeting with Deceased Persons
+      summary: Encounter with people known to be dead; sometimes a deceased person whose death the patient did not yet know about.
+      motifs:
+        - { slug: meeting_deceased_relatives, label: Meeting deceased relatives, basis: Recognized deceased persons appear, confidence: high }
+        - { slug: meeting_unknown_deceased, label: Meeting deceased the experiencer did not know was dead, basis: Some meet deceased whose death is later confirmed, confidence: medium }
+        - { slug: deceased_as_greeters_or_guides, label: Deceased as greeters or guides, basis: They are felt as guides or greeters, confidence: high }
+
+    - passage_slug: life_review
+      section: Life Review
+      summary: Panoramic re-experiencing of the person's life; events seen all at once or in rapid sequence, sometimes from others' perspectives.
+      motifs:
+        - { slug: panoramic_life_review, label: Panoramic life review, basis: Entire life seen at once or sequentially, confidence: high }
+        - { slug: multiple_perspectives_in_review, label: Multiple perspectives in review, basis: Events viewed from those affected, confidence: medium }
+        - { slug: understanding_without_judgment, label: Understanding without judgment, basis: Review is felt as understanding rather than judgment, confidence: medium }
+
+    - passage_slug: border
+      section: Presence of a Border
+      summary: A boundary or limit beyond which there is no return; experiencer recognizes irreversibility and is turned back.
+      motifs:
+        - { slug: border_or_limit, label: Border or limit, basis: Direct mention of a boundary, confidence: high }
+        - { slug: point_of_no_return, label: Point of no return, basis: Crossing recognized as irrevocable, confidence: high }
+        - { slug: forced_or_chosen_return, label: Forced or chosen return, basis: Patient is turned back or returns by decision, confidence: high }
+
+# ----------------------------------------------------------------------------
+- text_id: nde.greyson_scale.greyson_1983
+  source_path: texts/experiential/nde/greyson-scale.md
+  tradition: nde
+  sub_corpus: nde
+  author_attribution: Bruce Greyson
+  passages:
+
+    - passage_slug: time_distortion
+      section: Time Distortion
+      summary: Subjective time differs from clock time — stopped, expanded into eternal present, or compressed.
+      motifs:
+        - { slug: time_distortion, label: Time distortion, basis: Direct claim that time passed differently, confidence: high }
+        - { slug: experience_of_eternity_or_timelessness, label: Experience of eternity or timelessness, basis: Time may seem to stop or expand to a felt eternity, confidence: high }
+        - { slug: simultaneity_of_past_and_present, label: Simultaneity of past and present, basis: Long sequences may happen at once, confidence: medium }
+
+    - passage_slug: thought_acceleration
+      section: Thought Acceleration
+      summary: Mental operations occur faster than ordinary, with vivid clarity and speed felt as distinctly unlike waking cognition.
+      motifs:
+        - { slug: thought_acceleration, label: Thought acceleration, basis: Thoughts move faster than usual, confidence: high }
+        - { slug: vivid_mental_clarity, label: Vivid mental clarity, basis: Clarity of mental operation is unusual, confidence: high }
+
+    - passage_slug: life_review_panoramic
+      section: Life Review (Panoramic Memory)
+      summary: Whole or much of life is seen at once or replayed in vivid sequence, sometimes from others' perspectives, with comprehensive understanding.
+      motifs:
+        - { slug: panoramic_life_review, label: Panoramic life review, basis: Direct description of full-life review, confidence: high }
+        - { slug: multiple_perspectives_in_review, label: Multiple perspectives in review, basis: Events sometimes viewed from those affected, confidence: high }
+        - { slug: understanding_without_judgment, label: Understanding without judgment, basis: Review accompanied by understanding rather than judgment, confidence: high }
+
+    - passage_slug: sudden_understanding
+      section: Sudden Understanding
+      summary: Sudden grasp of large or fundamental matters; understanding felt as direct rather than inferred.
+      motifs:
+        - { slug: noetic_quality, label: Noetic quality, basis: Direct knowing rather than reasoning, confidence: high }
+        - { slug: comprehension_of_fundamental_truths, label: Comprehension of fundamental truths, basis: Sudden grasp of large matters, confidence: high }
+        - { slug: understanding_larger_than_any_single_insight, label: Understanding larger than any single insight, basis: Felt as larger than discrete insight, confidence: medium }
+
+    - passage_slug: feeling_of_peace
+      section: Feeling of Peace
+      summary: Pervasive peace and well-being unlike any in ordinary life; tension, fear, and pain dissolve into a felt baseline.
+      motifs:
+        - { slug: profound_peace, label: Profound peace, basis: Direct description of pervasive peace, confidence: high }
+        - { slug: cessation_of_pain, label: Cessation of pain, basis: Pain dissolves, confidence: high }
+
+    - passage_slug: feeling_of_joy
+      section: Feeling of Joy
+      summary: Profound joy described as bliss or ecstasy; not contingent on circumstance and not followed by loss when remembered.
+      motifs:
+        - { slug: bliss_or_joy, label: Bliss or joy, basis: Direct description of profound joy or bliss, confidence: high }
+        - { slug: noncontingent_positive_state, label: Noncontingent positive state, basis: Joy not dependent on circumstances, confidence: medium }
+
+    - passage_slug: cosmic_unity
+      section: Cosmic Unity
+      summary: Felt sense of being one with the universe, all life, or everything; boundaries between self and other dissolve.
+      motifs:
+        - { slug: cosmic_unity, label: Cosmic unity, basis: Direct description of being one with universe, confidence: high }
+        - { slug: dissolution_of_self_other_boundary, label: Dissolution of self-other boundary, basis: Boundaries between self and other dissolve, confidence: high }
+        - { slug: continuity_with_world, label: Continuity with the world, basis: Experiencer felt continuous rather than separate, confidence: high }
+
+    - passage_slug: brilliant_light
+      section: Encounter with Brilliant Light
+      summary: Light exceedingly bright but not painful, often felt as conscious and personal; communication is direct.
+      motifs:
+        - { slug: being_of_light, label: Being of light, basis: Light felt as conscious and personal, confidence: high }
+        - { slug: brilliant_light_not_painful, label: Brilliant light not painful to look at, basis: Direct description of intense yet bearable light, confidence: high }
+        - { slug: direct_mind_to_mind_communication, label: Direct mind-to-mind communication, basis: Communication with light is direct, confidence: medium }
+
+    - passage_slug: vivid_sensory
+      section: Vivid Sensory Experiences
+      summary: Sensory perceptions unusually clear, sharp, or saturated; experience felt as more real than ordinary reality.
+      motifs:
+        - { slug: heightened_perception, label: Heightened perception, basis: Direct description of unusually vivid senses, confidence: high }
+        - { slug: more_real_than_ordinary_reality, label: More real than ordinary reality, basis: Experience reported as more real, confidence: high }
+        - { slug: saturated_colors, label: Saturated colors, basis: Colors more intense than ordinary, confidence: medium }
+
+    - passage_slug: esp
+      section: Apparent Extrasensory Perception
+      summary: Knowledge of events at a distance or beyond visual range; knowledge felt as direct.
+      motifs:
+        - { slug: knowledge_at_a_distance, label: Knowledge at a distance, basis: Reports include knowledge from distant or hidden locations, confidence: medium }
+        - { slug: extrasensory_perception, label: Extrasensory perception, basis: Direct description of ESP-type access, confidence: medium }
+
+    - passage_slug: precognitive_vision
+      section: Precognitive Vision
+      summary: Awareness of future events; visions felt as direct knowledge rather than speculation.
+      motifs:
+        - { slug: precognition, label: Precognition, basis: Visions of future events, confidence: medium }
+        - { slug: direct_knowing_of_future, label: Direct knowing of future, basis: Future events felt as known rather than guessed, confidence: medium }
+
+    - passage_slug: out_of_body
+      section: Out-of-Body Experience
+      summary: Experiencer perceives themselves outside the physical body, viewing it from above; vision is panoramic and clear.
+      motifs:
+        - { slug: out_of_body_experience, label: Out-of-body experience, basis: Direct description of being outside the body, confidence: high }
+        - { slug: viewing_body_from_above, label: Viewing the body from above, basis: Common vantage point above the body, confidence: high }
+        - { slug: panoramic_clear_vision, label: Panoramic clear vision, basis: Vision is sharp and panoramic, confidence: high }
+
+    - passage_slug: otherworldly_environment
+      section: Otherworldly Environment
+      summary: Environment unlike any earthly place; felt as real, distinct, and somehow more substantial than ordinary settings.
+      motifs:
+        - { slug: otherworldly_environment, label: Otherworldly environment, basis: Direct description of nonworldly setting, confidence: high }
+        - { slug: more_substantial_than_ordinary, label: More substantial than ordinary, basis: Place felt more real than waking environments, confidence: medium }
+
+    - passage_slug: mystical_entity
+      section: Mystical Entity
+      summary: Encounter with a being recognized as sacred or spiritual; numinous quality.
+      motifs:
+        - { slug: mystical_presence, label: Mystical presence, basis: Encounter with sacred or spiritual being, confidence: high }
+        - { slug: numinous_encounter, label: Numinous encounter, basis: Encounter has numinous quality, confidence: high }
+        - { slug: religious_figure_perceived, label: Religious figure perceived, basis: May be identified as angel, guide, or named religious figure, confidence: medium }
+
+    - passage_slug: visible_spirits_of_dead
+      section: Visible Spirits of the Dead
+      summary: Encounter with deceased persons known to the experiencer; recognized and present to greet, guide, or communicate.
+      motifs:
+        - { slug: meeting_deceased_relatives, label: Meeting deceased relatives, basis: Recognized deceased persons appear, confidence: high }
+        - { slug: deceased_as_greeters_or_guides, label: Deceased as greeters or guides, basis: They greet, guide, or communicate, confidence: high }
+
+    - passage_slug: border
+      section: Border or Point of No Return
+      summary: Awareness of a limit beyond which return would not be possible; recognized as decisive.
+      motifs:
+        - { slug: border_or_limit, label: Border or limit, basis: Direct description of boundary, confidence: high }
+        - { slug: point_of_no_return, label: Point of no return, basis: Crossing recognized as decisive, confidence: high }
+        - { slug: forced_or_chosen_return, label: Forced or chosen return, basis: Experiencer is turned back, told to return, or chooses, confidence: high }
+
+# ----------------------------------------------------------------------------
+- text_id: nde.iands_phenomenology.iands_consensus
+  source_path: texts/experiential/nde/iands-phenomenology.md
+  tradition: nde
+  sub_corpus: nde
+  author_attribution: International Association for Near-Death Studies
+  passages:
+
+    - passage_slug: sense_of_being_dead
+      section: Sense of Being Dead
+      summary: Direct, immediate awareness that one has died; sometimes mild surprise, rarely fear.
+      motifs:
+        - { slug: awareness_of_being_dead, label: Awareness of being dead, basis: Direct claim of recognizing one's death, confidence: high }
+        - { slug: self_distinct_from_body, label: Self distinct from body, basis: Person knows themselves no longer the body, confidence: high }
+
+    - passage_slug: peace_and_painlessness
+      section: Peace and Painlessness
+      summary: Pain absent; profound peace pervades the experience; defining tone of the state.
+      motifs:
+        - { slug: profound_peace, label: Profound peace, basis: Pervasive peace is the defining tone, confidence: high }
+        - { slug: cessation_of_pain, label: Cessation of pain, basis: Pain is absent, confidence: high }
+        - { slug: cessation_of_anxiety, label: Cessation of anxiety, basis: Anxieties dissolve, confidence: high }
+
+    - passage_slug: out_of_body
+      section: Out-of-Body Experience
+      summary: Person perceives themselves above the body, watching the resuscitation; vision is panoramic, clear, unconfined.
+      motifs:
+        - { slug: out_of_body_experience, label: Out-of-body experience, basis: Direct description of OBE, confidence: high }
+        - { slug: viewing_body_from_above, label: Viewing the body from above, basis: Vantage point above the bed, confidence: high }
+        - { slug: panoramic_clear_vision, label: Panoramic clear vision, basis: Vision unconfined by walls, confidence: high }
+        - { slug: subtle_body, label: Subtle body, basis: Light, weightless body perceived, confidence: high }
+
+    - passage_slug: tunnel
+      section: The Tunnel Experience
+      summary: Movement through dark enclosed space toward light; rapid, smooth, drawing rather than self-propelled.
+      motifs:
+        - { slug: dark_tunnel, label: Dark tunnel, basis: Direct description of tunnel-like passage, confidence: high }
+        - { slug: light_at_end_of_tunnel, label: Light at end of tunnel, basis: Movement is toward light, confidence: high }
+        - { slug: rapid_smooth_transit, label: Rapid smooth transit, basis: Motion described as drawing, smooth, rapid, confidence: high }
+
+    - passage_slug: people_of_light
+      section: People of Light
+      summary: Encounter with luminous beings other than the central being of light; felt as personal, conscious, and present, sometimes recognized as deceased loved ones.
+      motifs:
+        - { slug: luminous_companions, label: Luminous companions, basis: Direct description of luminous beings other than the central light, confidence: high }
+        - { slug: meeting_deceased_relatives, label: Meeting deceased relatives, basis: Some are recognized as deceased loved ones, confidence: high }
+        - { slug: spiritual_guides, label: Spiritual guides, basis: Beings greet, accompany, or guide, confidence: high }
+
+    - passage_slug: being_of_light
+      section: The Being of Light
+      summary: Encounter with central luminous presence felt as personal, knowing, and overwhelmingly loving; communication is direct, without speech.
+      motifs:
+        - { slug: being_of_light, label: Being of light, basis: Central luminous presence, confidence: high }
+        - { slug: brilliant_light_not_painful, label: Brilliant light not painful to look at, basis: Light is brilliant but bearable, confidence: high }
+        - { slug: overwhelming_love, label: Overwhelming love, basis: Encounter is suffused with love, confidence: high }
+        - { slug: complete_acceptance, label: Complete acceptance, basis: Felt fully accepted, confidence: high }
+        - { slug: religious_figure_perceived, label: Religious figure perceived, basis: Light may be identified by religious frame, confidence: medium }
+
+    - passage_slug: life_review
+      section: The Life Review
+      summary: Comprehensive review unfolds in the presence of the being of light; events seen at once or sequentially, often from others' perspectives.
+      motifs:
+        - { slug: panoramic_life_review, label: Panoramic life review, basis: Direct description of full-life review, confidence: high }
+        - { slug: multiple_perspectives_in_review, label: Multiple perspectives in review, basis: Self seen from others affected, confidence: high }
+        - { slug: understanding_without_judgment, label: Understanding without judgment, basis: Accompanied by understanding rather than condemnation, confidence: high }
+
+    - passage_slug: reluctance_to_return
+      section: Reluctance to Return
+      summary: State of peace, light, and union felt as one's true home; return feels like reabsorption into a denser, more constrained existence.
+      motifs:
+        - { slug: reluctance_to_return_to_body, label: Reluctance to return to the body, basis: Direct claim of unwillingness to return, confidence: high }
+        - { slug: experience_felt_as_true_home, label: Experience felt as true home, basis: Light and union felt as home, confidence: high }
+        - { slug: forced_or_chosen_return, label: Forced or chosen return, basis: Some sent back, some choose, confidence: high }
+
+    - passage_slug: personality_transformation
+      section: Personality Transformation
+      summary: Lasting reorganization of values; old anxieties recede; relationships, learning, kindness, contemplation become central.
+      motifs:
+        - { slug: lasting_value_transformation, label: Lasting value transformation, basis: Direct claim of life change, confidence: high }
+        - { slug: deprioritization_of_materialism, label: Deprioritization of materialism, basis: Materialism and competitive striving lose hold, confidence: high }
+        - { slug: recentered_on_relationships_and_care, label: Recentered on relationships and care, basis: Relationships and kindness take center, confidence: high }
+
+    - passage_slug: new_views_of_death
+      section: New Views of Death
+      summary: Fear of death gone or sharply reduced; death felt as transition rather than end, held as direct knowledge.
+      motifs:
+        - { slug: loss_of_fear_of_death, label: Loss of fear of death, basis: Direct claim that fear is gone, confidence: high }
+        - { slug: death_as_transition_not_ending, label: Death as transition not ending, basis: Death reframed as passage, confidence: high }
+        - { slug: certainty_grounded_in_direct_experience, label: Certainty grounded in direct experience, basis: Held as direct knowing, not doctrine, confidence: high }
+        - { slug: comforter_of_dying_and_grieving, label: Comforter of dying and grieving, basis: Experiencer becomes a source of comfort to others, confidence: medium }
+
+# ============================================================================
+# Psychedelic
+# ============================================================================
+
+- text_id: psychedelic.grof_bpm.realms_framework
+  source_path: texts/experiential/psychedelic/grof-bpm.md
+  tradition: psychedelic
+  sub_corpus: psychedelic
+  author_attribution: Stanislav Grof
+  passages:
+
+    - passage_slug: bpm1_oceanic_unity
+      section: BPM I — Primal Union with Mother (Oceanic, Paradisical Unity)
+      summary: Undifferentiated unity, oceanic and timeless; vast waters, paradisical garden, cosmic egg, profound peace and ecstasy; pre-creation wholeness with quality of nourishment.
+      motifs:
+        - { slug: oceanic_unity, label: Oceanic unity, basis: Direct description of undifferentiated oceanic state, confidence: high }
+        - { slug: dissolution_of_self_other_boundary, label: Dissolution of self-other boundary, basis: No separation between self and surroundings, confidence: high }
+        - { slug: timeless_state, label: Timeless state, basis: State described as timeless, confidence: high }
+        - { slug: bliss_or_joy, label: Bliss or joy, basis: Profound peace and ecstasy reported, confidence: high }
+        - { slug: paradisical_garden, label: Paradisical garden, basis: Imagery of paradisical garden, confidence: high }
+        - { slug: cosmic_egg_or_starry_cosmos, label: Cosmic egg or starry cosmos, basis: Imagery of cosmic egg and starry cosmos, confidence: medium }
+        - { slug: nourishment_from_abundant_source, label: Nourishment from abundant source, basis: Quality of being fed by abundant source, confidence: medium }
+
+    - passage_slug: bpm2_engulfment_no_exit
+      section: BPM II — Cosmic Engulfment and No Exit
+      summary: Confinement, claustrophobia, oppression with no escape; despair, hopelessness, existential dread; imagery of being swallowed by monster, sealed in tomb, trapped in hell, suspended in frozen cold; eternal time and absolute meaninglessness.
+      motifs:
+        - { slug: claustrophobic_engulfment, label: Claustrophobic engulfment, basis: Direct description of being pulled into confinement, confidence: high }
+        - { slug: dread_no_exit, label: Dread, no exit, basis: No way out, no possibility of escape, confidence: high }
+        - { slug: existential_despair, label: Existential despair, basis: Hopelessness and existential dread, confidence: high }
+        - { slug: swallowed_by_monster, label: Swallowed by monster, basis: Imagery of being swallowed, confidence: medium }
+        - { slug: sealed_in_tomb, label: Sealed in tomb, basis: Imagery of tomb sealing, confidence: medium }
+        - { slug: trapped_in_hell, label: Trapped in hell, basis: Hell imagery, confidence: medium }
+        - { slug: frozen_cold_wasteland, label: Frozen cold wasteland, basis: Imagery of frozen suspension, confidence: medium }
+        - { slug: time_stops_eternal_suffering, label: Time stops, eternal suffering, basis: Suffering felt as eternal, time stops, confidence: high }
+        - { slug: absolute_meaninglessness, label: Absolute meaninglessness, basis: Truth of existence felt as meaningless, confidence: high }
+
+    - passage_slug: bpm3_death_rebirth_struggle
+      section: BPM III — Death-Rebirth Struggle
+      summary: Volcanic struggle, sexual and sadomasochistic, scatological, demonic, sacrificial; experiencer is both perpetrator and victim; titanic battles, ritual sacrifice, demonic visitations; intense terror and ecstasy combined.
+      motifs:
+        - { slug: titanic_struggle, label: Titanic struggle, basis: Engagement with vastly greater power, confidence: high }
+        - { slug: violent_movement, label: Violent movement, basis: Movement returns but violent, confidence: high }
+        - { slug: sexual_ecstasy_and_violence, label: Sexual ecstasy and violence combined, basis: Sexual content combined with violence, confidence: high }
+        - { slug: sadomasochistic_imagery, label: Sadomasochistic imagery, basis: Direct mention of sadomasochistic content, confidence: high }
+        - { slug: scatological_imagery, label: Scatological imagery, basis: Direct mention of scatological scenes, confidence: high }
+        - { slug: demonic_imagery, label: Demonic imagery, basis: Demonic visitations, confidence: high }
+        - { slug: ritual_sacrifice_imagery, label: Ritual sacrifice imagery, basis: Religious sacrifice and torture appear, confidence: high }
+        - { slug: ego_obliteration, label: Ego obliteration, basis: Boundaries of identity obliterated, confidence: medium }
+        - { slug: terror_and_ecstasy_combined, label: Terror and ecstasy combined, basis: Intense terror, ecstasy, rage combined, confidence: high }
+        - { slug: dragon_or_combat_imagery, label: Dragon or combat imagery, basis: Mythological correlate of dragon-slaying combats, confidence: medium }
+
+    - passage_slug: bpm4_death_rebirth
+      section: BPM IV — Death-Rebirth (Ego Death and Liberation)
+      summary: Total annihilation followed by transition into freedom; brilliant light, world reconstituted, joy, gratitude, wonder; perception fresh and saturated; imagery of resurrection, sacred marriage, paradise regained.
+      motifs:
+        - { slug: ego_death, label: Ego death, basis: Direct description of total annihilation of self, confidence: high }
+        - { slug: rebirth_after_death, label: Rebirth after death, basis: Reborn, washed clean, transparent, confidence: high }
+        - { slug: liberation, label: Liberation, basis: Felt as liberation from structure of suffering, confidence: high }
+        - { slug: brilliant_light_not_painful, label: Brilliant light not painful to look at, basis: Light pours in, confidence: high }
+        - { slug: golden_or_white_light, label: Golden or white light, basis: Imagery of brilliant golden or white light, confidence: medium }
+        - { slug: peacock_iridescence, label: Peacock iridescence, basis: Peacock-tail iridescence imagery, confidence: medium }
+        - { slug: opening_flowers, label: Opening flowers, basis: Imagery of opening flowers, confidence: medium }
+        - { slug: divine_couple_reunion, label: Divine couple reunion, basis: Reunion of separated principles, confidence: medium }
+        - { slug: sacred_marriage, label: Sacred marriage, basis: Mythological correlate of sacred marriage, confidence: medium }
+        - { slug: resurrection_imagery, label: Resurrection imagery, basis: Mythological correlate of resurrection, confidence: high }
+        - { slug: world_perceived_as_new, label: World perceived as new, basis: Relationships and world seen as if for first time, confidence: high }
+        - { slug: heightened_perception, label: Heightened perception, basis: Perception fresh and saturated, confidence: high }
+        - { slug: gratitude_and_wonder, label: Gratitude and wonder, basis: Joy, gratitude, wonder dominate, confidence: high }
+
+# ----------------------------------------------------------------------------
+- text_id: psychedelic.meq30_dimensions.maclean_barrett
+  source_path: texts/experiential/psychedelic/meq30-dimensions.md
+  tradition: psychedelic
+  sub_corpus: psychedelic
+  author_attribution: Katherine MacLean and Frederick Barrett
+  passages:
+
+    - passage_slug: internal_unity
+      section: Mystical Dimension — Internal Unity
+      summary: Distinctions between thoughts, feelings, perceptions and the self that has them dissolve; entire interior of awareness unified.
+      motifs:
+        - { slug: internal_unity, label: Internal unity, basis: Direct description of internal unification, confidence: high }
+        - { slug: dissolution_of_inner_observer, label: Dissolution of inner observer, basis: No inner observer separate from observed, confidence: high }
+
+    - passage_slug: external_unity
+      section: Mystical Dimension — External Unity
+      summary: Everything outside ordinary self felt as one; no separate self looking at separate world.
+      motifs:
+        - { slug: external_unity, label: External unity, basis: Direct description of external unification, confidence: high }
+        - { slug: cosmic_unity, label: Cosmic unity, basis: Continuous with cosmos, confidence: high }
+        - { slug: dissolution_of_self_other_boundary, label: Dissolution of self-other boundary, basis: Boundaries of self and world dissolve, confidence: high }
+
+    - passage_slug: noetic_quality
+      section: Mystical Dimension — Noetic Quality
+      summary: Experience contains direct knowledge that does not depend on inference; what is perceived feels more truly real than ordinary perception conveys.
+      motifs:
+        - { slug: noetic_quality, label: Noetic quality, basis: Direct knowing, confidence: high }
+        - { slug: more_real_than_ordinary_reality, label: More real than ordinary reality, basis: Experience felt as more truly real, confidence: high }
+        - { slug: direct_knowledge_of_reality, label: Direct knowledge of reality, basis: Felt as immediate cognition of how things really are, confidence: high }
+
+    - passage_slug: sacredness
+      section: Mystical Dimension — Sacredness
+      summary: State and what is encountered are felt as sacred; reverence, awe, gratitude; sacredness recognized as a quality of what is being perceived.
+      motifs:
+        - { slug: sacredness, label: Sacredness, basis: State and content felt as sacred, confidence: high }
+        - { slug: reverence_and_awe, label: Reverence and awe, basis: Reverence and awe accompany the encounter, confidence: high }
+        - { slug: gratitude_and_wonder, label: Gratitude and wonder, basis: Gratitude reported, confidence: medium }
+
+    - passage_slug: transcendence
+      section: Mystical Dimension — Transcendence
+      summary: Experiencer transcends ordinary categories of self, time, and space; encounters or unites with something greater than the personal self.
+      motifs:
+        - { slug: transcendence_of_personal_self, label: Transcendence of personal self, basis: Direct claim of transcending personal self, confidence: high }
+        - { slug: union_with_greater_than_self, label: Union with greater than self, basis: Felt unity with something greater, confidence: high }
+        - { slug: encounter_with_ground_of_being, label: Encounter with ground of being, basis: Experience names something like ultimate reality, confidence: medium }
+
+    - passage_slug: joy_and_bliss
+      section: Positive Mood — Joy and Bliss
+      summary: Profound positive feeling — joy, bliss, ecstasy — qualitatively unlike ordinary good moods.
+      motifs:
+        - { slug: bliss_or_joy, label: Bliss or joy, basis: Direct description of profound joy or bliss, confidence: high }
+        - { slug: ecstasy, label: Ecstasy, basis: Ecstasy reported, confidence: high }
+
+    - passage_slug: peace_tranquility
+      section: Positive Mood — Peace and Tranquility
+      summary: Pervasive deep peace beyond ordinary calm; anxieties dissolve; quietness independent of circumstance.
+      motifs:
+        - { slug: profound_peace, label: Profound peace, basis: Pervasive deep peace, confidence: high }
+        - { slug: cessation_of_anxiety, label: Cessation of anxiety, basis: Anxieties dissolve, confidence: high }
+        - { slug: noncontingent_positive_state, label: Noncontingent positive state, basis: Peace independent of circumstance, confidence: medium }
+
+    - passage_slug: awe
+      section: Positive Mood — Awe
+      summary: Awe in the presence of what is being perceived; combines wonder, reverence, smallness, and an opening of perception.
+      motifs:
+        - { slug: reverence_and_awe, label: Reverence and awe, basis: Direct description of awe, confidence: high }
+        - { slug: smallness_before_vastness, label: Smallness before vastness, basis: Sense of smallness before magnitude, confidence: high }
+        - { slug: opening_of_perception_to_magnitude, label: Opening of perception to magnitude, basis: Perception opens to a larger scale, confidence: medium }
+
+    - passage_slug: tenderness_love
+      section: Positive Mood — Tenderness and Love
+      summary: Overwhelming love directed toward all beings, world, and being itself; unconditional and uniformly distributed.
+      motifs:
+        - { slug: overwhelming_love, label: Overwhelming love, basis: Direct description of overwhelming love, confidence: high }
+        - { slug: unconditional_love_for_all_beings, label: Unconditional love for all beings, basis: Love is unconditional and universal, confidence: high }
+        - { slug: tears_of_recognition_or_gratitude, label: Tears of recognition or gratitude, basis: Tears of recognition or gratitude common, confidence: medium }
+
+    - passage_slug: timelessness
+      section: Transcendence of Time
+      summary: Ordinary time is suspended; experience feels timeless or contains all time at once; past, present, future may be perceived simultaneously.
+      motifs:
+        - { slug: time_distortion, label: Time distortion, basis: Time differs from ordinary, confidence: high }
+        - { slug: experience_of_eternity_or_timelessness, label: Experience of eternity or timelessness, basis: Experience feels timeless, confidence: high }
+        - { slug: simultaneity_of_past_and_present, label: Simultaneity of past and present, basis: Past and future perceived simultaneously, confidence: medium }
+
+    - passage_slug: spacelessness
+      section: Transcendence of Space
+      summary: Ordinary space is suspended; experiencer feels themselves everywhere, nowhere, beyond location, or in space with different rules.
+      motifs:
+        - { slug: spacelessness, label: Spacelessness, basis: Boundaries of place dissolve, confidence: high }
+        - { slug: feeling_of_being_everywhere_and_nowhere, label: Feeling of being everywhere and nowhere, basis: Direct claim of being everywhere or nowhere, confidence: medium }
+
+    - passage_slug: ineffability_inadequacy
+      section: Ineffability — Inadequacy of Language
+      summary: Experience cannot be put into words; ordinary language refers to ordinary categories, and what was perceived is outside those categories.
+      motifs:
+        - { slug: ineffability, label: Ineffability, basis: Direct claim of inability to express in words, confidence: high }
+        - { slug: inadequacy_of_ordinary_language, label: Inadequacy of ordinary language, basis: Language structurally fails the experience, confidence: high }
+
+    - passage_slug: ineffability_beyond_concepts
+      section: Ineffability — Reality Beyond Concepts
+      summary: Recognition that what was perceived stands behind or beyond categories the mind ordinarily uses to organize experience.
+      motifs:
+        - { slug: reality_beyond_concepts, label: Reality beyond concepts, basis: What was encountered stands beyond concepts, confidence: high }
+        - { slug: structural_limit_of_language, label: Structural limit of language, basis: Felt as a property of language itself, confidence: medium }
+
+# ----------------------------------------------------------------------------
+- text_id: psychedelic.strassman_dmt.spirit_molecule
+  source_path: texts/experiential/psychedelic/strassman-dmt.md
+  tradition: psychedelic
+  sub_corpus: psychedelic
+  author_attribution: Rick Strassman
+  passages:
+
+    - passage_slug: somatic_onset
+      section: Threshold — Somatic Onset and Body Load
+      summary: Intense somatic rush within seconds — wave moving up body, pressure, vibration, buzzing, humming; anxiety, sense of dying, loss of volitional control.
+      motifs:
+        - { slug: somatic_rush, label: Somatic rush, basis: Wave moving up body, pressure, vibration, confidence: high }
+        - { slug: buzzing_or_ringing, label: Buzzing or ringing, basis: Buzzing or humming reported, confidence: high }
+        - { slug: anxiety_at_onset, label: Anxiety at onset, basis: Anxiety often accompanies onset, confidence: high }
+        - { slug: sense_of_dying_or_being_pulled_apart, label: Sense of dying or being pulled apart, basis: Volunteers feel they are dying or pulled apart, confidence: high }
+        - { slug: loss_of_volitional_control, label: Loss of volitional control, basis: Loss of volitional control reported, confidence: medium }
+
+    - passage_slug: personal_emotional_content
+      section: Personal — Emotional and Psychological Content
+      summary: Old emotional material — grief, fear, unresolved relationships — appears acutely; vivid memories, life-review-like processing, direct insight.
+      motifs:
+        - { slug: emotional_processing, label: Emotional processing, basis: Old emotional material appears acutely, confidence: high }
+        - { slug: vivid_memory, label: Vivid memory, basis: Memories are vivid, confidence: medium }
+        - { slug: panoramic_life_review, label: Panoramic life review, basis: Life-review-like processing, confidence: medium }
+        - { slug: direct_insight, label: Direct insight, basis: Insight felt as direct, confidence: medium }
+
+    - passage_slug: entity_encounter
+      section: Transpersonal — Beings, Entities, and Other Realms
+      summary: Encounter with beings perceived as conscious, present, other; humanoid, mechanical, insectoid, geometric, plant-like; expecting the volunteer; communicate through direct transmission of meaning; felt as more advanced or knowing.
+      motifs:
+        - { slug: entity_encounter, label: Entity encounter, basis: Direct description of encountering beings, confidence: high }
+        - { slug: humanoid_entities, label: Humanoid entities, basis: Some entities humanoid, confidence: medium }
+        - { slug: insectoid_entities, label: Insectoid entities, basis: Some insectoid, confidence: medium }
+        - { slug: mechanical_entities, label: Mechanical entities, basis: Some mechanical, confidence: medium }
+        - { slug: geometric_entities, label: Geometric entities, basis: Some geometric, confidence: medium }
+        - { slug: plant_like_entities, label: Plant-like entities, basis: Some plant-like, confidence: medium }
+        - { slug: entities_expecting_visitor, label: Entities expecting the visitor, basis: Already in progress when volunteer arrives, confidence: high }
+        - { slug: direct_transmission_of_meaning, label: Direct transmission of meaning, basis: Communication through transmission rather than language, confidence: high }
+        - { slug: entities_more_advanced_or_knowing, label: Entities more advanced or knowing, basis: Felt as more knowing, confidence: high }
+
+    - passage_slug: visual_geometry
+      section: Transpersonal — Visual Geometry and Sacred Architecture
+      summary: Intricate geometric patterns — fractals, mandala-like forms, woven structures containing worlds; geometry felt as alive, conscious, an active environment; temples, machines, halls, libraries, architectures of light.
+      motifs:
+        - { slug: geometric_imagery, label: Geometric imagery, basis: Intricate geometric patterns, confidence: high }
+        - { slug: fractal_architecture, label: Fractal architecture, basis: Fractal architectures reported, confidence: high }
+        - { slug: mandala_imagery, label: Mandala imagery, basis: Mandala-like forms, confidence: high }
+        - { slug: living_geometry, label: Living geometry, basis: Geometry felt as alive and conscious, confidence: high }
+        - { slug: sacred_architecture_imagery, label: Sacred architecture imagery, basis: Temples, halls, libraries, architectures of light, confidence: high }
+
+    - passage_slug: cosmic_metaphysical
+      section: Transpersonal — Cosmic and Metaphysical Content
+      summary: Direct apprehension of large-scale truths — structure of reality, nature of consciousness, place of human life; sense of having been shown something important.
+      motifs:
+        - { slug: cosmic_revelation, label: Cosmic revelation, basis: Direct apprehension of structure of reality, confidence: high }
+        - { slug: noetic_quality, label: Noetic quality, basis: Felt as direct knowing, confidence: high }
+        - { slug: difficulty_remembering_in_ordinary_state, label: Difficulty remembering in ordinary state, basis: Difficulty bringing content back to waking, confidence: medium }
+
+    - passage_slug: invisible_worlds_consensus
+      section: Invisible Worlds — Consensus Alternate Realities
+      summary: Autonomous reality with its own rules, inhabitants, consistency; place was already there, would have continued without volunteer; can be entered repeatedly; same locations, same beings on subsequent visits.
+      motifs:
+        - { slug: autonomous_alternate_reality, label: Autonomous alternate reality, basis: Realm has independent existence, confidence: high }
+        - { slug: place_was_already_there, label: Place was already there, basis: Realm felt as already there, confidence: high }
+        - { slug: repeatable_destination, label: Repeatable destination, basis: Same locations across visits, confidence: medium }
+        - { slug: recognition_by_entities, label: Recognition by entities, basis: Same beings recognize the volunteer, confidence: medium }
+        - { slug: realm_with_its_own_rules, label: Realm with its own rules, basis: Place has its own consistency and inhabitants, confidence: high }
+
+    - passage_slug: transmission
+      section: Invisible Worlds — Transmission and Instruction
+      summary: Volunteers receive transmissions — bodies of information delivered by beings or by the place itself; transmission compressed and deliberate.
+      motifs:
+        - { slug: information_transmission, label: Information transmission, basis: Direct description of receiving transmissions, confidence: high }
+        - { slug: compressed_message, label: Compressed message, basis: Transmission felt as compressed, confidence: medium }
+        - { slug: difficulty_recovering_content, label: Difficulty recovering content, basis: Cannot always recover content after, confidence: medium }
+
+    - passage_slug: return_aftermath
+      section: Return and Aftermath
+      summary: Return is rapid; ordinary perception resumes; lasting effects on attitudes toward death, materialism, and consciousness; continuing curiosity about whether realms have independent existence.
+      motifs:
+        - { slug: rapid_return, label: Rapid return, basis: Return is rapid, confidence: medium }
+        - { slug: lasting_value_transformation, label: Lasting value transformation, basis: Lasting effects on attitudes, confidence: high }
+        - { slug: continuing_metaphysical_curiosity, label: Continuing metaphysical curiosity, basis: Continuing curiosity about ontological status of realms, confidence: medium }
+
+# ----------------------------------------------------------------------------
+- text_id: psychedelic.asc_dimensions.dittrich_5d_asc
+  source_path: texts/experiential/psychedelic/asc-dimensions.md
+  tradition: psychedelic
+  sub_corpus: psychedelic
+  author_attribution: Adolf Dittrich
+  passages:
+
+    - passage_slug: oceanic_positive_self_loss
+      section: Oceanic Boundlessness — Positive Self-Loss
+      summary: Dissolution into wider whole with overwhelmingly positive feeling; unity with room, life, cosmos; bliss, peace, awe, gratitude, love; at home in being itself.
+      motifs:
+        - { slug: oceanic_unity, label: Oceanic unity, basis: Direct description of dissolution into wider whole, confidence: high }
+        - { slug: dissolution_of_self_other_boundary, label: Dissolution of self-other boundary, basis: Boundary between self and surroundings dissolves, confidence: high }
+        - { slug: cosmic_unity, label: Cosmic unity, basis: Unity with cosmos, confidence: high }
+        - { slug: bliss_or_joy, label: Bliss or joy, basis: Bliss is the dominant tone, confidence: high }
+        - { slug: feeling_at_home_in_being, label: Feeling at home in being itself, basis: Sense of being at home in being itself, confidence: high }
+
+    - passage_slug: timelessness_vastness
+      section: Oceanic Boundlessness — Timelessness and Vastness
+      summary: Time and space lose ordinary structure; experience feels timeless or contains all time; vastness without confinement.
+      motifs:
+        - { slug: experience_of_eternity_or_timelessness, label: Experience of eternity or timelessness, basis: Experience feels timeless, confidence: high }
+        - { slug: vastness_without_location, label: Vastness without location, basis: Vastness larger than any earthly setting, confidence: high }
+        - { slug: spacelessness, label: Spacelessness, basis: Boundaries of place dissolve, confidence: high }
+
+    - passage_slug: anxious_threatening_self_loss
+      section: Anxious Ego Dissolution — Threatening Self-Loss
+      summary: Same dissolution felt as profoundly threatening; coming apart, being annihilated, absorbed against one's will; anxiety, terror, panic.
+      motifs:
+        - { slug: terror_of_dissolution, label: Terror of dissolution, basis: Self-loss felt as threatening, confidence: high }
+        - { slug: ego_obliteration, label: Ego obliteration, basis: Self comes apart against will, confidence: high }
+        - { slug: anxiety_or_panic, label: Anxiety or panic, basis: Anxiety, terror, panic reported, confidence: high }
+        - { slug: loss_of_control, label: Loss of control, basis: Felt as loss of control too rapid to resist, confidence: high }
+
+    - passage_slug: paranoia_persecution
+      section: Anxious Ego Dissolution — Paranoia and Persecution
+      summary: Felt watched, threatened, persecuted; ordinary trust evaporates; environment can take on malevolent quality.
+      motifs:
+        - { slug: paranoia, label: Paranoia, basis: Direct description of feeling persecuted, confidence: high }
+        - { slug: malevolent_environment, label: Malevolent environment, basis: Environment takes on malevolent quality, confidence: medium }
+        - { slug: hidden_hostile_intentions_visible, label: Hidden hostile intentions visible, basis: Hidden intentions in world felt visible, confidence: medium }
+
+    - passage_slug: loss_of_thought_control
+      section: Anxious Ego Dissolution — Loss of Thought Control
+      summary: Thought becomes uncontrollable — looping, intrusive, accelerating, shattered, repeating; cannot steer attention voluntarily.
+      motifs:
+        - { slug: thought_loops_or_intrusion, label: Thought loops or intrusion, basis: Thoughts loop, intrude, accelerate, confidence: high }
+        - { slug: loss_of_attentional_control, label: Loss of attentional control, basis: Cannot steer attention voluntarily, confidence: high }
+        - { slug: runaway_machine_of_mind, label: Runaway machine of mind, basis: Mind feels like a runaway machine running unaided, confidence: medium }
+
+    - passage_slug: elementary_imagery
+      section: Visionary Restructuralization — Elementary Imagery
+      summary: Lattices, gratings, tunnels, spirals, cobweb structures, kaleidoscopic patterns; primitive forms prior to figurative content.
+      motifs:
+        - { slug: geometric_imagery, label: Geometric imagery, basis: Lattices, gratings, spirals reported, confidence: high }
+        - { slug: kaleidoscopic_patterns, label: Kaleidoscopic patterns, basis: Kaleidoscopic patterns reported, confidence: high }
+        - { slug: cobweb_or_lattice_structures, label: Cobweb or lattice structures, basis: Cobweb and lattice structures reported, confidence: medium }
+
+    - passage_slug: complex_imagery
+      section: Visionary Restructuralization — Complex Imagery and Scenes
+      summary: Vivid figurative imagery — faces, beings, landscapes, scenes, narratives; vivid, three-dimensional, strikingly meaningful; scenes from places never visited or otherworldly content.
+      motifs:
+        - { slug: complex_visionary_imagery, label: Complex visionary imagery, basis: Faces, beings, landscapes, scenes appear, confidence: high }
+        - { slug: three_dimensional_visions, label: Three-dimensional visions, basis: Imagery is three-dimensional, confidence: medium }
+        - { slug: scenes_from_unfamiliar_places, label: Scenes from unfamiliar places, basis: Scenes from places never visited, confidence: medium }
+
+    - passage_slug: synesthesia
+      section: Visionary Restructuralization — Audiovisual Synesthesia
+      summary: Sense modalities cross — sound generates color, visual stimuli are heard, texture carries flavor; felt as feature of experience itself.
+      motifs:
+        - { slug: synesthesia, label: Synesthesia, basis: Direct description of cross-modal perception, confidence: high }
+        - { slug: sound_visualized_as_color, label: Sound visualized as color, basis: Sound generates color or shape, confidence: medium }
+
+    - passage_slug: changed_meaning_of_percepts
+      section: Visionary Restructuralization — Changed Meaning of Percepts
+      summary: Ordinary objects and events take on new significance; world perceived as more eloquent, mythic, saturated with intention.
+      motifs:
+        - { slug: changed_meaning_of_perception, label: Changed meaning of perception, basis: Ordinary things charged with new significance, confidence: high }
+        - { slug: world_saturated_with_meaning, label: World saturated with meaning, basis: World is more eloquent, mythic, confidence: high }
+
+    - passage_slug: changed_sound_perception
+      section: Auditory Alterations — Changed Sound Perception
+      summary: Sounds become more vivid or distorted in pitch, tempo, texture; music can become extraordinarily moving.
+      motifs:
+        - { slug: heightened_auditory_perception, label: Heightened auditory perception, basis: Sounds more vivid or distorted, confidence: medium }
+        - { slug: music_carrying_unfamiliar_meaning, label: Music carrying unfamiliar meaning, basis: Music felt as carrying meaning beyond ordinary, confidence: medium }
+
+    - passage_slug: hallucinatory_sounds
+      section: Auditory Alterations — Hallucinatory Sounds
+      summary: Sounds present themselves with no apparent external source — voices, music, environmental noises not occurring in environment.
+      motifs:
+        - { slug: hallucinatory_sounds, label: Hallucinatory sounds, basis: Sounds without external source, confidence: high }
+        - { slug: heard_voices, label: Heard voices, basis: Voices reported, confidence: medium }
+        - { slug: heard_music_without_source, label: Heard music without source, basis: Music heard with no source, confidence: medium }
+
+    - passage_slug: reduction_in_wakefulness
+      section: Vigilance Reduction — Reduction in Wakefulness
+      summary: Reduced clarity, alertness, orientation; attention harder to direct; thought less efficient; memory patchy.
+      motifs:
+        - { slug: reduced_wakefulness, label: Reduced wakefulness, basis: Direct description of reduced clarity and alertness, confidence: high }
+        - { slug: reduced_efficiency_of_thought, label: Reduced efficiency of thought, basis: Thought less efficient, confidence: medium }
+
+    - passage_slug: drowsiness
+      section: Vigilance Reduction — Drowsiness and Disorganization
+      summary: Reduced vigilance shades into drowsiness, dream fragments intruding into waking, general disorganization of cognition.
+      motifs:
+        - { slug: drowsiness_or_dream_intrusion, label: Drowsiness or dream intrusion, basis: Dream-fragments intrude into waking field, confidence: medium }
+        - { slug: blurred_sleep_wake_boundary, label: Blurred sleep-wake boundary, basis: Boundary between waking and sleep blurs, confidence: medium }
+
+# ============================================================================
+# Contemplative
+# ============================================================================
+
+- text_id: contemplative.bardo_thodol.three_bardos_summary
+  source_path: texts/experiential/contemplative/bardo-thodol.md
+  tradition: contemplative
+  sub_corpus: contemplative
+  author_attribution: Bardo Thödol — Tibetan Nyingma terma tradition
+  passages:
+
+    - passage_slug: chikhai_clear_light
+      section: The Chikhai Bardo — The Moment of Death and the Clear Light
+      summary: At death, ordinary consciousness dissolves into a luminous expanse — the Clear Light of pure awareness — vast, unobstructed, self-radiant; ground of awareness ordinarily obscured; if recognized, immediate liberation; sequential dissolution of body's elements and inner signs (mirage, smoke, fireflies, flame, luminous expanse).
+      motifs:
+        - { slug: clear_light_of_awareness, label: Clear light of awareness, basis: Direct description of the Clear Light, confidence: high }
+        - { slug: ground_of_awareness, label: Ground of awareness, basis: Light is the unconditioned ground of awareness itself, confidence: high }
+        - { slug: vast_unobstructed_openness, label: Vast unobstructed openness, basis: Direct description of openness of awareness, confidence: high }
+        - { slug: dissolution_of_elements, label: Dissolution of the elements, basis: Sequential dissolution of body's elements, confidence: high }
+        - { slug: inner_signs_at_death, label: Inner signs at death, basis: Mirage, smoke, fireflies, flame, luminous expanse reported as inner signs, confidence: high }
+        - { slug: recognition_yields_liberation, label: Recognition yields liberation, basis: Recognition offers immediate liberation, confidence: high }
+        - { slug: failure_to_recognize_own_nature, label: Failure to recognize own nature, basis: Most consciousnesses turn away from the unfamiliar light, confidence: high }
+        - { slug: cessation_of_breath, label: Cessation of breath, basis: Direct mention of cessation of breath, confidence: high }
+
+    - passage_slug: chonyid_deities
+      section: The Chönyid Bardo — The Bardo of Reality
+      summary: Consciousness encounters peaceful deities then wrathful deities — figures of overwhelming numinous quality, intense colors, brilliant lights, accompanying sounds; peaceful figures luminous and compassionate; beside each, a softer dimmer light points back toward conditioned existence; wrathful deities terrifying, dark, fanged, surrounded by flames, ornamented with skulls; figures are projections of own awakened mind; recognition is the path to liberation, flight leads to descent.
+      motifs:
+        - { slug: peaceful_deities, label: Peaceful deities, basis: Direct description of peaceful deities, confidence: high }
+        - { slug: wrathful_deities, label: Wrathful deities, basis: Direct description of wrathful deities, confidence: high }
+        - { slug: numinous_encounter, label: Numinous encounter, basis: Overwhelming numinous quality, confidence: high }
+        - { slug: brilliant_light_not_painful, label: Brilliant light not painful to look at, basis: Brilliant lights accompany figures, confidence: high }
+        - { slug: saturated_colors, label: Saturated colors, basis: Intense colors accompany figures, confidence: high }
+        - { slug: deafening_sound, label: Deafening sound, basis: Sounds like thousand-fold thunder, confidence: high }
+        - { slug: terror_of_dissolution, label: Terror of dissolution, basis: Wrathful figures evoke terror, confidence: high }
+        - { slug: dimmer_light_of_conditioned_existence, label: Dimmer light of conditioned existence, basis: Softer dimmer light pulls back toward conditioned existence, confidence: high }
+        - { slug: figures_as_projections_of_mind, label: Figures as projections of mind, basis: Figures recognized as projections of one's own awakened mind, confidence: high }
+        - { slug: recognition_yields_liberation, label: Recognition yields liberation, basis: Recognition is path to liberation, confidence: high }
+        - { slug: flight_leads_to_further_descent, label: Flight leads to further descent, basis: Fleeing the figures leads to further descent, confidence: high }
+
+    - passage_slug: sidpa_becoming
+      section: The Sidpa Bardo — The Bardo of Becoming
+      summary: Consciousness has subtle body capable of moving instantly to any place thought of, can pass through walls, except future womb; karmic results visited as visions of judgment, weighed deeds, persecutors, pursuers; cannot be heard by living relatives, food cannot be eaten; perceives realms of possible rebirth as scenes of attraction or repulsion; pulled into womb by karmic affinity, ends with conception.
+      motifs:
+        - { slug: subtle_body, label: Subtle body, basis: Subtle body capable of instant movement, confidence: high }
+        - { slug: passing_through_solid_objects, label: Passing through solid objects, basis: Can pass through walls and mountains, confidence: high }
+        - { slug: karmic_judgment_visions, label: Karmic judgment visions, basis: Visions of judgment and weighed deeds, confidence: high }
+        - { slug: persecutors_or_pursuers, label: Persecutors or pursuers, basis: Persecutors and pursuers in visions, confidence: high }
+        - { slug: buffeted_by_winds, label: Buffeted by winds, basis: Direct description of being buffeted by winds, confidence: high }
+        - { slug: illusory_shelter, label: Illusory shelter, basis: Sought shelters are illusory, confidence: medium }
+        - { slug: cannot_be_heard_by_living, label: Cannot be heard by the living, basis: Living relatives cannot hear the consciousness, confidence: high }
+        - { slug: food_cannot_be_eaten, label: Food cannot be eaten, basis: Food cannot be eaten, confidence: medium }
+        - { slug: visions_of_realms_of_rebirth, label: Visions of realms of rebirth, basis: Realms of rebirth perceived as scenes, confidence: high }
+        - { slug: drawn_by_karmic_affinity, label: Drawn by karmic affinity, basis: Pulled toward scene matching habits of mind, confidence: high }
+        - { slug: entry_into_womb, label: Entry into womb, basis: Pulled into the womb at conception, confidence: high }
+        - { slug: forgetting_at_rebirth, label: Forgetting at rebirth, basis: No recollection of bardo unless prepared, confidence: medium }
+
+# ----------------------------------------------------------------------------
+- text_id: contemplative.interior_castle.teresa_avila
+  source_path: texts/experiential/contemplative/interior-castle.md
+  tradition: contemplative
+  sub_corpus: contemplative
+  author_attribution: Teresa of Ávila
+  passages:
+
+    - passage_slug: first_mansion
+      section: The First Mansion — Self-Knowledge and Beginning
+      summary: Soul enters castle through prayer; first territory is self-knowledge; light from inner mansions reaches dimly; phenomenology is beginnings, distractions constant, world's noise reaches in.
+      motifs:
+        - { slug: turning_attention_inward, label: Turning attention inward, basis: Soul enters castle through prayer, confidence: high }
+        - { slug: self_knowledge, label: Self-knowledge, basis: First territory is self-knowledge, confidence: high }
+        - { slug: dim_inner_light_at_threshold, label: Dim inner light at threshold, basis: Light from inner mansions reaches only dimly, confidence: medium }
+        - { slug: distraction_in_early_practice, label: Distraction in early practice, basis: Distractions are constant, confidence: high }
+
+    - passage_slug: second_mansion
+      section: The Second Mansion — Practice of Prayer Amid Struggle
+      summary: Practitioner takes up prayer as discipline; struggle with distraction; prayer is dry, intermittently consoled, often stubborn return.
+      motifs:
+        - { slug: spiritual_dryness, label: Spiritual dryness, basis: Prayer is dry in early practice, confidence: high }
+        - { slug: stubborn_return_to_practice, label: Stubborn return to practice, basis: Practice is matter of stubborn return, confidence: high }
+        - { slug: many_turn_back, label: Many turn back, basis: Many turn back, defeated by difficulty, confidence: medium }
+
+    - passage_slug: third_mansion
+      section: The Third Mansion — The Exemplary Life and Recollection
+      summary: Practitioner has built habits of virtue and discipline; life is ordered and prayerful; quiet recollection of God during the day; danger is subtle complacency.
+      motifs:
+        - { slug: established_practice, label: Established practice, basis: Habits of virtue and discipline established, confidence: high }
+        - { slug: continuous_recollection_of_god, label: Continuous recollection of God, basis: Quiet recollection during the day, confidence: high }
+        - { slug: subtle_complacency, label: Subtle complacency, basis: Conviction that one has arrived, confidence: medium }
+
+    - passage_slug: fourth_mansion
+      section: The Fourth Mansion — The Prayer of Quiet and Supernatural Beginnings
+      summary: New quality enters prayer — not produced by effort but received; prayer of quiet, will rests in God; inflowing peace, sweetness around heart; spiritual consolations begin.
+      motifs:
+        - { slug: prayer_of_quiet, label: Prayer of quiet, basis: Direct mention of prayer of quiet, confidence: high }
+        - { slug: passive_reception, label: Passive reception, basis: State not produced by practitioner's effort but received, confidence: high }
+        - { slug: inflowing_peace, label: Inflowing peace, basis: Inflowing peace described, confidence: high }
+        - { slug: spiritual_consolation, label: Spiritual consolation, basis: Spiritual consolations begin, confidence: high }
+        - { slug: do_not_mistake_gifts_for_giver, label: Do not mistake gifts for giver, basis: Warning against mistaking consolation for God, confidence: high }
+
+    - passage_slug: fifth_mansion
+      section: The Fifth Mansion — The Prayer of Union and Spiritual Betrothal
+      summary: Faculties absorbed; soul rests in God; brief but unmistakable union; silkworm-butterfly transformation; orientation toward God irreversible; longing sharp and painful even amid joy.
+      motifs:
+        - { slug: prayer_of_union, label: Prayer of union, basis: Direct mention of prayer of union, confidence: high }
+        - { slug: faculties_absorbed, label: Faculties absorbed, basis: Faculties absorbed in God, confidence: high }
+        - { slug: silkworm_butterfly_transformation, label: Silkworm-butterfly transformation, basis: Image of silkworm dying in cocoon and emerging as butterfly, confidence: high }
+        - { slug: irreversible_orientation_to_god, label: Irreversible orientation to God, basis: Reorientation no longer reversible, confidence: high }
+        - { slug: sharp_longing_amid_joy, label: Sharp longing amid joy, basis: Longing sharp and painful even amid joy, confidence: medium }
+
+    - passage_slug: sixth_mansion
+      section: The Sixth Mansion — Visions, Locutions, Raptures, and the Wound of Love
+      summary: Intense graces and intense suffering; visions interior, imaginary, rarely corporeal; locutions heard with authority and peace; raptures take soul out of itself; wound of love constant; public misunderstanding accompanies state.
+      motifs:
+        - { slug: visions, label: Visions, basis: Direct mention of visions, confidence: high }
+        - { slug: locutions, label: Locutions, basis: Direct mention of locutions, confidence: high }
+        - { slug: raptures, label: Raptures, basis: Direct mention of raptures, confidence: high }
+        - { slug: wound_of_love, label: Wound of love, basis: Wound of love is constant, confidence: high }
+        - { slug: bodily_stillness_in_rapture, label: Bodily stillness in rapture, basis: Body becomes still during rapture, confidence: medium }
+        - { slug: senses_suspended, label: Senses suspended, basis: Senses suspended during rapture, confidence: medium }
+        - { slug: public_misunderstanding_of_mystic, label: Public misunderstanding of mystic, basis: Recognition, suspicion, slander accompany state, confidence: medium }
+        - { slug: dark_night_of_intense_presence, label: Dark night of intense presence, basis: Intensity ordinary self cannot bear, confidence: medium }
+
+    - passage_slug: seventh_mansion
+      section: The Seventh Mansion — Spiritual Marriage and Mystical Union
+      summary: Soul united with God in spiritual marriage; longing quiets, replaced by settled continuous presence; faculties continue ordinary work; union holds across action and suffering; quiet rather than ecstatic.
+      motifs:
+        - { slug: spiritual_marriage, label: Spiritual marriage, basis: Direct description of spiritual marriage, confidence: high }
+        - { slug: settled_continuous_presence_of_god, label: Settled continuous presence of God, basis: Continuous presence of God, confidence: high }
+        - { slug: union_holds_in_action, label: Union holds in action, basis: Action no longer separate from prayer, confidence: high }
+        - { slug: quiet_rather_than_ecstatic, label: Quiet rather than ecstatic, basis: State described as quiet, confidence: medium }
+        - { slug: ordinary_life_as_medium_of_union, label: Ordinary life as medium of union, basis: Ordinary duties continue, union holds, confidence: high }
+
+# ----------------------------------------------------------------------------
+- text_id: contemplative.yoga_sutras.patanjali
+  source_path: texts/experiential/contemplative/yoga-sutras.md
+  tradition: contemplative
+  sub_corpus: contemplative
+  author_attribution: Patanjali
+  passages:
+
+    - passage_slug: yamas
+      section: Yamas — The Five Restraints
+      summary: Five ethical disciplines — non-violence, truthfulness, non-stealing, continence, non-possessiveness; internal conditions whose stabilization quiets the mental disturbance from violating them.
+      motifs:
+        - { slug: ethical_restraint, label: Ethical restraint, basis: Direct description of five ethical disciplines, confidence: high }
+        - { slug: nonviolence_in_thought_and_act, label: Nonviolence in thought and act, basis: Ahimsa is non-violence in thought, word, and action, confidence: high }
+        - { slug: truthfulness, label: Truthfulness, basis: Satya is truthfulness, confidence: high }
+        - { slug: non_grasping, label: Non-grasping, basis: Asteya is non-stealing, absence of grasping, confidence: high }
+        - { slug: conservation_of_vital_energy, label: Conservation of vital energy, basis: Brahmacharya conserves vital energy, confidence: high }
+        - { slug: non_clinging_to_objects, label: Non-clinging to objects, basis: Aparigraha is non-possessiveness, confidence: high }
+
+    - passage_slug: niyamas
+      section: Niyamas — The Five Observances
+      summary: Five disciplines toward oneself — cleanliness, contentment, discipline, self-study, surrender; internal ground from which deeper practice becomes possible.
+      motifs:
+        - { slug: purity_of_body_speech_mind, label: Purity of body speech and mind, basis: Saucha is cleanliness, confidence: high }
+        - { slug: contentment_independent_of_circumstance, label: Contentment independent of circumstance, basis: Santosha is settled contentment, confidence: high }
+        - { slug: discipline_through_friction, label: Discipline through friction, basis: Tapas purifies through friction, confidence: high }
+        - { slug: self_study, label: Self-study, basis: Svadhyaya is examination of one's mind, confidence: high }
+        - { slug: surrender_to_ultimate, label: Surrender to ultimate, basis: Ishvara pranidhana is orientation toward something greater, confidence: high }
+
+    - passage_slug: asana
+      section: Asana — Posture
+      summary: Stable comfortable seat; breath becomes regular; body fades from awareness as source of distraction.
+      motifs:
+        - { slug: stable_comfortable_seat, label: Stable comfortable seat, basis: Direct description of stable seat, confidence: high }
+        - { slug: regularization_of_breath, label: Regularization of breath, basis: Breath becomes regular, confidence: high }
+        - { slug: body_quieted_as_distraction, label: Body quieted as distraction, basis: Body fades as source of distraction, confidence: medium }
+
+    - passage_slug: pranayama
+      section: Pranayama — Breath Regulation
+      summary: Conscious work with breath; breath becomes long, smooth, subtle; gaps between exhale and inhale lengthen; senses begin to draw inward; state luminous and quiet.
+      motifs:
+        - { slug: breath_regulation, label: Breath regulation, basis: Direct description of conscious work with breath, confidence: high }
+        - { slug: subtle_breath, label: Subtle breath, basis: Breath becomes long, smooth, subtle, confidence: high }
+        - { slug: senses_drawn_inward, label: Senses drawn inward, basis: Senses begin to draw inward, confidence: medium }
+        - { slug: luminous_quiet_state, label: Luminous quiet state, basis: State induced as luminous and quiet, confidence: medium }
+
+    - passage_slug: pratyahara
+      section: Pratyahara — Sense Withdrawal
+      summary: Senses turn inward; eyes still see and ears still hear, but attention not pulled outward; world that occupies awareness recedes; field of mind itself remains.
+      motifs:
+        - { slug: sense_withdrawal, label: Sense withdrawal, basis: Direct description of senses turning inward, confidence: high }
+        - { slug: turning_attention_inward, label: Turning attention inward, basis: Attention no longer pulled outward, confidence: high }
+        - { slug: field_of_mind_itself, label: Field of mind itself, basis: Field of mind remains as object, confidence: medium }
+
+    - passage_slug: dharana
+      section: Dharana — Concentration
+      summary: Attention fixed on single object; mind returns to object whenever it wanders; capacity to hold attention undisturbed by passing thoughts.
+      motifs:
+        - { slug: one_pointed_concentration, label: One-pointed concentration, basis: Attention fixed on single object, confidence: high }
+        - { slug: training_of_attention, label: Training of attention, basis: Capacity developed through practice, confidence: high }
+
+    - passage_slug: dhyana
+      section: Dhyana — Meditation
+      summary: Concentration becomes continuous; attention no longer leaves object; gap between practitioner and object narrows.
+      motifs:
+        - { slug: continuous_meditation, label: Continuous meditation, basis: Concentration becomes continuous, confidence: high }
+        - { slug: narrowing_gap_between_subject_and_object, label: Narrowing gap between subject and object, basis: Gap between practitioner and object narrows, confidence: high }
+
+    - passage_slug: samadhi
+      section: Samadhi — Absorption
+      summary: Distinction between subject and object dissolves; absorption into object of meditation; structure of meditator and meditated dissolves.
+      motifs:
+        - { slug: absorption, label: Absorption, basis: Direct description of absorption into object, confidence: high }
+        - { slug: dissolution_of_subject_object, label: Dissolution of subject-object distinction, basis: Distinction between subject and object dissolves, confidence: high }
+
+    - passage_slug: savitarka_samadhi
+      section: Savitarka Samadhi — Absorption with Gross Reasoning
+      summary: Mind absorbed into object, but verbal and conceptual reasoning continues; object grasped together with name and concept.
+      motifs:
+        - { slug: absorption_with_concepts, label: Absorption with concepts, basis: Absorption while conceptual reasoning continues, confidence: high }
+        - { slug: object_grasped_with_name, label: Object grasped with name, basis: Object grasped together with name and concept, confidence: medium }
+
+    - passage_slug: nirvitarka_samadhi
+      section: Nirvitarka Samadhi — Absorption Without Gross Reasoning
+      summary: Verbal-conceptual layer falls away; object grasped directly without mediation of name and concept; immediate naked perception.
+      motifs:
+        - { slug: absorption_without_concepts, label: Absorption without concepts, basis: Verbal-conceptual layer falls away, confidence: high }
+        - { slug: naked_perception, label: Naked perception, basis: Object grasped directly without concept, confidence: high }
+        - { slug: knowing_without_chatter_of_categories, label: Knowing without chatter of categories, basis: Knowing without conceptual processing, confidence: medium }
+
+    - passage_slug: savichara_samadhi
+      section: Savichara Samadhi — Absorption with Subtle Reasoning
+      summary: Absorption into subtle objects with subtle reasoning; object of contemplation has become finer.
+      motifs:
+        - { slug: subtle_absorption, label: Subtle absorption, basis: Object of contemplation has become finer, confidence: medium }
+
+    - passage_slug: nirvichara_samadhi
+      section: Nirvichara Samadhi — Absorption Without Subtle Reasoning
+      summary: Subtle reasoning falls away; subtle object grasped directly; clear unmistaken knowledge.
+      motifs:
+        - { slug: subtle_absorption_without_reasoning, label: Subtle absorption without reasoning, basis: Subtle reasoning falls away, confidence: medium }
+        - { slug: clear_unmistaken_knowledge, label: Clear unmistaken knowledge, basis: Particular kind of clear knowledge results, confidence: medium }
+
+    - passage_slug: sananda_samadhi
+      section: Sananda Samadhi — Absorption with Bliss
+      summary: Samadhi suffused with bliss; bliss-quality of awareness grasped directly.
+      motifs:
+        - { slug: bliss_or_joy, label: Bliss or joy, basis: Samadhi suffused with bliss, confidence: high }
+        - { slug: bliss_as_object_of_meditation, label: Bliss as object of meditation, basis: Bliss-quality of awareness grasped directly, confidence: medium }
+
+    - passage_slug: sasmita_samadhi
+      section: Sasmita Samadhi — Absorption with the Sense of Pure Self
+      summary: Awareness rests on bare sense of "I am" — most fundamental layer of self-experience prior to any content.
+      motifs:
+        - { slug: bare_sense_of_i_am, label: Bare sense of I am, basis: Awareness rests on bare sense of "I am", confidence: high }
+        - { slug: pure_subjectivity, label: Pure subjectivity, basis: Resting in pure subjectivity, confidence: high }
+
+    - passage_slug: asamprajnata_samadhi
+      section: Asamprajnata Samadhi — Seedless Samadhi
+      summary: Deepest samadhi; objects of awareness gone; sense of pure self gone; unconditioned awareness with no content; long-running modifications of mind cease.
+      motifs:
+        - { slug: seedless_samadhi, label: Seedless samadhi, basis: Direct description of seedless samadhi, confidence: high }
+        - { slug: unconditioned_awareness_without_content, label: Unconditioned awareness without content, basis: Awareness with no content, confidence: high }
+        - { slug: cessation_of_mental_modifications, label: Cessation of mental modifications, basis: Modifications of mind cease, confidence: high }
+        - { slug: standing_in_true_nature, label: Standing in true nature, basis: Practitioner stands in true nature, confidence: high }
+
+# ----------------------------------------------------------------------------
+- text_id: contemplative.underhill_mystical_way.mysticism_1911
+  source_path: texts/experiential/contemplative/underhill-mystical-way.md
+  tradition: contemplative
+  sub_corpus: contemplative
+  author_attribution: Evelyn Underhill
+  passages:
+
+    - passage_slug: awakening
+      section: The Awakening of Self
+      summary: Sudden conversion or gradual deepening; recognition of real Other and its centrality; world charged with significance; orientation is permanent.
+      motifs:
+        - { slug: sudden_conversion, label: Sudden conversion, basis: Some experience awakening as sudden conversion, confidence: high }
+        - { slug: recognition_of_divine_as_real, label: Recognition of divine as real, basis: Recognition that there is a real Other, confidence: high }
+        - { slug: world_charged_with_significance, label: World charged with significance, basis: World appears charged with significance, confidence: high }
+        - { slug: irreversible_orientation_to_god, label: Irreversible orientation to God, basis: Orientation cannot be returned from, confidence: high }
+        - { slug: vocation, label: Vocation, basis: Sense of vocation accompanies awakening, confidence: medium }
+
+    - passage_slug: purification
+      section: The Purification of Self
+      summary: Long work of removing what stands in the way; struggle of via purgativa; gap between vision and self exposed; habits, attachments, vanities detached; relief and grief.
+      motifs:
+        - { slug: purification, label: Purification, basis: Direct mention of purification, confidence: high }
+        - { slug: via_purgativa, label: Via purgativa, basis: Underhill names this stage via purgativa, confidence: high }
+        - { slug: detachment_from_attachments, label: Detachment from attachments, basis: Habits and attachments are detached, confidence: high }
+        - { slug: ascetic_practice, label: Ascetic practice, basis: Asceticism, prayer, confession, renunciation, confidence: high }
+        - { slug: relief_and_grief, label: Relief and grief, basis: Relief at being unencumbered, grief at loss, confidence: medium }
+
+    - passage_slug: illumination
+      section: The Illumination of Self
+      summary: World perceived as manifestation of divine; saturated meaning; profound steady joy; contemplative prayer; visions and locutions may begin; effective in world.
+      motifs:
+        - { slug: illumination, label: Illumination, basis: Direct mention of illumination, confidence: high }
+        - { slug: world_saturated_with_meaning, label: World saturated with meaning, basis: Saturated meaning in ordinary things, confidence: high }
+        - { slug: contemplative_prayer, label: Contemplative prayer, basis: Prayer becomes contemplative, confidence: high }
+        - { slug: visions, label: Visions, basis: Visions may begin, confidence: medium }
+        - { slug: locutions, label: Locutions, basis: Locutions may begin, confidence: medium }
+        - { slug: effective_action_in_world, label: Effective action in world, basis: Mystic functions effectively in world, confidence: high }
+        - { slug: encounter_with_divine_as_other, label: Encounter with divine as other, basis: Divine still encountered as Other, confidence: medium }
+
+    - passage_slug: dark_night
+      section: The Dark Night of the Soul
+      summary: Felt presence of God withdrawn; prayer becomes dry; consolation disappears; despair, doubt, sense of being lost; deeper layers of self addressed by withdrawal of consolation.
+      motifs:
+        - { slug: dark_night_of_soul, label: Dark night of the soul, basis: Direct description of dark night, confidence: high }
+        - { slug: felt_abandonment, label: Felt abandonment, basis: Direct description of stripping of supports, confidence: high }
+        - { slug: withdrawal_of_consolation, label: Withdrawal of consolation, basis: Consolations disappear, confidence: high }
+        - { slug: spiritual_dryness, label: Spiritual dryness, basis: Prayer becomes dry, confidence: high }
+        - { slug: despair_or_doubt, label: Despair or doubt, basis: Despair, doubt, sense of being lost, confidence: high }
+        - { slug: continuing_practice_without_reward, label: Continuing practice without reward, basis: Mystic continues without rewards, confidence: high }
+        - { slug: deepening_through_loss, label: Deepening through loss, basis: Deeper layers addressed by withdrawal, confidence: high }
+
+    - passage_slug: unitive_life
+      section: The Unitive Life
+      summary: Stable continuous communion with the divine; alternation of presence and absence ends; settled medium of life; effective in world; productive in vocation; transparency to world.
+      motifs:
+        - { slug: unitive_life, label: Unitive life, basis: Direct mention of unitive life, confidence: high }
+        - { slug: settled_continuous_presence_of_god, label: Settled continuous presence of God, basis: Continuous communion with divine, confidence: high }
+        - { slug: end_of_alternation_presence_absence, label: End of alternation of presence and absence, basis: Alternation ends, confidence: high }
+        - { slug: effective_action_in_world, label: Effective action in world, basis: Action in world becomes effective, confidence: high }
+        - { slug: transparency_to_world, label: Transparency to world, basis: Transparency to the world, confidence: high }
+        - { slug: vocation_as_productive_activity, label: Vocation as productive activity, basis: Founders, reformers, healers, writers, confidence: medium }
+        - { slug: ordinary_life_as_medium_of_union, label: Ordinary life as medium of union, basis: Ordinary doings carry union, confidence: high }
+

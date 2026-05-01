@@ -1,0 +1,66 @@
+---
+record_id: extraction.experiential.contemplative_yoga_sutras.dharana
+source_text_path: texts/experiential/contemplative/yoga-sutras.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: Dharana — Concentration
+  start: '79'
+  end: '82'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Attention fixed on single object; mind returns to object whenever it wanders; capacity to hold attention undisturbed by passing thoughts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Attention fixed on single object; mind returns to object whenever it wanders; capacity to hold attention undisturbed by passing thoughts.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: One-pointed concentration
+  taxonomy_refs:
+  - one_pointed_concentration
+  basis: Attention fixed on single object
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Training of attention
+  taxonomy_refs:
+  - training_of_attention
+  basis: Capacity developed through practice
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Dharana — Concentration (lines 79-82)'
+  quote_or_summary: Attention is fixed on a single object — an image, a sound, a region of the body, the breath, a sacred name. The mind returns to the object whenever it wanders. Initially this is effortful; with practice the return becomes faster and the wandering shorter.
+  source_text_path: texts/experiential/contemplative/yoga-sutras.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.yoga_sutras.patanjali.'

@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.contemplative_yoga_sutras.pratyahara
+source_text_path: texts/experiential/contemplative/yoga-sutras.md
+tradition: contemplative
+sub_corpus: contemplative
+passage_locator:
+  label: Pratyahara — Sense Withdrawal
+  start: '75'
+  end: '78'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Senses turn inward; eyes still see and ears still hear, but attention not pulled outward; world that occupies awareness recedes; field of mind itself remains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Senses turn inward; eyes still see and ears still hear, but attention not pulled outward; world that occupies awareness recedes; field of mind itself remains.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sense withdrawal
+  taxonomy_refs:
+  - sense_withdrawal
+  basis: Direct description of senses turning inward
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Turning attention inward
+  taxonomy_refs:
+  - turning_attention_inward
+  basis: Attention no longer pulled outward
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Field of mind itself
+  taxonomy_refs:
+  - field_of_mind_itself
+  basis: Field of mind remains as object
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Pratyahara — Sense Withdrawal (lines 75-78)'
+  quote_or_summary: The senses turn inward. The eyes still see and the ears still hear, but attention is no longer pulled outward by sensory content. The phenomenology is one of growing interiority — the world that ordinarily occupies awareness recedes, and what remains is the field of mind itself.
+  source_text_path: texts/experiential/contemplative/yoga-sutras.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: contemplative.yoga_sutras.patanjali.'

@@ -1,0 +1,75 @@
+---
+record_id: extraction.experiential.nde_van_lommel_elements.tunnel
+source_text_path: texts/experiential/nde/van-lommel-elements.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Moving Through a Tunnel
+  start: '69'
+  end: '72'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Sensation of moving through enclosed dark space toward light; motion is smooth and irresistible.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sensation of moving through enclosed dark space toward light; motion is smooth and irresistible.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Dark tunnel
+  taxonomy_refs:
+  - dark_tunnel
+  basis: Direct mention of tunnel
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Rapid smooth transit
+  taxonomy_refs:
+  - rapid_smooth_transit
+  basis: Movement described as smooth and drawing rather than self-propelled
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Light at end of tunnel
+  taxonomy_refs:
+  - light_at_end_of_tunnel
+  basis: Light is visible at end or ahead
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Moving Through a Tunnel (lines 69-72)'
+  quote_or_summary: A sensation of moving through an enclosed dark space, usually with a light visible ahead or at the end. The motion is reported as smooth and irresistible, neither walking nor flying — a transit. Some accounts describe a tunnel, others a passage, a corridor, or a region of darkness traversed quickly.
+  source_text_path: texts/experiential/nde/van-lommel-elements.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.van_lommel_elements.lancet_2001.'

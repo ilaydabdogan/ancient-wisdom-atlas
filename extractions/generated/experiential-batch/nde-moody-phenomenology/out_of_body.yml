@@ -1,0 +1,93 @@
+---
+record_id: extraction.experiential.nde_moody_phenomenology.out_of_body
+source_text_path: texts/experiential/nde/moody-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: Out of the Body
+  start: '76'
+  end: '79'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: The experiencer perceives themselves apart from the physical body, often watching it from above with panoramic clarity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The experiencer perceives themselves apart from the physical body, often watching it from above with panoramic clarity.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Out-of-body experience
+  taxonomy_refs:
+  - out_of_body_experience
+  basis: Experiencer is apart from body and sees it from outside
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Viewing the body from above
+  taxonomy_refs:
+  - viewing_body_from_above
+  basis: Common vantage point is above the bed
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Panoramic clear vision
+  taxonomy_refs:
+  - panoramic_clear_vision
+  basis: Vision in the OBE is described as sharp and panoramic
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Subtle body
+  taxonomy_refs:
+  - subtle_body
+  basis: A weightless nonphysical body is perceived
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Unable to be heard by the living
+  taxonomy_refs:
+  - unable_to_be_heard_by_living
+  basis: Attempts to speak to those present fail
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: Out of the Body (lines 76-79)'
+  quote_or_summary: The experiencer finds themselves apart from their physical body, often watching it from above. They see the medical personnel working over them, see their family in the waiting room, see the ambulance, the hospital corridor. The vantage point is described as peculiarly clear — vision is sharp, panoramic, and not bound by walls or distance.
+  source_text_path: texts/experiential/nde/moody-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.moody_phenomenology.life_after_life_1975.'

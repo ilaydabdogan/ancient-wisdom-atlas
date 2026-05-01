@@ -1,0 +1,93 @@
+---
+record_id: extraction.experiential.nde_iands_phenomenology.being_of_light
+source_text_path: texts/experiential/nde/iands-phenomenology.md
+tradition: nde
+sub_corpus: nde
+passage_locator:
+  label: The Being of Light
+  start: '77'
+  end: '80'
+  translation: ''
+  notes: 'Manual extraction from experiential corpus source text; passage demarcated by the ## heading in the source.'
+canonical_text:
+  quote: ''
+  summary: Encounter with central luminous presence felt as personal, knowing, and overwhelmingly loving; communication is direct, without speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Encounter with central luminous presence felt as personal, knowing, and overwhelmingly loving; communication is direct, without speech.
+  category: summary
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Being of light
+  taxonomy_refs:
+  - being_of_light
+  basis: Central luminous presence
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:2
+  label: Brilliant light not painful to look at
+  taxonomy_refs:
+  - brilliant_light_not_painful
+  basis: Light is brilliant but bearable
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Overwhelming love
+  taxonomy_refs:
+  - overwhelming_love
+  basis: Encounter is suffused with love
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Complete acceptance
+  taxonomy_refs:
+  - complete_acceptance
+  basis: Felt fully accepted
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Religious figure perceived
+  taxonomy_refs:
+  - religious_figure_perceived
+  basis: Light may be identified by religious frame
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'section: The Being of Light (lines 77-80)'
+  quote_or_summary: Encounter with a central luminous presence felt as personal, knowing, and overwhelmingly loving. The light is brilliant but does not hurt to look at. Communication with it is direct, without speech.
+  source_text_path: texts/experiential/nde/iands-phenomenology.md
+  rights_note: Original phenomenological summary text written for the experiential corpus; safe to quote within the project.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Manual extraction from a structured phenomenological summary text. Motif slugs are experiential-only and are not normalized against the ancient corpus taxonomy.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Manually extracted on 2026-05-01. Pending review.
+extracted_by: human_reading
+extracted_at: '2026-05-01'
+notes: 'Generated from data/experiential/extraction-manifest.yml by scripts/build_experiential_extraction_records.rb. Source text id: nde.iands_phenomenology.iands_consensus.'
