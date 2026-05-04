@@ -1,3 +1,41 @@
+---
+id: comparison.consciousness_bridge
+title: The Consciousness Bridge
+pattern_type: cross_corpus_synthesis
+motifs:
+  - being_of_light
+  - panoramic_life_review
+  - ego_death
+  - oceanic_unity
+  - mystical_quest
+  - death_and_transformation
+  - otherworld
+  - sacred_time
+  - sacred_love
+traditions:
+  - egyptian
+  - sumerian
+  - greek
+  - christian
+  - sufi
+  - tibetan
+  - hindu
+  - nde
+  - psychedelic
+  - contemplative
+claim_level: structural_convergence
+confidence:
+  motif_match: high
+  historical_link: open
+  archetypal_reading: plausible
+sources:
+  experiential_taxonomy: taxonomy/experiential-motif-families.yml
+  ancient_taxonomy: taxonomy/motif-normalization.yml
+  comparison_data: data/indexes/cross-corpus-taxonomy-comparison.yml
+rights:
+  training_use: allowed
+---
+
 # The Consciousness Bridge
 
 *Cross-corpus findings from the Ancient Wisdom Atlas*
