@@ -1,0 +1,529 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+#
+# Bin the 432 divine_judgment child motifs into 10 sub-families.
+
+require "yaml"
+require "date"
+require "fileutils"
+
+ROOT = File.expand_path("..", __dir__)
+FREQUENCY_PATH = File.join(ROOT, "data/indexes/canonical-motif-frequency.yml")
+OUTPUT_PATH = File.join(ROOT, "data/normalization/sub-family-bins-divine-judgment.yml")
+FAMILY_ID = "divine_judgment"
+
+SUB_FAMILY_DEFS = [
+  ["divine_judgment_apocalypse_and_end_times", "Apocalypse and End Times",
+    "Cosmic portents at the last day, eschatological trumpet, gog-and-magog, plague-as-rider, the universal terror that signals divine reckoning of the whole world."],
+  ["divine_judgment_hell_and_fire", "Hell and Punitive Fire",
+    "Hell-fire as consummation, infernal trees and pits, fiery torment, underworld punishment, ritualized vengeance by fire."],
+  ["divine_judgment_mirrored_retribution", "Mirrored Retribution",
+    "Punishment that mirrors the offense: the criminal struck by his own method, weapons returned upon their throwers, plotters destroyed by their own devices, hoist by one's own petard."],
+  ["divine_judgment_rejected_warner_and_destruction", "Rejected Warner and Communal Destruction",
+    "Prophets and warners refused; cities and peoples that mocked the message; flood, fire, and divine attack on those who would not hear; the faithful remnant set apart."],
+  ["divine_judgment_hidden_exposed", "Hidden Wrongdoing Exposed",
+    "Concealed crimes revealed by witnesses human, animal, natural, or divine; hounds tracking the murderer; the all-seeing solar witness of secret adultery; pride betraying its own."],
+  ["divine_judgment_false_accusation_and_fraud_exposed", "False Accusation and Fraud Exposed",
+    "False accusation reversed onto the accuser; planted tokens, forged messages, fraudulent piety; vindication of the falsely blamed; truth overcoming falsehood."],
+  ["divine_judgment_repentance_and_mercy", "Repentance and Mercy",
+    "Repentance answered by forgiveness; merciful warning before destruction; intercession; the penitent restored; charity rewarded; the fragility of repentance after rescue."],
+  ["divine_judgment_pride_greed_and_hubris", "Pride, Greed, and Hubris",
+    "Pride cast down by divine thunder; greed transforming wealth into beggary; insatiable appetites; impious challenge of the divine; runaway celestial vehicles; futile fortifications."],
+  ["divine_judgment_vengeance_and_blood_guilt", "Vengeance and Blood Guilt",
+    "Kin avenging slain kin, parental and filial vengeance, blood-guilt across generations, sacred-violation triggering retribution, the inescapable avenging powers."],
+  ["divine_judgment_moral_causality_and_consequence", "Moral Causality and Consequence",
+    "Karma, sowing-and-harvest, deeds bearing delayed consequences, weighing of lives, divine omniscience, ethical command, free agency and moral recompense, the cosmic order."],
+  ["divine_judgment_idolatry_and_false_gods", "Idolatry and False Gods",
+    "Idols destroyed and exposed as powerless; false prophets defeated; satanic seduction away from right worship; calf-idol fashioned in the leader's absence; rejection of morally flawed gods."]
+]
+
+CHILDREN = {
+  "divine_judgment_apocalypse_and_end_times" => %w[
+    animals_and_things_speak_as_end_time_sign
+    animals_gather_under_apocalyptic_terror
+    apocalyptic_barrier_restraining_gog_and_magog
+    cosmic_portents_at_the_last_day
+    cosmic_record_and_accumulated_anguish
+    cosmic_transformation_at_the_day_of_judgment
+    death_figure_riding_through_plague_and_famine
+    end_time_creature_emerging_from_the_earth
+    eschatological_trumpet_and_universal_terror
+    plague_originating_daughter_of_death
+    religious_fragmentation_before_the_rise_of_a_new_religious_movement
+    religious_instruction_before_an_irreversible_final_day
+  ],
+  "divine_judgment_hell_and_fire" => %w[
+    banishment_to_fiery_and_watery_torment
+    burning_associated_with_trial_or_judgment
+    damned_transformed_into_fire
+    fiery_pit_as_instrument_of_religious_persecution
+    fire_as_punishment_of_the_wicked
+    hell_fire_as_punitive_consumption
+    impossible_or_endlessly_repeated_punishment
+    infernal_tree_of_punishment
+    punishment_by_fire_imagery
+    punishment_in_hell_fire
+    punitive_fire
+    punitive_fire_trap
+    underworld_punishment_threat
+  ],
+  "divine_judgment_mirrored_retribution" => %w[
+    betrayer_destroyed_by_own_treachery
+    bodily_penalty_mirrors_the_offending_body_part
+    captive_as_foreshadowed_doom_of_captor
+    corpse_dragger_punished_at_the_body
+    death_by_one_s_own_hunting_dogs
+    dismemberment_as_admonitory_example
+    fugitive_hides_in_a_place_that_fits_his_punishment_or_labor
+    hostile_weapon_turned_back_upon_attacker
+    ill_will_rebounding_on_its_instigator
+    mirrored_retribution_at_the_site_of_injury
+    moral_inversion_of_successful_injustice
+    plotter_destroyed_by_his_own_destructive_device
+    punishment_mirrors_the_criminal_s_own_method
+    pursuer_becomes_fugitive
+    pursuer_becomes_prey
+    pursuer_shares_the_prey_s_fatal_fate
+    retaliatory_punishment_mirroring_the_captive_s_former_cruelty
+    revenge_harms_the_avenger
+    reversal_of_punishment_onto_persecutor
+    ritual_punishment_through_dismemberment
+    sealed_message_carrying_the_bearer_s_death_warrant
+    slayer_immediately_slain_by_avenger
+    supernatural_retaliation_for_guileful_acquisition
+    thief_accidentally_made_to_perform_honest_labor
+    treacherous_sowing_of_discord_yields_fatal_harvest
+    unwitting_cannibal_feast_of_kin
+    villain_punished_by_own_method
+    violent_race_destroyed_by_its_own_hands
+    weapon_turned_back_upon_the_attacker
+    wickedness_destroys_its_bearer
+  ],
+  "divine_judgment_rejected_warner_and_destruction" => %w[
+    apostasy_and_replacement_of_a_religious_community
+    apostasy_followed_by_divine_replacement_of_a_community
+    arch_rebel_s_cruel_public_end_after_long_resistance
+    community_restored_after_deceiver_s_death
+    death_of_a_tyrant_celebrated_by_the_people
+    deceiver_disclaims_responsibility_after_judgment
+    defeated_ruler_sent_to_the_realm_of_death
+    deliverance_of_a_righteous_household_with_an_excluded_family_member
+    deliverance_of_the_oppressed_from_a_wicked_city
+    divine_attack_on_city_foundations
+    divine_or_claimed_divine_commission_to_destroy_religious_enemies
+    divine_or_supernatural_weapon_slays_deceiver
+    divine_signs_confront_an_opposing_ruler
+    failed_messenger_punished_by_ruler
+    faith_conquers_military_conquerors
+    faithful_defiance_before_temporal_power
+    faithful_remnant_contrasted_with_those_left_behind
+    final_unrepaired_destruction_of_a_sanctuary
+    flood_completing_destruction_of_defeated_enemies
+    ignored_warning_before_collective_water_death
+    innocent_group_threatened_by_collective_punishment
+    innocent_or_harmless_figure_punished_with_wrongdoers
+    late_peace_counsel_refused_before_final_destruction
+    mass_entry_into_the_divine_religion_after_victory
+    merciful_warning_before_destruction
+    messenger_rebukes_a_people_for_sexual_transgression
+    messengers_rejected_by_a_city
+    misleading_leaders_blamed_by_followers
+    monstrous_animal_as_divine_scourge
+    monstrous_birds_preying_on_children_before_communal_destruction
+    persecuted_truth_prevails_over_worldly_powers
+    pious_recognition_opposed_by_impious_companions
+    predecessor_messengers_mocked_before_later_vindication
+    prophet_opposed_by_wicked_enemies
+    prophetic_perseverance_amid_scoffing
+    prophetic_severed_head_foretells_violent_retribution
+    prophetic_signs_rejected_by_a_ruler
+    prophetic_warning_rejected_by_a_mocking_audience
+    prophetic_warning_rejected_by_a_people
+    prophetic_warning_rejected_by_affluent_or_former_peoples
+    prophetic_warning_rejected_by_unbelievers
+    prophets_accused_by_unjust_communities
+    public_reversal_of_a_hated_official
+    punitive_destruction_of_an_opposing_group
+    recognition_and_conversion_after_defeat
+    rejected_human_messenger
+    rejected_messenger_and_earlier_rejected_apostles
+    rejected_messengers_and_demanded_signs
+    rejected_miracle_signs
+    rejected_miraculous_sign
+    rejected_warner_and_inherited_ancestral_religion
+    rejected_warner_before_punishment
+    religious_reform_amid_crisis
+    repeated_public_warning_of_social_catastrophe
+    truth_telling_messenger_punished
+    wrathful_envoy_challenges_a_pleasure_bound_ruler
+  ],
+  "divine_judgment_hidden_exposed" => %w[
+    appeal_to_nature_and_local_divinities_as_witnesses
+    bird_messenger_revealing_secret_sexual_or_marital_deeds
+    blood_betrays_concealed_killing
+    concealment_fails_before_a_more_observant_authority
+    concealment_test_of_justice
+    cosmic_witnesses_to_hidden_wrongdoing
+    divine_omniscience_of_hidden_intentions
+    divine_omniscience_over_hidden_withdrawal
+    earth_witness_vindicates_the_hero_against_an_adversary
+    guilty_enemy_preserved_as_permanent_monument
+    hidden_crime_revealed_by_animal_voice
+    hidden_wrongdoing_eventually_exposed
+    hounds_tracking_a_murderer
+    nature_as_witness_to_hidden_violence
+    pride_reveals_hidden_wrongdoing
+    public_humiliation_of_deceivers
+    punishment_after_secret_theft_is_exposed
+    revelation_exposes_concealed_hearts
+    rival_women_quarrel_at_water_and_reveal_a_concealed_wrong
+    secret_adultery_exposed_by_an_all_seeing_solar_witness
+    silenced_victim_gives_nonverbal_testimony
+    speaking_severed_head_accuses_the_wrongdoer
+    theft_exposed_by_a_decoy_object
+    wrongdoer_exposed_and_faithful_helper_rewarded
+    wrongdoer_involuntarily_reveals_hidden_crime
+    wronged_husband_traps_adulterous_lovers_in_an_invisible_net
+  ],
+  "divine_judgment_false_accusation_and_fraud_exposed" => %w[
+    absurd_exchange_value_reveals_corruption
+    absurd_valuation_as_moral_exposure
+    accusation_of_black_magic_leading_to_condemnation
+    armed_accuser_summons_a_champion_to_prove_treachery_by_combat
+    corrupt_appointment_leads_to_public_humiliation
+    destructive_imitation_of_rewarded_virtue
+    false_abstainer_revealed_through_intoxication
+    false_accusation_after_rejected_sexual_advance
+    false_accusation_by_planted_tokens_and_forged_message
+    false_accusation_leads_to_bride_s_animal_trampling
+    false_accusation_overturned_by_demonstrated_virtue
+    false_accusation_reversed_onto_accuser
+    false_accusation_supported_by_planted_treasure
+    false_blame_for_child_murder
+    false_healer_exposed_by_a_practical_test
+    false_or_premature_condemnation_corrected_by_proper_inquiry
+    false_piety_exposed_by_divine_witness
+    false_piety_exposed_by_temptation
+    false_tears_and_praised_wrongdoing
+    fatal_accusation_leading_to_death_by_frightened_horses
+    fraud_exposed_by_makers_of_the_false_treasure
+    impostor_punished_by_authority
+    knight_vindicates_a_falsely_blamed_woman_through_combat
+    misleading_friend_causes_spiritual_loss
+    outward_virtue_concealing_hidden_injustice
+    patient_righteous_vindicated_after_persecution
+    public_humiliation_penance_after_alleged_child_killing
+    regret_over_a_misleading_companion
+    self_imprecation_to_prove_innocence
+    successive_false_or_mistaken_confessions
+    temptation_resisted_and_vindication_by_material_sign
+    truth_overcomes_falsehood
+    vindication_of_an_accused_religious_woman
+    wrong_redressed_by_knightly_combat
+  ],
+  "divine_judgment_repentance_and_mercy" => %w[
+    charity_and_good_deeds_followed_by_heaven
+    condemned_person_requests_a_temporary_reprieve_to_settle_household_obligations
+    conquest_followed_by_clemency_and_selective_punishment
+    crisis_piety_at_sea_followed_by_relapse
+    defeated_opponent_spared_on_condition_of_public_atonement
+    divine_trial_repentance_and_restoration
+    exclusive_divine_control_of_intercession
+    failed_supplication_for_mercy
+    filial_devotion_rewarded_after_death
+    hope_for_mercy_despite_confessed_sin
+    hope_subordinated_to_divine_will
+    late_repentance_or_charity_sought_at_death
+    magical_punishment_followed_by_reconciliation
+    maternal_intercession_secures_pardon
+    merciful_forgiveness_after_confession_of_wrongdoing
+    merciful_reception_after_repentance
+    merciful_release_after_moral_recognition
+    merciful_restoration_after_repentance
+    mercy_after_persecution_perseverance_and_repentance
+    mercy_and_repentance_before_irreversible_punishment
+    mercy_exceeding_forgiveness
+    mysterious_one_eyed_company_under_nightly_penance
+    mysterious_ritual_punishment_followed_by_compassion
+    penitence_after_revelation
+    plea_for_mercy_rejected_after_weighing_benefit_against_harm
+    prayer_in_danger_followed_by_forgetfulness_after_rescue
+    prayer_in_distress_followed_by_forgetfulness_after_deliverance
+    recantation_averting_or_reversing_divine_harm
+    repentance_after_ruined_possession
+    repentance_after_transgression
+    repentance_answered_by_forgiveness
+    repentance_before_punishment_and_divine_mercy
+    repentance_followed_by_divine_mercy
+    repentance_followed_by_restored_household_welfare
+    ritual_purification_of_sin
+    ruler_elicits_confession_through_reassurance
+    storm_at_sea_prompting_sincere_supplication_and_later_wavering
+    turning_to_god_in_adversity_and_relapsing_after_mercy
+  ],
+  "divine_judgment_pride_greed_and_hubris" => %w[
+    counsel_ignored_before_pursuit
+    cursed_wasteland_caused_by_grief_and_anger
+    divine_objection_to_human_fortification
+    failed_management_of_divine_or_solar_vehicle
+    fantasy_of_wealth_from_a_small_possession
+    fatal_reversal_of_expected_abundance
+    futile_human_refuge_before_heavenly_punishment
+    futile_works_as_mirage_and_darkness_without_divine_light
+    greed_contrasted_with_temperance
+    greed_escalating_after_acquisition_of_wealth
+    greed_for_fruit_leads_to_murder_and_retaliation
+    greed_transforms_wealth_into_beggary
+    greedy_coercion_punished_by_overwhelming_production
+    immodesty_causing_loss
+    impious_and_riotous_man_brought_to_ruin
+    impious_challenger_cast_down_by_divine_thunder
+    insatiable_appetite_as_curse
+    insatiable_hunger_leading_to_self_consumption
+    madness_replacing_temperance
+    modest_gift_rewarded_greedy_choice_punished
+    prosperous_garden_destroyed_by_fiery_wind
+    runaway_celestial_vehicle_causing_disaster
+    strong_partner_seizes_all_shares
+    wasteful_heir_dissipates_inherited_wealth
+    wealth_and_children_fail_as_protection_before_god
+    wealth_as_spiritual_test_and_punishment
+    wealth_personified_as_a_morally_suspect_companion
+    wise_counsel_ignored_before_combat
+  ],
+  "divine_judgment_vengeance_and_blood_guilt" => %w[
+    avenging_insult_to_humble_or_marginal_figures
+    child_avenges_murdered_parent
+    cowardice_in_battle_as_collective_blood_guilt
+    desecrated_giant_bird_nest_brings_avian_vengeance
+    divine_retaliation_through_love_magic
+    family_annihilation_by_supernatural_arrows
+    hostile_opponent_rendered_without_posterity
+    insult_remembered_and_repaid
+    judge_washes_hands_of_blood_guilt
+    maternal_self_punishment_by_sword
+    parental_vengeance_for_dead_child
+    private_vengeance_followed_by_public_judgment
+    proportionate_vengeance_followed_by_divine_assistance
+    punitive_sword_sent_for_suicide_after_incestuous_pregnancy
+    pursuit_by_inescapable_avenging_powers
+    reciprocal_loss_of_offspring_as_revenge
+    retaliation_for_insult_to_vulnerable_or_low_status_figures
+    retribution_for_cruelty_to_a_helpful_animal
+    ritualized_vengeance_by_fire
+    royal_woman_degraded_as_punishment_for_political_insult
+    sacred_tree_violation_and_retribution
+    soul_bird_demanding_blood_vengeance
+    subterranean_household_beings_punish_neglect
+    successive_animal_and_object_helpers_punish_offender
+    supernatural_avenger_emerging_from_smoke
+    supernatural_hound_as_avenging_agent
+    vengeance_for_insult_and_prior_deceit
+    vengeful_destruction_of_an_enemy_people
+    vengeful_rejection_of_reconciliation
+    violated_protection_followed_by_vengeance
+    violence_against_a_suppliant_at_an_altar
+  ],
+  "divine_judgment_moral_causality_and_consequence" => %w[
+    ancestral_exemplars_judging_later_imitators
+    animal_fable_of_stronger_over_weaker
+    animal_mark_punishment_for_foolish_judgment
+    appearance_of_virtue_rewarded_over_virtue_itself
+    betrayal_of_duty_punished
+    body_and_soul_jointly_liable
+    burden_of_toil
+    chain_of_transferred_blame
+    children_punished_for_father_s_offense
+    chosen_destiny_and_moral_responsibility
+    claim_to_divide_the_earth_rejected_by_divine_ownership
+    complaint_against_unjust_cosmic_order
+    consolation_in_enemy_s_equal_ruin
+    cosmic_scale_against_a_small_cast_object
+    court_culprit_seized_for_punishment
+    creation_for_moral_testing_and_guidance
+    creator_as_potter_shaping_and_judging_vessels
+    creator_destroys_created_vessel
+    deceptive_speaker_as_destroyer_of_land
+    deeds_bear_delayed_consequences
+    defeated_rival_gains_by_another_s_downfall
+    deity_s_favour_and_displeasure_control_fertility_and_famine
+    deity_with_absolute_power_over_life_and_death
+    delayed_consequence_after_escaped_antagonist
+    deliverance_from_peril_followed_by_ingratitude
+    disguised_catastrophe_mistaken_for_blessing
+    disguised_deity_receives_mortal_hospitality
+    disguised_envoy_tests_unknown_strangers
+    disobedience_after_victory_brings_losses
+    distinguishing_coerced_dependents_from_culpable_enemies
+    divine_act_of_humanity_contrasted_with_divine_cruelty
+    divine_agency_and_human_culpability_in_tension
+    divine_aid_withdrawn_by_higher_divine_order
+    divine_compulsion_used_to_explain_human_wrongdoing
+    divine_decree_overrides_individual_choice
+    divine_fault_finder
+    divine_judgment
+    divine_judgment_of_a_cultural_invention
+    divine_life_and_death_sovereignty
+    divine_maintenance_of_cosmic_order
+    divine_provision_withheld_or_granted
+    divine_punishment_by_water
+    divine_storm_destroys_vessel
+    ethical_command
+    ethical_justice_over_kinship_and_status
+    exile_or_death_as_punishment_for_crime
+    failed_guardian_punished_after_youth_s_peril
+    faithful_wives_attain_heaven_and_glory
+    false_alliance_leading_to_destruction
+    false_warning_leads_to_self_destruction_by_inaction
+    fatal_disregard_of_flight_warning
+    fatal_summons_disguised_as_honor
+    fate_as_karmic_consequence_across_births
+    former_act_produces_present_miracle
+    friendship_or_enmity_with_just_gods
+    heroic_life_performed_before_a_judging_community
+    hidden_evils_creeping_into_the_city
+    holiness_code
+    household_impiety_extended_to_civic_tyranny
+    human_free_agency_and_moral_recompense
+    human_ingratitude_toward_the_divine
+    human_stewardship_or_succession_as_a_divine_test
+    hydra_like_recurrence_of_corruption
+    impossible_task_warnings_against_transgression
+    improper_or_unfair_combat_punished
+    ingratitude_after_rescue
+    ingratitude_toward_a_benefactor
+    inherited_character_and_karma
+    inhospitable_host_tests_a_god_with_murder_and_human_flesh
+    judgment_and_ranking_of_lives
+    killing_from_concealment_justified_by_hunting_analogy
+    life_as_race_ending_in_crown_or_disgrace
+    madness_caused_mistaken_killing
+    measure_and_judgment_in_disputation
+    missed_opportunity_leading_to_destructive_remorse
+    monstrous_recurrence_of_civic_evils
+    moral_causality_as_sowing_and_harvest
+    moral_consequence_following_action
+    nonlethal_but_near_fatal_heroic_punishment
+    numerical_measure_of_moral_distance
+    obdurate_unbelief_as_constriction_and_blindness
+    origin_of_evil_and_need_for_labor
+    past_deed_causing_present_incapacity
+    personified_abstract_condition_paired_with_due_consequence
+    personified_obedient_cosmos
+    play_judgment_becomes_real_judgment
+    power_ignores_innocence_and_consumes_victim
+    primordial_transgression_argued_as_predestined
+    public_witness_to_punishment
+    punishment_for_aiding_an_enemy_side
+    punishment_of_negligent_caregivers_by_released_water
+    punitive_bodily_disfigurement_as_a_visible_mark
+    purging_the_noble_instead_of_the_corrupt
+    reckoning_of_unfulfilled_perfections
+    refusal_of_military_aid_because_of_divine_resentment_and_past_disaster
+    refusal_to_enter_destined_holy_land_and_resulting_wandering
+    restoration_of_stolen_property_through_adjudication
+    retributive_punishment_of_an_unrepentant_wrongdoer
+    righteous_across_communities_rewarded_by_god
+    righteous_rewarded_after_moral_testing_or_distinction
+    ritual_prohibition
+    river_deity_opposes_excessive_slaughter
+    ruler_persuaded_to_kill_a_benefactor
+    sacred_mark_borne_for_judgment
+    sea_vessels_subject_to_divine_wind_and_judgment
+    sealed_perception_of_the_negligent_unbeliever
+    signs_in_destroyed_predecessors_and_revived_land
+    small_disorder_growing_into_total_civic_disorder
+    small_injustice_growing_into_large_oppression
+    social_behavior_of_a_species_explained_by_punishment
+    speech_brings_ruin
+    spiritual_blindness_and_deafness_after_covenant_violation
+    spiritual_obstruction_through_sealed_faculties
+    stone_circle_judgment_assembly
+    succession_on_earth_as_divine_test
+    suffering_of_the_poor_rising_upward_as_destructive_force
+    test_reveals_unchanged_nature
+    theft_punished_by_death
+    thoughtless_friends_harm_the_helpless
+    thoughtless_play_causes_death_to_others
+    transmigration_of_the_soul_with_final_recompense
+    unaware_kin_after_punishment_of_family_members
+    unfair_or_morally_burdened_victory
+    unfair_or_preemptive_killing_in_a_duel_criticized_by_another_warrior
+    ungrateful_ruler_betrays_rescuer
+    unheeded_request_leads_to_punishment
+    virtuous_elder_rewarded_after_miraculous_act
+    well_meant_repayment_causing_destruction
+    witness_mediated_judgment_of_fault_after_killing
+  ],
+  "divine_judgment_idolatry_and_false_gods" => %w[
+    adversarial_being_followed_by_the_unfaithful_majority
+    calf_idol_fashioned_and_worshipped_in_leader_s_absence
+    challenge_to_powerless_idols
+    competing_or_false_prophet_defeated
+    deceiver_enemy_leading_followers_to_hell
+    demonic_companion_of_the_one_who_ignores_warning
+    desecration_of_ascetic_rites_by_violent_beings
+    destruction_of_former_idols_by_reforming_authority
+    destruction_of_idols_after_miraculous_proof
+    diabolic_request_for_snares_to_catch_humans
+    divine_protector_versus_powerless_false_gods
+    false_gods_fail_their_worshippers
+    false_prophet_exposed_and_overthrown
+    fearless_destruction_of_a_powerless_idol
+    iconoclasm_against_idols
+    iconoclasm_and_purification_of_a_central_city
+    loss_of_signs_and_satanic_seduction
+    misdirected_worship_of_powerless_beings
+    monotheistic_challenge_to_rival_gods
+    penitential_purification_after_misdirected_worship
+    penitential_supplication_after_household_idolatry
+    powerless_false_gods_exposed_by_a_small_creature
+    powerless_idols_contrasted_with_divine_protection
+    punishment_for_doctrinal_refusal
+    rejected_morally_flawed_gods
+    resistance_to_a_god_s_rites
+    ritual_derision_or_defective_worship_at_a_holy_house
+    satan_as_declared_foe_and_misleader
+    satanic_seduction_away_from_right_worship
+    satanic_suggestion_tested_and_nullified_by_god
+    tempter_disavows_the_tempted
+    tempting_adversary_s_path
+    tempting_path_of_the_devil
+    test_of_divinity_through_impious_meal
+    unseen_demonic_patrons_of_unbelievers
+  ]
+}.freeze
+
+def load_yaml(path)
+  YAML.safe_load(File.read(path), permitted_classes: [Date, Time], aliases: false) || {}
+end
+
+def main
+  freq = load_yaml(FREQUENCY_PATH)
+  family = freq.fetch("canonical_motifs").find { |g| g["canonical_motif_id"] == FAMILY_ID }
+  motifs = family.fetch("mapped_motifs").map { |m| m["motif_id"] }
+  motif_to_sub = {}
+  CHILDREN.each { |sub_id, list| list.each { |m| motif_to_sub[m] = sub_id } }
+  bins = Hash.new { |h, k| h[k] = [] }
+  unbinned = []
+  motifs.each do |m|
+    bin = motif_to_sub[m]
+    bin ? bins[bin] << m : unbinned << m
+  end
+  output = {
+    "generated_on" => Date.today.iso8601, "family" => FAMILY_ID,
+    "method" => "manual binning by reading slugs",
+    "total_motifs" => motifs.length,
+    "binned" => motifs.length - unbinned.length, "unbinned" => unbinned.length,
+    "sub_families" => SUB_FAMILY_DEFS.map { |id, label, description|
+      { "id" => id, "label" => label, "description" => description, "child_count" => bins[id].length, "children" => bins[id].sort }
+    },
+    "unbinned_children" => unbinned.sort
+  }
+  FileUtils.mkdir_p(File.dirname(OUTPUT_PATH))
+  File.write(OUTPUT_PATH, "---\n" + output.to_yaml(line_width: -1).sub(/\A---\n/, ""))
+  puts "#{FAMILY_ID}: #{motifs.length} total / #{motifs.length - unbinned.length} binned / #{unbinned.length} unbinned"
+  SUB_FAMILY_DEFS.each { |id, _, _| puts "  %-55s %4d" % [id, bins[id].length] }
+  unbinned.each { |m| puts "  UNBINNED: #{m}" } if unbinned.any?
+end
+main if $PROGRAM_NAME == __FILE__
