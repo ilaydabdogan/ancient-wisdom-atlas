@@ -1,0 +1,133 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { textRecords, humanize } from '../../lib/atlas.js';
+import { readingChunks, flattenMeta } from '../../lib/reading.js';
+
+export function getStaticPaths() {
+  return textRecords().map((t) => ({ params: { slug: t.slug }, props: { repoPath: t.repoPath } }));
+}
+
+const { repoPath } = Astro.props;
+const text = textRecords().find((t) => t.repoPath === repoPath);
+const chunks = readingChunks(text.fullPath);
+const metaRows = flattenMeta(text.metadata);
+
+const crumbs = [
+  { label: 'the Library', href: '/read/' },
+  { label: text.title },
+];
+---
+
+<Manuscript
+  title={`${text.title} — Ancient Wisdom Atlas`}
+  description={`Read ${text.title}${text.tradition ? ` (${humanize(text.tradition)} tradition)` : ''} in the Ancient Wisdom Atlas library.`}
+  crumbs={crumbs}
+>
+  <div class="reader" data-reader>
+    <header class="reader-head">
+      <p class="rubric">{text.tradition ? humanize(text.tradition) : 'source text'}</p>
+      <h1>{text.title}</h1>
+    </header>
+
+    <div class="reader-toolbar">
+      <details class="reader-meta">
+        <summary>About this text</summary>
+        <dl>
+          {metaRows.map(([label, value]) => (
+            <>
+              <dt>{label}</dt>
+              <dd>{value}</dd>
+            </>
+          ))}
+          <dt>repo path</dt>
+          <dd>{text.repoPath}</dd>
+        </dl>
+      </details>
+      <div class="reader-controls" aria-label="Text size">
+        <button type="button" class="font-step" data-step="-1" aria-label="Smaller text">A&minus;</button>
+        <button type="button" class="font-step" data-step="1" aria-label="Larger text">A+</button>
+      </div>
+    </div>
+
+    <article class="reading-column">
+      {chunks.map((c) => (
+        <div class="rchunk" id={`l-${c.line}`} set:html={c.html} />
+      ))}
+    </article>
+  </div>
+
+  <script is:inline>
+    (() => {
+      if (!document.querySelector('[data-reader]')) return;
+
+      // Reading progress thread.
+      const bar = document.createElement('div');
+      bar.className = 'reader-progress';
+      document.body.appendChild(bar);
+      const update = () => {
+        const doc = document.documentElement;
+        const max = doc.scrollHeight - window.innerHeight;
+        bar.style.width = max > 0 ? `${(window.scrollY / max) * 100}%` : '0';
+      };
+      window.addEventListener('scroll', update, { passive: true });
+      update();
+
+      // Evidence highlight: on #l-N, settle on the nearest anchor <= N.
+      let litEl = null;
+      let litTag = null;
+      const clearLit = () => {
+        if (litTag) { litTag.remove(); litTag = null; }
+        if (litEl) { litEl.classList.remove('rchunk-lit'); litEl = null; }
+      };
+      const scrollToLine = () => {
+        const match = window.location.hash.match(/^#l-(\d+)$/);
+        if (!match) return;
+        const target = Number(match[1]);
+        let best = null;
+        let bestLine = -1;
+        document.querySelectorAll('.rchunk[id^="l-"]').forEach((el) => {
+          const n = Number(el.id.slice(2));
+          if (n <= target && n > bestLine) { best = el; bestLine = n; }
+        });
+        if (!best) return;
+        clearLit();
+        const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        best.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'center' });
+        best.classList.add('rchunk-lit');
+        litEl = best;
+        const tag = document.createElement('span');
+        tag.className = 'rchunk-tag';
+        tag.textContent = '✦ evidence passage';
+        best.appendChild(tag);
+        litTag = tag;
+        if (!reduceMotion) {
+          window.setTimeout(() => {
+            if (litTag === tag) { tag.remove(); litTag = null; }
+          }, 4400);
+        }
+      };
+      scrollToLine();
+      window.addEventListener('hashchange', scrollToLine);
+      document.addEventListener('click', (event) => {
+        if (!litEl) return;
+        if (event.target.closest('a, button, summary, input, label')) return;
+        if (litEl.contains(event.target)) return;
+        clearLit();
+      });
+
+      // Persisted A-/A+ font size.
+      const KEY = 'atlas-reader-scale';
+      const apply = (scale) => document.body.style.setProperty('--reader-scale', scale);
+      let scale = 1;
+      try { scale = parseFloat(window.localStorage.getItem(KEY) || '1') || 1; } catch {}
+      apply(scale);
+      document.querySelectorAll('.font-step').forEach((button) => {
+        button.addEventListener('click', () => {
+          scale = Math.min(1.4, Math.max(0.85, scale + 0.075 * Number(button.dataset.step)));
+          try { window.localStorage.setItem(KEY, String(scale)); } catch {}
+          apply(scale);
+        });
+      });
+    })();
+  </script>
+</Manuscript>

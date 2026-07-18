@@ -1,0 +1,48 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { motifIndex, fmtInt } from '../../lib/atlas.js';
+
+const index = motifIndex();
+const widest = index.motifs
+  .slice()
+  .sort((a, b) => b.traditionCount - a.traditionCount || b.occurrenceCount - a.occurrenceCount)
+  .slice(0, 40);
+---
+
+<Manuscript
+  title="Motifs — Ancient Wisdom Atlas"
+  description="Every indexed motif has its own evidence page. Reach them by walking the descent, or start from the most widespread."
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">Motif evidence pages</p>
+      <h1>{fmtInt(index.motif_count)} motifs, {fmtInt(index.occurrence_count)} tagged passages</h1>
+      <div class="reading">
+        <p class="dropcap">
+          Each of the {fmtInt(index.motif_count)} indexed motifs has an evidence page
+          listing every tagged passage with its quote, and a link that lands on that
+          passage in the book itself. The intended way in is
+          <a href="/descent/">the descent</a> — the One, its families, their
+          sub-families, then the motifs. But if you would rather begin from the
+          patterns that travel farthest, the widest are below.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section>
+      <p class="rubric">The forty most widespread</p>
+      <ul class="motif-list" style="max-width: var(--measure);">
+        {widest.map((m) => (
+          <li class="motif-item">
+            <div class="motif-line">
+              <span class="motif-name"><a href={`/motifs/${m.slug}/`}>{m.label}</a></span>
+              <span class="motif-count">{fmtInt(m.occurrenceCount)} occurrences · {fmtInt(m.traditionCount)} traditions</span>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Manuscript>

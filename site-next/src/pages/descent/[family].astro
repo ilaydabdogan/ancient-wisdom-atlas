@@ -1,6 +1,6 @@
 ---
 import Manuscript from '../../layouts/Manuscript.astro';
-import { families, humanize, fmtInt, liveMotifUrl } from '../../lib/atlas.js';
+import { families, humanize, fmtInt, motifUrl } from '../../lib/atlas.js';
 
 export function getStaticPaths() {
   return families().map((f) => ({ params: { family: f.id }, props: { family: f } }));
@@ -89,14 +89,14 @@ const crumbs = [
       <section>
         <p class="rubric">Sub-families · the next landing down</p>
         {subFamilies.map((sf) => (
-          <div class="subfamily-block">
+          <div class="subfamily-block" id={sf.id}>
             <h3>{sf.label}</h3>
             <p class="subfamily-count">{fmtInt(sf.motifs.length)} motifs</p>
             <ul class="motif-list">
               {sf.motifs.map((m) => (
                 <li class="motif-item">
                   <div class="motif-line">
-                    <span class="motif-name"><a href={liveMotifUrl(m.id)}>{m.label}</a></span>
+                    <span class="motif-name"><a href={motifUrl(m.id)}>{m.label}</a></span>
                     {m.occurrenceCount !== null && (
                       <span class="motif-count">{fmtInt(m.occurrenceCount)} occurrences · {fmtInt(m.traditionCount)} traditions</span>
                     )}
@@ -133,7 +133,7 @@ const crumbs = [
             {unbinned.map((m) => (
               <li class="motif-item">
                 <div class="motif-line">
-                  <span class="motif-name"><a href={liveMotifUrl(m.id)}>{m.label}</a></span>
+                  <span class="motif-name"><a href={motifUrl(m.id)}>{m.label}</a></span>
                   {m.occurrenceCount !== null && (
                     <span class="motif-count">{fmtInt(m.occurrenceCount)} occurrences · {fmtInt(m.traditionCount)} traditions</span>
                   )}
@@ -152,8 +152,8 @@ const crumbs = [
     )}
 
     <p class="footnote" style="margin-top: 2.5rem;">
-      Motif links open the evidence pages on the current site, where each motif rests on
-      its quoted passages. Reader pages will join the descent here in a later pass.
+      Each motif link opens its evidence page: every tagged passage with its quote,
+      and a path into the book where the passage lives.
     </p>
   </div>
 </Manuscript>

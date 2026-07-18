@@ -1,0 +1,111 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import {
+  motifIndex,
+  motifData,
+  motifPlacement,
+  occurrenceReadLink,
+  humanize,
+  fmtInt,
+  slugify,
+} from '../../lib/atlas.js';
+
+export function getStaticPaths() {
+  return motifIndex().motifs.map((m) => ({ params: { slug: m.slug } }));
+}
+
+const { slug } = Astro.params;
+const motif = motifData(slug);
+const placement = motifPlacement().get(motif.motif_id) ?? null;
+
+// Group occurrences by tradition, widest evidence first.
+const byTradition = new Map();
+for (const occ of motif.occurrences) {
+  const key = occ.tradition ?? 'unattributed';
+  if (!byTradition.has(key)) byTradition.set(key, []);
+  byTradition.get(key).push(occ);
+}
+const groups = [...byTradition.entries()]
+  .map(([tradition, rows]) => ({
+    tradition,
+    anchor: `t-${slugify(tradition)}`,
+    rows: rows.slice().sort((a, b) =>
+      String(a.source_title).localeCompare(String(b.source_title)) ||
+      String(a.passage_locator).localeCompare(String(b.passage_locator))),
+  }))
+  .sort((a, b) => b.rows.length - a.rows.length || a.tradition.localeCompare(b.tradition));
+
+const crumbs = [
+  { label: 'the One', href: '/descent/' },
+  ...(placement
+    ? [
+        { label: placement.familyId, href: `/descent/${placement.familyId}/` },
+        ...(placement.subFamilyId
+          ? [{ label: placement.subFamilyLabel, href: `/descent/${placement.familyId}/#${placement.subFamilyId}` }]
+          : []),
+      ]
+    : []),
+  { label: motif.label },
+];
+
+const readLinks = new Map(motif.occurrences.map((occ) => [occ, occurrenceReadLink(occ)]));
+---
+
+<Manuscript
+  title={`${motif.label} — motif evidence — Ancient Wisdom Atlas`}
+  description={`Evidence for the motif “${motif.label}”: ${motif.occurrences.length} tagged passages across ${Object.keys(motif.traditions).length} traditions, each anchored to a quoted source.`}
+  crumbs={crumbs}
+>
+  <div class="folio">
+    <section class="motif-open">
+      <p class="rubric">Motif</p>
+      <h1>{motif.label}</h1>
+      <p class="mono-id">{motif.motif_id}</p>
+      {placement ? (
+        <p class="footnote" style="max-width: var(--measure);">
+          A motif of the <a href={`/descent/${placement.familyId}/`}>{placement.familyLabel}</a> family{placement.subFamilyLabel ? <Fragment>, within the sub-family <a href={`/descent/${placement.familyId}/#${placement.subFamilyId}`}>{placement.subFamilyLabel}</a></Fragment> : null}. Every row below is a tagged passage; each rests on a quote in its source text.
+        </p>
+      ) : (
+        <p class="footnote" style="max-width: var(--measure);">
+          This motif has not yet been gathered into a canonical family. Its evidence
+          stands on its own below, one tagged passage per row.
+        </p>
+      )}
+      <div class="stat-row">
+        <p class="stat"><strong>{fmtInt(motif.occurrences.length)}</strong> <span>occurrences</span></p>
+        <p class="stat"><strong>{fmtInt(Object.keys(motif.traditions).length)}</strong> <span>traditions</span></p>
+      </div>
+      {groups.length > 1 && (
+        <p class="tradition-jump">
+          {groups.map((g, i) => (
+            <span>{i > 0 ? ' · ' : ''}<a href={`#${g.anchor}`}>{humanize(g.tradition)}</a> ({g.rows.length})</span>
+          ))}
+        </p>
+      )}
+    </section>
+
+    <hr class="asterism" />
+
+    {groups.map((group) => (
+      <section id={group.anchor}>
+        <p class="rubric" style="margin-top: 1.5rem;">{humanize(group.tradition)}</p>
+        <ul class="occurrence-list">
+          {group.rows.map((occ) => (
+            <li class="occurrence">
+              <p class="occ-head">
+                <span class="occ-source">{occ.source_title ?? occ.source_text_path}</span>
+                {occ.passage_locator && <span class="occ-locator">{occ.passage_locator}</span>}
+                {occ.confidence && <span class="occ-confidence">confidence: {occ.confidence}</span>}
+              </p>
+              {occ.quote && <blockquote class="occ-quote">{occ.quote}</blockquote>}
+              {occ.basis && <p class="occ-basis">{occ.basis}</p>}
+              {readLinks.get(occ) && (
+                <a class="occ-read" href={readLinks.get(occ)}>read in the book <span class="arrow">→</span></a>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Manuscript>

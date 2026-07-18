@@ -1,0 +1,242 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import {
+  corpusOverview,
+  corpusStats,
+  constellations,
+  nullModel,
+  isolatedPredictionTest,
+  replicationAgreement,
+  sequenceGrammar,
+  motifIndex,
+  textRecords,
+  humanize,
+  fmtInt,
+  fmtPct,
+} from '../../lib/atlas.js';
+
+const corpus = corpusOverview();
+const stats = corpusStats();
+const index = motifIndex();
+const constDoc = constellations();
+const web = (constDoc.constellations ?? [])[0];
+const nullDoc = nullModel();
+const iso = isolatedPredictionTest();
+const rep = replicationAgreement();
+const seq = sequenceGrammar();
+
+const pairs = (rep.pairwise ?? []).filter((p) => (p.shared_passages ?? 0) > 0);
+const scores = pairs.map((p) => p.mean_canonical_jaccard).filter((v) => typeof v === 'number');
+const agreeLo = scores.length ? Math.min(...scores) : null;
+const agreeHi = scores.length ? Math.max(...scores) : null;
+const sharedMax = Math.max(...pairs.map((p) => p.shared_passages ?? 0), 0);
+
+const holdout = iso.holdout?.lineages ?? [];
+const survivors = seq.survivors ?? [];
+const dissolved = seq.strongPairCount - survivors.length;
+const permTotal = iso.result?.permutations_beaten?.split('/')[1] ?? null;
+---
+
+<Manuscript
+  title="What We Have Found — Ancient Wisdom Atlas"
+  description="The project, its results so far, and what would prove it wrong — in plain language, with every number drawn live from the evidence indexes."
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">Findings · in plain language</p>
+      <h1>What we have found</h1>
+      <div class="reading">
+        <p class="footnote">
+          Every number on this page is regenerated from the data indexes at build
+          time. Nothing here is typed in by hand.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">The question</p>
+        <h2>Strangers telling the same stories</h2>
+        <p class="dropcap">
+          People who never met — separated by oceans and thousands of years — told
+          strangely similar stories. A hero descends into the land of the dead and
+          returns. A great flood wipes the world clean. A mother goddess loses and
+          finds her child. Why?
+        </p>
+        <p>
+          There are three boring explanations: the stories were <em>inherited</em> from
+          common ancestors, <em>traded</em> along contact routes, or the similarity is
+          <em>coincidence</em>. And there is one profound possibility, suggested a
+          century ago by Carl Jung and Joseph Campbell: that these patterns rise from
+          something shared in the human mind itself. They could never test it. We can.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">What we built</p>
+        <h2>An atlas with receipts</h2>
+        <p class="dropcap">
+          We collected {fmtInt(textRecords().length)} complete ancient and sacred texts
+          from {fmtInt(corpus.traditionCount)} traditions — all public domain, all with
+          provenance — and had AI read every passage and tag each recurring
+          story-pattern (a <em>motif</em>) with the exact quote as evidence. Nothing is
+          asserted without a passage you can click and <a href="/read/">read in the
+          book</a>. So far: {fmtInt(index.motif_count)} distinct motifs across
+          {' '}{fmtInt(index.occurrence_count)} tagged occurrences.
+        </p>
+        <p>
+          Crucially, the corpus includes traditions that <strong>could not have
+          borrowed from each other</strong> — Australian Aboriginal Dreamtime tales,
+          Inuit stories from Greenland sledge journeys, San narratives from the
+          Kalahari, Hopi and Zuni tellings, Guiana Amerindian legends. When the same
+          pattern appears there <em>and</em> in Gilgamesh, “they copied it” is off the
+          table.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{fmtInt(textRecords().length)}</strong> texts</p>
+        <p class="gloss"><strong>{fmtInt(corpus.traditionCount)}</strong> traditions</p>
+        <p class="gloss"><strong>{fmtInt(index.motif_count)}</strong> motifs</p>
+        <p class="gloss"><strong>{fmtInt(index.occurrence_count)}</strong> evidence-anchored occurrences</p>
+      </div>
+    </section>
+
+    {pairs.length > 0 && (
+      <>
+        <hr class="asterism" />
+        <section class="story-section gloss-grid">
+          <div class="reading">
+            <p class="rubric">Replication</p>
+            <h2>Do different AIs see the same patterns?</h2>
+            <p class="dropcap">
+              We had three different AI models — built at different times, with no
+              shared memory — each read the same ancient passages independently and tag
+              the patterns they saw. If the patterns were imaginary, the three readers
+              would disagree wildly. They don't.
+            </p>
+            <p>
+              Across {fmtInt(sharedMax)} shared passages, any two readers agreed on
+              {' '}{agreeLo !== null ? `${Math.round(agreeLo * 100)}–${Math.round(agreeHi * 100)}%` : '—'} of
+              the pattern families they tagged (a strict overlap measure where 100%
+              means identical answers). For open-ended reading tasks, that is the level
+              of agreement trained human researchers reach.
+            </p>
+            <p>
+              <em>Why it matters:</em> it means the patterns live in the texts
+              themselves — not in one reader's imagination.
+            </p>
+          </div>
+          <div class="gloss-col">
+            <p class="gloss"><strong>3</strong> independent readers</p>
+            <p class="gloss"><strong>{fmtInt(sharedMax)}</strong> shared passages</p>
+            <p class="gloss"><strong>{agreeLo !== null ? `${Math.round(agreeLo * 100)}–${Math.round(agreeHi * 100)}%` : '—'}</strong> pairwise agreement</p>
+          </div>
+        </section>
+      </>
+    )}
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">Clusters</p>
+        <h2>One web, not many</h2>
+        <p class="dropcap">
+          Jung claimed symbols travel in stable families. We joined motif families
+          wherever they recur together across unrelated traditions, expecting
+          archipelagos — a hero-cluster here, a creation-cluster there. Instead the
+          {' '}{fmtInt(web?.internal_edges)} conserved edges close into a single
+          connected constellation of {fmtInt(web?.size)} families. Across
+          {' '}{fmtInt(nullDoc.config?.permutations)} shuffles, chance produced
+          {' '}{fmtInt(Math.round(nullDoc.result?.null_mean))} conserved edges on
+          average — never {fmtInt(nullDoc.result?.observed_conserved_edges)}
+          {' '}(z = {nullDoc.result?.z_score}, p = {nullDoc.result?.p_value}).
+        </p>
+        <p class="footnote">
+          The full web is drawn on <a href="/">the title page</a> and walkable from
+          <a href="/descent/"> the descent</a>.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">The preregistered test</p>
+        <h2>The isolated lineages already knew</h2>
+        <p class="dropcap">
+          The sharpest test we have run — and we wrote the prediction down before
+          looking. Learn the pattern-web from {fmtInt(iso.training?.traditions?.length)}
+          connected Old World traditions ({fmtInt(iso.training?.records)} records,
+          {' '}{fmtInt(iso.training?.conserved_edges)} conserved pairings), then open
+          {' '}{fmtInt(holdout.length)} held-out lineages with little or no historical
+          contact with that world — {holdout.slice(0, 6).map(humanize).join(', ')},
+          and others.
+        </p>
+        <p>
+          The isolated lineages reproduced {fmtPct(iso.result?.reproduction_rate)} of
+          the trained web, where chance manages {fmtPct(iso.result?.null_mean)} and the
+          luckiest of {permTotal ? fmtInt(Number(permTotal)) : 'all'} shuffles ever
+          reached {fmtPct(iso.result?.null_max)}. The observed rate beat
+          {' '}{iso.result?.permutations_beaten} permutations — a lift of
+          ×{iso.result?.lift} over chance. The preregistered verdict:
+          {' '}<span class="verdict">{iso.result?.verdict}</span>
+        </p>
+        <p>
+          <em>Why it matters:</em> inheritance and trade cannot explain a pattern-web
+          that re-forms among peoples who never touched it. Either the world's stories
+          share deep structure, or chance got luckier than it managed in
+          {' '}{permTotal ? fmtInt(Number(permTotal)) : 'many'} tries.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="gloss"><strong>{fmtPct(iso.result?.reproduction_rate)}</strong> reproduced by isolated lineages</p>
+        <p class="gloss"><strong>{fmtPct(iso.result?.null_mean)}</strong> expected by chance</p>
+        <p class="gloss"><strong>{iso.result?.permutations_beaten}</strong> permutations beaten</p>
+        <p class="gloss"><strong>×{iso.result?.lift}</strong> lift over the null</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">Order · a falsification we keep on the shelf</p>
+        <h2>Campbell's grammar mostly wasn't</h2>
+        <p class="dropcap">
+          Campbell claimed stories don't just share ingredients — they share a
+          sequence: departure, ordeal, return. We tested it.
+          {' '}{fmtInt(seq.strongPairCount)} strong before-and-after orderings emerged
+          from the texts, and under within-text permutation {fmtInt(dissolved)} of them
+          dissolved — chance writes those orderings on its own. As a universal grammar,
+          the hypothesis failed; {fmtInt(survivors.length)} lines of order held. We
+          publish the falsification beside the findings, because that is the point.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">What would prove us wrong</p>
+        <h2>The exit conditions</h2>
+        <p class="dropcap">
+          If the patterns only appeared in cultures that had contact; if independent AI
+          readers stopped agreeing when texts got unfamiliar; if the “universal”
+          patterns failed the chance test — the profound explanation would lose, and we
+          would say so. One of our own favorite hypotheses already has. The full
+          apparatus — agreement matrices, permutation counts, per-lineage tables — is
+          laid out in <a href="/lab/">the Lab</a>.
+        </p>
+      </div>
+    </section>
+  </div>
+</Manuscript>

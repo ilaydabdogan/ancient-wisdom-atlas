@@ -1,0 +1,206 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { eraFlow, families, humanize, fmtInt } from '../../lib/atlas.js';
+
+const flow = eraFlow();
+const eras = flow.eras ?? [];
+const summary = flow.summary ?? {};
+const allFamilies = (flow.families ?? []).filter((f) => !String(f.family).startsWith('_'));
+const familyPages = new Set(families().map((f) => f.id));
+
+const BAND_COUNT = 14;
+const top = allFamilies
+  .slice()
+  .sort((a, b) => (b.total ?? 0) - (a.total ?? 0))
+  .slice(0, BAND_COUNT)
+  .map((f) => ({
+    id: f.family,
+    label: f.label ?? humanize(f.family),
+    first: f.first_attestation?.year ?? null,
+    counts: eras.map((era) => f.eras?.find((c) => c.era === era.id)?.count ?? 0),
+  }));
+
+/* ---- streamgraph geometry (ThemeRiver: silhouette offset, inside-out order) ---- */
+const W = 920;
+const H = 440;
+const M = { top: 24, right: 12, bottom: 44, left: 12 };
+const n = eras.length;
+const xs = eras.map((_, i) => M.left + (i * (W - M.left - M.right)) / (n - 1));
+
+// Inside-out order: largest bands in the middle of the stream.
+const order = [];
+top.forEach((f, i) => (i % 2 === 0 ? order.push(i) : order.unshift(i)));
+
+const totals = xs.map((_, e) => top.reduce((a, f) => a + f.counts[e], 0));
+const maxTotal = Math.max(...totals, 1);
+const yScale = (H - M.top - M.bottom) / maxTotal;
+
+// Stack: baseline centered (silhouette).
+const layers = [];
+{
+  const base = totals.map((t) => (H - M.bottom + M.top) / 2 - (t * yScale) / 2);
+  const cursor = base.slice();
+  for (const idx of order) {
+    const f = top[idx];
+    const y0 = cursor.slice();
+    const y1 = y0.map((v, e) => v + f.counts[e] * yScale);
+    layers.push({ f, y0, y1 });
+    for (let e = 0; e < n; e += 1) cursor[e] = y1[e];
+  }
+}
+
+/* Catmull-Rom → cubic bezier smoothing. */
+function smoothSegment(pts) {
+  if (pts.length < 3) return pts.map((p, i) => `${i === 0 ? 'M' : 'L'}${p[0].toFixed(1)},${p[1].toFixed(1)}`).join(' ');
+  let d = `M${pts[0][0].toFixed(1)},${pts[0][1].toFixed(1)}`;
+  for (let i = 0; i < pts.length - 1; i += 1) {
+    const p0 = pts[Math.max(0, i - 1)];
+    const p1 = pts[i];
+    const p2 = pts[i + 1];
+    const p3 = pts[Math.min(pts.length - 1, i + 2)];
+    const c1 = [p1[0] + (p2[0] - p0[0]) / 6, p1[1] + (p2[1] - p0[1]) / 6];
+    const c2 = [p2[0] - (p3[0] - p1[0]) / 6, p2[1] - (p3[1] - p1[1]) / 6];
+    d += ` C${c1[0].toFixed(1)},${c1[1].toFixed(1)} ${c2[0].toFixed(1)},${c2[1].toFixed(1)} ${p2[0].toFixed(1)},${p2[1].toFixed(1)}`;
+  }
+  return d;
+}
+
+function bandPath(layer) {
+  const topPts = xs.map((x, e) => [x, layer.y1[e]]);
+  const botPts = xs.map((x, e) => [x, layer.y0[e]]).reverse();
+  const topPath = smoothSegment(topPts);
+  const botPath = smoothSegment(botPts).replace(/^M/, 'L');
+  return `${topPath} ${botPath} Z`;
+}
+
+/* Illuminated-pigment palette: mid-tones that read on parchment and night vellum. */
+const PIGMENTS = [
+  '#b8860b', '#8c3118', '#61703f', '#3f6170', '#9b6a3f', '#703f61',
+  '#a0522d', '#556b2f', '#2f556b', '#8b6f47', '#6b2f45', '#c19a49',
+  '#4f7464', '#746446',
+];
+const colorOf = (idx) => PIGMENTS[idx % PIGMENTS.length];
+
+function fmtYear(year) {
+  if (typeof year !== 'number') return '—';
+  return year < 0 ? `ca. ${fmtInt(-year)} BCE` : `ca. ${fmtInt(year)} CE`;
+}
+
+const attestations = allFamilies
+  .filter((f) => typeof f.first_attestation?.year === 'number')
+  .sort((a, b) => a.first_attestation.year - b.first_attestation.year);
+---
+
+<Manuscript
+  title="Currents — Ancient Wisdom Atlas"
+  description="Motif families flowing through recorded time: evidence density per era, first attestations, and an honest note on what dating can and cannot say."
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">Currents</p>
+      <h1>The families flowing through time</h1>
+      <div class="reading">
+        <p class="dropcap">
+          Each band below is a canonical motif family; its thickness is the density of
+          dated evidence in each era of the corpus. The figure is drawn at build time
+          from the era-flow index — as the corpus and its dating grow, the currents
+          redraw themselves. The {BAND_COUNT} best-attested families are shown.
+        </p>
+      </div>
+    </section>
+
+    <figure class="currents-figure">
+      <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`Streamgraph of the ${BAND_COUNT} best-attested motif families across ${n} historical eras`}>
+        {layers.map((layer) => {
+          const idx = top.indexOf(layer.f);
+          const band = (
+            <path
+              class="current-band"
+              d={bandPath(layer)}
+              fill={colorOf(idx)}
+              fill-opacity="0.82"
+              stroke="var(--parchment)"
+              stroke-width="0.75"
+            >
+              <title>{`${layer.f.label} — first dated ${fmtYear(layer.f.first)} — per era: ${layer.f.counts.join(' · ')}`}</title>
+            </path>
+          );
+          return familyPages.has(layer.f.id)
+            ? <a href={`/descent/${layer.f.id}/`} aria-label={layer.f.label}>{band}</a>
+            : band;
+        })}
+        {eras.map((era, i) => (
+          <text
+            class="currents-axis"
+            x={xs[i]}
+            y={H - 14}
+            text-anchor={i === 0 ? 'start' : i === n - 1 ? 'end' : 'middle'}
+          >{String(era.label).replace(/\s*\(.*\)$/, '')}</text>
+        ))}
+      </svg>
+      <figcaption class="footnote">
+        Band thickness is dated extraction records per era (raw counts; eras are not
+        equal spans of time). Hover a band for its numbers; click to open the family.
+      </figcaption>
+      <ul class="currents-legend">
+        {top.map((f, i) => (
+          <li>
+            <span class="swatch" style={`background:${colorOf(i)}`} aria-hidden="true"></span>
+            {familyPages.has(f.id)
+              ? <a href={`/descent/${f.id}/`}>{f.label}</a>
+              : f.label}
+          </li>
+        ))}
+      </ul>
+    </figure>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">First attestations</p>
+        <h2>Where each current first surfaces</h2>
+        <p>
+          The earliest dated appearance of each family in the corpus so far. “First
+          here” means first in <em>our dated evidence</em>, not first in history.
+        </p>
+      </div>
+      <div class="table-scroll">
+        <table class="ledger">
+          <thead>
+            <tr><th>Family</th><th>Earliest dated evidence</th><th>Tradition</th></tr>
+          </thead>
+          <tbody>
+            {attestations.map((f) => (
+              <tr>
+                <td>
+                  {familyPages.has(f.family)
+                    ? <a href={`/descent/${f.family}/`}>{f.label ?? humanize(f.family)}</a>
+                    : (f.label ?? humanize(f.family))}
+                </td>
+                <td>{fmtYear(f.first_attestation.year)}</td>
+                <td>{humanize(f.first_attestation.tradition ?? '—')}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">Honest coverage note</p>
+        <p>
+          {fmtInt(summary.dated_texts)} texts currently carry scholarly
+          composition-date ranges; {fmtInt(summary.undated_texts)} texts
+          ({fmtInt(summary.undated_record_count)} extraction records) await dating and
+          are excluded rather than guessed. Recorded oral traditions appear at their
+          <em>recording</em> date, which vastly understates their age — treat the
+          rightmost era as “when writing caught up,” not “when the stories began.”
+        </p>
+      </div>
+    </section>
+  </div>
+</Manuscript>

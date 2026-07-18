@@ -13,6 +13,7 @@ import {
   fmtInt,
   fmtPct,
   humanize,
+  textRecords,
 } from '../lib/atlas.js';
 
 const corpus = corpusOverview();
@@ -73,7 +74,7 @@ const flagship = survivors.slice().sort((a, b) => b.consistency - a.consistency)
         <p class="rubric">The corpus</p>
         <h2>The library of strangers</h2>
         <p class="dropcap">
-          The atlas reads {fmtInt(corpus.textCount)} public-domain texts from
+          The atlas reads {fmtInt(textRecords().length)} public-domain texts from
           {fmtInt(corpus.traditionCount)} traditions: Gilgamesh and the Book of the Dead,
           the Upaniṣads and the Eddas, the Popol Vuh and the Kalevala, Hopi and Zuni and
           Inuit tellings, Sufi poetry and Gnostic gospels. Every tradition keeps its own
@@ -87,7 +88,7 @@ const flagship = survivors.slice().sort((a, b) => b.consistency - a.consistency)
         </p>
       </div>
       <div class="gloss-col">
-        <p class="gloss"><strong>{fmtInt(corpus.textCount)}</strong> texts</p>
+        <p class="gloss"><strong>{fmtInt(textRecords().length)}</strong> texts</p>
         <p class="gloss"><strong>{fmtInt(corpus.traditionCount)}</strong> traditions</p>
         <p class="gloss"><strong>{fmtInt(corpus.extractionRecordCount)}</strong> evidence-anchored records</p>
         <p class="gloss"><strong>{fmtInt(stats.canonicalFamilyCount)}</strong> motif families</p>

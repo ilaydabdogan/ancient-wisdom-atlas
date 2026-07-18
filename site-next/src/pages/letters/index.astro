@@ -1,0 +1,39 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { letters, fmtInt } from '../../lib/atlas.js';
+import { fmtDate } from '../../lib/reading.js';
+
+const all = letters();
+---
+
+<Manuscript
+  title="Letters — Ancient Wisdom Atlas"
+  description="Letters from the editor of the Ancient Wisdom Atlas: what the evidence taught us, written for people, not machines."
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">Letters from the atlas</p>
+      <h1 class="display-italic">What the books said back</h1>
+      <div class="reading">
+        <p class="dropcap">
+          The indexes hold the numbers; the letters hold what the numbers meant to the
+          person watching them arrive. Each one is written after the tests have run,
+          and stands on the same evidence the rest of the site rests on —
+          {fmtInt(all.length)} so far.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <ol class="letter-index">
+      {all.map((letter) => (
+        <li>
+          <p class="letter-no">Letter {letter.number ?? '·'}{letter.date ? ` · ${fmtDate(letter.date)}` : ''}</p>
+          <h3><a href={`/letters/${letter.slug}/`}>{letter.title}</a></h3>
+          {letter.author && <p class="footnote">{letter.author}</p>}
+        </li>
+      ))}
+    </ol>
+  </div>
+</Manuscript>

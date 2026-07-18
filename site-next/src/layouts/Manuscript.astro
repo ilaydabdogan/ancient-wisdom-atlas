@@ -10,9 +10,11 @@ const {
 
 const nav = [
   { href: '/descent/', label: 'The Descent' },
+  { href: '/currents/', label: 'Currents' },
+  { href: '/findings/', label: 'Findings' },
+  { href: '/letters/', label: 'Letters' },
+  { href: '/read/', label: 'Library' },
   { href: '/lab/', label: 'The Lab' },
-  { href: 'https://ancientwisdomatlas.com/findings/', label: 'Findings' },
-  { href: 'https://ancientwisdomatlas.com/texts/', label: 'Texts' },
 ];
 
 const current = Astro.url.pathname;
@@ -57,7 +59,7 @@ const current = Astro.url.pathname;
 
     <footer class="folio-footer">
       <span>Ancient Wisdom Atlas · built from the evidence indexes, regenerated with the data</span>
-      <span><a href="https://ancientwisdomatlas.com/">current site</a> · <a href="https://github.com/ilaydabdogan/ancient-wisdom-atlas">source</a></span>
+      <span><a href="/llms.txt">llms.txt</a> · <a href="https://github.com/ilaydabdogan/ancient-wisdom-atlas">source</a></span>
     </footer>
 
     <script is:inline>

@@ -1,0 +1,58 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { textRecords, humanize, fmtInt } from '../../lib/atlas.js';
+
+const texts = textRecords();
+const byTradition = new Map();
+for (const t of texts) {
+  const key = t.tradition ?? 'unattributed';
+  if (!byTradition.has(key)) byTradition.set(key, []);
+  byTradition.get(key).push(t);
+}
+const traditionGroups = [...byTradition.entries()]
+  .map(([tradition, list]) => ({
+    tradition,
+    list: list.slice().sort((a, b) => a.title.localeCompare(b.title)),
+  }))
+  .sort((a, b) => b.list.length - a.list.length || a.tradition.localeCompare(b.tradition));
+---
+
+<Manuscript
+  title="The Library — Ancient Wisdom Atlas"
+  description="The complete public-domain corpus of the Ancient Wisdom Atlas, readable page by page with evidence anchors."
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">The library</p>
+      <h1>The books themselves</h1>
+      <div class="reading">
+        <p class="dropcap">
+          Every claim in the atlas descends, in the end, to a line in a book. This
+          shelf holds all {fmtInt(texts.length)} public-domain source texts, complete
+          and rights-cleared, from {fmtInt(traditionGroups.length)} traditions. Each
+          opens as a quiet reading page; evidence links from the motif pages land
+          directly on the passage they cite.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section>
+      {traditionGroups.map((group) => (
+        <div class="library-tradition">
+          <h2 class="smallcaps">{humanize(group.tradition)}</h2>
+          <p class="family-meta">{fmtInt(group.list.length)} {group.list.length === 1 ? 'text' : 'texts'}</p>
+          <ul class="library-list">
+            {group.list.map((t) => (
+              <li>
+                <a href={`/read/${t.slug}/`}>{t.title}</a>
+                {t.translator && <span class="lib-note">tr. {t.translator}</span>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </section>
+  </div>
+</Manuscript>

@@ -1,0 +1,41 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { letters } from '../../lib/atlas.js';
+import { renderMarkdown, fmtDate } from '../../lib/reading.js';
+
+export function getStaticPaths() {
+  return letters().map((l) => ({ params: { slug: l.slug } }));
+}
+
+const { slug } = Astro.params;
+const letter = letters().find((l) => l.slug === slug);
+const html = renderMarkdown(letter.body);
+
+const crumbs = [
+  { label: 'Letters', href: '/letters/' },
+  { label: `Letter ${letter.number ?? ''}`.trim() },
+];
+---
+
+<Manuscript
+  title={`${letter.title} — Letters — Ancient Wisdom Atlas`}
+  description={letter.title}
+  crumbs={crumbs}
+>
+  <div class="reader">
+    <header class="letter-head">
+      <p class="letter-no">Letter {letter.number ?? '·'}{letter.date ? ` · ${fmtDate(letter.date)}` : ''}</p>
+      <h1>{letter.title}</h1>
+    </header>
+
+    <hr class="asterism" />
+
+    <article class="reading-column letter-body" set:html={html} />
+
+    {(letter.author || letter.writtenWith) && (
+      <p class="letter-sig">
+        {letter.author}{letter.writtenWith ? `, with ${letter.writtenWith}` : ''}
+      </p>
+    )}
+  </div>
+</Manuscript>
