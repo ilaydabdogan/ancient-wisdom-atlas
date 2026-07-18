@@ -2010,6 +2010,33 @@ def text_source_output(output)
   output.sub(/\.html\z/, ".md")
 end
 
+# Renders a reading page with per-paragraph anchors carrying FILE line
+# numbers (id="l-N"), so extraction records can deep-link into the exact
+# passage. line_offset accounts for YAML front matter stripped from body.
+def render_reading_markdown(body, output, line_offset)
+  chunks = []
+  current = []
+  start_line = nil
+  line_no = 0
+  body.each_line do |line|
+    line_no += 1
+    if line.strip.empty?
+      if current.any?
+        chunks << [start_line, current.join]
+        current = []
+        start_line = nil
+      end
+    else
+      start_line ||= line_no
+      current << line
+    end
+  end
+  chunks << [start_line, current.join] if current.any?
+  chunks.map do |ln, chunk|
+    %(<div class="rchunk" id="l-#{ln + line_offset}">#{render_markdown(chunk, output)}</div>)
+  end.join("\n")
+end
+
 def build_markdown_collection(title:, subtitle:, records:, index_output:, item_type:, reading: false)
   cards = records.map do |item|
     metadata = item[:metadata]
@@ -2055,7 +2082,7 @@ def build_markdown_collection(title:, subtitle:, records:, index_output:, item_t
               <a class="reader-source" href="#{esc(relative_url(output, md_output))}" title="Plain Markdown for humans and machines">.md</a>
             </div>
           </div>
-          <article class="document reading-column">#{render_markdown(item[:body], output)}</article>
+          <article class="document reading-column">#{render_reading_markdown(item[:body], output, File.foreach(File.join(ROOT, item[:path])).count - item[:body].lines.length)}</article>
         </section>
       HTML
       write_page(output, layout(title: metadata["title"] || File.basename(item[:path]), current_output: output, body: body, page_class: "reading-page"))
@@ -2560,6 +2587,16 @@ def build_extractions(extractions)
     data = item[:data]
     output = item[:output]
     pretty = esc(YAML.dump(data))
+    source_output = output_for_repo_path(data["source_text_path"])
+    locator_start = data.dig("passage_locator", "start").to_s
+    read_href = if source_output && locator_start.match?(/\A\d+\z/)
+      "#{relative_url(output, source_output)}#l-#{locator_start}"
+    elsif source_output
+      relative_url(output, source_output)
+    end
+    quote = data.dig("canonical_text", "quote").to_s
+    quote_html = quote.strip.empty? ? "" : %(<blockquote class="evidence-quote">#{esc(quote[0, 900])}</blockquote>)
+    read_button = read_href ? %(<a class="read-context-btn" href="#{esc(read_href)}">Read this passage in the book &rarr;</a>) : ""
     body = <<~HTML
       <section class="doc-shell">
         <aside class="metadata-panel">
@@ -2569,9 +2606,12 @@ def build_extractions(extractions)
             <dt>Source</dt><dd>#{esc(data["source_text_path"])}</dd>
             <dt>Status</dt><dd>#{esc(data.dig("reviewer_status", "status"))}</dd>
           </dl>
+          #{read_button}
         </aside>
         <article class="document">
           <h2>#{esc(data["record_id"])}</h2>
+          #{quote_html}
+          #{read_button}
           <pre><code>#{pretty}</code></pre>
         </article>
       </section>
@@ -2894,6 +2934,31 @@ STYLE_CSS = <<~CSS
   @media (max-width: 640px) {
     .reader { padding: 0 1.25rem; }
     .reading-column { font-size: calc(1.02rem * var(--reader-scale, 1)); }
+  }
+  .rchunk-lit {
+    animation: rchunk-glow 4s ease-out;
+    border-radius: 6px;
+  }
+  @keyframes rchunk-glow {
+    0% { background: rgba(184, 132, 23, 0.28); }
+    100% { background: transparent; }
+  }
+  .evidence-quote {
+    font-family: "Iowan Old Style", Palatino, Georgia, serif;
+    font-size: 1.08rem;
+    line-height: 1.7;
+    border-left: 3px solid var(--gold);
+    margin: 1rem 0 1.4rem;
+    padding: 0.4rem 0 0.4rem 1.1rem;
+  }
+  .read-context-btn {
+    display: inline-block;
+    margin: 0.6rem 0 1rem;
+    padding: 0.45rem 0.9rem;
+    border: 1px solid var(--gold);
+    border-radius: 9px;
+    text-decoration: none;
+    font-size: 0.92rem;
   }
   .currents-intro { max-width: 46rem; }
   .currents-chart {
@@ -4945,6 +5010,24 @@ APP_JS = <<~JS
     };
     window.addEventListener("scroll", update, { passive: true });
     update();
+
+    const scrollToLine = () => {
+      const match = window.location.hash.match(/^#l-(\d+)$/);
+      if (!match) return;
+      const target = Number(match[1]);
+      let best = null;
+      document.querySelectorAll('[id^="l-"]').forEach((el) => {
+        const n = Number(el.id.slice(2));
+        if (n <= target && (!best || n > Number(best.id.slice(2)))) best = el;
+      });
+      if (best) {
+        best.scrollIntoView({ behavior: "smooth", block: "center" });
+        best.classList.add("rchunk-lit");
+        setTimeout(() => best.classList.remove("rchunk-lit"), 4000);
+      }
+    };
+    scrollToLine();
+    window.addEventListener("hashchange", scrollToLine);
 
     const KEY = "atlas-reader-scale";
     const apply = (scale) => document.body.style.setProperty("--reader-scale", scale);
