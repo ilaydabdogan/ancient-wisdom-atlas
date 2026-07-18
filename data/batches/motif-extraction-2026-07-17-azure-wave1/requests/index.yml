@@ -1,0 +1,46 @@
+---
+batch_request_index_version: '1'
+run_id: motif-extraction-2026-07-17-azure-wave1
+created_at: '2026-07-18T02:18:39Z'
+updated_at: '2026-07-18T02:18:39Z'
+endpoint: "/v1/responses"
+model: gpt-5.5
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
+request_map_path: data/batches/motif-extraction-2026-07-17-azure-wave1/request-map.jsonl
+skip_ingested_from_run_id: motif-extraction-2026-04-27-corpus
+skipped_ingested_count: 33
+shards:
+- shard_id: shard-0001
+  path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16464416
+  sha256: dfe6f1edb60572e4f8651931a7de440ae17d859d5376a5079113f9c0b27c3067
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0002
+  path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 16804348
+  sha256: 141b9cc016ab46e1fc5e4766e19a4d7b686014e424559206c41299f6a7cbd468
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0003
+  path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16713439
+  sha256: 7d2a4d1287ae1ecad66fe63d43b014df3cb5b9fda59b97825c3ea1cbacc5f596
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0004
+  path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/shard-0004.jsonl
+  request_count: 353
+  bytes: 5967379
+  sha256: 202315b30899a734bc0aad6afc9007f8472aa21325c23ca29f1f0850fd014140
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+

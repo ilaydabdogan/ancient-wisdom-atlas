@@ -1,0 +1,28 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: motif-extraction-2026-07-17-azure-wave1
+created_at: '2026-07-18T02:18:37Z'
+updated_at: '2026-07-18T02:18:39Z'
+artifacts:
+  requests_index_path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/index.yml
+  request_map_path: data/batches/motif-extraction-2026-07-17-azure-wave1/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: requests_prepared
+config:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: motif-extraction-2026-04-27-corpus
+counts:
+  requests_prepared: 3353
+  request_shards: 4
+  skipped_ingested_requests: 33
+

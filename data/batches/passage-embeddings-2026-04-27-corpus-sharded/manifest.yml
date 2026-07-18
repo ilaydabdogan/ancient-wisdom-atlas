@@ -2,28 +2,32 @@
 batch_pipeline_manifest_version: '1'
 run_id: passage-embeddings-2026-04-27-corpus-sharded
 created_at: '2026-04-28T05:17:44Z'
-updated_at: '2026-04-28T05:53:07Z'
+updated_at: '2026-07-18T02:22:03Z'
 artifacts:
   embedding_source_passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
   requests_index_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/requests/index.yml
   embedding_request_map_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/embedding-request-map.jsonl
   results_dir: data/batches/passage-embeddings-2026-04-27-corpus-sharded/results
+  embedding_results_path: data/embeddings/passage-embeddings-2026-04-27-corpus-sharded/embeddings.jsonl
+  embedding_collection_manifest_path: data/embeddings/passage-embeddings-2026-04-27-corpus-sharded/manifest.yml
+  embedding_ingested_results_path: data/batches/passage-embeddings-2026-04-27-corpus-sharded/embedding-ingested-results.jsonl
 openai: {}
 state:
   last_status_check_at: '2026-04-28T05:53:06Z'
   batch_status_counts:
     completed: 4
   last_download_at: '2026-04-28T05:30:58Z'
+  last_embedding_ingest_at: '2026-07-18T02:22:03Z'
 pipeline: embeddings
-status: results_downloaded
+status: embeddings_ingested
 config:
   embedding_request_generation:
     source: passages
     model: text-embedding-3-large
     endpoint: "/v1/embeddings"
     encoding_format: float
-    dimensions: 
-    limit: 
+    dimensions:
+    limit:
     max_input_chars: 24000
     max_requests_per_shard: 1000
     max_bytes_per_shard: 188743680
@@ -32,4 +36,6 @@ counts:
   request_shards: 4
   request_shards_uploaded: 4
   batch_jobs_created: 4
+  embeddings_ingested: 3386
+  failed_embedding_ingestions: 0
 
