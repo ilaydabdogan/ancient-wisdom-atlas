@@ -1,0 +1,25 @@
+---
+batch_request_index_version: '1'
+run_id: review-timeline-luna-2026-07-18
+source_run: timeline-dating-sol-2026-07-18
+queue_type: timeline_dating
+drafter_model: gpt-5.6-sol
+created_at: '2026-07-18T05:27:42Z'
+updated_at: '2026-07-18T05:30:42Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-luna
+shards:
+- shard_id: shard-0001
+  path: data/batches/review-timeline-luna-2026-07-18/requests/shard-0001.jsonl
+  request_count: 81
+  bytes: 158652
+  sha256: c55fb959aff33cba245bd5a8e4ea9139dd6b58c877bd7995046c094adbe570ac
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed
+  output_path: data/batches/review-timeline-luna-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: a63f16dc946dd5966bdf8f0b79dcd5c97b9a76068dd128f0fc1060f4d739f787
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T05:30:42Z'
+

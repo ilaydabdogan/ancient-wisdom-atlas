@@ -3478,7 +3478,7 @@ items:
   manifest_path: manifests/project-gutenberg/5314-grimm-household-tales-hunt.yml
   extraction_dir: extractions/germanic/project-gutenberg/grimm-household-tales-hunt
 - id: celtic_irish.voyage_of_bran.meyer_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: voyageofbransono01scuoft
@@ -3535,7 +3535,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/voyageofbransono01scuoft-voyage-of-bran-meyer.md
+  canonical_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  manifest_path: manifests/project-gutenberg/voyageofbransono01scuoft-voyage-of-bran-meyer.yml
+  extraction_dir: extractions/celtic-irish/project-gutenberg/voyage-of-bran-meyer
 - id: slavic.russian_fairy_tales.ralston_gutenberg
   status: ingested
   priority: medium
@@ -5824,7 +5828,7 @@ items:
     converted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/koryaktextswald05bogorich-koryak-texts-bogoras.md
 - id: siberian.tales_of_yukaghir_lamut.bogoras_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: talesofyukaghirl0000bogo
@@ -5886,7 +5890,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/talesofyukaghirl0000bogo-tales-of-yukaghir-lamut-bogoras.md
+  canonical_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  manifest_path: manifests/project-gutenberg/talesofyukaghirl0000bogo-tales-of-yukaghir-lamut-bogoras.yml
+  extraction_dir: extractions/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras
 - id: siberian_mongol.journey_in_southern_siberia.curtin_archive
   status: converted
   priority: high
@@ -5950,7 +5958,7 @@ items:
     converted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/cu31924028465320-journey-in-southern-siberia-curtin.md
 - id: african.nursery_tales_zulus.callaway_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: nurserytalestrad00call_0
@@ -6010,7 +6018,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-17'
   converted_path: imports/converted/project-gutenberg/nurserytalestrad00call_0-nursery-tales-traditions-histories-zulus-callaway.md
+  canonical_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  manifest_path: manifests/project-gutenberg/nurserytalestrad00call_0-nursery-tales-traditions-histories-zulus-callaway.yml
+  extraction_dir: extractions/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway
 - id: african.south_african_folk_tales.honey_gutenberg
   status: ingested
   priority: high

@@ -1,0 +1,48 @@
+---
+batch_request_index_version: '1'
+run_id: label-embeddings-2026-07-18
+created_at: '2026-07-18T05:24:31Z'
+updated_at: '2026-07-18T05:26:10Z'
+endpoint: "/v1/embeddings"
+model: text-embedding-3-large
+shards:
+- shard_id: shard-0001
+  path: data/batches/label-embeddings-2026-07-18/requests/shard-0001.jsonl
+  request_count: 3000
+  bytes: 807186
+  sha256: 4af9763f30d3e2ef734fd5d813c4a94c79d15b1cef672a1a30911805e22aa364
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: completed
+  output_path: data/batches/label-embeddings-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: afe788f6ec9c7e08fdb1a8d9ba5e5ea9716f29d565a4aea6abbfb58ae39100dc
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T05:25:08Z'
+- shard_id: shard-0002
+  path: data/batches/label-embeddings-2026-07-18/requests/shard-0002.jsonl
+  request_count: 3000
+  bytes: 814511
+  sha256: 50645a508aa58d519c516bade0f2f05d9349b9ebb6706760c5fe52d4cbadf5de
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: completed
+  output_path: data/batches/label-embeddings-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: 7ec70575c50c50a4a1092452875bbf1b6b5c0ae5a9964441802793a48710f098
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T05:25:46Z'
+- shard_id: shard-0003
+  path: data/batches/label-embeddings-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1877
+  bytes: 513307
+  sha256: a00c67d0af287f1dd2796007de98bb3479d099d7e8e47c7aadb71c26dc2643b1
+  endpoint: "/v1/embeddings"
+  model: text-embedding-3-large
+  status: completed
+  output_path: data/batches/label-embeddings-2026-07-18/results/shard-0003.output.jsonl
+  output_sha256: 81f29f0aa9278f3a4a34f276745eb87d54bc9bdb1b07b0fa79addf732b3dc16a
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T05:26:10Z'
+

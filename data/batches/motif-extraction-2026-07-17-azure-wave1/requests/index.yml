@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: motif-extraction-2026-07-17-azure-wave1
 created_at: '2026-07-18T02:18:39Z'
-updated_at: '2026-07-18T02:18:39Z'
+updated_at: '2026-07-18T04:32:18Z'
 endpoint: "/v1/responses"
 model: gpt-5.5
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -18,7 +18,14 @@ shards:
   sha256: dfe6f1edb60572e4f8651931a7de440ae17d859d5376a5079113f9c0b27c3067
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/motif-extraction-2026-07-17-azure-wave1/results/shard-0001.output.jsonl
+  output_sha256: f7ad3343d71703f791286ad5a410a58c2a4f4808bdf39a8bffd46974e4d3499c
+  errors_path: data/batches/motif-extraction-2026-07-17-azure-wave1/results/shard-0001.errors.jsonl
+  errors_sha256: d66792d1905d236f78b0852dc2094c340833b87c406c3674491a322b0c615350
+  runtime: realtime
+  error_count: 4
+  last_checked_at: '2026-07-18T03:10:12Z'
 - shard_id: shard-0002
   path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/shard-0002.jsonl
   request_count: 1000
@@ -26,7 +33,14 @@ shards:
   sha256: 141b9cc016ab46e1fc5e4766e19a4d7b686014e424559206c41299f6a7cbd468
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/motif-extraction-2026-07-17-azure-wave1/results/shard-0002.output.jsonl
+  output_sha256: 9603373428095be6b14beea3c40ba02b712a08afa66db4575922a864534ef54c
+  errors_path: data/batches/motif-extraction-2026-07-17-azure-wave1/results/shard-0002.errors.jsonl
+  errors_sha256: 859eab85f79e3f94ef38c0061833679fa8df189e30bc61abbf84ba65c90df952
+  runtime: realtime
+  error_count: 32
+  last_checked_at: '2026-07-18T04:32:18Z'
 - shard_id: shard-0003
   path: data/batches/motif-extraction-2026-07-17-azure-wave1/requests/shard-0003.jsonl
   request_count: 1000

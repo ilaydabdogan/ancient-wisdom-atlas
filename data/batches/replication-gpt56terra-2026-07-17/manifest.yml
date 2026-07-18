@@ -2,14 +2,17 @@
 batch_pipeline_manifest_version: '1'
 run_id: replication-gpt56terra-2026-07-17
 created_at: '2026-07-18T02:41:03Z'
-updated_at: '2026-07-18T02:41:04Z'
+updated_at: '2026-07-18T04:48:29Z'
 artifacts:
   requests_index_path: data/batches/replication-gpt56terra-2026-07-17/requests/index.yml
   request_map_path: data/batches/replication-gpt56terra-2026-07-17/request-map.jsonl
+  results_dir: data/batches/replication-gpt56terra-2026-07-17/results
 openai: {}
-state: {}
+state:
+  last_realtime_run_at: '2026-07-18T04:48:29Z'
+  realtime_concurrency: 40
 pipeline: motif_extraction
-status: requests_prepared
+status: results_downloaded
 config:
   motif_request_generation:
     model: gpt-5.6-terra

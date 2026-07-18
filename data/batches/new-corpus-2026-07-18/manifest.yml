@@ -1,0 +1,823 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: new-corpus-2026-07-18
+created_at: '2026-07-18T04:15:43Z'
+updated_at: '2026-07-18T04:15:44Z'
+artifacts:
+  passages_path: data/batches/new-corpus-2026-07-18/passages.jsonl
+  requests_index_path: data/batches/new-corpus-2026-07-18/requests/index.yml
+  request_map_path: data/batches/new-corpus-2026-07-18/request-map.jsonl
+openai: {}
+state: {}
+pipeline: motif_extraction
+status: requests_prepared
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+    - texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+    - texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+    - texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+    - texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+    - texts/public-domain/biblical/project-gutenberg/job-kjv.md
+    - texts/public-domain/biblical/project-gutenberg/psalms-kjv.md
+    - texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+    - texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+    - texts/public-domain/biblical/project-gutenberg/daniel-kjv.md
+    - texts/public-domain/biblical/project-gutenberg/revelation-kjv.md
+    - texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+    - texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+    - texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+    - texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+    - texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+    - texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+    - texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+    - texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+    - texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+    - texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+    - texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+    - texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+    - texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+    - texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+    - texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+    - texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+    - texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+    - texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+    - texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+    - texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+    - texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+    - texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+    - texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+    - texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+    - texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+    - texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+    - texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+    - texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+    - texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+    - texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+    - texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+    - texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: new-corpus-2026-07-18
+counts:
+  source_texts_segmented: 43
+  passages: 3647
+  requests_prepared: 3647
+  request_shards: 4
+  skipped_ingested_requests: 0
+source_texts:
+- path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  source_text_id: african_diaspora.jamaica_anansi_stories.beckwith_gutenberg
+  title: Jamaica Anansi Stories
+  tradition: afro_caribbean
+  culture: jamaican_afro_caribbean_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - verbatim ethnographic transcriptions from named Jamaican tellers in Creole;
+      dialect spellings reflect 1920s transcription conventions and should be presented
+      respectfully with teller attribution preserved.
+  sha256: cce808e2dbc65ff9ad45fafe530027d4b59e77b1847f1f99e41dfed3fd4e5ad0
+  passage_count: 119
+- path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  source_text_id: african.west_african_folk_tales.barker_gutenberg
+  title: West African Folk-Tales
+  tradition: akan
+  culture: akan_gold_coast_oral_traditions_colonial_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Akan/Ashanti tales collected by colonial-era educators and retold for English
+      readers; Anansi remains a living tradition, and the retellings may smooth or
+      moralize original tellings.
+  sha256: 6cd42693b485219824c16b787c01891e42690afa6ded3a28055f540aaa2e32a2
+  passage_count: 44
+- path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  source_text_id: australian.australian_legendary_tales.parker_gutenberg
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  tradition: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Colonial recording context
+      - Parker was a settler pastoralist who recorded Yuwaalaraay (Euahlayi) narratives
+      from Aboriginal people living on her station; the Dreaming remains a living
+      religious tradition, some knowledge is gender- or initiation-restricted, and
+      the collection's framing (including its period title) reflects 1890s colonial
+      attitudes. Frame as mediated settler recordings, not authorized community publication.
+  sha256: a5abd5d9598d0e607363b3a95bd18a0941b39271785209488aa6f03be55a7fa6
+  passage_count: 35
+- path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  source_text_id: australian.euahlayi_tribe.parker_gutenberg
+  title: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  tradition: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Colonial recording context
+      - settler ethnography of a living tradition, including All-Father (Byamee) religion
+      and initiation material that is traditionally restricted; Andrew Lang's introduction
+      imposes period comparative-religion theory. Prefer narrative chapters and flag
+      ceremonial material.
+  sha256: 4a539709244bf54c37d13e123f298e76aa0e72ebd920fcc4947b9fb9b2bbe856
+  passage_count: 59
+- path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  source_text_id: australian.more_australian_legendary_tales.parker_archive
+  title: More Australian Legendary Tales
+  tradition: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. Same colonial recording context as Parker's
+      1896 volume - settler-recorded Yuwaalaraay Dreaming narratives from a living
+      restricted-knowledge tradition; handle with provenance framing. OCR text includes
+      library front matter to strip.
+  sha256: 4f07efa26a017c686dfb4baac9c6da484375b362784381c5b6e992b780a3a482
+  passage_count: 45
+- path: texts/public-domain/biblical/project-gutenberg/daniel-kjv.md
+  source_text_id: biblical.daniel.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 27: Daniel'
+  tradition: biblical
+  culture: second_temple_jewish_apocalyptic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  sha256: 0354c7809361e1b7ebae3932568a8100130754e178167111789524f09f662b82
+  passage_count: 13
+- path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  source_text_id: biblical.ezekiel.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 26: Ezekiel'
+  tradition: biblical
+  culture: ancient_israelite_prophetic_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  sha256: 356ec9f958b003fbcd096ea56277e6234a0b59085b1bba63e06a864c4ef00c3b
+  passage_count: 43
+- path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  source_text_id: biblical.isaiah.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 23: Isaiah'
+  tradition: biblical
+  culture: ancient_israelite_prophetic_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  sha256: 23d36eed7b4abffbb764315aba0fac6da1051856301047166da575441111676f
+  passage_count: 41
+- path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  source_text_id: biblical.job.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 18: Job'
+  tradition: biblical
+  culture: ancient_israelite_wisdom_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  sha256: bfdb8b85e675a145f407428c3efff4d2ad9438fd05df4b37cca68ee7334979bc
+  passage_count: 21
+- path: texts/public-domain/biblical/project-gutenberg/psalms-kjv.md
+  source_text_id: biblical.psalms.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 19: Psalms'
+  tradition: biblical
+  culture: ancient_israelite_liturgical_poetry
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  sha256: c8445762a44556a101ae2eaf0d56c25ea906697984f692871ad8527b6ded630a
+  passage_count: 48
+- path: texts/public-domain/biblical/project-gutenberg/revelation-kjv.md
+  source_text_id: biblical.revelation.kjv_gutenberg
+  title: 'The Bible, King James Version, Book 66: Revelation'
+  tradition: biblical
+  culture: early_christian_apocalyptic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: KJV text (1611, standardized 1769) is public domain in the USA. Crown letters
+      patent restrict printing in the UK; US-jurisdiction use is unrestricted.
+  sha256: ebee0f541120572363cee7b635f3c5c9148daa6b0549d2d216edcd4ed635a24a
+  passage_count: 13
+- path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  source_text_id: biblical.sirach.douay_gutenberg
+  title: 'The Bible, Douay-Rheims, Book 26: Ecclesiasticus'
+  tradition: biblical
+  culture: second_temple_jewish_wisdom_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Douay-Rheims Challoner revision (1752) is public domain everywhere; Project
+      Gutenberg catalog records public-domain status in the USA.
+  sha256: 13e0db471913287ffc56ec7004978b2b1253ef55976922bf5f63024afa657fcb
+  passage_count: 34
+- path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  source_text_id: biblical.wisdom_of_solomon.douay_gutenberg
+  title: 'The Bible, Douay-Rheims, Book 25: Wisdom'
+  tradition: biblical
+  culture: hellenistic_jewish_wisdom_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Douay-Rheims Challoner revision (1752) is public domain everywhere; Project
+      Gutenberg catalog records public-domain status in the USA.
+  sha256: eae597348157a33cfe2ae6c1993a4799acf7ec806d46b2d69ed32476880933ee
+  passage_count: 13
+- path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  source_text_id: buddhist.diamond_sutra.gemmell_gutenberg
+  title: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+  tradition: buddhist
+  culture: mahayana_chinese_recension_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Translated from the
+      Chinese (Kumarajiva) recension, complementing the Sanskrit-based SBE 49 version.
+  sha256: 480c2ca48caa98f8591099b98060a0a84ea62749bd36ff0da04be11e79952afa
+  passage_count: 35
+- path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  source_text_id: christian.apocryphal_gospels.wake_gutenberg
+  title: The suppressed Gospels and Epistles of the original New Testament of Jesus
+    the Christ, Complete
+  tradition: christian_apocrypha
+  culture: early_christian_apocryphal_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Wake's translations date to 1693 and circulated in 19th-century apocryphal
+      New Testament collections; unquestionably public domain. Project Gutenberg catalog
+      records public-domain status in the USA.
+  sha256: 1f19d1c67ed712291187d887c395abb9c95783981c55e91ac3094dc26b786e60
+  passage_count: 231
+- path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  source_text_id: egyptian.legends_of_gods.budge_gutenberg
+  title: 'Legends of the Gods: The Egyptian Texts, edited with Translations'
+  tradition: egyptian
+  culture: ancient_egyptian_myth_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: c343c5ad991d923177f7e80592b62316e44185f3d8825346b62370cfed69914d
+  passage_count: 79
+- path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  source_text_id: egyptian.literature_ancient_egyptians.budge_gutenberg
+  title: The Literature of the Ancient Egyptians
+  tradition: egyptian
+  culture: ancient_egyptian_anthology_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 8f2107a5d23925b91c3eeec320664b6d80124c7568646a0c07a28184e5fe127e
+  passage_count: 126
+- path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  source_text_id: baltic.hero_of_esthonia.kirby_gutenberg
+  title: The Hero of Esthonia and Other Studies in the Romantic Literature of That
+    Country
+  tradition: estonian
+  culture: estonian_oral_epic_19th_century_compilation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Kirby's 1895 work predates 1930 and is public domain in the USA; Project
+      Gutenberg catalog records public-domain status. Prose summary-translation of
+      the Kalevipoeg with Estonian folk-tale studies, by the translator of the corpus's
+      Kalevala.
+  sha256: c7c8faec5930ce2c10fc7eadfd5a709c48b11fd48aa54c2c828fc6adf5b8e64f
+  passage_count: 193
+- path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  source_text_id: germanic.beowulf.gummere_gutenberg
+  title: 'Beowulf: An Anglo-Saxon Epic Poem'
+  tradition: germanic
+  culture: anglo_saxon_heroic_epic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Gummere's 1910 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: fdea29fc3e2bef190367eaaca9392bedcb617d0be1d67425cc89f4b0eee0ae94
+  passage_count: 64
+- path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  source_text_id: germanic.grimm_household_tales.hunt_gutenberg
+  title: Household Tales by Brothers Grimm
+  tradition: germanic
+  culture: german_oral_folk_tradition_19th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Hunt's 1884 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: 4914d6013d789fb9e2d9ab04f5fe1f44e56c56e5beed2e2ef540526b3041c166
+  passage_count: 293
+- path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  source_text_id: germanic.nibelungenlied.needler_gutenberg
+  title: The Nibelungenlied
+  tradition: germanic
+  culture: middle_high_german_heroic_epic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Needler's 1904 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: 782078a95cefa6fdeeb6baf719ad358f87254308164809c7324d6660c30d5373
+  passage_count: 130
+- path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  source_text_id: gnostic.pistis_sophia.horner_gutenberg
+  title: Pistis Sophia
+  tradition: gnostic
+  culture: late_antique_egyptian_gnostic_christianity
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Horner's 1924 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: f0c6ba7f7769f0bf021e97f1c4be918005a66705a308be216de93a97512cfcb6
+  passage_count: 143
+- path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  source_text_id: greek.argonautica.seaton_gutenberg
+  title: The Argonautica
+  tradition: greek
+  culture: hellenistic_greek_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Seaton's
+      1912 translation predates 1930. Use outside the USA requires jurisdiction-specific
+      review.
+  sha256: c7c65451b8288ca8480ac3783cc02a672b6bf54050c6d7acbe1d5223b81e879c
+  passage_count: 65
+- path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  source_text_id: south_american.legends_myths_british_guiana.brett_archive
+  title: Legends and Myths of the Aboriginal Indians of British Guiana
+  tradition: guiana_amerindian
+  culture: guiana_amerindian_oral_traditions_missionary_verse_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. Heavy mediation caveat - Brett was a
+      missionary who rendered the legends he collected into English verse; narrative
+      content is valuable but form and diction are entirely his. Cross-check motifs
+      against Roth's more literal 1915 corpus before relying on details.
+  sha256: 0ded9a37c6a66af921e91b6208cf0f1c78f0dbd73848ff982b985919e90770a6
+  passage_count: 132
+- path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  source_text_id: polynesian.hawaiian_folk_tales.thrum_gutenberg
+  title: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  tradition: hawaiian
+  culture: hawaiian_oral_traditions_colonial_era_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Native Hawaiian mo'olelo compiled in the immediate post-annexation era, partly
+      by outsider writers; treat as historical witnesses to living traditions and
+      note contributor provenance per tale.
+  sha256: 748488bbb39a12749915456fc4196e881efe2d4643ee7d1ba12f2fe269059382
+  passage_count: 95
+- path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  source_text_id: hindu.yoga_sutras.johnston_gutenberg
+  title: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+  tradition: hindu
+  culture: classical_indian_philosophy_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Johnston was a Theosophist;
+      his commentary is interpretive and should be kept distinct from the sutra text
+      during extraction.
+  sha256: 075d96b6c8d700c5a1def2875f52f7f13c9f6ccfd5d40cc3f046207941011e43
+  passage_count: 34
+- path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  source_text_id: native_american.traditions_of_the_hopi.voth_archive
+  title: The Traditions of the Hopi
+  tradition: hopi
+  culture: hopi_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1905, US public domain. Significant cultural sensitivity - Voth,
+      a missionary, documented Hopi narratives and ceremonies in ways the Hopi have
+      long objected to, including material considered esoteric. Handle with explicit
+      provenance caveats; prefer non-ceremonial narrative tales for extraction and
+      flag contested material.
+  sha256: f36a32cef6ed4c4254a1470f8f23f8fe2acdf09bac30613b9cacb55e15119483
+  passage_count: 165
+- path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  source_text_id: arctic_inuit.central_eskimo.boas_gutenberg
+  title: The Central Eskimo
+  tradition: inuit
+  culture: baffin_island_inuit_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (Bureau of Ethnology), public domain. Recording
+      context - early ethnography of a living Inuit tradition; the Sedna narrative
+      and angakoq material remain religiously significant to Inuit communities. Much
+      of the volume is ethnographic description - extract the myth and tale chapters.
+  sha256: 06a51ef78bebbc3d0fc7b7c71a842a3b02ea18bf04a752f3be7567e380069b96
+  passage_count: 128
+- path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  source_text_id: arctic_inuit.eskimo_folk_tales.rasmussen_worster_gutenberg
+  title: Eskimo Folk-Tales
+  tradition: inuit
+  culture: greenlandic_inuit_oral_traditions_explorer_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Recording context -
+      Rasmussen was part-Greenlandic and collected in the language, which makes this
+      one of the less-mediated Arctic collections, but the English text is still a
+      double translation (Greenlandic to Danish to English) of narratives from a living
+      Inuit tradition.
+  sha256: dbded9b1a4b5e39c5c39737773d4a10376a955187ab65aebcf2fd3c1cca1e7ca
+  passage_count: 71
+- path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  source_text_id: jewish.1_enoch.charles_gutenberg
+  title: The Book of Enoch
+  tradition: jewish_pseudepigrapha
+  culture: second_temple_jewish_apocalyptic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Charles's 1917 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: 9102da48baded18be2331f872133e2d3490cacaf96d87f9ee31fc41b9b1ff375
+  passage_count: 53
+- path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  source_text_id: african.south_african_folk_tales.honey_gutenberg
+  title: South-African Folk-Tales
+  tradition: khoisan_south_african
+  culture: khoikhoi_san_oral_traditions_colonial_compilation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Recording context -
+      a compilation drawing on earlier colonial collections (Bleek and others); mixes
+      Khoikhoi and San animal tales with some Boer and European-influenced stories,
+      so individual tales must be provenance-checked before being used in isolation
+      arguments.
+  sha256: 2e1661d7a06347b6a7b450f948e52ad012b0665eed6d9a2ce6591126c41e93b6
+  passage_count: 55
+- path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  source_text_id: mesoamerican.maya_chronicles.brinton_gutenberg
+  title: The Maya Chronicles
+  tradition: maya
+  culture: yucatec_maya_colonial_manuscripts_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Contains Maya-language
+      texts with Brinton's translations of katun chronicles from the Books of Chilan
+      Balam; his readings predate modern Maya epigraphy and need scholarly caveats.
+  sha256: ea35fc536dbf1a1be5189ec77f055705271aca415a71b237f6f9177c7b5ea052
+  passage_count: 75
+- path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  source_text_id: mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg
+  title: The Babylonian Legends of the Creation
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_myth_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: c499e725a51afa36c8960220c67681ea1e23a6394642b5f5e5a2ce117b32342c
+  passage_count: 26
+- path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  source_text_id: central_asian.gessar_khan.zeitlin_archive
+  title: Gessar Khan
+  tradition: mongol
+  culture: mongolian_gesar_epic_literary_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1927 in the US, public domain. Mediation caveat - this is a literary
+      English retelling based on Schmidt's 1839 German translation of the Mongolian
+      Geser xylograph, not a field-recorded oral text; treat as reception of the epic,
+      two removes from performance. The Geser/Gesar tradition also remains a living
+      sacred epic in Tibet and Mongolia.
+  sha256: aecbb64e11f4e139ba844dc447710528fa06cbe72ce092377ecb667d8286de14
+  passage_count: 43
+- path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  source_text_id: mesoamerican.myths_of_mexico_peru.spence_gutenberg
+  title: The Myths of Mexico & Peru
+  tradition: nahua_maya_inca
+  culture: mesoamerican_andean_myth_later_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Secondary retelling
+      synthesized from Spanish chronicles, like the already-ingested Spence Popol
+      Vuh; mark extractions as later synthesis, not primary text.
+  sha256: 0c34a06c4ac3ab5bc0914ec6516452968fc3eb9c9ca7a4b3da64cb014d676133
+  passage_count: 126
+- path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  source_text_id: mesoamerican.rig_veda_americanus.brinton_gutenberg
+  title: 'Rig Veda Americanus: Sacred Songs of the Ancient Mexicans'
+  tradition: nahua
+  culture: aztec_nahuatl_hymns_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Brinton's translations
+      of these archaic hymns are pioneering but conjectural in places; includes original
+      Nahuatl text, which is valuable for the corpus.
+  sha256: 87738635bb7332e688a6fc064382667a29fd0e10f7baa172bbe0125cc2721075
+  passage_count: 21
+- path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  source_text_id: native_american.navaho_legends.matthews_gutenberg
+  title: Navaho Legends
+  tradition: navajo
+  culture: dine_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Dine creation and ceremonial narratives belong to a living religion; some
+      chantway material is traditionally restricted in season and audience. Present
+      with provenance framing and respect for Dine perspectives on ceremonial knowledge.
+  sha256: 13f9c0aa6b9dd5c9c08bcb0ee0bfda1ec5924aecf0fb876df334eaf5daf8f79c
+  passage_count: 153
+- path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  source_text_id: norse.volsunga_saga.morris_gutenberg
+  title: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  tradition: norse
+  culture: medieval_icelandic_legendary_saga
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: The Magnusson-Morris translation (1888) predates 1930 and is public domain
+      in the USA; Project Gutenberg catalog records public-domain status.
+  sha256: 4ea8e3e53ce26872e1551a0974b9c0bf17e0b967890d4cf5dd2aef0fcc5233d5
+  passage_count: 75
+- path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  source_text_id: norse.prose_edda.anderson_gutenberg
+  title: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  tradition: norse
+  culture: medieval_icelandic_mythography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Anderson's 1880 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status. Covers Gylfaginning
+      fully but only extracts of Skaldskaparmal; Hattatal is not included.
+  sha256: 525b3ec4f7b4df54ffeb8420a5c32223b31733c98685323093a0cac24772da69
+  passage_count: 67
+- path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  source_text_id: slavic.myths_folk_tales.curtin_gutenberg
+  title: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  tradition: slavic
+  culture: slavic_and_magyar_oral_folk_tradition_19th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Curtin's 1890 collection predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: c6c98dd438ab74bf8fbfe1e227ce46387d4ed777e3a81b514d684b17d610835d
+  passage_count: 145
+- path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  source_text_id: slavic.russian_fairy_tales.ralston_gutenberg
+  title: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  tradition: slavic
+  culture: russian_oral_folk_tradition_19th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Ralston's 1873 translation predates 1930 and is public domain in the USA;
+      Project Gutenberg catalog records public-domain status.
+  sha256: 3d1fcfaee278e6351508429cb160698ff518706bdcabdf6ad6d300d22a4f470f
+  passage_count: 147
+- path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  source_text_id: sufi.attar.bird_parliament_fitzgerald_archive
+  title: Bird Parliament
+  tradition: sufi
+  culture: persian_sufi_later_english_verse_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: FitzGerald's translation published 1889, US public domain. The hosted item
+      is a 2015 re-typesetting of the public-domain translation text (verbatim reproduction,
+      no new copyrightable translation content); the same item also contains a separate
+      Persian-text file which should be ignored.
+  sha256: 4888ad02f4c58a35651820900fd9e76a7709697f360807e2257f263fe59acc18
+  passage_count: 12
+- path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  source_text_id: native_american.zuni_folk_tales.cushing_gutenberg
+  title: Zuni Folk Tales
+  tradition: zuni
+  culture: zuni_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Cultural sensitivity
+      - Cushing's participant-observer methods at Zuni are historically controversial,
+      and A:shiwi tradition remains living and partly restricted; frame as one ethnographer's
+      literary renderings, not authorized Zuni publication.
+  sha256: 0aedc36bc1e0c372943ac510988cb9c8ecccec1c7dfe2a834137cbe8e909609b
+  passage_count: 137
+

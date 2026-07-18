@@ -1,0 +1,22 @@
+---
+batch_request_index_version: '1'
+run_id: edge-comparisons-sol-2026-07-18
+created_at: '2026-07-18T04:36:37Z'
+updated_at: '2026-07-18T04:46:31Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-sol
+shards:
+- shard_id: shard-0001
+  path: data/batches/edge-comparisons-sol-2026-07-18/requests/shard-0001.jsonl
+  request_count: 100
+  bytes: 403408
+  sha256: ad21696ef82d82d80ecd0cdacfff99543ee04ada659f47c6c9f34474695aeaf8
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/edge-comparisons-sol-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: 05e6a3fcc1dd79b5220c03881cb7bd2e05b40f91ee845a71e3d9b0c4a00c9bc9
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T04:46:31Z'
+

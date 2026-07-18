@@ -58,7 +58,8 @@ body = [lines[0], ""] + lines[429..842] + [""] + lines[1393..23268]
 # --- native-word detection ---------------------------------------------------
 CONTRACTIONS = %w[s t ll ve re d m em clock].freeze
 BUSHMAN_LEXICON = %w[ta kue gii yehe dzhu ssin ssa tchin kui kiii tiken
-                     han hin au ka ha ine ige ikua llkau llha].freeze
+                     han hin au ka ha ke ine ige ikua llkau llha ttumm
+                     ihamm].freeze
 ENGLISH_STOPWORDS = %w[the and of to she he it is was were said that this
                        in on you they all one].freeze
 
@@ -69,8 +70,11 @@ def bushman_word?(raw)
   # click/diacritic OCR marks
   return true if w.match?(/[|\\+~£^]/)
   return true if w.match?(/![[:alpha:]]/) # leading/embedded click "!kh6"
-  # click onsets: Ine, Ige, Ikua, jkhwa, jkiikko, llkau, llha
-  return true if w.match?(/\A[Ilj][gknqx][[:alpha:]']/)
+  # click onsets: Ige, Ikua, jkhwa, jkiikko, jlkhu, Ihamm, llkau, llha
+  # ("n" deliberately excluded from the onset class: English "Into",
+  # "Indeed" would match; the frequent |Xam "Ine" is in the lexicon instead)
+  return true if w.match?(/\A[Ilj][gkqxh][[:alpha:]']/)
+  return true if w.match?(/\Ajl[[:alpha:]]/)
   return true if w.match?(/\All[[:alpha:]]/)
   # embedded digits for accented vowels: kh6, 6a, n|^a
   return true if w.match?(/[[:alpha:]][0-9][[:alpha:]]/) || w.match?(/\A[0-9][[:alpha:]]{1,}/)
@@ -127,6 +131,12 @@ paras.each do |para|
   stripped = para.map(&:strip)
   if para.length == 1 && stripped[0].match?(PAGE_JUNK)
     stats[:page_junk] += 1
+    next
+  end
+  # OCR shrapnel: short lines with no two adjacent letters ("7 ■ o",
+  # "• O O O", "o o /", stray footnote asterisks)
+  if para.length == 1 && stripped[0].length <= 30 && stripped[0].scan(/[[:alpha:]]{2,}/).empty?
+    stats[:shrapnel] += 1
     next
   end
   if para.length == 1 && stripped[0].length <= 60 && stripped[0].match?(RUNNING_HEADER)

@@ -8656,8 +8656,7 @@ place where they could obtain food,
 84 U makqubatshana. — As Umakr/ubata means the small, rapid stepper, so
 Umakgubatshana is a diminutive of this word, meaning a very small, rapid
 stepper, — the Little Umakgubata. Uma-'$ila-kugijima-u-gijimisa- kufana,
-‘ ‘ When-he-escapes-by-running-he-runs-as-though-he-would-die. ” Inqaiaba-kazana-owa-bukca-amatulwa-wa-nika-umnguni, * ‘ Little-strong-one-the-son-of-thelittle-one-who-mixed-together-wild-medlars-and-gave-umnguni.” Inyatikazi-enetole, “ Buffalo-cow-with-a-calf.” Usomzinza-ngotwane-ubakazi-yena-umfo-a-
-nga-i-zinza-na ? “Chief-of-dancers-with-a-rod-(viz., at an ijadu) can-any-strangerhandle-the-dancing-rod-like-him ? Umnguni is a name applied to the Zulus ; it
+‘ ‘ When-he-escapes-by-running-he-runs-as-though-he-would-die. ” Inqaiaba-kazana-owa-bukca-amatulwa-wa-nika-umnguni, * ‘ Little-strong-one-the-son-of-thelittle-one-who-mixed-together-wild-medlars-and-gave-umnguni.” Inyatikazi-enetole, “ Buffalo-cow-with-a-calf.” Usomzinza-ngotwane-ubakazi-yena-umfo-anga-i-zinza-na ? “Chief-of-dancers-with-a-rod-(viz., at an ijadu) can-any-strangerhandle-the-dancing-rod-like-him ? Umnguni is a name applied to the Zulus ; it
 is also given to the Amakxosa.
 
 85 We may judge from this string of epithets ( izibongo , praise-giving names)

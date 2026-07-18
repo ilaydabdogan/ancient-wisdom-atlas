@@ -1,0 +1,25 @@
+---
+batch_request_index_version: '1'
+run_id: review-edges-luna-2026-07-18
+source_run: edge-comparisons-sol-2026-07-18
+queue_type: edge_comparison
+drafter_model: gpt-5.6-sol
+created_at: '2026-07-18T05:27:42Z'
+updated_at: '2026-07-18T05:40:58Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-luna
+shards:
+- shard_id: shard-0001
+  path: data/batches/review-edges-luna-2026-07-18/requests/shard-0001.jsonl
+  request_count: 100
+  bytes: 338762
+  sha256: 4f08aebb8405a3c74790963e8b42a939e676d22250f732adc3ffcddf89952dc5
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed
+  output_path: data/batches/review-edges-luna-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: 300975fd8524f790a49efb8909da13476b6a7d21eee9d96ecab8207164422192
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T05:40:58Z'
+

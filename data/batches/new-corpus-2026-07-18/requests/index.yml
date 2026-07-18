@@ -1,0 +1,53 @@
+---
+batch_request_index_version: '1'
+run_id: new-corpus-2026-07-18
+created_at: '2026-07-18T04:15:44Z'
+updated_at: '2026-07-18T05:12:00Z'
+endpoint: "/v1/responses"
+model: gpt-5.5
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/new-corpus-2026-07-18/passages.jsonl
+request_map_path: data/batches/new-corpus-2026-07-18/request-map.jsonl
+skip_ingested_from_run_id: new-corpus-2026-07-18
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/new-corpus-2026-07-18/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16768856
+  sha256: 94e31afddd854c74e832c42eb0e2057df44deb5f4680b3b9d26bec801d1188ae
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed_with_errors
+  output_path: data/batches/new-corpus-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: e27b407a703bcec460a4586e52c7e06b614ed2d8738e53efe80cd7d66b32d846
+  errors_path: data/batches/new-corpus-2026-07-18/results/shard-0001.errors.jsonl
+  errors_sha256: d7bd8606798ab8bfa3057d9e46acf6467f2d754394c9c8f6a9915a81c40820a9
+  runtime: realtime
+  error_count: 12
+  last_checked_at: '2026-07-18T05:12:00Z'
+- shard_id: shard-0002
+  path: data/batches/new-corpus-2026-07-18/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 16550679
+  sha256: cbbf6dfd79d8ba952da89cfb6fd2a25886c742e38470e25532c710164fc0fd1d
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0003
+  path: data/batches/new-corpus-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16628596
+  sha256: 1a7ad057a912bad853bf4e357cf0562314620af757b887229cd9bc737e203ba0
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0004
+  path: data/batches/new-corpus-2026-07-18/requests/shard-0004.jsonl
+  request_count: 647
+  bytes: 11072439
+  sha256: 6e11aa3a338346f03fc5553a0da67788e88b674498207f1d6cacf471b057e35b
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+
