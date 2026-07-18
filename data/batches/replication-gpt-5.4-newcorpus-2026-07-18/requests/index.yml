@@ -1,0 +1,214 @@
+---
+batch_request_index_version: '1'
+run_id: replication-gpt-5.4-newcorpus-2026-07-18
+created_at: '2026-07-18T09:51:13Z'
+updated_at: '2026-07-18T09:52:15Z'
+endpoint: "/v1/responses"
+model: gpt-5.4-batch
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/new-corpus-2026-07-18/passages.jsonl
+request_map_path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/request-map.jsonl
+skip_ingested_from_run_id: replication-gpt-5.4-newcorpus-2026-07-18
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16774856
+  sha256: f6af6c9f5611ed645e2d424aab1877168cb90a8a3c54e8a0b3e569a2874221fb
+  endpoint: "/v1/responses"
+  model: gpt-5.4-batch
+  status: validating
+  input_file_id: file-76364f3aa960475e8b3ac77e96245568
+  input_file:
+    status: processed
+    bytes: 16774856
+    purpose: batch
+    filename: shard-0001.jsonl
+    id: file-76364f3aa960475e8b3ac77e96245568
+    created_at: 1784368289
+    object: file
+  uploaded_at: '2026-07-18T09:51:30Z'
+  batch_id: batch_e4409f28-a488-4afa-80cd-397ebd3d79a4
+  batch:
+    usage:
+    priority: high
+    cancelled_at:
+    cancelling_at:
+    completed_at:
+    completion_window: 24h
+    created_at: 1784368321
+    error_file_id: ''
+    expired_at:
+    expires_at:
+    failed_at:
+    finalizing_at:
+    id: batch_e4409f28-a488-4afa-80cd-397ebd3d79a4
+    in_progress_at:
+    input_file_id: file-76364f3aa960475e8b3ac77e96245568
+    errors:
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: replication-gpt-5.4-newcorpus-2026-07-18
+      shard_id: shard-0001
+      pipeline: motif_extraction
+    object: batch
+    output_file_id: ''
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    status: validating
+    endpoint: ''
+  batch_created_at: '2026-07-18T09:52:01Z'
+- shard_id: shard-0002
+  path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 16556679
+  sha256: ed3b9596975ad67ea03dd59d922b9096d22804d37818728c64d16348c34ce316
+  endpoint: "/v1/responses"
+  model: gpt-5.4-batch
+  status: validating
+  input_file_id: file-5116ffbf867d42bc91d43d1622253dc0
+  input_file:
+    status: processed
+    bytes: 16556679
+    purpose: batch
+    filename: shard-0002.jsonl
+    id: file-5116ffbf867d42bc91d43d1622253dc0
+    created_at: 1784368297
+    object: file
+  uploaded_at: '2026-07-18T09:51:37Z'
+  batch_id: batch_1495477c-7773-4f97-b1e0-04c25ed9229d
+  batch:
+    usage:
+    priority: high
+    cancelled_at:
+    cancelling_at:
+    completed_at:
+    completion_window: 24h
+    created_at: 1784368325
+    error_file_id: ''
+    expired_at:
+    expires_at:
+    failed_at:
+    finalizing_at:
+    id: batch_1495477c-7773-4f97-b1e0-04c25ed9229d
+    in_progress_at:
+    input_file_id: file-5116ffbf867d42bc91d43d1622253dc0
+    errors:
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: replication-gpt-5.4-newcorpus-2026-07-18
+      shard_id: shard-0002
+      pipeline: motif_extraction
+    object: batch
+    output_file_id: ''
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    status: validating
+    endpoint: ''
+  batch_created_at: '2026-07-18T09:52:06Z'
+- shard_id: shard-0003
+  path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16634596
+  sha256: 8d6077474867c201c4b3b45424ea2f08e8b5153d68c37d4b356e9d6f7b8a2c45
+  endpoint: "/v1/responses"
+  model: gpt-5.4-batch
+  status: validating
+  input_file_id: file-97526c9d6643447e9a3a0f018076825c
+  input_file:
+    status: processed
+    bytes: 16634596
+    purpose: batch
+    filename: shard-0003.jsonl
+    id: file-97526c9d6643447e9a3a0f018076825c
+    created_at: 1784368305
+    object: file
+  uploaded_at: '2026-07-18T09:51:45Z'
+  batch_id: batch_5c348de9-6682-4b32-8220-9a7141d13c4c
+  batch:
+    usage:
+    priority: high
+    cancelled_at:
+    cancelling_at:
+    completed_at:
+    completion_window: 24h
+    created_at: 1784368330
+    error_file_id: ''
+    expired_at:
+    expires_at:
+    failed_at:
+    finalizing_at:
+    id: batch_5c348de9-6682-4b32-8220-9a7141d13c4c
+    in_progress_at:
+    input_file_id: file-97526c9d6643447e9a3a0f018076825c
+    errors:
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: replication-gpt-5.4-newcorpus-2026-07-18
+      shard_id: shard-0003
+      pipeline: motif_extraction
+    object: batch
+    output_file_id: ''
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    status: validating
+    endpoint: ''
+  batch_created_at: '2026-07-18T09:52:10Z'
+- shard_id: shard-0004
+  path: data/batches/replication-gpt-5.4-newcorpus-2026-07-18/requests/shard-0004.jsonl
+  request_count: 647
+  bytes: 11076321
+  sha256: 3c3f129da7f31b0d952d4194770a81d9bb7b88084ddd18caf2f3fc6be4777442
+  endpoint: "/v1/responses"
+  model: gpt-5.4-batch
+  status: validating
+  input_file_id: file-b702d6e25dd44970a3af6af2a4fc5263
+  input_file:
+    status: processed
+    bytes: 11076321
+    purpose: batch
+    filename: shard-0004.jsonl
+    id: file-b702d6e25dd44970a3af6af2a4fc5263
+    created_at: 1784368316
+    object: file
+  uploaded_at: '2026-07-18T09:51:56Z'
+  batch_id: batch_74cdc6be-77f5-411a-972a-1f3982c92215
+  batch:
+    usage:
+    priority: high
+    cancelled_at:
+    cancelling_at:
+    completed_at:
+    completion_window: 24h
+    created_at: 1784368334
+    error_file_id: ''
+    expired_at:
+    expires_at:
+    failed_at:
+    finalizing_at:
+    id: batch_74cdc6be-77f5-411a-972a-1f3982c92215
+    in_progress_at:
+    input_file_id: file-b702d6e25dd44970a3af6af2a4fc5263
+    errors:
+    metadata:
+      repo: ancient-wisdom-atlas
+      run_id: replication-gpt-5.4-newcorpus-2026-07-18
+      shard_id: shard-0004
+      pipeline: motif_extraction
+    object: batch
+    output_file_id: ''
+    request_counts:
+      total: 0
+      completed: 0
+      failed: 0
+    status: validating
+    endpoint: ''
+  batch_created_at: '2026-07-18T09:52:15Z'
+
