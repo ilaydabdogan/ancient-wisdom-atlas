@@ -158,6 +158,22 @@ export function sequenceGrammar(alpha = 0.05) {
   return out;
 }
 
+/**
+ * Recurring ordered chains from the sequences index, as stored (the index
+ * ranks them by tradition spread, then text count). Pass a limit to take
+ * the head of the ledger.
+ */
+export function recurringSequences(limit = null) {
+  const doc = loadYaml('indexes/motif-sequences.yml');
+  const list = doc.recurring_sequences ?? [];
+  return typeof limit === 'number' ? list.slice(0, limit) : list;
+}
+
+/** Look up one recurring ordered chain by its exact sequence string. */
+export function recurringSequenceByString(sequence) {
+  return recurringSequences().find((r) => r.sequence === sequence) ?? null;
+}
+
 /* ------------------------------------------------------------------ */
 /* Corpus (texts + traditions)                                         */
 /* ------------------------------------------------------------------ */

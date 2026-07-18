@@ -1056,6 +1056,74 @@ table.ledger tr.hit td { color: var(--ink); }
   .u-bar, .u-count, .universal-row .chips { margin-left: 0; }
 }
 
+/* ---------- pairings (the bonds and the order) ---------- */
+
+.bond-group-head {
+  margin: 2.2rem 0 0.2rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  color: var(--rubric);
+  font-variant-caps: small-caps;
+}
+
+.pair-glyph { color: var(--gold); margin: 0 0.4rem; }
+
+.order-glyph {
+  color: var(--gold);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  font-variant-caps: small-caps;
+  margin: 0 0.45rem;
+  white-space: nowrap;
+}
+
+.verdict-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  border-radius: 999px;
+  padding: 0.02rem 0.55rem;
+  white-space: nowrap;
+  font-variant-caps: small-caps;
+}
+
+.verdict-badge.survives {
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  text-shadow: var(--glow);
+}
+
+.verdict-badge.borderline {
+  color: var(--ink-soft);
+  border: 1px dashed var(--gold-soft);
+}
+
+.verdict-badge.artifact {
+  color: var(--ink-faint);
+  border: 1px solid var(--line);
+}
+
+table.ledger tr.artifact-row td { color: var(--ink-faint); }
+table.ledger tr.artifact-row td a { color: inherit; }
+
+.cmp-bars {
+  display: grid;
+  gap: 3px;
+  min-width: 7.5rem;
+  margin-top: 0.25rem;
+}
+
+.cmp-bars i {
+  display: block;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--gold);
+}
+
+.cmp-bars i.null { background: var(--ink-faint); opacity: 0.55; }
+
+tr.artifact-row .cmp-bars i { background: var(--ink-faint); }
+
 /* ---------- fingerprints (per-tradition ledger) ---------- */
 
 .fingerprint-section {

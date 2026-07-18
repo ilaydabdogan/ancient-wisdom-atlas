@@ -1,0 +1,344 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import {
+  constellations,
+  isolatedPredictionTest,
+  sequenceGrammar,
+  recurringSequences,
+  recurringSequenceByString,
+  familyById,
+  humanize,
+  fmtInt,
+  fmtPct,
+} from '../../lib/atlas.js';
+
+/*
+ * The Bonds and the Order.
+ *
+ * Section 1: every conserved family pair from the constellation index —
+ * which stories travel together — with the isolation-proven bonds
+ * (re-formed among the held-out isolated lineages) grouped first.
+ * Section 2: every strong precedence candidate from the sequences index,
+ * judged against its frequency-controlled permutation null. Section 3:
+ * the most widespread recurring ordered chains. Nothing on this page is
+ * hardcoded; rebuild the site and the ledgers follow the data.
+ */
+
+const labelOf = (id) => familyById(id)?.label ?? humanize(id);
+
+/* ---- Section 1: what travels together ---- */
+
+const con = constellations();
+const iso = isolatedPredictionTest();
+const provenSet = new Set(
+  (iso.reproduced_edge_list ?? []).map((p) => [...p].sort().join('|')),
+);
+
+const edges = (con.conserved_edges ?? []).map((e) => ({
+  a: e.pair[0],
+  b: e.pair[1],
+  traditionCount: e.tradition_count,
+  cooccurrences: e.total_cooccurrences,
+  proven: provenSet.has([...e.pair].sort().join('|')),
+}));
+
+// Keep the index's own ranking (tradition spread) within each group;
+// isolation-proven bonds lead the ledger.
+const bondRows = [...edges.filter((e) => e.proven), ...edges.filter((e) => !e.proven)];
+const provenCount = edges.filter((e) => e.proven).length;
+const maxEdgeTraditions = Math.max(...edges.map((e) => e.traditionCount), 1);
+
+/* ---- Section 2: what comes before what ---- */
+
+const seq = sequenceGrammar();
+
+function verdictOf(p) {
+  if (p.null_fraction_as_extreme <= 0.05) return 'survives';
+  if (p.null_fraction_as_extreme <= 0.1) return 'borderline';
+  return 'artifact';
+}
+
+const VERDICT_LABEL = {
+  survives: 'genuine order',
+  borderline: 'borderline',
+  artifact: 'order explained by frequency',
+};
+const VERDICT_RANK = { survives: 0, borderline: 1, artifact: 2 };
+
+const orderRows = (seq.pairs ?? [])
+  .map((p) => ({ ...p, verdict: verdictOf(p) }))
+  .sort(
+    (x, y) =>
+      VERDICT_RANK[x.verdict] - VERDICT_RANK[y.verdict] ||
+      x.null_fraction_as_extreme - y.null_fraction_as_extreme ||
+      y.consistency - x.consistency,
+  );
+
+const survivors = orderRows.filter((r) => r.verdict === 'survives');
+const borderline = orderRows.filter((r) => r.verdict === 'borderline');
+const artifacts = orderRows.filter((r) => r.verdict === 'artifact');
+const leader = [...survivors].sort((a, b) => b.consistency - a.consistency)[0] ?? null;
+
+// The most consistent ordering the null nonetheless dissolved — the honest
+// cautionary exhibit (miraculous_child ▸ sacred_fire in current data).
+const dissolvedShowpiece = [...artifacts].sort((a, b) => b.consistency - a.consistency)[0] ?? null;
+
+// The knowledge ↔ journey two-way circuit: both directions recur.
+const circuitOut = recurringSequenceByString('sacred_knowledge > hero_journey');
+const circuitBack = recurringSequenceByString('hero_journey > sacred_knowledge');
+
+/* ---- Section 3: recurring chains sampler ---- */
+
+const CHAIN_LIMIT = 15;
+const chains = recurringSequences(CHAIN_LIMIT).map((r) => ({
+  families: r.sequence.split(' > '),
+  traditionCount: r.tradition_count,
+  textCount: r.text_count,
+}));
+const totalChains = seq.recurringSequences ?? recurringSequences().length;
+---
+
+<Manuscript
+  title="Pairings — the Bonds and the Order — Ancient Wisdom Atlas"
+  description={`The full ledger of story-partnerships: ${fmtInt(edges.length)} conserved family bonds (${fmtInt(provenCount)} isolation-proven) and the ${fmtInt(orderRows.length)} candidate orderings judged against a frequency-controlled null.`}
+>
+  <div class="folio">
+    <section class="story-open" style="padding-bottom: 1rem;">
+      <p class="rubric">Pairings · the bonds and the order</p>
+      <h1>Which stories travel together — and which walk in front</h1>
+      <div class="reading">
+        <p class="dropcap">
+          A motif family rarely journeys alone. Across the corpus, certain
+          pairs of story-patterns keep appearing in the same traditions —
+          bonds conserved from lineage to lineage — and within single texts,
+          certain patterns keep arriving <em>before</em> others. This page is
+          the full ledger of both: every conserved bond, and every candidate
+          ordering, each judged against chance.
+        </p>
+        <div class="stat-row">
+          <div class="stat"><strong>{fmtInt(edges.length)}</strong> <span>conserved bonds</span></div>
+          <div class="stat"><strong>{fmtInt(provenCount)}</strong> <span>isolation-proven</span></div>
+          <div class="stat"><strong>{fmtInt(orderRows.length)}</strong> <span>candidate orderings</span></div>
+          <div class="stat"><strong>{fmtInt(survivors.length)}</strong> <span>orderings that survive the null</span></div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">I · What travels together</p>
+        <h2>The conserved bonds</h2>
+        <p>
+          A bond is <em>conserved</em> when the same two families co-occur in
+          many unrelated traditions. The bar measures spread — how many of
+          the {fmtInt(con.summary?.traditions_analyzed)} analyzed traditions
+          carry the pair — and the marginal gloss counts every co-occurrence
+          in the corpus.
+        </p>
+        <p class="footnote">
+          <span class="iso-badge">✦ isolation-proven</span> marks a bond that
+          <em>re-formed</em> among the held-out isolated lineages — peoples
+          with no possible contact with the training corpus — in the
+          preregistered isolated-lineage test. For these
+          {fmtInt(provenCount)} bonds, &ldquo;they borrowed it&rdquo; is not an
+          available explanation. They lead the ledger; the remaining
+          {fmtInt(edges.length - provenCount)} conserved bonds follow.
+        </p>
+      </div>
+
+      <ol class="universal-list">
+        {bondRows.map((e, i) => (
+          <li class="universal-row">
+            {i === 0 && <p class="bond-group-head">Bonds proven in isolation</p>}
+            {i === provenCount && provenCount < bondRows.length && (
+              <p class="bond-group-head">The remaining conserved bonds</p>
+            )}
+            <div class="universal-head">
+              <span class="u-rank">{i + 1}</span>
+              <h3>
+                <a href={`/descent/${e.a}/`}>{labelOf(e.a)}</a>
+                <span class="pair-glyph">✦</span>
+                <a href={`/descent/${e.b}/`}>{labelOf(e.b)}</a>
+              </h3>
+              {e.proven && (
+                <span class="iso-badge" title="This bond re-formed among isolated lineages with no possible contact with the training corpus">✦ isolation-proven</span>
+              )}
+              <span class="u-gloss">{fmtInt(e.cooccurrences)} co-occurrences</span>
+            </div>
+            <div class="u-bar" role="img" aria-label={`${e.traditionCount} of ${con.summary?.traditions_analyzed} traditions`}>
+              <i style={`width:${((e.traditionCount / maxEdgeTraditions) * 100).toFixed(1)}%`}></i>
+            </div>
+            <p class="u-count">{fmtInt(e.traditionCount)} traditions carry this pair</p>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">II · What comes before what</p>
+        <h2>The order, and its jury</h2>
+        <p class="dropcap">
+          Campbell claimed the world&rsquo;s stories share one universal
+          sequence — departure, ordeal, return. We put the claim on trial.
+          From the texts, {fmtInt(orderRows.length)} strong before-and-after
+          orderings emerged. But an ordering can be an illusion of bookkeeping:
+          a pattern that simply appears <em>often</em> will tend to appear
+          early. So each candidate was retried against a frequency-controlled
+          null — shuffling positions within each text while keeping every
+          count — and most orderings dissolved.
+          {fmtInt(artifacts.length)} of the {fmtInt(orderRows.length)} are
+          explained by frequency alone; {fmtInt(borderline.length)} sit on the
+          border. As a universal grammar, the hypothesis failed.
+        </p>
+        <p>
+          Yet {fmtInt(survivors.length)} lines of order held
+          {leader && (
+            <Fragment>
+              {' '}— led by <a href={`/descent/${leader.before}/`}>{labelOf(leader.before)}</a>
+              <span class="order-glyph">▸ before ▸</span>
+              <a href={`/descent/${leader.after}/`}>{labelOf(leader.after)}</a>
+              {' '}({fmtPct(leader.consistency)} observed against
+              {' '}{fmtPct(leader.null_consistency_mean)} expected)
+            </Fragment>
+          )}. These may be the first measured fragments of genuine narrative
+          law: not Campbell&rsquo;s single monomyth, but a handful of
+          orderings the texts keep that chance does not write on its own.
+        </p>
+        {dissolvedShowpiece && (
+          <p>
+            An honest exhibit of why the null matters:
+            {' '}<a href={`/descent/${dissolvedShowpiece.before}/`}>{labelOf(dissolvedShowpiece.before)}</a>
+            <span class="order-glyph">▸ before ▸</span>
+            <a href={`/descent/${dissolvedShowpiece.after}/`}>{labelOf(dissolvedShowpiece.after)}</a>
+            {' '}holds in {fmtPct(dissolvedShowpiece.consistency)} of its
+            {' '}{fmtInt(dissolvedShowpiece.text_count)} texts — and the null
+            reaches {fmtPct(dissolvedShowpiece.null_consistency_mean)} on its
+            own. A beautiful ordering, explained by frequency. We publish it
+            beside the survivors, because that is the point.
+          </p>
+        )}
+        {circuitOut && circuitBack && (
+          <p class="footnote">
+            One ordering refuses to be an ordering at all: knowledge and
+            journey run as a two-way circuit. {labelOf('sacred_knowledge')}
+            {' '}precedes {labelOf('hero_journey')} in
+            {' '}{fmtInt(circuitOut.text_count)} texts across
+            {' '}{fmtInt(circuitOut.tradition_count)} traditions — and the
+            reverse runs in {fmtInt(circuitBack.text_count)} texts across
+            {' '}{fmtInt(circuitBack.tradition_count)} traditions. The road
+            leads to knowing, and knowing sets out on the road.
+          </p>
+        )}
+        <p class="footnote">
+          The verdicts: <span class="verdict-badge survives">genuine order</span> when
+          the null matched or beat the observed consistency in at most 5% of
+          permutations; <span class="verdict-badge borderline">borderline</span> at
+          10%; <span class="verdict-badge artifact">order explained by frequency</span> otherwise.
+          Survivors lead the ledger.
+        </p>
+      </div>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>All {fmtInt(orderRows.length)} candidate orderings, observed against the frequency-controlled null</caption>
+          <thead>
+            <tr>
+              <th>Ordering</th>
+              <th class="num">Observed</th>
+              <th class="num">Null mean</th>
+              <th>Observed vs null</th>
+              <th class="num">Texts</th>
+              <th>Verdict</th>
+            </tr>
+          </thead>
+          <tbody>
+            {orderRows.map((p) => (
+              <tr class={p.verdict === 'artifact' ? 'artifact-row' : p.verdict === 'survives' ? 'hit' : undefined}>
+                <td>
+                  <a href={`/descent/${p.before}/`}>{labelOf(p.before)}</a>
+                  <span class="order-glyph">▸ before ▸</span>
+                  <a href={`/descent/${p.after}/`}>{labelOf(p.after)}</a>
+                </td>
+                <td class="num">{fmtPct(p.consistency)}</td>
+                <td class="num">{fmtPct(p.null_consistency_mean)}</td>
+                <td>
+                  <span class="cmp-bars" role="img" aria-label={`observed ${fmtPct(p.consistency)}, null ${fmtPct(p.null_consistency_mean)}`}>
+                    <i style={`width:${(p.consistency * 100).toFixed(1)}%`}></i>
+                    <i class="null" style={`width:${(p.null_consistency_mean * 100).toFixed(1)}%`}></i>
+                  </span>
+                </td>
+                <td class="num">{fmtInt(p.text_count)}</td>
+                <td><span class={`verdict-badge ${p.verdict}`}>{VERDICT_LABEL[p.verdict]}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">III · Recurring chains</p>
+        <h2>A sampler of the chains themselves</h2>
+        <p>
+          Beneath the pairwise verdicts sit the raw chains: ordered runs of
+          families that recur across texts. The corpus holds
+          {' '}{fmtInt(totalChains)} recurring sequences; here are the
+          {' '}{fmtInt(chains.length)} carried by the most traditions. A chain
+          recurring is not a law — Section II is where chains go to be judged —
+          but the sampler shows the material the jury works from.
+        </p>
+      </div>
+
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>The {fmtInt(chains.length)} most widespread recurring chains</caption>
+          <thead>
+            <tr>
+              <th>Chain</th>
+              <th class="num">Traditions</th>
+              <th class="num">Texts</th>
+            </tr>
+          </thead>
+          <tbody>
+            {chains.map((c) => (
+              <tr>
+                <td>
+                  {c.families.map((f, j) => (
+                    <Fragment>
+                      {j > 0 && <span class="order-glyph">▸</span>}
+                      <a href={`/descent/${f}/`}>{labelOf(f)}</a>
+                    </Fragment>
+                  ))}
+                </td>
+                <td class="num">{fmtInt(c.traditionCount)}</td>
+                <td class="num">{fmtInt(c.textCount)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="story-section">
+      <div class="reading">
+        <p class="footnote">
+          Every family name opens its page in <a href="/descent/">the descent</a>,
+          down to the quoted passages. The bonds come from the constellation
+          index; the isolation badge from the preregistered isolated-lineage
+          test; the orderings and chains from the sequences index with its
+          within-text permutation null. The wider argument lives in
+          <a href="/findings/"> the findings</a>; the full apparatus in
+          <a href="/lab/"> the Lab</a>.
+        </p>
+      </div>
+    </section>
+  </div>
+</Manuscript>
