@@ -1,0 +1,958 @@
+---
+version: '1'
+generated_at: '2026-07-18T15:15:47Z'
+provenance: proposed by label-embedding cosine >= 0.90; reviewed by gpt-5.6-terra
+  (conservative rubric); NOT yet folded into motif-normalization.yml
+accepted_count: 316
+kept_separate_count: 774
+parse_failures: 0
+merges:
+- merge: single_hero_defeats_overwhelming_hostile_host
+  into: single_hero_defeats_overwhelming_host
+  reason: Hostile is implicit
+- merge: single_combat_between_opposing_champions
+  into: single_combat_between_champions
+  reason: Opponents are implicit
+- merge: nearly_invulnerable_warrior
+  into: near_invulnerable_warrior
+  reason: Synonymous degree wording
+- merge: external_soul_or_life_bound_to_external_object
+  into: external_soul_or_life_bound_to_another_object
+  reason: Equivalent external object phrasing
+- merge: filial_piety_and_mature_gratitude
+  into: filial_piety_and_grateful_maturity
+  reason: Equivalent virtue formulation
+- merge: divine_intervention_in_combat
+  into: divine_intervention_in_battle
+  reason: Combat and battle synonymous
+- merge: divine_counterplot_against_hostile_plotters
+  into: divine_counter_plot_against_hostile_plotters
+  reason: Spelling variation only
+- merge: deceptive_food_with_a_hidden_harmful_object
+  into: deceptive_food_hides_a_harmful_object
+  reason: Equivalent concealment wording
+- merge: ritual_purity_before_prayer
+  into: ritual_purification_before_prayer
+  reason: Same prerequisite ritual condition
+- merge: warning_before_fated_combat
+  into: warning_before_a_fated_combat
+  reason: Article variation only
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_soul_or_life_stored_outside_the_body
+  reason: Equivalent externalization wording
+- merge: divine_rescue_by_concealment_in_cloud
+  into: divine_rescue_by_concealing_cloud
+  reason: Equivalent cloud-concealment rescue
+- merge: supplication_with_ransom_refused
+  into: supplication_and_ransom_refused
+  reason: Same refused ransom plea
+- merge: divine_adornment_before_public_appearance
+  into: divine_adornment_before_presentation
+  reason: Presentation implies public appearance
+- merge: cave_refuge_from_pursuers
+  into: cave_refuge_during_pursuit
+  reason: Same pursuit-refuge situation
+- merge: deceptive_dream_sent_from_a_deity
+  into: deceptive_dream_sent_by_a_god
+  reason: Equivalent divine dream sender
+- merge: battle_for_possession_of_a_hero_s_corpse
+  into: battle_for_possession_of_a_fallen_hero_s_body
+  reason: Corpse and fallen body equivalent
+- merge: former_companions_forced_into_single_combat
+  into: former_companions_forced_into_duel
+  reason: Duel equals single combat
+- merge: sea_crossing_by_constructed_bridge
+  into: crossing_the_sea_by_constructed_bridge
+  reason: Equivalent constructed bridge crossing
+- merge: weapon_turned_back_upon_the_attacker
+  into: hostile_weapon_turned_back_upon_attacker
+  reason: Same retaliatory weapon reversal
+- merge: external_soul_hidden_outside_the_body
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Life and soul synonymous
+- merge: divine_empowerment_of_a_warrior_in_battle
+  into: divine_empowerment_of_a_battlefield_hero
+  reason: Hero and warrior synonymous
+- merge: single_warrior_blocks_an_army_at_a_ford
+  into: single_hero_blocks_an_army_at_a_ford
+  reason: Hero and warrior synonymous
+- merge: divine_intervention_in_contest_victory
+  into: divine_intervention_determines_a_contest_outcome
+  reason: Victory expresses determined outcome
+- merge: substitute_warrior_in_borrowed_armor
+  into: substitute_warrior_in_another_hero_s_armor
+  reason: Borrowed armor implies another's armor
+- merge: funeral_games_and_honors_for_the_dead
+  into: funeral_games_honoring_the_dead
+  reason: Same funerary commemorative practice
+- merge: external_soul_or_life_placed_outside_the_body
+  into: external_soul_located_outside_the_body
+  reason: Same externalized-life motif
+- merge: personal_guardian_spirit_accompanying_a_human_life
+  into: guardian_spirit_attending_a_person_through_life
+  reason: Same lifelong guardian relationship
+- merge: external_soul_or_life_placed_outside_the_body
+  into: external_soul_kept_outside_the_body
+  reason: Same externalized-life motif
+- merge: divine_intervention_in_battle
+  into: divine_aid_in_battle
+  reason: Same divine battlefield assistance
+- merge: life_giving_water_from_heaven
+  into: life_giving_heavenly_water
+  reason: Same heavenly water source
+- merge: love_as_source_of_heroic_courage_and_honor
+  into: love_as_divine_source_of_honor_and_courage
+  reason: Same love-inspired heroic virtue
+- merge: funeral_rites_for_a_slain_companion
+  into: funeral_rites_for_a_dead_companion
+  reason: Slain specifies manner of death
+- merge: battle_for_possession_of_a_fallen_hero_s_body
+  into: battle_for_the_body_of_a_fallen_hero
+  reason: Same contest over hero's body
+- merge: divinely_aided_hero_in_combat
+  into: divine_aid_to_hero_in_battle
+  reason: Same divine assistance motif
+- merge: refuge_from_demonic_suggestions
+  into: refuge_from_demonic_promptings
+  reason: Suggestions and promptings synonymous
+- merge: cattle_raid_or_cow_spoil
+  into: cattle_raid
+  reason: Cow spoil denotes cattle raid
+- merge: heroic_steadfastness_against_overwhelming_force
+  into: heroic_stand_against_an_overwhelming_foe
+  reason: Same heroic resistance motif
+- merge: living_human_treated_as_god
+  into: human_being_treated_as_living_deity
+  reason: Same living deification motif
+- merge: mountains_and_trees_used_as_heroic_weapons
+  into: mountain_and_tree_used_as_heroic_weapons
+  reason: Singular-plural wording only
+- merge: heroic_single_combat_at_a_ford
+  into: single_combat_at_a_ford
+  reason: Heroic is non-distinctive modifier
+- merge: external_soul_or_life_placed_outside_the_body
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Same externalized soul motif
+- merge: threatened_burning_of_the_ships
+  into: threatened_burning_of_ships
+  reason: Article variation only
+- merge: cattle_raid_and_seizure_of_livestock
+  into: cattle_raid
+  reason: Seizure defines the raid
+- merge: ominous_portents_before_battle
+  into: ill_omens_before_battle
+  reason: Direct synonymy
+- merge: single_combat_to_settle_a_collective_war
+  into: single_combat_as_decision_of_collective_conflict
+  reason: Same conflict-resolution function
+- merge: substitution_by_wearing_another_hero_s_armor
+  into: substitute_warrior_in_another_hero_s_armor
+  reason: Same substitution mechanism
+- merge: impermanence_of_royal_grandeur
+  into: impermanence_of_royal_glory
+  reason: Glory and grandeur synonymous here
+- merge: external_soul_or_life_bound_to_external_object
+  into: external_soul_or_external_life_kept_in_an_object
+  reason: Same external-object life motif
+- merge: external_soul_kept_outside_the_body
+  into: external_soul_located_outside_the_body
+  reason: Same extracorporeal soul location
+- merge: substitute_warrior_wears_hero_s_armor
+  into: substitute_warrior_in_another_hero_s_armor
+  reason: Same substitute armor motif
+- merge: fire_attack_on_enemy_vessels
+  into: attack_on_ships_by_fire
+  reason: Ships and vessels synonymous
+- merge: miraculous_protection_within_fire
+  into: miraculous_preservation_from_fire
+  reason: Same miraculous fire survival
+- merge: irrevocable_writing_of_fate
+  into: irreversible_written_destiny
+  reason: Same written inescapable fate
+- merge: external_soul_or_life_stored_outside_the_body
+  into: external_soul_or_life_placed_outside_the_body
+  reason: Placement and storage equivalent
+- merge: sea_peril_divine_rescue_and_human_ingratitude
+  into: divine_rescue_in_peril_at_sea_followed_by_ingratitude
+  reason: Same rescue-ingratitude narrative sequence
+- merge: contest_for_the_arms_of_a_dead_hero
+  into: contest_for_a_dead_hero_s_arms
+  reason: Identical contest and object
+- merge: music_that_compels_emotion_and_sleep
+  into: magical_music_controlling_emotion_and_sleep
+  reason: Same compulsive musical effects
+- merge: purifying_sacred_river
+  into: purification_by_sacred_river_water
+  reason: Same sacred-river purification motif
+- merge: education_as_indelible_coloring
+  into: education_as_an_indelible_imprint
+  reason: Same permanent educational metaphor
+- merge: desire_seeks_what_it_lacks
+  into: desire_as_lack
+  reason: Same conception of desire
+- merge: personified_cosmic_wheel_as_oppressor
+  into: personified_cosmic_wheel_as_hostile_fate
+  reason: Same hostile fate personification
+- merge: life_or_soul_kept_outside_the_body
+  into: external_soul_kept_outside_the_body
+  reason: Equivalent externalized life motif
+- merge: supplication_with_ransom_refused
+  into: suppliant_ransom_offer_refused
+  reason: Same refused ransom supplication
+- merge: hidden_external_soul
+  into: external_soul_hidden_outside_the_body
+  reason: Same hidden external-soul motif
+- merge: hymnic_request_for_divine_favor
+  into: hymnic_petition_for_divine_favor_through_song
+  reason: Hymnic petition inherently uses song
+- merge: dying_and_returning
+  into: death_rebirth
+  reason: Equivalent death-and-return cycle
+- merge: place_name_explained_by_violent_event
+  into: place_name_etiology_from_violent_events
+  reason: Same violent-event etiology
+- merge: external_soul_or_life_stored_outside_the_body
+  into: external_soul_located_outside_the_body
+  reason: Same externalized life-location motif
+- merge: recognition_token_as_bodily_scar
+  into: recognition_by_bodily_scar
+  reason: Scar functions as recognition token
+- merge: universal_cosmic_praise
+  into: cosmic_praise_of_god
+  reason: Both describe cosmic divine praise
+- merge: external_soul_or_life_bound_to_another_object
+  into: external_soul_or_external_life_kept_in_an_object
+  reason: Same externalized life motif
+- merge: contest_over_the_dead_hero_s_arms
+  into: contest_for_the_arms_of_a_dead_hero
+  reason: Identical contest and object
+- merge: miraculous_deliverance_from_fire
+  into: deliverance_from_fiery_peril
+  reason: Same fire-deliverance motif
+- merge: divine_provision_through_rain_and_vegetation
+  into: divine_provision_through_rain_and_revived_land
+  reason: Rain restores productive land
+- merge: heavenly_model_for_earthly_life
+  into: heavenly_ideal_as_rule_for_earthly_life
+  reason: Model and rule equivalent
+- merge: heroic_exhortation_of_glory_and_shame
+  into: heroic_exhortation_against_shame_before_battle
+  reason: Same shame-based battle exhortation
+- merge: baited_food_leads_to_capture
+  into: baited_capture_through_sweet_or_desired_food
+  reason: Desired food serves as bait
+- merge: single_combat_substitutes_for_wider_battle
+  into: single_combat_substituted_for_mass_battle
+  reason: Same substitution of combat scales
+- merge: cosmic_order_upheld_by_divine_permission
+  into: cosmic_order_under_divine_sovereignty
+  reason: Divine sanction preserves cosmic order
+- merge: transference_of_evil_or_affliction_to_a_substitute
+  into: transfer_of_curse_sin_evil_omen_or_disease_to_a_substitute
+  reason: Same substitute-transference motif
+- merge: miraculous_preservation_from_fire
+  into: miraculous_deliverance_from_fire
+  reason: Same miraculous fire survival
+- merge: single_combat_used_to_delay_an_invading_army
+  into: single_combat_delays_invasion
+  reason: Same delaying combat function
+- merge: prophetic_signs_rejected_as_sorcery
+  into: prophetic_signs_opposed_as_sorcery
+  reason: Same sorcery-based rejection
+- merge: external_soul_or_life_bound_to_external_object
+  into: external_soul_or_external_life_token
+  reason: Same externalized life motif
+- merge: person_s_life_bound_to_an_external_animal_counterpart
+  into: human_life_bound_to_an_animal_s_life
+  reason: Same animal life counterpart
+- merge: tree_wielded_as_battle_weapon
+  into: tree_used_as_weapon_in_heroic_combat
+  reason: Same tree weapon motif
+- merge: life_or_soul_kept_outside_the_body
+  into: external_soul_or_life_placed_outside_the_body
+  reason: Same external soul placement
+- merge: external_soul_kept_outside_the_body
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Equivalent externalized soul motif
+- merge: divine_rescue_by_concealment_in_cloud
+  into: divine_concealment_of_a_threatened_hero_in_a_cloud
+  reason: Same cloud-concealment rescue
+- merge: divine_speech_at_creation
+  into: creation_by_divine_speech
+  reason: Same speech-creation motif
+- merge: divine_assistance_in_battle
+  into: heavenly_aid_in_battle
+  reason: Equivalent divine battlefield aid
+- merge: universal_divine_sovereignty_over_heaven_and_earth
+  into: divine_sovereignty_over_cosmos_and_creatures
+  reason: Equivalent universal sovereignty
+- merge: pursuer_becomes_prey
+  into: pursuer_becomes_fugitive
+  reason: Same reversal of pursuit
+- merge: sacred_calendar_under_divine_ordinance
+  into: divinely_ordained_cosmic_or_ritual_calendar
+  reason: Equivalent divinely ordained calendar
+- merge: miraculous_creation_of_armies_by_a_cow
+  into: miraculous_army_generated_from_a_sacred_cow
+  reason: Same bovine army creation
+- merge: life_of_spirit_bound_to_tree
+  into: life_bound_tree_spirit
+  reason: Same tree-bound spirit life
+- merge: treasure_hidden_in_a_cave
+  into: treasure_cave
+  reason: Same cave-hidden treasure motif
+- merge: champion_s_prolonged_single_combat_ending_in_beheading
+  into: champion_duel_ending_in_beheading
+  reason: Same beheading duel outcome
+- merge: omens_before_combat
+  into: ill_omens_before_battle
+  reason: Same pre-battle omen motif
+- merge: friend_versus_friend_duel
+  into: friend_against_friend_combat
+  reason: Same interpersonal combat motif
+- merge: deceptive_adversaries_opposing_prophetic_mission
+  into: deceptive_adversaries_of_prophets
+  reason: Same prophetic opposition motif
+- merge: written_and_unalterable_destiny
+  into: irrevocable_writing_of_fate
+  reason: Same irrevocable written fate
+- merge: contest_over_fallen_warrior_s_body_or_arms
+  into: contest_for_the_corpse_and_arms_of_a_fallen_hero
+  reason: Same contested remains and arms
+- merge: unheeded_prophecy_before_catastrophe
+  into: unbelieved_true_prophecy_before_catastrophe
+  reason: Same rejected predictive warning
+- merge: written_and_unalterable_destiny
+  into: irreversible_written_destiny
+  reason: Same irreversible written fate
+- merge: lament_for_the_fallen_hero
+  into: lament_for_a_fallen_warrior
+  reason: Hero and warrior overlap
+- merge: sympathetic_magic_by_resemblance
+  into: imitative_sympathetic_magic
+  reason: Standard synonymous magic terms
+- merge: inherited_feud_and_vengeance_across_generations
+  into: ancestral_feud_continuing_through_bloodline
+  reason: Same transgenerational feud motif
+- merge: external_soul_or_life_placed_outside_the_body
+  into: external_soul_or_external_life_token
+  reason: Same externalized life motif
+- merge: external_soul_or_separable_soul
+  into: external_or_detachable_soul
+  reason: Detachable and separable synonymous
+- merge: animal_centered_fable_title_pattern
+  into: animal_centered_fable_encounter_headings
+  reason: Same textual heading pattern
+- merge: parental_supplication_to_avert_heroic_death
+  into: parental_supplication_before_a_hero_s_fatal_combat
+  reason: Same attempted death-averting supplication
+- merge: bridge_across_the_sea_enabling_army_passage
+  into: army_builds_a_bridge_across_the_sea
+  reason: Same military bridge construction
+- merge: single_hero_blocks_an_army_at_a_ford
+  into: single_champion_holds_off_an_army_at_a_ford
+  reason: Equivalent ford defense motif
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_soul_or_life_placed_outside_the_body
+  reason: Equivalent external-soul formulation
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_soul_located_outside_the_body
+  reason: Equivalent external location motif
+- merge: fatal_cattle_raid_and_ambush
+  into: cattle_raid_ending_in_ambush_and_slaughter
+  reason: Equivalent raid-ambush outcome
+- merge: hidden_external_soul
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Equivalent hidden external soul
+- merge: jealous_lover_isolates_the_beloved
+  into: jealous_isolation_of_the_beloved
+  reason: Same jealous isolation action
+- merge: contest_over_the_arms_of_a_fallen_warrior
+  into: contest_over_a_dead_hero_s_arms
+  reason: Equivalent arms-contest motif
+- merge: single_hero_defeats_a_large_attacking_group
+  into: overwhelming_hero_defeats_massed_enemies
+  reason: Same heroic mass defeat
+- merge: former_companions_forced_into_duel
+  into: forced_duel_between_comrades
+  reason: Same coerced companion duel
+- merge: funerals_of_fallen_warriors
+  into: burial_of_the_fallen_after_combat
+  reason: Same postcombat warrior funeral
+- merge: prophetic_warning_rejected_by_unbelievers
+  into: prophetic_warning_rejected_by_a_people
+  reason: Same rejection of prophecy
+- merge: funeral_games_with_heroic_prize_contests
+  into: funeral_games_honoring_the_dead
+  reason: Prize contests are funeral games
+- merge: life_or_strength_externally_located
+  into: externalized_life_strength_or_soul
+  reason: Equivalent external-life formulation
+- merge: hopeless_heroic_last_stand
+  into: heroic_last_stand_under_overwhelming_attack
+  reason: Equivalent hopeless last-stand motif
+- merge: single_warrior_blocks_an_army_at_a_ford
+  into: single_champion_holds_off_an_army_at_a_ford
+  reason: Champion and warrior are equivalent
+- merge: external_soul_or_life_placed_outside_the_body
+  into: external_soul_or_life_bound_to_another_object
+  reason: Both externalize life into object
+- merge: ritualized_divine_adornment_before_seduction
+  into: divine_adornment_before_erotic_encounter
+  reason: Equivalent erotic-preparation motif
+- merge: ritual_cleansing_after_bloodshed
+  into: purification_after_bloodshed
+  reason: Equivalent post-bloodshed purification
+- merge: sacred_contagion_as_dangerous_force
+  into: dangerous_contagion_of_sacred_objects
+  reason: Same dangerous sacred contagion
+- merge: battle_for_possession_of_a_hero_s_corpse
+  into: battle_for_the_body_of_a_fallen_hero
+  reason: Same contested heroic corpse
+- merge: champion_s_prolonged_single_combat_ending_in_beheading
+  into: champion_challenge_followed_by_prolonged_duel_and_beheading
+  reason: Same duel sequence
+- merge: petrifying_monster_head_weapon
+  into: petrifying_head_used_as_supernatural_weapon
+  reason: Same petrifying head weapon
+- merge: divine_aid_in_battle_through_unseen_hosts
+  into: divine_aid_in_battle_through_heavenly_auxiliaries
+  reason: Same supernatural battle auxiliaries
+- merge: divinely_induced_panic_in_battle
+  into: divinely_impressed_battlefield_panic
+  reason: Same divine battlefield panic
+- merge: contest_over_the_dead_hero_s_arms
+  into: contest_for_a_dead_hero_s_arms
+  reason: Equivalent contest phrasing
+- merge: single_hero_defeats_a_large_attacking_group
+  into: lone_hero_defeats_overwhelming_hostile_host
+  reason: Equivalent heroic victory motif
+- merge: tree_associated_god
+  into: deity_associated_with_sacred_tree
+  reason: Equivalent deity-tree association
+- merge: soul_located_outside_or_in_bodily_reflected_substances
+  into: soul_located_in_reflection_or_external_object
+  reason: Equivalent external-soul locations
+- merge: love_sickness_requiring_the_beloved_s_cure
+  into: love_sickness_healed_by_the_beloved
+  reason: Equivalent beloved-mediated cure
+- merge: life_or_soul_kept_outside_the_body
+  into: external_soul_or_external_life_kept_in_an_object
+  reason: Equivalent externalized life motif
+- merge: funeral_games_for_a_fallen_warrior
+  into: funeral_games_honoring_the_dead
+  reason: Warrior specifies the deceased
+- merge: marvelous_animal_lure
+  into: magical_animal_lure
+  reason: Magical and marvelous are synonymous
+- merge: fate_powers_binding_gods
+  into: fate_as_a_power_superior_even_to_gods
+  reason: Both assert fate over gods
+- merge: miraculous_passage_over_water
+  into: magical_travel_across_waters
+  reason: Both describe supernatural water crossing
+- merge: life_or_soul_kept_outside_the_body
+  into: external_soul_or_life_stored_outside_the_body
+  reason: Exact conceptual equivalence
+- merge: lament_over_a_slain_opponent
+  into: hero_s_lament_for_a_slain_opponent
+  reason: Hero specification does not alter motif
+- merge: life_or_soul_kept_outside_the_body
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Same externalized soul motif
+- merge: truce_for_funeral_rites_of_the_slain
+  into: temporary_truce_between_enemies_for_funeral_rites
+  reason: Same funeral truce motif
+- merge: single_hero_blocks_an_army_at_a_ford
+  into: hero_isolated_against_an_army_at_a_ford
+  reason: Same lone defender scenario
+- merge: funeral_games_with_heroic_prize_contests
+  into: funeral_games_as_setting_for_contest
+  reason: Same funeral contest setting
+- merge: liminal_combat_at_a_ford
+  into: combat_at_a_ford
+  reason: Ford inherently supplies liminality
+- merge: prohibition_of_figurative_images_in_game_pieces
+  into: prohibited_image_bearing_game_pieces
+  reason: Same game-piece image prohibition
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Same externalized soul storage
+- merge: place_name_origin_from_violent_death_or_event
+  into: place_name_etiology_from_violent_events
+  reason: Same violent-event place etiology
+- merge: invulnerable_warrior_resistant_to_weapons
+  into: invulnerable_or_weapon_resistant_warrior_body
+  reason: Same weapon-resistant warrior motif
+- merge: divine_creative_word
+  into: divine_creative_command
+  reason: Same creation through divine speech
+- merge: soul_stored_in_object_or_container
+  into: soul_contained_in_objects_or_vessels
+  reason: Same external soul containment
+- merge: external_soul_or_life_bound_to_another_object
+  into: external_soul_or_external_life_token
+  reason: Same externally bound life motif
+- merge: small_faithful_host_defeats_a_numerous_host_by_divine_will
+  into: small_faithful_army_defeats_greater_force_by_divine_will
+  reason: Same divinely aided underdog victory
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_soul_kept_outside_the_body
+  reason: Same externalized soul motif
+- merge: nature_personified_as_divine_powers
+  into: natural_phenomenon_personified_as_divine_beings
+  reason: Same divine nature personification
+- merge: overwhelming_hero_defeats_massed_enemies
+  into: lone_hero_defeats_overwhelming_hostile_host
+  reason: Hero defeats overwhelming enemy multitude
+- merge: collective_lamentation_for_a_fallen_defender
+  into: collective_lament_for_the_fallen_champion
+  reason: Defender and champion are synonymous
+- merge: ritual_purification_at_clear_water
+  into: ritual_like_purification_in_spring_or_river
+  reason: Equivalent ritual-water purification motif
+- merge: former_comrades_become_mortal_opponents
+  into: former_companions_forced_into_deadly_combat
+  reason: Former allies become deadly foes
+- merge: divine_rescue_of_favored_warrior
+  into: divine_rescue_of_an_imperiled_hero
+  reason: Both describe divine battlefield rescue
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_soul_hidden_outside_the_body
+  reason: Equivalent external soul formulation
+- merge: external_soul_or_external_life_kept_in_an_object
+  into: external_soul_located_outside_the_body
+  reason: Same externalized soul concept
+- merge: last_stand_of_the_outnumbered_warrior
+  into: heroic_last_stand_under_overwhelming_attack
+  reason: Same overwhelming last stand
+- merge: single_combat_between_representative_champions
+  into: champion_single_combat_before_armies
+  reason: Same representative pre-battle duel
+- merge: divinely_bestowed_weapon_and_strength
+  into: divine_bestowal_of_martial_skill_and_weapons
+  reason: Same divine martial endowment
+- merge: invulnerable_or_weapon_resistant_warrior_body
+  into: invulnerable_or_iron_framed_warrior_withstands_blows
+  reason: Same bodily weapon resistance
+- merge: soul_contained_in_objects_or_vessels
+  into: life_or_soul_deposited_in_an_external_object
+  reason: Same soul-container motif
+- merge: contest_for_the_fallen_hero_s_arms
+  into: contest_over_a_dead_hero_s_arms
+  reason: Same contested fallen hero arms
+- merge: animals_lamenting_a_slain_human_companion
+  into: animal_mourning_for_human_master_or_companions
+  reason: Same animal mourning motif
+- merge: single_hero_against_a_large_hostile_group
+  into: outnumbered_hero_fighting_multiple_adversaries
+  reason: Same outnumbered hero combat
+- merge: mysterious_divine_visitors_received_with_hospitality
+  into: hospitality_offered_to_a_divine_stranger
+  reason: Same divine guest hospitality
+- merge: miraculous_sign_contest_against_magicians
+  into: miracle_contest_against_magicians
+  reason: Same miracle contest motif
+- merge: toponymic_naming_from_heroic_events
+  into: place_name_etiology_from_heroic_event
+  reason: Same heroic toponym etiology
+- merge: life_or_soul_kept_outside_the_body
+  into: externalized_life_or_soul_stored_outside_the_body
+  reason: Equivalent external-soul formulation
+- merge: repentance_before_punishment_and_divine_mercy
+  into: mercy_and_repentance_before_irreversible_punishment
+  reason: Same repentance-mercy sequence
+- merge: youth_renewing_divine_food
+  into: rejuvenating_food_preserves_divine_youth
+  reason: Equivalent youth-renewing food motif
+- merge: cattle_raid_or_cow_spoil
+  into: cattle_raid_and_seizure_of_livestock
+  reason: Equivalent livestock-raiding motif
+- merge: supplication_and_ransom_refused
+  into: suppliant_ransom_offer_refused
+  reason: Equivalent refused-ransom supplication
+- merge: life_giving_water
+  into: life_from_water
+  reason: Equivalent life-bestowing water motif
+- merge: external_soul_or_life_stored_outside_the_body
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Equivalent external soul storage
+- merge: speech_as_enchantment_of_the_mind
+  into: enchantment_of_the_soul_by_speech
+  reason: Equivalent speech-induced psychic enchantment
+- merge: funeral_games_for_a_fallen_warrior
+  into: funeral_games_after_heroic_death
+  reason: Equivalent heroic funeral games
+- merge: single_combat_between_opposing_champions
+  into: champion_single_combat_before_armies
+  reason: Equivalent champion duel motif
+- merge: mourning_over_the_slain_royal_warrior
+  into: lament_over_the_fallen_warrior_king
+  reason: Equivalent royal warrior mourning
+- merge: splendid_warrior_arrival_in_a_battle_chariot
+  into: approaching_warrior_in_a_war_chariot
+  reason: Equivalent chariot warrior arrival
+- merge: external_soul_or_life_stored_outside_the_body
+  into: external_soul_hidden_outside_the_body
+  reason: Equivalent externalized life motif
+- merge: heroic_single_combat_before_assembled_armies
+  into: champion_single_combat_before_armies
+  reason: Equivalent pre-battle champion duel
+- merge: single_champion_holds_off_an_army_at_a_ford
+  into: hero_isolated_against_an_army_at_a_ford
+  reason: Equivalent lone defense at ford
+- merge: retaliation_for_insult_to_vulnerable_or_low_status_figures
+  into: avenging_insult_to_humble_or_marginal_figures
+  reason: Equivalent vulnerable-status insult retaliation
+- merge: lost_ring_recovered_through_a_salmon
+  into: lost_ring_recovered_through_a_fish
+  reason: Salmon is fish specification
+- merge: outnumbered_hero_fighting_multiple_adversaries
+  into: hero_fights_alone_against_overwhelming_numbers
+  reason: Same outnumbered solitary combat
+- merge: life_bound_to_a_vulnerable_external_object
+  into: external_soul_or_life_bound_to_external_object
+  reason: Same externalized life motif
+- merge: life_giving_water_from_heaven
+  into: heavenly_water_producing_abundance
+  reason: Same heavenly life-giving water
+- merge: invulnerable_warrior_resistant_to_weapons
+  into: invulnerable_or_iron_framed_warrior_withstands_blows
+  reason: Same weapon-resistant warrior
+- merge: wine_as_answer_to_mortality_and_sorrow
+  into: drink_wine_in_response_to_mortality
+  reason: Same mortality-consolation wine motif
+- merge: widow_s_lament_for_the_fallen_husband
+  into: widow_s_lament_beside_the_body
+  reason: Same widow mourning motif
+- merge: love_sickness_or_secret_love_as_bodily_illness
+  into: love_sickness_as_wasting_illness
+  reason: Same illness expression of love
+- merge: contest_over_the_arms_of_a_fallen_warrior
+  into: contest_for_the_fallen_hero_s_arms
+  reason: Same dispute over fallen arms
+- merge: impermanence_of_worldly_power
+  into: impermanence_of_royal_grandeur
+  reason: Same transience-of-power motif
+- merge: attempted_fiery_destruction_of_enemy_ships
+  into: attack_on_ships_by_fire
+  reason: Same fiery naval attack
+- merge: prayer_in_distress_followed_by_forgetfulness_after_deliverance
+  into: prayer_in_danger_followed_by_forgetfulness_after_rescue
+  reason: Same rescue-and-forgetfulness sequence
+- merge: divine_sovereignty_over_cosmos_and_creatures
+  into: cosmic_order_under_divine_sovereignty
+  reason: Same divine cosmic rulership
+- merge: divinely_prompted_warrior_enters_battle
+  into: divine_incitement_of_a_warrior_in_battle
+  reason: Same divine battle incitement
+- merge: battle_at_a_ford_as_contested_boundary
+  into: combat_at_a_ford
+  reason: Same ford-combat setting
+- merge: external_soul_or_life_stored_outside_the_body
+  into: external_soul_kept_outside_the_body
+  reason: Same externalized life principle
+- merge: life_giving_heavenly_water
+  into: heavenly_water_producing_abundance
+  reason: Same beneficent heavenly water
+- merge: divine_messenger_sent_with_decree
+  into: divine_messenger_announces_command
+  reason: Same messenger-command motif
+- merge: blood_etiologically_changes_a_tree_s_fruit_color
+  into: blood_causing_transformation_of_a_tree_s_fruit_color
+  reason: Same blood color etiology
+- merge: human_fashioned_from_clay_and_given_divine_breath
+  into: creation_of_man_from_clay_and_divine_spirit
+  reason: Same clay-and-breath creation
+- merge: combat_at_a_ford_between_opposed_champions
+  into: heroic_single_combat_at_a_ford
+  reason: Same champion duel setting
+- merge: externalized_life_or_soul_stored_outside_the_body
+  into: external_soul_or_external_life_kept_in_an_object
+  reason: Same external soul motif
+- merge: false_allies_abandon_those_they_promise_to_help
+  into: false_alliance_and_abandoned_allies
+  reason: Same betrayal of alliance
+- merge: struggle_over_the_slain_body_and_spoils
+  into: combat_over_the_corpse_and_spoils_of_a_fallen_warrior
+  reason: Same struggle over corpse and spoils
+- merge: ominous_portents_before_battle
+  into: omens_before_combat
+  reason: Synonymous pre-battle warning signs
+- merge: divine_protection_turns_aside_a_lethal_weapon
+  into: divine_protection_from_weapons_in_battle
+  reason: Same divine weapon-protection motif
+- merge: divinely_aided_warrior_assault
+  into: divinely_aided_hero_in_combat
+  reason: Same divinely aided combatant motif
+- merge: music_that_compels_emotion_and_sleep
+  into: magical_music_causing_universal_emotion_or_sleep
+  reason: Same compulsive musical effects
+- merge: life_bound_to_a_vulnerable_external_object
+  into: external_soul_or_life_bound_to_another_object
+  reason: Same externalized life motif
+- merge: warrior_as_ravaging_fire
+  into: destructive_warrior_likened_to_fire
+  reason: Same warrior-fire simile
+- merge: decisive_arming_against_a_feared_weapon
+  into: arming_against_a_feared_special_weapon
+  reason: Same defensive arming motif
+- merge: lament_over_a_slain_sworn_companion
+  into: lament_for_dead_heroic_companions
+  reason: Same lamented companion motif
+- merge: life_or_soul_deposited_in_an_external_object
+  into: external_soul_or_life_bound_to_external_object
+  reason: Equivalent externalized life-soul motif
+- merge: inescapable_destiny_shaping_conduct
+  into: inescapable_bond_of_fate
+  reason: Equivalent inescapable fate concept
+- merge: divinely_aided_hero_in_combat
+  into: divine_intervention_in_combat
+  reason: Same divine combat aid
+- merge: pre_combat_flyting_and_death_threats
+  into: flyting_and_death_boasting_before_battle
+  reason: Same prebattle verbal challenge
+- merge: ominous_signs_foretelling_death_in_battle
+  into: ill_omens_before_doomed_battle
+  reason: Same battle-death forewarning
+- merge: life_of_spirit_bound_to_tree
+  into: life_bound_to_a_tree_or_plant
+  reason: Same arboreal external-life motif
+- merge: life_or_soul_kept_outside_the_body
+  into: external_soul_located_outside_the_body
+  reason: Same external-soul location motif
+- merge: miracle_working_holy_person
+  into: divinely_authorized_miracle_worker
+  reason: Same sacred miracle-worker role
+- merge: divine_commissioning_of_a_messenger_against_an_impious_ruler
+  into: divine_commission_to_confront_an_oppressive_ruler
+  reason: Same divinely commissioned confrontation
+- merge: tree_wielded_as_battle_weapon
+  into: improvised_tree_weapon_in_heroic_combat
+  reason: Same tree weapon motif
+- merge: external_soul_or_life_bound_to_external_object
+  into: life_bound_to_an_external_object
+  reason: Same external life-binding motif
+- merge: rejected_miraculous_sign
+  into: rejected_miracle_signs
+  reason: Singular-plural wording only
+- merge: natural_world_used_as_weapons_in_battle
+  into: natural_objects_used_as_heroic_weapons
+  reason: Same natural weapons motif
+- merge: world_egg
+  into: cosmic_egg
+  reason: Synonymous cosmological egg motif
+- merge: external_soul_or_life_stored_outside_the_body
+  into: external_soul_or_external_life_token
+  reason: Same externally stored life motif
+- merge: single_hero_withstands_and_destroys_a_demonic_host
+  into: lone_hero_against_overwhelming_demon_host
+  reason: Same lone-hero demon-host combat
+- merge: sacred_regulation_of_household_thresholds
+  into: sacral_regulation_of_household_thresholds
+  reason: Sacral and sacred synonymous
+- merge: paradise_as_gardens_and_rivers
+  into: paradisal_garden_with_flowing_rivers
+  reason: Same paradisal landscape imagery
+- merge: youth_cut_down_like_an_uprooted_tree
+  into: young_warrior_cut_down_like_a_tree
+  reason: Same youth-tree death metaphor
+- merge: single_hero_against_a_large_hostile_group
+  into: hero_fights_alone_against_overwhelming_numbers
+  reason: Same lone-hero overwhelming opposition
+- merge: external_soul_or_life_bound_to_another_object
+  into: life_bound_to_an_external_object
+  reason: Same external life-binding motif
+- merge: impermanence_of_life
+  into: impermanence_of_breath_and_present_life
+  reason: Same life impermanence theme
+- merge: lament_over_the_dead_companion
+  into: lament_for_dead_heroic_companions
+  reason: Same companion-death lament motif
+- merge: past_life_identity_linkage
+  into: past_life_identification_of_present_figures
+  reason: Same past-life identity connection
+- merge: combat_over_the_corpse_and_spoils_of_a_fallen_warrior
+  into: battle_over_the_body_and_armor_of_a_fallen_warrior
+  reason: Same contest over remains and equipment
+- merge: externalized_life_strength_or_soul
+  into: external_soul_or_external_life_token
+  reason: Equivalent externalized soul motif
+- merge: life_or_soul_deposited_in_an_external_object
+  into: external_soul_or_life_bound_to_another_object
+  reason: Equivalent external soul localization
+- merge: divinely_aided_hero_in_combat
+  into: divine_empowerment_of_a_warrior_in_battle
+  reason: Equivalent divine battlefield aid
+- merge: ritualized_single_combat_with_alternating_weapon_choice
+  into: formal_alternation_of_weapon_choice_in_heroic_combat
+  reason: Equivalent alternating weapon duel
+- merge: life_or_soul_deposited_in_an_external_object
+  into: external_soul_or_external_life_kept_in_an_object
+  reason: Same externalized life motif
+- merge: place_name_origin_from_violent_death_or_event
+  into: place_name_explained_by_violent_event
+  reason: Same violent etiological naming
+- merge: divine_decree_inscribed_on_a_heavenly_record
+  into: cosmic_record_of_divine_decrees
+  reason: Same celestial decree record
+- merge: divine_rescue_by_concealing_cloud
+  into: divine_concealment_of_a_threatened_hero_in_a_cloud
+  reason: Same cloud concealment rescue
+- merge: substitution_by_wearing_another_hero_s_armor
+  into: substitute_warrior_in_borrowed_armor
+  reason: Same substitution-through-armor motif
+- merge: externalized_life_strength_or_soul
+  into: external_soul_or_life_placed_outside_the_body
+  reason: Same externalized-life motif
+- merge: last_survivor_lamenting_a_vanished_heroic_company
+  into: lament_of_the_last_survivor_of_a_heroic_band
+  reason: Same survivor-company lament
+- merge: former_companions_forced_into_single_combat
+  into: forced_duel_between_comrades
+  reason: Same coerced comrades duel
+- merge: supernatural_conversion_through_sacred_recitation
+  into: supernatural_beings_converted_by_sacred_recitation
+  reason: Same conversion through recitation
+- merge: external_soul_or_life_bound_to_another_object
+  into: external_soul_kept_outside_the_body
+  reason: Same externalized life motif
+- merge: boon_with_omitted_vulnerability
+  into: boon_with_fatal_omitted_exception
+  reason: Fatal exception is omitted vulnerability
+- merge: inexorable_fate_ruling_gods_and_mortals
+  into: fate_as_a_power_superior_even_to_gods
+  reason: Both portray fate above gods
+- merge: solar_deity_as_universal_divine_totality
+  into: solar_deity_as_all_gods_and_cosmic_power
+  reason: Equivalent universal solar divinity
+- merge: divine_creation_ordering_and_sustenance_of_the_cosmos
+  into: creator_orders_and_sustains_the_cosmos
+  reason: Same creator-cosmos function
+- merge: taunt_that_rouses_a_warrior
+  into: taunt_provoking_renewed_martial_force
+  reason: Same taunt-induced martial renewal
+- merge: external_soul_or_separable_soul
+  into: external_soul_or_external_life_token
+  reason: Same externalized life principle
+- merge: past_life_identity_disclosure_in_a_j_taka_frame
+  into: past_life_identification_in_j_taka_frame
+  reason: Identification and disclosure coincide
+- merge: divine_provision_through_created_nature
+  into: divine_provision_through_animals_and_plants
+  reason: Animals and plants are nature
+- merge: external_soul_or_life_bound_to_external_object
+  into: external_life_in_object_animal_or_stone
+  reason: Same externalized life motif
+- merge: combat_at_a_ford_between_opposed_champions
+  into: single_combat_at_a_ford
+  reason: Same champion ford combat
+- merge: prophecy_and_boast_before_combat
+  into: heroic_boast_of_foretold_victory
+  reason: Both foretell victory before combat
+- merge: love_sickness_healed_by_the_beloved
+  into: love_as_an_affliction_cured_only_by_the_beloved
+  reason: Same love-affliction cure motif
+- merge: divine_empowerment_of_a_battlefield_hero
+  into: divine_aid_to_hero_in_battle
+  reason: Same divine battlefield assistance
+- merge: wounded_indispensable_hero_absent_from_battle
+  into: wounded_heroes_and_the_absent_champion
+  reason: Same absent wounded champion pattern
+- merge: divine_influence_over_battle_outcome
+  into: divine_aid_determines_battle_momentum
+  reason: Same divine control of battle
+- merge: former_birth_reveals_present_identities
+  into: former_birth_identification_of_present_figures
+  reason: Same past-life identity revelation
+- merge: inexorable_fate_ruling_gods_and_mortals
+  into: fate_binding_gods_and_mortals
+  reason: Same universal fate motif
+- merge: protective_sea_deity_aiding_mariners
+  into: divine_protector_of_sea_voyages
+  reason: Same maritime divine protection
+- merge: single_combat_to_settle_a_collective_war
+  into: single_combat_substituted_for_mass_battle
+  reason: Same combat substitution motif
+- merge: mortality_in_clay_and_adamic_dust
+  into: mortality_embedded_in_clay
+  reason: Clay-and-dust mortality formulation
+- merge: heroic_honors_for_fallen_warriors
+  into: heroic_death_followed_by_funerary_honors
+  reason: Both concern postmortem heroic honors
+- merge: life_bound_to_an_external_object_burned_in_fire
+  into: life_bound_to_a_combustible_token
+  reason: Combustible token burned externally
+- merge: divine_creative_word
+  into: creation_by_divine_speech
+  reason: Creative speech and word coincide
+- merge: invulnerability_through_externalized_soul
+  into: invulnerability_dependent_on_a_hidden_or_external_life_object
+  reason: Same external life principle
+- merge: lifespan_tied_to_a_combustible_object
+  into: life_bound_to_a_combustible_token
+  reason: Same combustible life token
+- merge: deceptive_dream_sent_from_a_deity
+  into: deceptive_divine_dream_sent_to_a_ruler
+  reason: Same divine deceptive dream
+- merge: substitution_by_wearing_another_hero_s_armor
+  into: substitute_warrior_wears_hero_s_armor
+  reason: Same armor substitution motif
+- merge: sacred_book_as_miracle_or_divine_oracle
+  into: miraculous_scripture_or_sacred_book
+  reason: Same miraculous sacred text
+- merge: divine_creative_command
+  into: creation_and_life_by_divine_command
+  reason: Same creation through command
+- merge: external_soul_or_external_life_kept_in_an_object
+  into: external_life_in_object_animal_or_stone
+  reason: Same external-life storage motif
+- merge: severed_head_displayed_as_victory_token
+  into: hero_bearing_severed_heads_as_trophies
+  reason: Same trophy-display motif
+- merge: fate_delayed_but_not_overturned
+  into: decreed_fate_delayed_but_not_annulled
+  reason: Same delayed inevitable fate
+- merge: soul_stored_in_object_or_container
+  into: life_or_soul_deposited_in_an_external_object
+  reason: Same external soul repository
+- merge: ritual_prayer_ordered_by_sacred_time
+  into: ritual_prayer_at_cosmic_times
+  reason: Same time-regulated ritual prayer
+- merge: reluctant_combat_between_foster_brothers
+  into: beloved_foster_brothers_forced_into_combat
+  reason: Same compelled fraternal combat
+- merge: night_attack_with_incendiary_destruction_of_a_city
+  into: city_destroyed_by_nocturnal_assault_and_fire
+  reason: Same nocturnal incendiary city attack
+- merge: external_soul_or_life_bound_to_another_object
+  into: external_life_or_soul_hidden_outside_the_body
+  reason: Same externalized life principle
+- merge: omens_before_combat
+  into: auspicious_omens_before_battle
+  reason: Same prebattle omen motif
+- merge: exclusive_worship_and_rejection_of_divine_association
+  into: exclusive_devotion_and_rejection_of_idols
+  reason: Equivalent exclusive monotheistic worship
+- merge: heroic_battle_rage_and_mass_slaughter
+  into: heroic_battle_fury_with_catalogue_of_slain_foes
+  reason: Same battle-fury mass-killing motif
+- merge: recognition_token_sent_through_a_messenger
+  into: recognition_token_sent_by_envoy
+  reason: Envoy and messenger equivalent
+- merge: heavenly_omen_inaugurates_battle
+  into: celestial_portent_before_battle
+  reason: Equivalent pre-battle celestial omen
+- merge: divinely_aided_warrior_assault
+  into: divine_empowerment_of_a_warrior_in_battle
+  reason: Both depict divine martial aid
+- merge: protective_mountain_refuge
+  into: holy_mountain_refuge
+  reason: Equivalent sacred protective refuge
+- merge: stranger_received_and_fed_by_a_compassionate_host
+  into: hungry_traveller_received_by_a_hospitable_host
+  reason: Same hospitality and feeding motif
+- merge: supernatural_or_named_weapon_turns_battle
+  into: divine_or_named_weapons_decide_battle
+  reason: Same battle-deciding weapon motif
+
