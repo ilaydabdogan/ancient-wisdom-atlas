@@ -201,15 +201,29 @@ module AtlasBatch
   end
 
   def openai_api_key
+    azure_key = ENV["AZURE_OPENAI_API_KEY"].to_s.strip
+    return azure_key unless azure_key.empty?
+
     ENV["OPENAI_API_KEY"].to_s.strip.tap do |key|
-      die "OPENAI_API_KEY is required for OpenAI API operations" if key.empty?
+      die "OPENAI_API_KEY (or AZURE_OPENAI_API_KEY + AZURE_OPENAI_ENDPOINT) is required for OpenAI API operations" if key.empty?
     end
   end
 
+  # With AZURE_OPENAI_ENDPOINT set (e.g. https://myresource.openai.azure.com),
+  # requests go to Azure OpenAI's OpenAI-compatible /openai/v1 surface; model
+  # values in request JSONL must then be Azure deployment names.
+  def openai_base_url
+    azure_endpoint = ENV["AZURE_OPENAI_ENDPOINT"].to_s.strip
+    return "#{azure_endpoint.chomp("/")}/openai/v1" unless azure_endpoint.empty?
+
+    ENV.fetch("OPENAI_BASE_URL", "https://api.openai.com/v1")
+  end
+
   class OpenAIClient
-    def initialize(api_key: AtlasBatch.openai_api_key, base_url: ENV.fetch("OPENAI_BASE_URL", "https://api.openai.com/v1"))
+    def initialize(api_key: AtlasBatch.openai_api_key, base_url: AtlasBatch.openai_base_url)
       @api_key = api_key
       @base_url = base_url.end_with?("/") ? base_url : "#{base_url}/"
+      @azure = !ENV["AZURE_OPENAI_ENDPOINT"].to_s.strip.empty?
     end
 
     def get_json(path)
@@ -254,6 +268,7 @@ module AtlasBatch
       request_class = method == :post ? Net::HTTP::Post : Net::HTTP::Get
       request = request_class.new(uri)
       request["Authorization"] = "Bearer #{@api_key}"
+      request["api-key"] = @api_key if @azure
       extra_headers.each { |key, value| request[key] = value }
       request.body = body if body
       http.request(request)
