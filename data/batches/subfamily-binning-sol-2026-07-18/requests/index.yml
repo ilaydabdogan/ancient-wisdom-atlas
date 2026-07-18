@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: subfamily-binning-sol-2026-07-18
 created_at: '2026-07-18T05:22:19Z'
-updated_at: '2026-07-18T05:22:19Z'
+updated_at: '2026-07-18T06:58:33Z'
 endpoint: "/v1/responses"
 model: gpt-5.6-sol
 shards:
@@ -13,5 +13,12 @@ shards:
   sha256: 77718c37733121f2c468076068846efd7f1953e162a7caf9c44758c745518c80
   endpoint: "/v1/responses"
   model: gpt-5.6-sol
-  status: prepared
+  status: completed
+  output_path: data/batches/subfamily-binning-sol-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: ba9093671279f138bcc415ea6520d3fc7105491e75142011ea6000480fdc14ec
+  errors_path: data/batches/subfamily-binning-sol-2026-07-18/results/shard-0001.errors.jsonl
+  errors_sha256: 3314bbedd81657ab512dbf6e3c861ea823b3bf2d030dd36f9081a290b045ec81
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T06:58:33Z'
 
