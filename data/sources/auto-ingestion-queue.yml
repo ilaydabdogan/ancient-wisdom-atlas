@@ -7976,7 +7976,7 @@ items:
   manifest_path: manifests/project-gutenberg/12814-philippine-folk-tales-cole.yml
   extraction_dir: extractions/filipino/project-gutenberg/philippine-folk-tales-cole
 - id: australian.native_tribes_central_australia.spencer_gillen_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: nativetribesofce00spenuoft
@@ -8026,8 +8026,13 @@ items:
   - ancestor_beings
   - initiation
   - totemism
+  raw_path: imports/raw/project-gutenberg/nativetribesofce00spenuoft-native-tribes-central-australia-spencer-gillen.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/nativetribesofce00spenuoft-native-tribes-central-australia-spencer-gillen.md
 - id: australian.northern_tribes_central_australia.spencer_gillen_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: northerntribesof00spen
@@ -8073,8 +8078,13 @@ items:
   - ancestor_beings
   - initiation
   - totemism
+  raw_path: imports/raw/project-gutenberg/northerntribesof00spen-northern-tribes-central-australia-spencer-gillen.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/northerntribesof00spen-northern-tribes-central-australia-spencer-gillen.md
 - id: andamanese.andaman_islanders.radcliffe_brown_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '78356'
@@ -8122,8 +8132,17 @@ items:
   - flood
   - fire_origin
   - ancestor_beings
+  raw_path: imports/raw/project-gutenberg/78356-andaman-islanders-radcliffe-brown.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/78356-andaman-islanders-radcliffe-brown.md
+  canonical_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  manifest_path: manifests/project-gutenberg/78356-andaman-islanders-radcliffe-brown.yml
+  extraction_dir: extractions/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown
 - id: andamanese.aboriginal_inhabitants_andaman.man_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: b24764413
@@ -8172,8 +8191,13 @@ items:
   - flood
   - fire_origin
   - sky_being
+  raw_path: imports/raw/project-gutenberg/b24764413-aboriginal-inhabitants-andaman-man.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/b24764413-aboriginal-inhabitants-andaman-man.md
 - id: arctic_inuit.people_of_polar_north.rasmussen_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: peopleofpolarnor00rasmuoft
@@ -8221,8 +8245,13 @@ items:
   - shamanic_journey
   - transformation
   - orphan_hero
+  raw_path: imports/raw/project-gutenberg/peopleofpolarnor00rasmuoft-people-of-polar-north-rasmussen.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/peopleofpolarnor00rasmuoft-people-of-polar-north-rasmussen.md
 - id: arctic_inuit.across_arctic_america.rasmussen_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: acrossarcticamer006641mbp
@@ -8270,8 +8299,13 @@ items:
   - shamanic_journey
   - song_power
   - moon_spirit
+  raw_path: imports/raw/project-gutenberg/acrossarcticamer006641mbp-across-arctic-america-rasmussen.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/acrossarcticamer006641mbp-across-arctic-america-rasmussen.md
 - id: arctic_inuit.eskimo_baffin_hudson_1.boas_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: bulletin-american-museum-natural-history-15-001-370
@@ -8319,8 +8353,13 @@ items:
   - transformation
   - shamanic_journey
   - animal_spouse
+  raw_path: imports/raw/project-gutenberg/bulletin-american-museum-natural-history-15-001-370-eskimo-baffin-hudson-boas-part1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/bulletin-american-museum-natural-history-15-001-370-eskimo-baffin-hudson-boas-part1.md
 - id: arctic_inuit.eskimo_baffin_hudson_2.boas_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: bulletin-american-museum-natural-history-15-371-570
@@ -8364,8 +8403,13 @@ items:
   - sea_woman
   - transformation
   - taboo_violation
+  raw_path: imports/raw/project-gutenberg/bulletin-american-museum-natural-history-15-371-570-eskimo-baffin-hudson-boas-part2.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/bulletin-american-museum-natural-history-15-371-570-eskimo-baffin-hudson-boas-part2.md
 - id: siberian.chukchee_mythology.bogoras_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: chukcheemytholog00wgbo
@@ -8415,8 +8459,13 @@ items:
   - shamanic_journey
   - sky_world
   - transformation
+  raw_path: imports/raw/project-gutenberg/chukcheemytholog00wgbo-chukchee-mythology-bogoras.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/chukcheemytholog00wgbo-chukchee-mythology-bogoras.md
 - id: south_american.among_indians_guiana.im_thurn_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: amongindiansgui00thurgoog
@@ -8463,8 +8512,13 @@ items:
   - spirit_attack
   - shamanic_power
   - transformation
+  raw_path: imports/raw/project-gutenberg/amongindiansgui00thurgoog-among-indians-guiana-im-thurn.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/amongindiansgui00thurgoog-among-indians-guiana-im-thurn.md
 - id: south_american.north_west_amazons.whiffen_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '55540'
@@ -8514,8 +8568,17 @@ items:
   - anaconda
   - dance_ritual
   - afterlife
+  raw_path: imports/raw/project-gutenberg/55540-north-west-amazons-whiffen.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/55540-north-west-amazons-whiffen.md
+  canonical_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  manifest_path: manifests/project-gutenberg/55540-north-west-amazons-whiffen.yml
+  extraction_dir: extractions/amazonian/project-gutenberg/north-west-amazons-whiffen
 - id: native_american.tsimshian_mythology.boas_tate_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: tsimshianmytholo00boas
@@ -8562,8 +8625,13 @@ items:
   - transformation
   - sky_world
   - animal_spouse
+  raw_path: imports/raw/project-gutenberg/tsimshianmytholo00boas-tsimshian-mythology-boas-tate.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/tsimshianmytholo00boas-tsimshian-mythology-boas-tate.md
 - id: native_american.tlingit_myths_texts.swanton_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '78871'
@@ -8610,8 +8678,17 @@ items:
   - flood
   - transformation
   - hero_journey
+  raw_path: imports/raw/project-gutenberg/78871-tlingit-myths-texts-swanton.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/78871-tlingit-myths-texts-swanton.md
+  canonical_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  manifest_path: manifests/project-gutenberg/78871-tlingit-myths-texts-swanton.yml
+  extraction_dir: extractions/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton
 - id: native_american.haida_texts_myths.swanton_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '74172'
@@ -8656,8 +8733,17 @@ items:
   - raven_cycle
   - ocean_beings
   - transformation
+  raw_path: imports/raw/project-gutenberg/74172-haida-texts-myths-swanton.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/74172-haida-texts-myths-swanton.md
+  canonical_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  manifest_path: manifests/project-gutenberg/74172-haida-texts-myths-swanton.yml
+  extraction_dir: extractions/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton
 - id: native_american.myths_of_cherokee.mooney_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '45634'
@@ -8701,8 +8787,17 @@ items:
   - fire_origin
   - trickster
   - little_people
+  raw_path: imports/raw/project-gutenberg/45634-myths-of-cherokee-mooney.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/45634-myths-of-cherokee-mooney.md
+  canonical_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  manifest_path: manifests/project-gutenberg/45634-myths-of-cherokee-mooney.yml
+  extraction_dir: extractions/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney
 - id: native_american.traditions_skidi_pawnee.dorsey_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: traditionsofskid0000dors
@@ -8749,8 +8844,13 @@ items:
   - creation
   - sacred_bundle
   - animal_helpers
+  raw_path: imports/raw/project-gutenberg/traditionsofskid0000dors-traditions-skidi-pawnee-dorsey.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/traditionsofskid0000dors-traditions-skidi-pawnee-dorsey.md
 - id: native_american.traditions_arikara.dorsey_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '68666'
@@ -8795,8 +8895,17 @@ items:
   - corn_mother
   - animal_helpers
   - hero_journey
+  raw_path: imports/raw/project-gutenberg/68666-traditions-arikara-dorsey.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/68666-traditions-arikara-dorsey.md
+  canonical_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  manifest_path: manifests/project-gutenberg/68666-traditions-arikara-dorsey.yml
+  extraction_dir: extractions/native-american-plains/project-gutenberg/traditions-arikara-dorsey
 - id: native_american.pima_indians.russell_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: pimaindians01russgoog
@@ -8842,8 +8951,13 @@ items:
   - flood
   - elder_brother
   - song_power
+  raw_path: imports/raw/project-gutenberg/pimaindians01russgoog-pima-indians-russell.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/pimaindians01russgoog-pima-indians-russell.md
 - id: native_american.aw_aw_tam_indian_nights.lloyd_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '38064'
@@ -8889,8 +9003,17 @@ items:
   - flood
   - elder_brother
   - coyote
+  raw_path: imports/raw/project-gutenberg/38064-aw-aw-tam-indian-nights-lloyd.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/38064-aw-aw-tam-indian-nights-lloyd.md
+  canonical_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  manifest_path: manifests/project-gutenberg/38064-aw-aw-tam-indian-nights-lloyd.yml
+  extraction_dir: extractions/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd
 - id: african.life_south_african_tribe_1.junod_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: lifeofsouthafric01junouoft
@@ -8934,8 +9057,13 @@ items:
   - initiation
   - ancestor_veneration
   - ritual_formula
+  raw_path: imports/raw/project-gutenberg/lifeofsouthafric01junouoft-life-south-african-tribe-junod-vol1.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/lifeofsouthafric01junouoft-life-south-african-tribe-junod-vol1.md
 - id: african.life_south_african_tribe_2.junod_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: lifeofsouthafric02junouoft
@@ -8982,8 +9110,13 @@ items:
   - ancestor_veneration
   - divination
   - ogre_tales
+  raw_path: imports/raw/project-gutenberg/lifeofsouthafric02junouoft-life-south-african-tribe-junod-vol2.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/lifeofsouthafric02junouoft-life-south-african-tribe-junod-vol2.md
 - id: african.ila_speaking_peoples_1.smith_dale_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: ilaspeakingpeopl01smituoft
@@ -9025,8 +9158,13 @@ items:
   motifs:
   - initiation
   - ritual_formula
+  raw_path: imports/raw/project-gutenberg/ilaspeakingpeopl01smituoft-ila-speaking-peoples-vol1-smith-dale.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/ilaspeakingpeopl01smituoft-ila-speaking-peoples-vol1-smith-dale.md
 - id: african.ila_speaking_peoples_2.smith_dale_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: ilaspeakingpeopl02smituoft
@@ -9072,8 +9210,13 @@ items:
   - death_origin
   - trickster
   - ogre_tales
+  raw_path: imports/raw/project-gutenberg/ilaspeakingpeopl02smituoft-ila-speaking-peoples-vol2-smith-dale.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/ilaspeakingpeopl02smituoft-ila-speaking-peoples-vol2-smith-dale.md
 - id: african.ashanti.rattray_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: ashanti0000ratt
@@ -9120,8 +9263,13 @@ items:
   - high_god
   - ancestor_veneration
   - sacred_kingship
+  raw_path: imports/raw/project-gutenberg/ashanti0000ratt-ashanti-rattray.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/ashanti0000ratt-ashanti-rattray.md
 - id: african.bantu_folklore_northern_rhodesia.torrend_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: specimensofbantu00torr
@@ -9168,8 +9316,13 @@ items:
   - ogre_tales
   - trickster
   - transformation
+  raw_path: imports/raw/project-gutenberg/specimensofbantu00torr-specimens-bantu-folklore-torrend.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/specimensofbantu00torr-specimens-bantu-folklore-torrend.md
 - id: melanesian.melanesians_british_new_guinea.seligman_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: melanesiansofbri00seli
@@ -9218,8 +9371,13 @@ items:
   - spirit_beings
   - sorcery
   - culture_hero
+  raw_path: imports/raw/project-gutenberg/melanesiansofbri00seli-melanesians-british-new-guinea-seligman.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/melanesiansofbri00seli-melanesians-british-new-guinea-seligman.md
 - id: south_american.unknown_people_unknown_land.grubb_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: unknownpeopleinu00grub
@@ -9269,8 +9427,13 @@ items:
   - spirit_beings
   - dream_lore
   - afterlife
+  raw_path: imports/raw/project-gutenberg/unknownpeopleinu00grub-unknown-people-unknown-land-grubb.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/unknownpeopleinu00grub-unknown-people-unknown-land-grubb.md
 - id: malagasy.madagascar_before_conquest.sibree_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: cu31924028622284
@@ -9316,8 +9479,13 @@ items:
   - ancestor_veneration
   - taboo
   - proverb_wisdom
+  raw_path: imports/raw/project-gutenberg/cu31924028622284-madagascar-before-conquest-sibree.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/cu31924028622284-madagascar-before-conquest-sibree.md
 - id: micronesian.caroline_islands.christian_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: carolineislands00chri
@@ -9365,8 +9533,13 @@ items:
   - culture_hero
   - sacred_city
   - spirit_beings
+  raw_path: imports/raw/project-gutenberg/carolineislands00chri-caroline-islands-christian.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/carolineislands00chri-caroline-islands-christian.md
 - id: micronesian.island_of_stone_money.furness_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: cu31924023500543
@@ -9411,3 +9584,8 @@ items:
   - creation
   - afterlife
   - spirit_beings
+  raw_path: imports/raw/project-gutenberg/cu31924023500543-island-of-stone-money-furness.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/cu31924023500543-island-of-stone-money-furness.md

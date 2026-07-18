@@ -1,0 +1,13461 @@
+# The North-West Amazons: Notes of Some Months Spent Among Cannibal Tribes
+
+THE NORTH-WEST AMAZONS
+
+
+                             THE NORTH-WEST
+                                 AMAZONS
+
+                       NOTES OF SOME MONTHS SPENT
+                          AMONG CANNIBAL TRIBES
+
+                                   BY
+
+                             THOMAS WHIFFEN
+                           F.R.G.S., F.R.A.I.
+                       CAPTAIN H.P. (14TH HUSSARS)
+
+                                NEW YORK
+                          DUFFIELD AND COMPANY
+                                  1915
+
+                       _Printed in Great Britain_
+
+
+                        TO THE MEMORY OF THE LATE
+                     DR. ALFRED RUSSEL WALLACE, O.M.
+                        THESE NOTES ARE DEDICATED
+
+
+PREFACE
+
+
+In presenting to the public the results of my journey through the lands
+about the upper waters of the Amazon, I make no pretence of challenging
+conclusions drawn by such experienced scientists as Charles Waterton,
+Alfred Russel Wallace, Richard Spruce, and Henry Walter Bates, nor to
+compete with the indefatigable industry of those recent explorers Dr.
+Koch-Grünberg and Dr. Hamilton Rice.
+
+Some months of the years 1908 and 1909 were passed by me travelling in
+regions between the River Issa and the River Apaporis where white men had
+scarcely penetrated previously. In the remoter parts of these districts
+the tribes of nomad Indians are frankly cannibal on occasion, and provide
+us with evidence of a condition of savagery that can hardly be found
+elsewhere in the world of the twentieth century. It will be noted that
+this area includes the Putumayo District.
+
+With regard to the references in footnotes and appendices, I have
+inserted them to suggest where similarities of culture or variations of
+a given custom are to be found. These notes may be of some use to the
+student of such problems as the question of cultural contact with Pacific
+peoples, and at the least they represent the evidence on which I have
+based my own conclusions.
+
+                                                          THOMAS WHIFFEN.
+
+LONDON, 1914.
+
+
+CONTENTS
+
+
+                                                                      PAGE
+
+                                CHAPTER I
+
+  Introductory                                                           1
+
+                               CHAPTER II
+
+  Topography--Rivers--Floods and rainfall--Climate--Soil--Animal
+  and vegetable life--Birds--Flowers--Forest
+  scenery--Tracks--Bridges--Insect pests--Reptiles--Silence in
+  the forest--Travelling in the bush--Depressing effects of the
+  forest--Lost in the forest--Starvation the crowning horror            17
+
+                               CHAPTER III
+
+  The Indian homestead--Building--Site and plan of
+  _maloka_--Furniture--Inhabitants of the house--Fire--Daily
+  life--Insect inhabitants--Pets                                        40
+
+                               CHAPTER IV
+
+  Classification of Indian races--Difficulties of
+  tabulating--Language-groups and tribes--Names--Sources
+  of confusion--Witoto and Boro--Localities of
+  language-groups--Population of districts--Intertribal
+  strife--Tribal enemies and friends--Reasons
+  for endless warfare--Intertribal trade and
+  communications--Relationships--Tribal organisation--The
+  chief, his position and powers--Law--Tribal
+  council--Tobacco-drinking--Marriage system and
+  regulations--Position of women--Slaves                                53
+
+                                CHAPTER V
+
+  Dress and ornament--Geographical and tribal
+  differentiations--Festal attire--Feather
+  ornaments--Hair-dressing--Combs--Dance
+  girdles--Beads--Necklaces--Bracelets--Leg
+  rattles--Ligatures--Ear-rings--Use of labret--Nose
+  pins--Scarification--Tattoo--Tribal marks--Painting                   71
+
+                               CHAPTER VI
+
+  Occupations--Sexual division and tabu--Tribal manufactures--Arts
+  and crafts--Drawing--Carving--Metals--Tools and implements--No
+  textile fabrics--Pottery--Basket-making--Hammocks--Cassava-squeezer
+  and grater--Pestle and mortar--Wooden vessels--Stone axes--Methods
+  of felling trees--Canoes--Rafts--Paddles                              90
+
+                               CHAPTER VII
+
+  Agriculture--Plantations--Preparation of ground in
+  the forest--Paucity of agricultural instruments--Need
+  for diligence--Women’s incessant toil--No special
+  harvest-time--Maize the only grain grown--No use for
+  sugar--Manioc cultivation--Peppers--Tobacco--Coca
+  cultivation--Tree-climbing methods--Indian wood-craft--Indian
+  tracking--Exaggerated sporting yarns--Indian sense of locality
+  and accuracy of observation--Blow-pipes--Method of making
+  blow-pipes--Darts--Indian improvidence--Migration of game--Traps
+  and snares--Javelins--Hunting and fishing rights--Fishing--Fish
+  traps--Spearing and poisoning fish                                   102
+
+                              CHAPTER VIII
+
+  The Indian armoury--Spears--Bows and arrows--Indian
+  strategy--Forest tactics and warfare--Defensive measures--Secrecy
+  and safety--The Indian’s science of war--Prisoners--War
+  and anthropophagy--Cannibal tribes--Reasons for cannibal
+  practices--Ritual of vengeance--Other causes--No intra-tribal
+  cannibalism--The anthropophagous feast--Human relics--Necklaces
+  of teeth--Absence of salt--Geophagy                                  115
+
+                               CHAPTER IX
+
+  The food quest--Indians omnivorous eaters--Tapir and other animals
+  used for food--Monkeys--The peccary--Feathered game--Vermin--Eggs,
+  carrion, and intestines not eaten--Honey--Fish--Manioc--Preparation
+  of cassava--Peppers--The Indian hot-pot--Lack of salt--Indian
+  meals--Cooking--Fruits--Cow-tree milk                                126
+
+                                CHAPTER X
+
+  Drinks, drugs, and poisons: their use and preparation--Unfermented
+  drinks--_Caapi_--Fermented drinks--_Cahuana_--Coca: its
+  preparation, use, and abuse--_Parica_--Tobacco--Poison and
+  poison-makers                                                        138
+
+                               CHAPTER XI
+
+  Small families--Birth tabu--Birth customs--Infant
+  mortality--Infanticide--Couvade--Name-giving--Names--Tabu on
+  names--Childhood--Lactation--Food restrictions--Child-life and
+  training--Initiation                                                 146
+
+                               CHAPTER XII
+
+  Marriage regulations--Monogamy--Wards and
+  wives--Courtship--Qualifications for matrimony--Preparations
+  for marriage--Child marriages--Exception to patrilocal
+  custom--Marriage ceremonies--Choice of a mate--Divorce--Domestic
+  quarrels--Widowhood                                                  159
+
+                              CHAPTER XIII
+
+  Sickness--Death by poison--Infectious diseases--Cruel treatment of
+  sick and aged--Homicide--Retaliation for murder--Tribal and
+  personal quarrels--Diseases--Remedies--Death--Mourning--Burial       168
+
+                               CHAPTER XIV
+
+  The medicine-man, a shaman--Remedies and cures--Powers and
+  duties of the medicine-man--Virtue of breath--Ceremonial
+  healing--Hereditary office--Training--Medicine-man and
+  tigers--Magic-working--Properties--Evil always due to bad
+  magic--Influence of medicine-man--Method of magic-working--Magical
+  cures                                                                178
+
+                               CHAPTER XV
+
+  Indian dances--Songs without meaning--Elaborate preparations--The
+  Chief’s invitation--Numbers assembled--Dance step--Reasons
+  for dances--Special dances--Dance staves--Arrangement of
+  dancers--Method of airing a grievance--Plaintiff’s song of
+  complaint--The tribal “black list”--Manioc-gathering dance and
+  song--Muenane Riddle Dance--A discomfited dancer--Indian riddles
+  and mimicry--Dance intoxication--An unusual incident--A favourite
+  dance--The cannibal dance--A mad festival of savagery--The strange
+  fascination of the Amazon                                            190
+
+                               CHAPTER XVI
+
+  Songs the essential element of native dances--Indian
+  imagination and poetry--Music entirely ceremonial--Indian
+  singing--Simple melodies--Words without meaning--Sense
+  of time--Limitations of songs--Instrumental
+  music--Pan-pipes--Flutes and fifes--Trumpets--Jurupari music and
+  ceremonial--Castanets--Rattles--Drums--The _manguare_--Method of
+  fashioning drums--Drum language--Signal and conversation--Small
+  hand-drums                                                           206
+
+                              CHAPTER XVII
+
+  The Indians’ magico-religious system--The Good Spirit and the Bad
+  Spirit--Names of deities--Character of Good Spirit--His visit
+  to earth--Question of missionary influence--Lesser subordinate
+  spirits--Child-lifting--No prayer or supplication--Classification
+  of spirits--Immortality of the soul--Land of the After-Life--Ghosts
+  and name tabu--Temporary disembodied spirits--Extra-mundane
+  spirits--Spirits of particularised evils--Spirits of inanimate
+  objects--The jaguar and anaconda magic beasts--Tiger folk--Fear of
+  unknown--Suspicions about camera--Venerated objects--Charms--Magic
+  against magic--Omens                                                 218
+
+                              CHAPTER XVIII
+
+  Darkness feared by Indians--Story-telling--Interminable
+  length of tales--Variants--Myths--Sun and moon--Deluge
+  traditions--Tribal stories--Amazons--White Indians tradition--Boro
+  tribal tale--Amazonian equivalents of many world-tales--Beast
+  stories--Animal characteristics--Difference of animal
+  characteristics in tale and tabu--No totems--Indian hatred of
+  animal world                                                         236
+
+                               CHAPTER XIX
+
+  Limitations of speech--Differences of
+  dialect--Language-groups--Tribal names--Difficulties of
+  languages--Method of transliteration--Need of a common
+  medium--Ventral ejaculations--Construction--Pronouns as
+  suffix or prefix--Negatives--Gesture language--Numbers and
+  reckoning--Indefinite measure--Time--No writing, signs, nor
+  personal marks--Tribal calls--Drum-language code--Conversational
+  repetitions--Noisy talkers--Ventriloquists--Falsetto
+  voice--Conversational etiquette                                      246
+
+                               CHAPTER XX
+
+  No individualism--Effect of isolation--Extreme reserve of
+  Indians--Cruelty--Dislike and fear of strangers--Indian
+  hospitality--Treachery--Theft punished by death--Dualism
+  of ethics--Vengeance--Moral sense and custom--Modesty
+  of the women--Jealousy of the men--Hatred of white
+  man--Ingratitude--Curiosity--Indians retarded but not
+  degenerate--No evidence of reversion from higher culture--A
+  neolithic people--Conclusion                                         255
+
+                               APPENDICES
+
+     I. Physical Characteristics                                       269
+
+    II. Mongoloid Origin                                               280
+
+   III. Depilation                                                     282
+
+    IV. Colour Analysis and Measurements                               283
+
+     V. Articles noted by Wallace as in use among the Uaupes
+        Indians that are found with the Issa-Japura Tribes             291
+
+    VI. Names of Deities                                               293
+
+   VII. Vocabularies and Lists of Names                                296
+
+  VIII. Poetry                                                         311
+
+  LIST OF BOOKS REFERRED TO                                            313
+
+  INDEX                                                                315
+
+
+LIST OF ILLUSTRATIONS
+
+
+  PLATE NO.                                                    FACING PAGE
+
+           Boro Medicine Man, with my Rifle                  _Frontispiece_
+
+        I. Houses in the “Rubber Belt” of the Issa Valley                4
+
+       II. A House in the “Rubber Belt,” Issa Valley                    16
+
+      III. 1. Typical River View below the Mouth of the Negro River
+           2. Bank of Main Amazon Stream in the Vicinity of the Mouth
+              of the Japura River                                       18
+
+       IV. 1. River View on Main Stream near Issa River
+           2. Landscape on Upper Amazon Main Stream                     20
+
+        V. The Bulge-stemmed Palm, _Iriartea Venticosa_, showing
+           portion of Leaf and Fruit                                    28
+
+       VI. Flowers and Section of Leaf of the Bussu Palm. The Leaf is
+           used for Thatching                                           44
+
+      VII. 1. Self, with Nonuya Tribe
+           2. Muenane Tribe                                             46
+
+     VIII. 1. Group of Witoto
+           2. Group of Some of my Carriers                              70
+
+       IX. Medicine Man and his Wife (Andoke)                           72
+
+        X. Boro Tribesmen                                               74
+
+       XI. Witoto Feather Head-dresses                                  76
+
+      XII. Groups of Resigero Women                                     78
+
+     XIII. Centre of Dancing Group--Muenane                             80
+
+      XIV. Boro Comb of Palm Spines set in Pitch and finished with
+           Basketwork of Split Cane, Fibre Strings, and Tufts of
+           Parrots’ Feathers                                            78
+
+       XV. 1. Dukaiya (Okaina) Bead Dancing-girdle
+           2. Condor Claws, used by Andoke Medicine Man of the Upper
+              Japura River                                              80
+
+      XVI. Necklaces of Human and Tiger Teeth                           82
+
+     XVII. 1. Necklace of Polished Nutshells.
+           2. Leg Rattles of Beads and Nutshells.
+           3, 4, 5, and 6. Bead Necklaces. The Black “Beads” are Bits
+           of Polished Nutshell, threaded between White Beads           82
+
+    XVIII. Boro Ligatures                                               84
+
+      XIX. Boro Leg and Arm Ligatures. Witoto Leg Ligature              84
+
+       XX. 1 and 3, Boro. 2, Witoto, Ligatures                          86
+
+      XXI. Andoke Girls                                                 88
+
+     XXII. Witoto Baskets of Split Cane and Fibre                       90
+
+    XXIII. Boro Necklace of Jaguars’ Teeth with Incised Patterns
+           Necklace of Jaguar Teeth, Incised, and Flute made of
+           Human Bone                                                   92
+
+     XXIV. Boro Cassava-squeezer. (A) Loop at End                       96
+
+      XXV. 1. Okaina Group
+           2. Group of Okaina Women                                     98
+
+     XXVI. 1. Indian Plantation cleared by Fire preparatory to
+              Cultivation
+           2. View on Affluent of the Kahuinari River                  102
+
+    XXVII.  _Erythroxylon-Coca_                                        106
+
+   XXVIII. 1 and 2. Andoke Bamboo Cases with Darts and Cotton.
+           3. Dart with Cotton attached.
+           4. Blow-pipe with Dart.
+           5. Javelin.
+           6. Fishing Trident.
+           7. Spears in Bamboo Case.
+           8. Dance Staff                                              108
+
+     XXIX. Andoke Bamboo Case with Darts for Blow-pipe and Gourd
+           full of Cotton                                              110
+
+      XXX. 1. Water Jar, Menimehe; (a) Witoto.
+           2. Drums (Witoto).
+           3. Pan-pipes, Witoto; (a) Boro.
+           4. Stone Axe (Andoke).
+           5. Paddle used on Main Amazon Stream.
+           6. Paddle used on Issa and Japura Rivers.
+           7. Menimehe Hand Club.
+           8. Wooden Sword (Boro).
+           9. Pestle--Coca, etc. (Boro)                                116
+
+     XXXI. Bamboo Cases, filled with Darts for Blow-pipe,
+             showing Fish-jaw Scraper, and Gourd filled
+             with Raw Cotton. One Dart has Tuft of Cotton
+             placed ready for Use. These are Andoke Work               118
+
+    XXXII. Witoto War Gathering                                        120
+
+   XXXIII. 1. Boro Necklace made of Marmoset Teeth
+           2. Andoke Necklace of Human Teeth                           124
+
+    XXXIV. Boro Women making Cassava                                   132
+
+     XXXV. Witoto Cassava-squeezer. Boro Manioc-grater with
+           Palm-spine Points                                           134
+
+    XXXVI. One of the Ingredients of the Famous Curare Poison          138
+
+   XXXVII. Incised Gourds                                              144
+
+  XXXVIII. Karahone Child. Boro Women carrying Children                150
+
+    XXXIX. Boro Women carrying Children                                154
+
+       XL. Okaina Girls                                                158
+
+      XLI. Stone Axe Head (Boro). String of Magic Stones (Andoke)      184
+
+     XLII. Anatto, _Bixa Orellana_. A Red Dye, or Paint, is made
+           from the Seed                                               190
+
+    XLIII. Half Gourds decorated with Incised Patterns, made by
+           Witoto near the Mouth of the Kara Parana River.
+           Dukaiya (Okaina) Rattle made of Nutshells                   192
+
+     XLIV. Okaina Girls painted for Dance                              194
+
+      XLV. Boro Dancing. Group of Nonuya, Men and Women                196
+
+     XLVI. Muenane Dance                                               200
+
+    XLVII. Okaina Dance                                                202
+
+   XLVIII. Okaina Dance                                                204
+
+     XLIX. Pan-pipes                                                   210
+
+        L. Group of Witoto Women by Double-stemmed Palm Tree
+           Group of Witoto Men by Double-stemmed Palm Tree             232
+
+       LI. 1 and 2. Witoto Types.
+           3. Witoto from Kotue River                                  270
+
+      LII. Combs.
+           1. Andoke Comb with Nutshell Cup for Rubber Latex.
+           2. Witoto Comb.
+           3. Boro Comb                                                272
+
+     LIII. Boro Tribesman from the Pama River
+           A Menimehe Captive                                          274
+
+      LIV. Witoto Types. Witoto Woman with Leg Ligatures               278
+
+  MAPS
+
+      MAP. 1. Approximate Plan of Route                                  2
+
+      MAP. 2. Sketch Map                                                10
+
+      MAP. 3. Diagrammatic Map of the Issa-Japura Central Watershed,
+              showing Language Groups                                   58
+
+  Sketch Map of the North-Western Affluents of the Amazon River    _At end_
+
+  Sketch Map of the Amazon River with its Northern Affluents       _At end_
+
+
+CHAPTER I
+
+INTRODUCTORY
+
+
+In the spring of 1908, having been among the Unemployed on the Active
+List for nearly two years on account of ill-health, and wearying not only
+of enforced inactivity but also perhaps of civilisation, I decided to go
+somewhere and see something of a comparatively unknown and unrecorded
+corner of the world. My mind reverted to pleasant days spent in the
+lesser known parts of East Africa, and at this moment I happened to come
+across Dr. Russel Wallace’s delightful _Travels on the Amazon and Rio
+Negro_. His spirited adventures, and the unique character of the country
+through which he passed and the peoples he met, fascinated me. I thought
+of attempting to complete his unfinished journey up the Uaupes River, and
+imagined I would be able to secure in South America all the instruments
+and materials such an expedition required. There lay my initial error.
+My inability to obtain anything of the sort hampered me in scientific
+research, so that these chapters must simply be regarded as impressions
+and studies of native ways and doings, noted by a temporary dweller in
+their midst.
+
+Difference of technique, industry, ability, and scientific knowledge may
+in the light of future investigations reveal errors or misapprehensions
+that must bring me into conflict with those who may go there better
+equipped and with greater understanding. But in any critical appraisement
+it must be remembered that these tribes are changing day by day, and
+every year that passes will increase the difference between the Amazonian
+native as I knew him and as he may be when studied by my successors. So
+far as in me lies, I have here set forth an account of what he was when
+I travelled in his forest solitudes and fastnesses.
+
+I left England towards the end of April 1908 and arrived at Manaos on the
+Negro River on May 27. Incidentally I arrived again at Manaos homeward
+bound on the same day and almost at the same hour the following year.[1]
+It may be taken, therefore, that my entire journey covered exactly twelve
+months.
+
+On arrival at Manaos, I made inquiries as to the facilities for
+proceeding to S. Gabriel near the junction of the Negro and Uaupes
+Rivers, and thence up the latter stream.[2] My theory at the time was
+that it would be possible to ascend this river to its source, and from
+the vicinity to make a way across country _via_ the Apaporis, Japura,
+Issa, and Napo Rivers to Iquitos. I soon found that the difficulty of
+obtaining the necessary men would be immense, and the ascent, in local
+opinion, impracticable without an expedition on a scale for which I
+possessed neither the influence nor the pecuniary resources. Persuaded
+that my line of least resistance, so far as the Uaupes was concerned,
+would be to reverse the contemplated journey and work from Iquitos to
+a point on the Uaupes and then descend to Manaos, I proceeded by the
+Navigation Company’s steamboat to the former town, where I arrived the
+second week in June.
+
+
+In company with Mr. David Cazes, the British Consul, to whom I am
+indebted for many kindnesses, I made a trip up the Napo River. It was
+soon apparent, however, that it would be practically impossible to cross
+from that river to the Issa. This was not due to the difficulty of
+porterage, because there is a “recognised route” from a point some way
+above the mouth of the Curaray to Puerto Barros, but to the impossibility
+of obtaining men. Rumours were rife at this time of fighting between the
+Colombian and Peruvian rubber-gatherers on the Issa River, and the Napo
+Indians would not go in that direction on account of a not unnatural
+dread lest they be treated as enemies by whichever party of combatants
+they might happen to meet.
+
+Eventually, through the good offices of the British Consulate, I sailed
+from Iquitos by way of the main Amazon River and the Issa or Putumayo
+River to Encanto at the mouth of the Kara Parana, which I reached in the
+middle of August. It is from this point that my notes on the manners and
+customs of the Indians really commence.
+
+I saw at once that it would be impossible to gain any insight into the
+ways and customs of the various tribes unless I spent some considerable
+time in what one might call a roving commission among them. I had with me
+at this time John Brown, a Barbadian negro. He had been for some three
+years previously in the Issa district in the employ of a Rubber Company,
+and I enlisted him as my personal servant at Iquitos. He had “married”
+a Witoto woman some two years before, and through this attachment I was
+able to derive much valuable information. In fact, he was invaluable
+throughout the whole expedition, and was more loyal and more devoted than
+a traveller with some experience of the African boy in his native haunts
+had reason to anticipate of any black servant.
+
+On the 18th of August we started for the Igara Parana, having collected
+eight Indian carriers, two half-castes, and eight “rationales,” or
+semi-civilised Indians, armed with Winchesters, together with three
+Indian women, wives of three of the rationales.
+
+It may here be mentioned that these armed Indians were to be obtained in
+the Rubber Belt by arrangement with their employers. It is the practice
+of the rubber-gatherers to train Indian boys and utilise them as escort,
+and to obtain rubber from the tribes hostile to those to which the boys
+belong. This is perhaps necessary to avoid collusion. In my experience
+there was never any question of fixed charge or price when hiring
+carriers. They expected to be given, at the conclusion of their service,
+a present of cloth, beads, a shot gun,[3] or such other item of trade as
+their heart coveted. The line of argument was simple: “You do what I tell
+you, and when we part I will make you a rich man.” Wealth was represented
+by cloth, beads, and a knife. A boy I called Jim promised to go to the
+end of the earth if I would give him a shot gun. This was his sole
+ambition. He was one of my escort, and although carrying a Winchester, I
+do not think it ever entered into his head to make off with it. Such is
+the simple Indian nature. I do not mean that he would not have run away
+if such a plan suited him, but he would not have done so for the sake and
+value of the Winchester.
+
+The two half-breeds were rubber-collectors. They were bound for the Igara
+Parana, and were only with me until we reached Chorrera.
+
+The semi-civilised Indians are fairly trustworthy, although discipline
+must be strongly enforced to prevent looting if only because of the
+danger of reprisals on the part of the indigenous natives. During my
+wanderings the carriers were often changed, especially while passing
+through the Rubber Belt. Those men will always run if they get the
+chance, even if they are in the midst of hostile tribes, when to desert
+is more often death than not. In number the party remained approximately
+the same throughout my journey.
+
+The carriers must be incessantly shepherded, kept from lagging behind or
+going ahead too quickly. They must not be allowed to stop for any length
+of time or a forced camp will be a necessity. It is the custom of all
+Indians to bathe whenever possible, however heated they may be, and this
+will have to be tolerated; but if progress is to be made they must not
+stop to eat. It was my custom to eat at daybreak and again at the end of
+the day’s march.
+
+
+Treachery on the part of the native Indians it is always necessary to
+guard against--in the Rubber Belt because of the treatment they have
+received in the past; farther afield partly on account of the rumours of
+such treatment, and partly on the principle that it’s the nervous dog
+that bites. They ask but one question: “Why is the white man here?” They
+accord it but one answer: “We know not. It is best to kill.” And it is
+not, as is noted elsewhere, the custom of the Indian to attack openly,
+but when he has the chance of succeeding with little or no danger to
+himself.
+
+We reached Chorrera, or Big Falls, on the 22nd of August, and thence
+wended our way by land up the Igara Parana, arriving without much
+incident in the Andoke country on the 19th of September. Here, by
+arrangement with an Andoke chief, I managed to get a young Karahone
+lad, a slave who had been captured some years previously by the Andoke
+and who said he would take me to his own people across the great river.
+While we were encamped near the banks of the Japura River, and searching
+for the bulge-stemmed palm tree with which to make a canoe, we observed
+three canoes of Karahone on their way down the river, possibly after some
+warlike expedition. We tried to stop them, but in vain. When, eventually,
+we crossed the river, we found the occupants of the canoes had given
+the alarm. Every house we visited was abandoned, four in all, and the
+path was peppered with poisoned stakes sharpened to the finest point and
+exposed above ground for perhaps half to three-quarters of an inch. A
+carrier who trod on one had to be carried back as he was quite disabled
+for the march.
+
+Returning to the Japura River, we made our way to the upper reaches
+of the Kahuinari River, visiting different tribes and collecting
+information. I was anxious at this time to descend this river and find
+out, if possible, the fate of Eugene Robuchon, the French explorer, who
+had been missing for some two years.
+
+It may be pertinent here to give in full the story of Robuchon’s
+disappearance and my search for traces of his last expedition.
+
+Eugene Robuchon, the adventurous French explorer whose notes on the
+Indians of the Putumayo are known to every investigator, left the Great
+Falls on the Igara Parana in November 1905. It was his intention to make
+for the head waters of the Japura and to explore that river on behalf of
+the Peruvian Government throughout its length for traces of rubber. He
+started with a party consisting of three negroes, one half-breed, and
+five Indians with one Indian woman. He carried supplies barely sufficient
+for two months. I carefully examined all the survivors of the expedition
+that I encountered, and from them gathered the following account of the
+journey:--
+
+Having left the Great Falls, Robuchon proceeded by canoe up the Igara
+Parana to a point some ten miles above the mouth of the Fue stream. He
+left the river there, struck northward through the Chepei country, and
+reached the Japura approximately at 74° W., some thirty miles above
+the Kuemani River. The Indians encountered at this spot belonged to a
+Witoto-speaking tribe, the Taikene. They were friendly, but either could
+not or would not provide Robuchon with a canoe. Three valuable weeks were
+spent in the search for a suitable tree and in the construction of a
+canoe.
+
+When at length this was finished, the party started down-stream, and for
+a time progressed without incident. No natives were seen for several
+days. At last Robuchon’s Indians called his attention to a narrow path
+that led up from the river-bank on the right. Anxious about his food
+supply, he landed and followed the path until he came upon a clearing and
+an Indian house. Eventually Robuchon arranged with the inhabitants that
+four of them should come down to the canoe with food and receive presents
+in exchange. But when a larger number than he expected appeared upon
+the bank, the explorer feared treachery and at once pushed off without
+waiting for the much-needed provisions. The Indians thereupon manned
+their canoes and started in pursuit, shouting the while to him to stop.
+But with his small party Robuchon dared take no chances. He pushed on
+until the pursuers had been satisfactorily outdistanced.
+
+The boy who told me the tale was convinced that these Indians were
+perfectly friendly in intention, and the incident appeared to be proof of
+the nervous state of the party. Some time after this, while shooting the
+rapids at the Igarape Falls, the canoe was upset and the greater part of
+the remaining stores was swept away.
+
+The details of this misadventure I was never able to extract in a
+coherent fashion from the followers I interviewed, but they agreed that
+very little food of any kind was left, and what was rescued had been
+almost entirely destroyed by water.
+
+Short of food, and without a canoe, the boys became mutinous. The three
+negroes and the half-breed deserted, and sought to cut a way through the
+bush backward in the direction whence they had come. This task was beyond
+them, and, a few days later, weary, disheartened, and starving, they
+returned to beg Robuchon’s forgiveness. The reunited party improvised
+a raft, and, after undergoing the customary hardships of an unequipped
+expedition in this hostile country, reached the mouth of the Kahuinari.
+The whole party was weak with hunger and fever, Robuchon himself
+prostrate and incapable of going farther. He determined to remain where
+he was with the Indian woman and the Great Dane hound, Othello. He
+ordered the negroes and the half-breed to push on up the Kahuanari to a
+rubber-gatherer’s house which he believed was situated somewhere between
+the Igara Parana and the Avio Parana. They were to send back relief at
+the earliest possible moment. The boys left Robuchon on February 3, 1906.
+He was never again seen by any one in touch with civilisation.
+
+The boys had journeyed for but a few hours when they came across a herd
+of peccary. They killed more than they could possibly use, but made no
+attempt whatever to carry any meat back to the starving and abandoned
+Frenchman. Instead they wasted two valuable days in gorging themselves
+and smoking the flesh for their own journey.
+
+For days they followed the course of the Kahuinari, hugging its right
+bank, and in this way happened across a Colombian half-breed, from whom
+they sought assistance. The Colombian took them to his house near the
+Avio Parana but would not grant them even food until they paid for it
+with the rifles they carried. The idea of succouring Robuchon was far
+removed from his philosophy. The boys, then, having surrendered their
+rifles in return for the stores they so much needed, made the narrow
+crossing from the Avio Parana to the Papunya River, and followed that
+stream without deviation to its junction with the river Issa. Turning
+backward up the left bank of the Issa, they reached the military station
+at the mouth of the Igara Parana and there told their tale.
+
+When at last a Relief Expedition was made up, it consisted of three
+negroes--John Brown and his comrades--and seventeen half-breeds. The
+party left on its search for Robuchon thirty-seven days after he had been
+abandoned at the mouth of the Kahuinari. It took ten days to reach the
+junction of the Avio Parana and the Kahuinari, and twenty-one days more
+to arrive at the camp on the Japura. It had taken ten weeks to bring
+help. The relief party found some tools, some clothes, a few tins of
+coffee, a little salt, and a camera. There was no trace of Robuchon, of
+the Indian woman, or of the dog. On a tree was nailed a paper, but the
+written message had been washed by the rain and bleached by the sun till
+it was illegible. Robuchon’s last message can never be known.
+
+The relief party divided into two companies for the journey back--one
+section of twelve, the other of eight men. The larger party arrived in
+the rubber district six weeks later. The smaller party, with the three
+blacks, was lost in the bush. Five months and a half afterwards five
+survivors attained safety. The story of their misery is a chapter in the
+history of Amazonian travel that may never be written.
+
+Two and a half years afterwards I was returning from a disappointing trip
+to the Karahone country. There were persistent rumours that Robuchon was
+held a prisoner by the Indians north of the Japura. I determined to see
+if any evidence could be found to settle his fate. I had in my party one
+of the negroes who had accompanied the French explorer. We journeyed
+overland southward through the Muenane-Resigero country till we reached
+the Kahuinari, thence by canoe to the Japura River. The Japura at this
+point is about a rifle-shot in width--2500 to 3000 yards across. Some
+three miles below this point on the right bank, a little way back from
+the river, was a small clearing. In it were three poles marking the site
+of a deserted shelter. John Brown, my servant and formerly Robuchon’s,
+said it was the last camp of Eugene Robuchon.
+
+We made camp in the clearing. A little way inland I found an abandoned
+Indian house, but all indications pointed to its having been deserted
+many years before. Half buried in the clearing I discovered eight broken
+photograph plates in a packet, and the eye-piece of a sextant. Other
+evidence of civilised occupation there was none. At some little distance
+my Indians detected traces of a path, and though to me it seemed only an
+old animal track, they maintained it was a man-made road. Cutting along
+the line of this path, at the end of a hard day’s work we emerged upon
+a second clearing and the ruins of a shelter. After careful searching
+we unearthed a rusty and much-hacked machete or trade knife. There our
+discoveries ended. The path went no farther.
+
+We encountered no Indians in our search. On further investigation it
+appeared that there are none in the vicinity, and the nearest to the
+deserted camp on the south of the river are the Boro living on the Pama
+River, forty or fifty miles away.
+
+Believing that the most probable route of escape was down the Japura, I
+journeyed slowly eastward almost to the mouth of the Apaporis. We then
+turned and came back, searching the right bank. Throughout this time we
+found no Indians and no signs of Indians. On the bank, about a mile and
+a half below Robuchon’s last camp, we found the remains of a broken and
+battered raft. It had evidently been carried down in full river, and left
+stranded on the fall of the waters. Brown recognised the wreck as that
+of the raft which the Frenchman’s party had built after the loss of the
+canoe. But it afforded no clue.
+
+Much as I should have liked at this time to pursue my investigations
+among the Indians of the left, or north, bank of the river, I had
+perforce to give up further progress for the time being on account of
+the mutinous hostility of my boys. Nothing would persuade them that they
+would not be eaten up if they crossed the great river at this point.
+
+Foiled, therefore, in my attempts to learn anything on the scene of
+Robuchon’s disappearance, I determined to prosecute inquiries among the
+Boro scattered about the peninsula bounded by the Pama, the Kahuinari,
+and the Japura. But here also no amount of examination could elicit any
+information as to the explorer, the woman, or the dog. I was particularly
+impressed by the fact that the existence of the Great Dane--an object
+of awe to the Indians--had left no legend among the natives. Robuchon
+himself wrote of his hound: “My dog, as always, entered the house first.
+The great size of Othello, his flashing teeth, and close inspection of
+strangers, his blood-shot eyes and bristling hair invariably inspired
+fear and respect among the Indians.” Had such an animal fallen into the
+hands of the Boro, I feel certain its fame would have outlived that of
+any chance European who might have become their prisoner, however much
+they desired to conceal their participation in his murder. My own Boro
+boys could find no record among their compatriots of the presence of
+Othello or his master.
+
+After this we proceeded in a northerly direction, and, crossing the
+Japura, visited the Boro tribe located on the north bank of the river,
+between the Wama and the Ira tributaries. The chief of this tribe had
+married a Menimehe woman who, curiously enough, remained on terms of
+friendship with her parent tribe. The chief informed me that in the
+Long, Long Before--from reference to the size of his son at the time,
+I calculated about three years previously--the Menimehe had captured a
+white man with face hairy as a monkey’s. As Robuchon was wearing a beard
+at the time of his disappearance this seemed to present a clue, but as
+the Menimehe refused to confirm the statement, and there was no mention
+of the woman or of the dog, it added but little to the evidence of his
+fate.
+
+
+The testimony was further weakened by the knowledge that about that
+time either the Menimehe or the Yahuna destroyed a Colombian settlement
+near the mouth of the Apaporis River, and made prisoners of white men.
+Whatever the truth of the bearded white man, there was certainly no
+memory remaining of the Indian woman nor of Othello, the Great Dane.
+
+On my return to the Rubber Belt I learned that Robuchon had been lost on
+a previous expedition for a considerable period, and had lived during
+that time with Indians. Although this had occurred in the regions south
+of the Amazon on the Peru-Brazil-Bolivian frontier, somewhere in the
+neighbourhood of the Acre River, the general haziness of natives with
+respect to place and time may have accounted for the rumours of captivity
+among the semi-civilised Indians of the Rubber Belt, which set me on a
+fruitless search among the Indians of the Kahuinari-Japura.
+
+To sum up the evidence with respect to the fate of Robuchon, it seems
+to me that he did not die of starvation at the mouth of the Kahuinari,
+because a certain amount of food-stuff was found by the first Relief
+Expedition at the site of the camp, but no signs of human remains. The
+illegible message nailed to the tree suggests that he vacated the spot
+and endeavoured to leave information as to his route for those who might
+come to his relief.
+
+Robuchon had five courses open to him once he decided on abandoning the
+camp:
+
+1. He could retrace his steps up the Japura. With respect to this means
+of escape, I consider it extremely improbable that he would attempt to
+return against stream over the route which he had already traversed with
+such difficulty when aided by the current and the full strength of his
+party.
+
+2. He could proceed across the Japura to the country of the Menimehe. He
+was unlikely, however, to cross that river, owing to the bad name enjoyed
+by the Menimehe. He could not count upon a relief expedition following
+him there.
+
+3. He could journey up the Kahuinari. He could hardly negotiate the
+difficulties of the upstream journey though with the inadequate
+assistance of a single woman. He was aware of the existence of unfriendly
+tribes on the banks. My inquiries among the Pama Boro yielded no trace of
+his ever having been seen upon the river. If he had made his way along
+the right bank of that river, probably some evidence of him would have
+been found by the relief party.
+
+4. He could have voyaged down the Japura in a canoe or upon a raft. It
+would have been very hazardous to have attempted this alone--practically
+hopeless. In any event, if he did make the attempt, he failed to reach
+the nearest rubber settlement.
+
+5. There remains one means of escape--by an overland march. It would
+appear that he adopted this method, but only without any idea of
+permanent relief, in desperate search of temporary assistance. The line
+of the Kahuinari was the obvious route for a rescue party. Robuchon,
+however, was starving, and the native track promised a path to a native
+house and food.
+
+I presume he was located by a band of visiting Indians, captured, and
+either murdered or carried away in captivity to their haunts on the north
+bank of the Japura. I suggest the probability of the Indians coming
+from the north bank up the Japura, because, so far as I could learn,
+it was not the custom of the Pama Boro to journey to the mouth of the
+Kahuinari, since they could obtain all they needed from the river at
+points more easily and more speedily accessible to them. There were no
+Indians resident in the vicinity, but Indians from across the Japura made
+excursions at low river in search of game or of turtles and their eggs.[4]
+
+It is upon one of those chance bands that reluctantly I am forced to lay
+the responsibility for the death of Eugene Robuchon in March or April
+1906.
+
+This was little enough to add to the ascertained fact of Robuchon’s end,
+but such as it was it brushed aside some of the mystery, and proved of
+interest to the members of the French Geographical Society and to the
+relatives of the lost explorer.[5]
+
+After concluding my investigations among the Boro in the vicinity of the
+Pama River, I again crossed the Japura River near the Boro settlement
+on the north of that river, and proceeded eastward into the country of
+the Menimehe. This country appears more sparsely populated than the
+Kahuinari districts, and the manners and customs of these people vary
+considerably from the tribes inhabiting the country to the south.
+
+From the most easterly point I decided to proceed in a north-westerly
+direction with a view to striking the upper waters of the Uaupes River
+eventually. It was in this neighbourhood that I developed beriberi; and,
+owing to the swelling of my legs, which were covered with wounds and
+sores, I was only able to walk with difficulty, although I had no pain.
+My brain was numbed as well as my legs. I slept at every opportunity,
+did not want to eat, and seemed to be under the effect of some delusive
+narcotic. Yet I never failed to take all necessary precautions--it was
+mechanical, a mere habit. Stores were running short, owing to their bad
+condition, and my boys and carriers were becoming mutinous. Game was
+scarce, and the few native houses we encountered were for the most part
+deserted; what Indians we came across were surly and sullen, and appeared
+latently hostile.
+
+I decided to return, overcome by the argument of Brown that if I did not
+do so the boys would go, so we turned back to the east and south of the
+original line, and proceeded overland by way of the Kuhuinari River to
+the Igara Parana, and thence to the Kara Parana by river. Arriving at
+the latter river at the end of February, and finding that the steamer
+for Iquitos would not start for some time, I made a short trip among the
+tribes of this river.
+
+By reference to the sketch-map it will be seen that from the time I left
+Encanto on my arrival from Iquitos to my arrival at the same place, bound
+for Iquitos, was approximately seven months.
+
+The difficulties in the way of obtaining information are such that
+it is only those who sink for the nonce all inherited and acquired
+ideas of superiority, manners, and customs who can be successful. As a
+consequence, the stranger will have to journey with savages, eat with
+savages, sleep with savages, from the moment he seeks to penetrate their
+land. Watchfulness night and day must be the price of any desire to
+understand the native in his home. The field-worker must subordinate
+every previous and personal conception. Native justice must be his
+justice. Almost necessarily native ethics must be his ethics. He is
+no missionary seeking to convert those he meets to ideas of his own;
+rather is he a learner, an inquirer, eager to understand the thoughts
+that inspire them, to analyse the beliefs they themselves have gathered.
+Then there is no common medium of language. Sometimes a native speaking
+a tongue with which the traveller has a passing acquaintance can make
+himself understood in another tribal language whereof the white man is
+blankly ignorant, and then some approximation of the truth sought to be
+conveyed is arrived at tortuously. For example, I had a Witoto Indian who
+understood a little Andoke, and by way of Brown the Barbadian carried to
+me much information of these little-known Indians. John Brown was here
+invaluable as he knew Witoto well and Boro to some purpose. But much
+of the appended vocabularies had to be gathered by the crude method of
+pointing to an object. Having noted the word phonetically, one had to get
+it confirmed by trial.
+
+Travelling in the bush is a dreary monotony of discomfort and
+ever-present danger. There are weary stretches of inundated country,
+sweating swamp. You pass with an unexpected plunge from ankle-deep mire
+to unbottomed main stream. The eternal sludge, sludge of travel without
+a stone or honest yard of solid ground makes one long for the lesser
+strain of more definite dangers or of more obtrusive horrors. The horror
+of Amazonian travel is the horror of the unseen. It is not the presence
+of unfriendly natives that wears one down, it is the absence of all sign
+of human life. One happens upon an Indian house or settlement, but it is
+deserted, empty, in ruins. The natives have vanished, and it is only the
+silent message of a poisoned arrow or a leaf-roofed pitfall that tells of
+their existence somewhere in the tangled undergrowth of the neighbourhood.
+
+On the trail one speedily learns the significance of the phrase “Indian
+file.” Here are none of the advance guards, flank guards, and rear guards
+that are needed to penetrate unfriendly country in other lands. The first
+man hacks a way for those who follow, and the bush is left as a wall on
+either side that is as inscrutable to the possible enemy on the flank
+as to the advancing party. On account of such conditions I should say,
+from my experience of bush travel in these regions, that the whole party
+should rarely if ever exceed twenty-five in number. On this principle it
+will be seen that the smaller the quantity of baggage carried the greater
+will be the number of rifles available for the security of the expedition.
+
+The difficulty of an efficient food supply is very great. Game is
+always hard to shoot on account of the density of the bush, and in many
+parts appears to be non-existent. Preserved goods in sealed cases, of
+convenient size for porterage, should be taken from Europe. My failure
+to carry out my original intentions was due more than anything else to
+the fact that my supplies were purchased in the country, and 50 per
+cent proved unfit for consumption. The country where supplies must be
+husbanded has little enough of food that is appetising to offer. Fish,
+if plentiful, are hard to catch for the uninitiated. One hungers for the
+occasional tapir or peccary, the joys of monkey-meat, and an incautious,
+though unpalatable, parrot, and in the days of real distress may be
+glad to fall back on frogs, snakes, and palm-heart. The real fear of
+starvation, after perhaps the ghastly dread of being lost, is the great
+cause of anxiety to the traveller in the Amazons.
+
+As for shelter,--a tent is an encumbrance,--an open screen of rough palm
+thatch can be erected in a very short time, and is all that is necessary,
+although not all that is to be desired. The shelter is a poor one that
+does not prevent the dews and the inevitable rain from chilling one to
+the bone.
+
+Clothes for the Amazons are not designed with a view to fashion or
+appearance. In the past, continental explorers have introduced some
+interesting fashions in ducks and khaki, but travelling through a
+country where one’s life is passed in a bath of perspiration, their
+distinction of appearance yields to the simple comfort of the native’s
+nudity. In search of a compromise, I have found that a thin flannel suit
+of pyjamas with the trouser-legs tucked into the socks, and a pair of
+carpet slippers laced over the instep, best meet the requirements of the
+region. Ordinary boots are a positive danger on account of the narrow and
+sometimes slippery tree-trunks over which one clambers uneasily. A small
+towel round the neck to wipe away the perspiration is a great comfort.
+For head-gear a cloth cap or “smasher” hat suffices.
+
+A long knife or cutlass must be carried, and, personally, I invariably
+carried a revolver, while the gun-bearer should always be at hand with
+a rifle or scatter-gun. A blanket, sleeping-bag, and waterproof sheet
+of course must be taken, with the other comforts, medical and hygienic,
+common to all expeditions.
+
+The drawings that appear in this volume are either taken from photographs
+or from actual trophies and articles in my possession. The photographs
+are a record of industry and patience. Films I found useless in this
+climate, and plates alone materialised. It must be remembered, also, that
+every time plates have to be changed it is necessary to build a small
+house, and double thatch and treble thatch to prevent the entrance of any
+light. Even then the experienced do their work at night.
+
+The difficulty of posing and overcoming the objection of the native
+subject will be at once realised. Too many groups have been draped by
+explorers in the unaccustomed decencies of camp equipment, though it has
+become an essential of the country--climatic and psychological--that
+the women walk abroad naked and the men unembarrassed by more than a
+loin-cloth.
+
+The maps cannot pretend to be more than the roughest approximate
+sketch-maps. When absence of a horizon and the density of the bush are
+realised, it will be obvious that they can be nothing more. It is hoped
+that they will suffice to give some idea of the general trend of the
+country and the location of the various language-groups.
+
+
+CHAPTER II
+
+    Topography--Rivers--Floods and rainfall--Climate--Soil--Animal
+    and vegetable life--Birds--Flowers--Forest
+    scenery--Tracks--Bridges--Insect pests--Reptiles--Silence in
+    the forest--Travelling in the bush--Depressing effects of the
+    forest--Lost in the forest--Starvation.
+
+
+Although the Amazons have been known to Europe for fully four hundred
+years, exploration has been confined almost entirely to the main
+river and its great tributaries. Little addition has been made to
+the information possessed by Sir Walter Raleigh in the three hundred
+years that have elapsed since his death. The rivers certainly are
+known and charted, yet the land beyond their banks is almost as much
+a land of mystery in the twentieth century as it was in the days of
+Queen Elizabeth. It is possible to spend a lifetime in navigating the
+Amazon,[6] and to know nothing more of its 2,722,000 square miles of
+basin than can be peered at through the curtain of vegetation which
+drapes the main streams. Behind that veil lies the fascination of
+Amazonian travel.
+
+We are not here concerned with the scanty records history offers of
+these vast regions, nor, for our immediate purposes, is it needful to
+inquire into the conditions and features of the Amazon watershed as a
+whole, except in so far as they differ from or resemble those of my field
+of exploration, the tracts between the middle Issa and Japura Rivers,
+and in their vicinity. Roughly speaking, this lies in that debatable
+land where the frontiers of Brazil meet those of Peru, Colombia,
+and--perhaps--Ecuador, a country claimed in part by the three latter,
+but administered by none. Here the dead level of the lower Amazonian
+plains imperceptibly acquires a more decided tilt, the trend of the
+land from the great Andean water-parting on the west and north-west
+being south-east to the mighty river on the south, consequently these
+north-western affluents of the Amazon flow in more or less parallel lines
+from the north-west to the south-east. It is the rivers that dominate
+this country, the mountains, those primal determinants, are only distant
+influences, snow-topped mysteries but dimly imagined on the far horizon
+from some upstanding outcrop, a savannah where momentarily a perspective
+may be gained over and beyond the illimitable forest.[7]
+
+On the south of the tracks here dealt with the Amazon slowly sweeps its
+muddy yellow waters, 500,000 cubic feet per second, towards the ocean.
+On the north the Uaupes River flows to join the Rio Negro. Between the
+Uaupes and the Amazon the Rio Caqueta, or Japura River, runs south-east,
+due east, and south to the main stream, and almost parallel with it the
+Putumayo, or Issa, gathers the waters of the Kara Parana and the Igara
+Parana, both on its northern, that is to say its left bank, and joins the
+Amazon where the main river turns sharply south 471 miles below Iquitos.
+West again, the Napo drains down to join the great water-way 2300 miles
+from the sea. Of the Napo much has been written since Orellano sailed
+down it from Peru, homeward bound to Spain in 1521, and it may be left
+outside the bounds of our inquiry. With the Issa and Japura we must deal
+in some detail, but of the Uaupes and Rio Negro a few words will suffice.
+
+Rapids and cataracts bar the navigation of the Uaupes, the chief
+tributary if not, as some would have it, the main stream of the Negro,
+until it is, according to Wallace, “perhaps unsurpassed for the
+difficulties and dangers of its navigation.”[8]
+
+
+Wallace estimated the country to be not more than 1000 feet above
+sea-level. I should judge it to be considerably less, by the trend of
+the country to the south of it. But even here I may be mistaken, as my
+aneroid was useless, for undiscovered reasons, and my opinion is based
+simply on the force of the currents of the rivers, the number and depth
+of the rapids, and the distances to the main river and thence to the sea.
+The height above sea-level cannot be great, for the tides are felt at
+Obydos, more than half-way from the ocean to the mouth of the Rio Negro,
+and there is no abrupt rise from the Obydos levels; indeed the slope of
+the land is so slight that in the middle reaches of the main river during
+wet seasons the floods spread for twenty miles, and there is no visible
+current.
+
+The Uaupes, though lighter than the majority of southern tributaries
+of the Negro, is what is known as a black water river, while most of
+the rivers flowing in on the northern bank are white water rivers. This
+peculiarity, which may be as marked as the difference between ink and
+milk, is due apparently to the variety of soil in the country drained
+by the rivers. The chief tributaries of the Uaupes, the Itiya and the
+Uniya, are both white water streams. Spruce notes that fish are scarcer
+in black than in white water streams,[9] and attributes it to the absence
+of vegetation. This may be true in part of the Negro, but it is not true,
+I think, of other rivers. Certainly these have some sort of fish, for I
+have seen them rise. One species is known to feed on a variety of laurel
+berry very plentiful on some of the river-banks.
+
+The Rio Negro itself, the waters of which are dead black, is navigable
+for more than a third of its course to vessels of a 4 feet draught even
+in the dry season, and communication is possible from its upper waters
+with the great northern artery of the Orinoco, through the Casiquiari,
+the most important of the natural canals that abound throughout the
+Amazon regions.
+
+The Issa, or Putumayo--the Peruvian name is perhaps better known than
+the Brazilian, the true geographical one--is the first tributary of
+importance to join the Amazon after it has entered Brazilian territory.
+Of its 1028 miles only 93, according to the _Brazilian Year-Book_,
+are not navigable by steamers. This exceeds the truth, for there is
+practically no communication with Colombia or Ecuador by this route, as
+the statement would imply. In the upper reaches of the Issa rock and
+shingle are to be found, while 300 miles down stream hardly a stone is to
+be seen. The water is very muddy, and the current variable as the depth.
+Now it will be a swirling storm-fed torrent, the turbid water burdened
+with a wild flotsam of forest trees and matted vegetation, cutting into
+the soft layers of vegetable mould that form its banks, and rise above it
+as much as 25 feet in places; anon it is a sluggish stream that spreads
+oilily nowhither, with scarce a ripple over the deep alluvial deposits
+of its bed. This river is at its lowest in February and March. At its
+juncture with the Amazon looking upstream from the main water-way, the
+Issa is the more imposing of the two, for its course lies wide and fully
+exposed, while the Amazon bends sharply, and gives the impression that
+it and not its affluent is the tributary stream. Robuchon calculated
+that its breadth there was 600 metres, the depth 8, and the current 2½
+miles an hour. He states very truly that landslides often occur on the
+banks of these rivers, and that such destruction of the bank, together
+with the quick rise and fall of the streams, may so alter the appearance
+of any stretch as to render it quite unrecognisable, even within a few
+hours. Special mention is made by him of the Papunya River, that enters
+on the left bank of the Issa. Forty miles from the Papunya is the Parana
+Miri,[10] a river with very black water and a large group of islands at
+its mouth. Many of the islands in these rivers are not stationary, they
+are floating masses of soil and vegetation, torn away from the banks when
+the river is in spate. They may be as much as a hundred yards from bank
+to bank, and birds are to be found living upon them.
+
+
+The Igara Parana runs into the Issa where that river makes a horse-shoe
+bend,[11] the junction being on the inner side of the horse-shoe. The
+breadth of the stream at its mouth is 161 metres. The water is clearer
+than that of the Issa, and the current slower, never more than 3 miles an
+hour. Some 220 miles upstream there is an important waterfall, known as
+La Chorrera, or the Big Falls. The Igara Parana becomes vary narrow and
+most tortuous as it nears them, and is only 30 metres wide at its exit
+from Big Falls Bay. This is a huge pool almost as wide as it is long,
+with a narrow exit at one end, and a succession of cascades at the other.
+These falls are impassable in boats, and traffic with the upper river can
+only be carried on by land portage. Much debris of rocks and river-borne
+tree-trunks obstructs the narrow passage above the falls, which are given
+by Robuchon as having a total length of 120 metres and a width of 18
+metres. The waters descend over a series of wide rocky steps, worn flat
+and smooth by the ceaseless friction. Masses of stone line the right
+bank, and rise perpendicularly from the water. This is the only part of
+the country where I have seen rocks and stones in any quantity.
+
+The upper reaches of the river are distinctly more picturesque than its
+lower waters. The almost level banks, with their monotonous succession of
+forest trees, grow gradually steeper, till the sandstone cliffs rise like
+a fortification above the fringe of vegetation that encroaches on the
+high-water mark. Presently the river winds in and out between shelving
+hills, tree-clad to the very margin of the water. Between the Igara
+Parana and the Kara Parana the country is a perfect switchback of hills
+and ridges, with a stream in every gully. The steepness of these valleys,
+with a pitch perhaps of 25° or 30°, does not permit the surface water to
+lodge and form swamp or morass, in contrast to the waterlogged plains of
+the lower rivers. Immediately on the left bank of the Igara Parana, and
+in the vicinity of the Big Falls, the country continues to be hilly,
+but to the north-east it is more open, and the bush is less obstructive,
+though its density varies immensely. Similar diversified scenery is to be
+found on the upper waters of the Japura.
+
+The Kahuanari, a considerable tributary on the south bank of the
+Japura, drains the divide that intervenes between that river and the
+Igara Parana. It is subject to sudden floods, which wash down large
+quantities of forest debris. I have seen it rise twenty feet in a day,
+and afterwards subside as quickly.
+
+The floods are not to be wondered at when the tremendous rainfall of
+these regions is considered. The question is never if it will rain, but
+when and for how long it will be fine. Rain is certain in a land which
+has but a few days clear of it in every twelve months. Five days, a
+fortnight, that, all told, is the extent of dry weather to be looked
+for in this country. The dry season is but a name. It is dry only in
+comparison with the wetter months from March to August. The upper valley
+of the Amazon has a three-day winter at our midsummer--June 24, 25,
+26--so it is said, and certainly I noted a very decided drop in the
+temperature of these days in 1908. Snow is unknown, and hail not common.
+Despite the daily rain the turquoise blue of the sky is seldom long
+hidden, though from March to June leaden skies portend rain, and seldom
+fail to make good their portent. During the dry season the rain if it be
+frequent is never continuous. Almost every day, between three and four
+in the afternoon and two and five in the morning, heavy clouds will roll
+up, a preliminary breeze rustle through the leaves, shake the trees, and
+increase till suddenly there comes a deluge of big drops. Such storms
+last but half an hour, yet the rain will soak through everything, and
+the wet bushes drench the passer-by for hours afterwards. Nothing is
+ever really dry, things are in a constant state of saturation, and it is
+possible at all times to wring moisture out of any of one’s belongings.
+So great and incessant is the evaporation that at night the dew is as
+heavy as rain, while the marshy low-lying lands and the rivers are
+shrouded by mist both morning and evening. With such humid air lichens
+and Hepaticæ flourish on all the tree-trunks, though I have never seen
+them, as described by Spruce, covering the very leaves of the trees.[12]
+
+Electric disturbances are numerous, and a sharp and sudden thunder-shower
+often occurs about three in the afternoon, or in the night, though rain
+at night without thunder is common. These storms come up in the dry
+season especially, and the worst storms may be expected in February,
+at the breaking of the dry weather. Sometimes the electric storm will
+consist of an uninterrupted display of lightning with little or no
+thunder, and the sizzle of light makes the landscape appear as in a
+cinematograph picture. This continued on one occasion all through the
+night, and from the amount of interest the Indians evinced I judged it to
+be an unusual occurrence.
+
+It is always possible to tell when rain will come because of the
+preliminary breeze, hardly felt below the tree-tops, followed by a dead
+calm that precedes the downpour. The prevailing wind for nine months of
+the year will be from the east or south-east, from June to August it
+will be north and north-west. In January the prevailing wind is from the
+Atlantic, north-east, veering to south-west; in July from the Pacific,
+south-west, round to north-east. Fitful and uncertain local whirlwinds
+will, without warning, swoop down on the clearings round the houses, play
+havoc in forest and plantation, uproot trees, and destroy habitations.
+
+In spite of the continual rain, of the universal humidity; the climate
+is not unhealthy. The heat, though a damp heat, is never excessive, the
+enormously great evaporation brings in a succession of fresh breezes
+to moderate the temperature;[13] and so, despite apparently trying
+conditions, the climate is not injurious. The low watersheds between
+the large rivers appear to be quite healthy, and if there be fever
+its prevalence varies locally to an extraordinary degree. It has been
+observed that where the soil is first turned up fever not infrequently
+follows, a fact noted in other parts of the world, and by no means a
+condition peculiar to the Amazons.
+
+The soil of the vast Amazonian basin is mainly the alluvial deposit of
+decomposed vegetable life for centuries past. This sea of Pampean mud
+stretches from the ocean marshes up to the very heels of the mountains
+that stand outpost to hold the southern continent from the Pacific. Black
+and rich it lies in layer after layer twenty, thirty, forty feet beneath
+the great pall of vegetation that flourishes above during its little day,
+to die and drop for successive generations of arboreal life to thrive
+upon in their turn. And in all this vastness is never a stone. Vegetable
+mould and water-borne mud, but stone does not exist for thousands upon
+thousands of miles. Only in the upper waters of the Amazonian system are
+rock formations reached; in the particular district under consideration
+nothing is to be found harder than a soft, friable sandstone. On parts
+of the Issa, as on the Napo, the deep banks show strata of shingle,
+with perhaps red or white clay, that alternate with the dark humus and
+decaying wood.
+
+It is the ceaseless activity of all vegetable life that renders these
+regions fit for human habitation at all. There is no period, as with
+us, of bare branches overhead and decaying matter below. Decomposition
+is there, but for every dead leaf a virent successor is ready to absorb
+the gases engendered by decay. The soil may be water-logged, but
+evaporation, combined with the constant rain, the frequent inundations,
+and the endless operations of an immeasurable insect world, militate
+against stagnation. Dank it may be, but there is no iridescent scum upon
+the water, no fœtid smells to warn of lurking poisons. These natural
+danger-signals are unneeded, for the poisons are self-destructive.
+Processes of corruption are coexistent with those of purification. So
+extraordinary is this that I never hesitated to drink any water, nor is
+any evil resultant from water-drinking within my knowledge.
+
+In this struggle it is the weak who go under, the feeble who support the
+strong. This holds good for vegetable and animal kingdom alike, and even
+with man there is no place for the helpless. Those who fail by the way,
+who cannot fulfil their functions in the toiling world, and have ceased
+to be of practical utility, must make way for the more capable. Altruism
+is not bred of the forest, it is a virtue born in cities. Here it would
+be suicide. The growing leaf must push off the fading leaf, or the latter
+will stunt and imperil its growth. In fact it does so, and growth is thus
+continual. There are no seasons to correspond with our spring nor with
+our fall of the leaf. From the lower Amazon’s maze of water-ways up to
+the foothills of the western mountains reigns perpetual summer; the same
+leafy veil hides the mysteries of the great expanse, eternally dying,
+eternally renewed.
+
+As one passes onwards, however, nearer where the great cloud-banks
+gather over the mountain giants of the west, a perceptible change is to
+be noted, the scenery of the upper Amazon differs in certain essential
+particulars. It is not only that the great river thoroughfare, first
+spread on either side beyond the farthest horizon,[14] becomes a thin
+black line that grows nearer and deeper. Other features besides the
+river-surface contract. The majestic forest trees give way to timber not
+so towering. Plant life is not less prolific, but it is on a smaller
+scale. The bush has the air of being younger. It suggests that it has
+been dwarfed by perpetual inundations. Nor is the stunted growth limited
+to the vegetable world; the animals themselves, as if Nature insisted
+that all be in keeping, are on a lesser scale than their congeners of the
+eastern plains. No alligators of immense size lurk in the upper waters,
+even the fish and the turtles are smaller, as though their inches were
+limited in proportion to the streams.
+
+It is not easy to convey any true notion of the scenery of the Montaña,
+the vast forest regions spreading eastwards, down from the lower Andean
+slopes. Here and there the dense forest gives place to an open savannah,
+an outcrop of rock with but a shallow stratum of soil. These have none of
+the deep vegetable mould of the lower-lying forests, and the poorer and
+thinner soil harbours flora of many totally distinct varieties. Often the
+great fan leaves of the Aeta are matted into a dense roof over the black
+swamp of the valleys. Sometimes these water-loving palms are seen by the
+river-side, interlopers in the fringe of fern and thickets of feathery
+bamboo; or, again, they will grow in a regular belt with little or no
+other vegetation.
+
+Life is more evident on the rivers than in the forest. Fish are there
+in plenty--eighteen hundred species are known in the Amazonian waters.
+Birds, often conspicuous by their apparent absence in the bush, flock on
+the sand-banks and marshes of the bank. Herons and ducks abound. Egrets
+haunt the sandy spits that rise from the water, and in the marshy swamps
+numbers of these beautiful creatures may commonly be seen hunting for
+the tiny fish, animals, and insects on which they feed. Another enemy of
+the small denizens of the stream and marsh is the kingfisher. More than
+one variety abound on all the Amazon water-ways, but none of them can
+compare with the English bird in brilliancy of colour. Probably this is
+an instance of protective colouring, one of Nature’s methods of defence,
+for on these dark waters the gorgeous blue of our _Alcedo ispida_ would
+be even more conspicuous than it is on our clearer streams.
+
+One pictures this tropical garden, this paradise of the naturalist, as
+a blaze of gorgeous colour, a profusion of exquisite forms. But, in
+proportion to one’s imaginative anticipation, I have never seen such a
+monotonous, flowerless wilderness as this bush appears. Still there are
+flowers, and flowers of showy colouring, the pinks and yellows of the
+bignonias, the white and crimson of the chocolate-tree, the crimson of
+the hibiscus, the scarlet blaze of the passion-flower, the snowy beauty
+of the inga; all these and a thousand more are there, with the rarest
+blue and all the myriad shades of mauve and orange, yellow, pink, brown,
+violet of uncounted orchids. But orchids, though common, grow at the very
+top of the trees, and unless they are searched for they are not seen,
+except such varieties as are found on the savannahs.
+
+The whole is on a scale so gigantic, the immense forest, the great
+rivers, that details are lost in the vast expanse, and the total effect
+is one of absolute sameness. Yet the individual variety is enormous.
+Though uniform in the mass, twenty-two thousand species of plants have
+been differentiated; thousands more remain undescribed. Only a botanist
+could attempt to deal with these even superficially. The uninitiated,
+like myself, can but look and wonder.
+
+Many of the units of this mighty aggregate are of a surpassing
+loveliness; flowers unequalled for beauty, birds and insects that are
+living jewels, outrivalling inanimate gems. Such palms and ferns as would
+be rare treasures in a Kew Gardens hothouse riot unheeded in tangled
+profusion above the dark marshy soil, over a screen of parasites and
+epiphytes. Forest giants, those immense monarchs of the woods Californian
+advertisements depict for the edification of the populace, are not there;
+certainly they are never to be found in the Montaña. Nor, perhaps, in
+consequence of the lower growth, is there that intense gloom mentioned
+by writers on more easterly districts. The idea that you look up but can
+never see the sky is fiction to me. The foliage is certainly too dense
+for the sunlight to penetrate down to the damp soil and matted underbush,
+but patches of the sky are always more or less visible through the
+interlocked branches overhead. Light and air are to be had freely only
+on the tree-tops, and it is there that birds, insects, and flowers mass
+their glories out of human ken. Even the animals are climbers, and most
+of them spend more than half of their existence on the trees.
+
+There are no long dark avenues beneath this leafy canopy that hides all
+the life and colour of the forest world from the traveller, painfully
+cutting his path through the intricate confusion of roots and creepers
+below. These parasitic creepers are of many kinds, rooting down to the
+dark soil, intertwining with themselves, pushing boldly to the tree-tops,
+strong as withes, in wild festoons, knotted, tangled, of every thickness
+from a giant cable to a narrow thread. I have seen parasite on parasite.
+They loop from tree to tree, bind the underwood into impenetrable
+thickets, and trail over the track-way, ready to strangle or trip the
+heedless passer-by. But track-way is a misnomer. The only thoroughfares,
+where water is as abundant as dry land, are the water-ways. The bed of a
+stream is the only track. No other line of communication is intelligible
+to the Indian. Even in the vicinity of civilised centres, hundreds of
+miles away from these wild fastnesses of Nature, the exuberant vegetation
+rapidly encroaches upon a roadway. Paths in the forest there are none. A
+forest track consists in following the line of least resistance. If this
+should be stopped by any obstacle, a fallen tree, a sudden inundation,
+it would never be removed or surmounted. There is no choice but to climb
+over or go round. The ordinary Indian wayfarer would go round; and so the
+road deviates increasingly; it becomes inconceivably twisted, until the
+actual ground covered is enormous compared with the distance from point
+to point.
+
+
+Where a stream has to be crossed there is rarely any bridge more stable
+than a small tree cut down and thrown across just when and where it
+may be wanted. Frequently such impromptu bridges are under water. They
+are invariably of the slightest; a branch no thicker than a man’s hand
+suffices to span a deep chasm, and over this an Indian will pass more
+unconcernedly than an Englishman over London Bridge. The worst penance of
+all in forest journeyings is to cross a river or a gully full of great
+fallen trees, on such flimsy foothold. The drop at times may be 40 to
+50 feet, and there will be but the one tree across without any attempt
+at a hand-rail to steady the traveller. Nor can you grasp an Indian’s
+shoulder for aid in the perilous transit, for to do so is to lose once
+for all every trace of prestige and authority. The man who cannot get
+over a river unaided, the man who is not man enough to walk and must be
+carried in a hammock, is but a poor creature in the eyes of the South
+American Indian. Still it is more than a test of nerve. In the middle of
+such a bridge you feel yourself swaying, and it is only with a fearful
+concentration of will-power and a bitten lip that you arrive safely on
+the other side, having leapt the last three feet. In the first month of
+forest journeying I bit my lip through time and again. It is not the
+torrent below that frightens, it is the rotten trees in the gully. A fall
+may possibly be a broken neck, more probably it would be a broken leg. Of
+the two in country of this description a broken neck is preferable.
+
+Where a stream has to be crossed that is too deep to be forded and cannot
+be bridged over in this elementary fashion, there is little difficulty in
+the construction of a raft or a temporary canoe. The bulging-stemmed palm
+furnishes an almost ready-made one. This palm, _Iriartea ventricosa_, is
+readily known by the peculiar swelling on the upper part of the trunk. It
+will attain the height of 100 feet, and the swollen portion is big enough
+to form the body of an improvised canoe.
+
+Forest bridges are not the only terrors to confront the traveller;
+lurking dangers are many, and imagination is but too quick to multiply
+the risks. Peril from wild beasts does not loom largely in the picture,
+though the jaguar is a savage brute, and the experienced traveller
+will never sleep without a weapon at hand in case one of these daring
+creatures should venture to attack. But of animals more anon. There is
+one danger by no means imaginary, the danger of falling trees. A sudden
+crack, startlingly noisy in the all-pervading stillness, will give
+warning of a fall, but there is nothing to guide to safety. It may be
+the nearest tree that is coming down, or one at some distance; yet the
+deceptive noise will not determine which may be the doomed one, beyond
+the fact that a palm gives the sharpest crack. Indians when they hear
+such a sound are invariably frightened, and often will run backwards and
+forwards in terrified uncertainty, to try and discover whence came the
+danger signal.
+
+Then there are plants that injure more directly. One palm, an
+_Astrocaryum_, has spines six inches in length up its stem. These spines,
+black in colour, hard, unbreakable, fall in the bush and spike the foot
+of the unfortunate who may tread on them. On the palm-stem itself they
+will wound the unwary hand incautiously or involuntarily thrust in the
+thicket. Many of the climbing plants have thorns or hook-like prickles,
+and perhaps the worst are the many kinds of twining river-side palms,
+whose barbed leaves will tear both flesh and clothing.[15] But trying
+as these vegetable torments may be, they are outclassed in the eyes of
+the tyro by the more active evil of perils from snakes and insects.
+Creeping through dense bush is an agony at first. Poisonous reptiles may
+lie concealed all about one, virulent insects surround in their myriads.
+If imagination has painted a floral paradise it has also run riot over
+a profusion of deadly snakes, an uninterrupted purgatory from creeping
+things innumerable, and winged pests before which the plague of flies
+in ancient Egypt sinks to insignificance. And there is some excuse for
+imagination if it be fed on travellers’ tales. As a matter of fact,
+if these were true life would in all verity be insupportable. But the
+fear of snakes passes in two weeks, never to return, and mercifully the
+most pestilent creatures exist only in limited spheres, and seldom or
+never in the same. Places that are troubled with the pium will be found
+free of mosquitoes at night; in a belt of country where the mosquito
+abounds the pium will be absent, and in any case the two are never active
+together. The pium, a most vile little fly, comes out at sunrise. It is
+an intolerable pest, will attack any exposed part of the body, and draws
+blood every time. The traveller is forced, when journeying through a
+pium-infested country, to don guarded boots, gauntlets, and a veil. It
+is impossible to eat, drink, or smoke, till sunset puts a period to the
+troubling. Fortunately, piums are only found within a few hundred yards
+of the rivers. This is also the case as a rule with mosquitoes. There
+is a bad belt of pium country on the Issa, at the Brazilian frontier. It
+takes two days to get through on a steamer, and during the forty-eight
+hours life is a long-drawn torture. But once through you are rid of them.
+Robuchon noted that the _Culex_ mosquito disappears on entering this
+river: but there are others; one, a kind of _Tabano_ in miniature, is
+called the _Maringunios_. I found piums on the Kahuanari at low river,
+but a light breeze would suffice to sweep them away, and both mosquitoes
+and piums are practically non-existent in the middle Issa-Japura valley,
+though mosquitoes are found in certain parts of tracts of flatter
+country, but are not bad enough to make a net a necessary adjunct for
+comfort. There is also a tiny sand-fly that occasionally appears at
+sunset, when the river is low, and though minute in size, causes a very
+painful wound. It is known in Brazil as the _Maruim_.
+
+A most annoying little insect that is very common in the bush is a kind
+of harvest bug. This almost invisible “red tick” must not be confused
+with another parasite that is only obtained from contact with Indians.
+The forest tick lives on the leaves of plants and bushes, and when shaken
+off creeps everywhere, and will burrow under the skin, which gives rise
+to maddening irritation.
+
+Wasps and wild bees--the bee of these regions is a waspish creature--are
+frequently a nuisance. Often in a forest path I have come upon a huge
+black overhanging nest pendant from a tree. It looks like a tarred
+lobster-pot full of black pitch, and it is necessary to rush past to
+avoid the stings of the easily-roused inhabitants. Some of the wasps are
+exceedingly handsome fellows, noticeable even among Amazonian winged
+beauties, unsurpassed in any other land for gorgeous colouring. Among
+other fine insects of the Montaña are the huge _Morphos_, a dazzling
+blue butterfly many sizes bigger than a humming-bird; dragonflies
+with iridescent wings and jewelled bodies, fireflies and glow-worms
+with their living lights, so brilliant that I have often in a moment
+of forgetfulness mistaken them for distant lights from some human
+dwelling-place. But the butterflies, the most resplendent of all,
+frequently illustrate the proverb that beauty is but skin deep.
+Exquisitely graceful in flight, marvellous in subtle colourings, I
+have found them to be the dirtiest possible feeders. The sight of one
+now fills me with repugnance, for it calls to mind pictures of these
+so apparently dainty and aerial beings fluttering about some mass of
+offal, actually eating manure.[16] They will congregate in thousands
+round a spot of blood, so absolutely fearless that it is not possible
+to drive them away. They will actually smother the kill during the
+disembowelling process after hunting. The contrast of their ethereal
+loveliness and their gross habits is revolting--Psyche and putrid filth,
+an inconceivably horrible combination.
+
+Butterflies and moths exist in great numbers and varieties. The most
+ordinary kind is a large bright sky-blue; other common ones are
+tiger-marked and yellow, like our sulphur butterfly but larger. Most of
+them are strong fliers. If the perfect insects themselves inflict no
+injury, the same cannot always be said of them in the caterpillar stage,
+for very many have hair that stings quite painfully.
+
+Ants are the greatest curse. They are everywhere, of all kinds, of
+varied colours, and almost invariable viciousness. They drop from the
+overhanging foliage. They may come singly or in battalions--army corps
+rather. The traveller pushing through the thicket will knock them off the
+bushes, and they will proceed to crawl down the neck or up the sleeves.
+They swarm over the bare feet. And then they sting. The worst kind is a
+small stinging ant not more than the size of a pin’s head. In many places
+the earth is broken up and transformed into irregular heaps, the late
+habitations of some gregarious ant, such as the _Ecodema cophelotos_, or
+it may be built into cones to the height of 4 or 5 feet by the termites.
+It needs but short experience of the bush to endorse very heartily
+Spruce’s comment that they “deserve to be considered the actual owners
+of the Amazon valley.”[17] On more than one occasion stinging ants
+drove me from dry land to water. In inundated country these insects
+forced me to take refuge off the higher points of land, which, turned
+into temporary islands, form the natural resting-place for the traveller
+exhausted by the wading, the swimming, and the stumbling through the
+unseen undergrowth. Unfortunately the ants, too, are driven to take the
+same refuge. The traveller may find that choice lies between torture on
+land or again seeking the comparative peace of the water in perhaps an
+exhausted condition. Happily ants, like the pium, keep in belts, and of
+these it can only be said that discreet avoidance is better than valour.
+
+With regard to the reptiles, though these abound, they seek rather to
+avoid than to court notice, and are by no means the danger to life that
+the ignorant imagine. Naturally the naked Indian is more exposed to any
+peril there may be than the better protected white man, and if a snake
+be trodden on it will promptly turn and bite the unshod foot of the
+aggressor. But no snake, so far as I have observed, will attack a human
+being unmolested, not even the boa constrictor; nor would the anaconda,
+the great water snake, though all Indians are very afraid of it. I do
+not think that even the venomous labarria ever bites a man unless first
+disturbed.
+
+Alligators in the Issa and the Japura are small, rarely seen, and never
+formidable. The dangerous _jacare_, that huge monster of the lower
+rivers, is unknown here. But of fierce and poisonous fish I shall have
+somewhat to say later. Curiously enough, despite the swampy nature of
+the ground, I never met with any leeches, though Bates mentions a red,
+four-angled species he found to be abundant in the marshy pools at the
+juncture of the Japura and the Amazon.[18] Frogs and toads are the most
+abundant reptiles. They exist in thousands and are of all sizes, though
+I have never seen any of dimensions that Spruce speaks of--“as big as a
+man’s head.”[19] At night near any stream huge frogs keep up a constant
+and fearful noise, and even at midday, when a silence that may be felt
+enfolds the tropical woodland, their chorus is only subdued, not stayed.
+
+This silence of the forest is a very real thing, a quality that does
+not lessen by acquaintance. On the contrary it grows more real and more
+oppressive. A strange gloom and a strange stillness hold the bush. They
+give the impression that there is nothing animate in all the vastness, no
+life other than that of the overwhelming, all-triumphant vegetation. It
+is possible to journey for days and never see a human being. A sound, be
+it but the cracking of a twig, startles in the forest. Then, suddenly,
+the vibrant quiet will be broken by a shrill scream. Some creature has
+been done to death. The cry dies to a moan, and the low murmur that is
+hardly sound, the drone of the unseen but abundant life, once more makes
+up the silence that pulses tormentingly on ear and brain, till night
+again wakens the birds and the beasts of the wild, and the murmur grows
+and deepens to the full volume of confused sound made by the forest’s
+busy life.
+
+At the break of day, and again at the going down of the sun, the howling
+monkeys, if they be in the neighbourhood, startle the echoes with their
+raucous yelps. Sunrise is, indeed, the signal for absolute pandemonium.
+Toucans start an endless chattering that rises now and again to a
+far-reaching scream. The trumpeter birds make extraordinary noises. With
+them may be joined in a chorus of discord the macaws and the parrots of
+the district, and the chorus is punctuated at night by the mournful cry
+of a large night-jar.
+
+But, for the most part, the birds and the beasts go about their business
+silently. They seek neither to disturb their victims nor to advertise
+their own doings and so attract those with sinister designs against
+themselves. In the bush silence is a better policy than honesty.
+
+Picture all this, and try to understand the bush life in Amazonia.
+It will explain much of the unwritten and unwritable story of the
+inhabitants of these wilds. For the traveller the day is easily
+summarised: the awakening at sunrise, followed by a bath in the nearest
+stream, and a meal of what was left over-night; the trail, the worst in
+the world; the slow progress that jars on the nerves; the never-ending,
+impenetrable forest; the narrow path that has to be widened; the
+stumbles, the falls, the whipping of the face and arms by innumerable
+twigs; the ever-ready liana that catches the foot of the careless walker;
+the stinging ants that shower down on face and neck when a tree is
+accidentally shaken; the greenheart and other rods that pierce the feet
+and legs; the thorns innumerable, and the fine palm-spines on which a
+hand is transfixed when put out to save a fall; the end of the trek, a
+bath to get rid of the litter of mud and vegetable filth; dinner, of
+sorts; and a hammock under a shelter so poor that it will not prevent
+the driving and inevitable rain from chilling the sleeper to the bone.
+Imagine the state of fatigue to mind and body when one cries, “Thank God,
+I have got so far to-day. I could not repeat to-day’s labours. I could
+not go back on my own open trail, or go through the same to-morrow.” And
+so crying one knows that to-morrow and the trail must come. Even in fancy
+you will feel the pressure on your chest, the pressure behind you. It
+demoralises utterly.
+
+There is a gruesome depression that is almost physical, produced by
+solitude on a small island, when all other land is out of sight. The bush
+to me is worse. The oppression is as of some great weight. A light heart
+is impossible in an atmosphere which the sunshine never enlivens, that
+is beaten daily back to earth by rain, where the air is heavy with the
+fumes of fallen vegetation slowly steaming to decay. The effect of the
+impenetrable thickets around, the stifling of the breath, is all mental,
+doubtless; but it must react physically on the neurotic subject.
+
+This depression, this despondency, may seem incredible to those who
+have never experienced anything similar, who are ignorant of the
+innate malevolence of the High Woods. But in truth there is nothing in
+Nature more cruel than the unconquered vegetation of a tropical South
+American forest. The Amazonian bush brings no consolation. It is silent,
+inhospitable, cynical. It has overcome the mastodon and the megatherium,
+the prehistoric camel and the rhinoceros. It has reduced its rivals of
+the animal kingdom to slimy alligators and unsightly armadilloes, to
+sloths and ant-bears. The most powerful tenant of its shades is the boa
+constrictor, the most majestic the jaguar. Man is a very puny feature in
+the Amazonian cosmos.
+
+The sense of one’s insignificance is the first lesson of travel in the
+bush. In the beginning the discovery amuses the adventurer. Later, he
+resents the implied superiority of the fixed and nerveless plants which
+barricade his progress. In the end, he hates the bush as though it were
+a sentient being. Yet the component parts of the bush are familiar to
+all at home: we coddle them in our gardens, and nurse them tenderly in
+our glass-houses. But in the Amazons they unite to form a horrible, a
+most evil-disposed enemy. They obscure the sun from the earth, condemn
+one to existence in a gloomy, stifling half-light. They constrict the
+world to a path laboriously hacked through jealous undergrowth. They stab
+with hidden snags, and strangle with deftly poised lianas. In their most
+hurtful mood they poison with a touch.[20]
+
+The Amazonian forest is no glorified botanic garden. Its units are not
+intelligently isolated and labelled. There is but a monotonous tangle
+of vegetation through which the traveller cuts his way to daylight
+and perspective in a river-channel. One rarely sees a blossom or a
+fruit. Within that tangle, however, is the whole varied life of the
+tropical jungle. It may be difficult to distinguish specimens through
+the superimposed mass of extraneous vegetation; it may be impossible to
+catch a glimpse of a living creature throughout a day’s march; but the
+flowers are there in their thousands, and a myriad of eyes have noted
+each blundering movement of the wayfarer. It is no part of the philosophy
+of the bush to force even the most reckless of animals into needless
+publicity.
+
+It is simple for the traveller to pull the canoe to the bank of one of
+the upper tributaries of the great river, to land, to part the screen
+of bushes, and to pass beyond--into the obscurity of barbarism. It
+is a simple feat, yet eventful. A thousand yards away from the safe
+thoroughfare of the main stream the explorer is lost, overwhelmed in the
+extravagance of vegetation. Denied a pathway, a landmark, a horizon,
+or a sky, he has less to guide him than the castaway on the ocean or
+the wanderer in the Sahara. His most definite course can only be from
+river-bed to river-bed. To direct him on his way the trees offer no aid
+to help him, the forest provides but little sustenance.
+
+Every traveller in the bush lives in the constant dread of being lost.
+Desertion, unexpected, unforeseen, is common with the Indians. They
+leave without ascertainable cause at the cost of their pay, at the risk
+of their lives. In a watch of the night they depart, and although the
+country be swarming with their blood-enemies, they vanish into the forest
+and are no more seen.
+
+In time the civilised man, with no other than such barbaric companions,
+turns at the thought of them, is nauseated by their bestiality, longs
+for relief from their presence. Then he wanders away, ever so little
+a distance into the bush, to be alone and to think. He happens upon a
+stream--that is so simple a by-path, so obvious a guide. He wanders
+light-footedly up its bed in search of that ego which had begun to
+elude him. The surroundings interest him. The water comforts his feet.
+The silence casts him back upon himself. He thinks, computes, and the
+solitude assists his introspection. He recovers his perspective, replaces
+the comrades of his bush-life in their proper places--the glass-fronted
+cupboards of an anthropological museum. His self-respect regained, he
+pauses to admire his new-found horizon.
+
+Trees hem him in on every side. A little way up the stream is a narrow
+slit of sunlight, a little way down a narrow canopy of sky. All else
+is vegetation. The solitude no longer tempts him, but mocks as he
+contemplates his surroundings. Yet to doubt is to be ridiculous. It is
+all so simple; it took so long to come here up the stream; the same
+number of hours or minutes will take him back again to the spot he
+marked, and so to the camp.
+
+The difficulties begin with the return journey. He questions the hour
+of leaving the bearers, the rate of march, the time spent in lazy
+consideration. One tree is so like another tree, one river vista but
+the duplicate of the last. Reeds, weeds, and bush now offer nothing
+distinctive; their former individuality appears to be lost. The trail
+must have been passed. He shouts, diffidently at first, eventually with
+hysteria. He fires a rifle, and the bush but re-echoes the sound. The
+hundreds of miles of forest on every side press together, and the signal
+is shuttlecocked between. The very echoes seem to him muffled, like the
+drums at a soldier’s funeral. The traveller is lost.
+
+The realisation is a strange psychological phenomenon. It forces the
+self-reliant European on his knees to pray; drags him to his feet to
+blaspheme; throws him on his face to weep. This admission may come
+strangely to the well-housed British ratepayer. It may sound like a
+confession of unfathomable cowardice. It is far easier for the arm-chair
+philosopher to imagine the stoicism of the Indians than to reproduce the
+neuroticism of his European counterpart. Things are so different when the
+conception of the Amazonian bush is the memory of the tropical houses in
+Kew Gardens.
+
+One day I was lost alone. When I realised it I shouted, then fired
+half-a-dozen rounds from my rifle, and laughed. It was the laugh that
+brought me to my senses--that way lay madness. The reaction to calm
+was stupendous. Life was dependent upon self-control and clarity of
+judgment. I counted my rounds, remembered all I had eaten that day, and
+settled myself to think. We had crossed a stream, and my boys had been
+left quenching their thirst. I took the lie of the land, and found a
+path leading downwards. It must go to water. It did in fact take me to a
+stream, and I trudged wearily in the bed of it; then, after two fruitless
+hours of growing despondency, turned and went down, to find, as darkness
+was closing in, Brown and his party. That night I had fever, and talked
+in my sleep. And John Brown was lost for five and a half months. Good God!
+
+There is one last experience of the bush--starvation. The man who has
+not starved can never enter into the feelings of his brother who, with
+blood-shot eyes and shaking fingers, has groped about the fallen leaves
+for a lizard or a frog. I can answer for it that those who have starved
+never again may express the sensation. It has become the memory of a
+nightmare.
+
+
+CHAPTER III
+
+    The Indian homestead--Building--Site and plan of
+    _maloka_--Furniture--Inhabitants of the house--Fire--Daily
+    life--Insect inhabitants--Pets.
+
+
+Out of the silence and gloom of the forest the traveller will emerge
+into the full light of a clearing. Though it is the site of a tribal
+headquarters there is no village, no cluster of huts, except among some
+of the tribes on the lower Apaporis. There is but one great house,
+thatched and ridge-roofed like a gigantic hay-rick, standing four-square
+in the open. This is the home of some three score Indians.[21]
+
+The immediate signs of their occupancy are but few. There is hardly any
+litter cumbering the homestead; whatever of refuse there be is cleared
+more speedily by the ants than it would be by the most up-to-date
+sanitary authority of London. Back here in the untouched districts, away
+from the Rubber Belt and the commerce-bearing rivers, there are none
+of the leavings of civilisation: no broken bottles, no battered tins,
+no torn and dirty scraps of paper--indeed if bottle or tin ever found
+its way to these wilds it would be esteemed a most rare and valuable
+treasure. No village dogs bark their challenge at the stranger’s
+approach, no domestic fowls clutter away to safety. A naked child or a
+startled old woman may scurry into the saving murk of the _maloka_,[22]
+otherwise the silence and solitude appear little less profound than in
+the forest.
+
+That is the picture as the artist or camera would reproduce it. The
+details, the essentials, must be sought within.
+
+
+First of all characteristics is the fact that nothing makes for
+permanence. The house and its contents at the best are but for temporary
+use. The possession of a central tribal house does not presuppose that
+these Indians remain for any length of time in one locality. After about
+two or three years the house falls into a state of disrepair, but the
+tribesmen will not patch and mend it. They will simply discard it like
+all useless things. The women will be loaded up with the few tribal
+possessions--not forgetting the inevitable burden of their infants--the
+house will be burnt, and the whole of this _grosse famille_ departs to
+seek a new site on which to build another habitation.
+
+Building material is easily come by, and though to clear the land for
+agricultural purposes from the virgin forest entails considerable hard
+work, it is periodically a necessary task. However rich it may have been
+in the first instance successive crops rob the soil of its fertility,
+as the Indian is only too well aware, and fresh ground must perforce be
+broken up every few years. Then again, paths converging on the homestead
+in time are worn through the forest undergrowth, dense though it may
+be, circuitous though the trail of the Indian is invariably. Secrecy is
+security. A track-way is as good as an invitation, a sign-post, to the
+enemy. To move becomes a precautionary measure, even if the food supply
+be not exhausted--another reason that makes for unsettled conditions in
+forest life.
+
+The site chosen is never near a river, for these are the highways for a
+possible enemy, and streams for ordinary purposes abound. Also--but this
+is an insignificant reason in comparison with the first--insect pests are
+not so abundant at a distance from the river-bank. With an eye to defence
+from hostile visitors, the Indian habitation is sedulously hidden,
+and the paths that lead to it are concealed also in every possible
+way. The track from the river especially may run more or less directly
+for, say, a third of a mile; then it is absolutely stopped by a fallen
+tree. No cleared pathway apparently runs beyond this, but the Indian,
+creeping through the thicket by devious ways, eventually reaches another
+comparatively cleared track. This will in turn be stopped in the same
+fashion, and thence lead more directly housewards. The river-path may be
+broken twice or even three times in little more than a mile.
+
+At the same time that the ground is cleared on which the house is to be
+built, a plot immediately in front is also cleared for use as a dancing
+ground. This is customary, but not invariable, for some tribes are
+content with the dancing space inside the house. The outside dancing
+floor once cleared is quickly trodden down, and though no special
+preparation is attempted will soon be baked comparatively hard in the sun.
+
+The construction of the great house is not complicated, but the
+workmanship is dexterous, and will bear the closest inspection. Four
+great poles, 20 to 30 feet high, form the main supports of the roof,
+which slopes down on either side tentwise almost to the ground from the
+central ridge-pole. More posts and cross-beams support it, and the whole
+is most adroitly lashed together. The forest supplies all the needed
+material. It is there ready to hand, growing where the house is to be
+erected. The straightest tree-trunks provide the posts and cross-beams;
+the creeping lianas serve to splice and bind the framework together;
+Bussu palm-leaves[23] make the thatch, which, as the actual wall is but
+some three feet in height, is practically roof and wall in one. The
+_bejucos_, or lianas, used to tie the beams and poles are first soaked in
+water to render them supple enough.[24]
+
+
+To make the thatch the Indians slit bamboos and insert the palm-leaves
+doubled backwards.[25] The strips are then laid on the framework of
+the house, one above another, so that the uppermost strips shall hang
+half over those below. They are piled on to a thickness of from a foot
+to eighteen inches, and when completed this shingling is absolutely
+waterproof. When it ceases to be so the house will be abandoned. The
+leaves are not plaited, or intertwined in any manner, so the roof
+consists only of loose fronds, row upon row, and these have more the
+appearance of tobacco plants hung in an open drying-barn than a reed or
+straw thatch.
+
+
+All the native houses are made after much the same manner. They vary only
+in unimportant details. The shape, as a rule, is a rough parallelogram
+or square with rounded angles, but on the lower Apaporis the houses are
+circular. On the Napo River also they are hemispherical, but the section
+of a Witoto or Boro house usually would be a triangle some 30 feet high,
+with a 60-feet base. Witoto houses sometimes are more circular as to
+ground-plan, but always have the pointed roof, not a cone (see Fig. 4).
+
+The house is not always roofed and thatched to the ground, the last two
+or three feet occasionally being made of a closely set palisade, lined
+with matting or thatch. This is even more noticeable in a Nonuya house,
+and a Makuna house is invariably so fortified and is lighter than a Boro
+dwelling. As a general rule it may be noted that the Issa-Japura houses
+are not strengthened in this way. Wallace gives the dimensions of a house
+at Jaurité as 115 feet long, by 75 broad, and 30 high.[26] A Witoto or a
+Boro house is usually about 60 to 70 feet in diameter. In both cases the
+size depends on the numbers of the tribe.
+
+
+These houses have no windows, and the entrance is merely an opening in
+the palm-thatch eaves of some three feet by two. This most frequently is
+closed with a removable section of the thatch, which must be lifted out
+when any one enters, and replaced behind them; or it may be, as among the
+Orahone and Nonuya, covered by a curtain of thatch, which is hung on a
+cross-piece of the eaves by a strip of liana, and simply is pushed aside
+and swung back into place. In a Nonuya house the door is marked outside
+by bundles of rods neatly tied and set against the side posts.[27]
+Whatever the “door” may be, the opening is invariably kept closed, and it
+is the duty of any persons coming in to fasten up the entrance as soon
+as they have entered.[28] The consequence of this absence of any opening
+is that the interiors of the _malokas_ are nearly as dark by day as by
+night. But this deep gloom keeps out insects--no small consideration in a
+land so infested with them.
+
+
+The interior with its pointed roof resembles, as Robuchon remarked, a
+circus at a country fair. The central space is usually kept clear, and is
+used by the children as a playing-ground what time it is not required for
+more serious tribal business, such as dancing or a tobacco palaver. The
+far end of the house--where there is usually another small entrance--is
+the portion reserved for the chief and his family. As a rule it is open,
+but I have seen it matted off in some Witoto houses. Neither the Boro
+nor the Witoto indulge in the cubicles of palm-leaf thatch mentioned by
+Wallace in Uaupes houses,[29] nor are their habitations divided into
+two, with a small chamber at the end, as described by Koch-Grünberg in
+Tuyuka houses.[30] Each family has its own fire, but that is the only
+distinction, though on the lower Apaporis mats of beaten palm-leaf are
+used to form a sort of booth for each family. Such mats, _duriei_ as the
+Witoto call them, are also employed in some houses for the protective
+purpose of securing the entrance.
+
+
+The Apaporis Indians also make shelves or platforms on which they
+sleep, but all the other Issa-Japura tribes use the hammock slung
+about 2½ feet from the ground. One is hung for every man adjacent to
+his family fire--almost over it in fact. A second, placed rather less
+advantageously, in local opinion, belongs to his wife; while a third may
+be set between the two, close under the sloping thatch, for the children,
+when they are not asleep on the rough floor of uncovered earth. The
+family possessions are stored in places on the rafters overhead along
+with the hammocks, cooking-pots, and baskets with dried fish or smoked
+meat, the cassava-squeezer and personal treasures.
+
+The chief has no other house, but any tribesman with a wish for one can
+build a small house for himself and his family in the bush, though he
+still retains his right to a corner in the common dwelling of the tribe.
+A temporary shelter is easily contrived by lashing poles to four trees,
+some seven or eight feet above the ground. On this frame-work branches
+for rafters and palm-leaves for thatch are quickly adjustable. This is
+the ordinary way of preparing a sleeping-place in the forest, and is
+known among the rubber-gatherers as a _rancho_, but the Indians’ private
+houses are constructed more securely, and more like miniature editions of
+the central tribal house, although in this case no wall whatever supports
+the sloping roof as a rule. These may be called their country homes, and
+they may be perhaps as much as two days’ journey from the great house of
+assembly.
+
+At ordinary times there will be possibly from fifty to sixty people in
+the tribal house, but on the occasion of any festivity as many as two
+hundred will crowd in, all as by right entitled. What the atmosphere
+is like on those occasions may better be imagined than described. I
+invariably slept in native houses, and never found them other than very
+dark, very hot at night, and full of smoke, for which there is no outlet,
+chimneys being unknown luxuries with most of the tribes. Some of the
+Indians on the Apaporis contrive an arrangement that permits the smoke to
+disappear, and the Kuretu make what is almost a chimney-cowl by means of
+an overhanging portion of the topmost thatch above a small opening;[31]
+but in the ordinary Boro or Witoto house there is nothing to disperse
+the smoke from the wood fires that, it must be remembered, are never
+extinguished. These tribes have no means of making fire. It is therefore
+a matter of vital importance that it should never be permitted to die
+out. Did such an untoward accident occur the household would be fireless
+till live embers were obtained from some friendly neighbour.
+
+Fire-making is unknown to the tribes on the south of the Japura, but on
+the north of that river fire is obtained by friction in a groove.[32]
+I never saw it done, but was told that ants’ nests were often used
+for tinder. On one occasion I made a fire by firing cartridges into a
+mass of leaves and wood chips, having first extracted the bullets and
+replaced them with cotton wool. The leaves flamed up after fourteen
+rounds. Matches are sheer magic in the Indian’s eyes, and a box is a
+most valuable gift. He may blaze one, just to be certain that the white
+man has passed on some of his own magical powers along with the wonderful
+little box of sticks, but never more than one is sacrificed at a time.
+
+
+What with the heavy dews and the incessant rain the bush is always in a
+condition of reeking damp, so bush fires are impossible. Therefore, when
+they cannot make fire, the Indians must keep the family fire burning
+night and day, and its preservation is the very serious business of
+every member of the tribe. Not only do they depend on it for warmth and
+cooking, but the fitful glow of the smouldering fires is on ordinary
+occasions the only light in the Indian house. Torches of resinous wood
+are used at dances and such-like festivals only. When the tribesmen go
+into the bush they always carry fire over their shoulders. This is done
+by means of a strip of some resinous bark, about two feet long, which
+they hold in their hands. The bark smoulders slowly, and can at any time
+be blown into a flame.
+
+The fire is always arranged after a definite pattern. Three young trees
+are placed together on the ground endways, in the form of a triskeles.
+The fire is kindled in the centre, and once alight it will last for as
+long as a week at a time. All day when people pass, even the little
+children, they will give a kick to a log to keep the fire together, and
+during the night it is fed continually in the same fashion.
+
+The natives sleep with no more covering than they have worn in the
+daytime. The hammocks of the father, the mother, and the children are
+slung, as has been said, in a triangle, with the fire between them. As
+the fire dies down one or other will rise and push the wood more closely
+together, blow a little at the hot embers, and then return to rest, till
+about the hour before sunrise, when it is coldest. Then every one gets
+up, and when the fire has been blown into a blaze they wait for dawn.
+
+Dawn is the signal for all to repair to the river for the first bath of
+the day. The girls come back with big jars full of water on their heads,
+held in position by their uplifted hands. The women go to work in the
+plantations, the men may hunt and fish. As day advances into evening the
+women return again from the plantation, the mothers, naked and shining
+from the evening bath, with their children seated astride their left
+hips; while those not encumbered carry up the pine-apples, the plantains,
+and the manioc, packed in baskets that are slung from their foreheads.
+Those who have sought provision in the forest bring back lizards and
+snakes--it may be a frog, for nothing seems amiss for the hot-pot of the
+Indian. The hunters come in from the bush with a capybara, a curassow,
+or a monkey; the men who preferred the river bring fish. Soon there is a
+savoury smell from the cooking of cassava cakes, the boiling of meat, and
+the pungent odour of _yarakue_. There is not much talk, and none of the
+homely clatter of dishes, for leaves serve as plates and napkins, fingers
+for eating utensils. The naked women crouch on their heels about the
+fires; the men stretch languidly in their hammocks; and so the Indian day
+passes by imperceptible degrees again to night.
+
+So much for the human inhabitants of the tribal household. There are
+others of less pleasing character. Spiders are there, some of an
+extraordinary size, not forgetting the deadly tarantula. One day I placed
+my hand carelessly on one of the posts in an Indian house, and only just
+withdrew it in time, for it had been within an inch or two of a large
+_mygale_. Scorpions also lurk in crannies of the thatch, but they never
+bothered me in the least, and although the swelling was considerable in
+the one or two cases of bite I noted, there were no after-consequences.
+
+The Menimehe, whose houses are more open, make hives of hollow trees for
+bees to swarm in, and these are placed in their _maloka_, so that a store
+of honey and wax is always at hand.
+
+The smoke and darkness keep off the pium and mosquito, but outside the
+dwelling ants abound, though their value as scavengers does in a measure
+detract from their general undesirability; for it is thanks mainly to
+them that there are no bad smells in the vicinity of a Witoto home,
+as cleanliness is not a virtue of the Witoto. The daily rain, also,
+prevents any accumulation of filth, for everything of that description is
+continually washed away.
+
+Jiggers are found in Indian houses, though never in the bush. There need
+be no trouble with these tiresome creatures if prompt attention be paid
+to the part affected. It is a common practice among the Indians for
+the women to examine the men’s feet directly they come in, to see that
+they are all right, and if a jigger is detected to dig it out with a
+palm-spine, care being taken that a non-poisonous spine is selected.[33]
+A very much more serious injury is inflicted by the blood-sucking bat.
+Not only the forest but the dark and lofty roof of the native house
+will often harbour bats of several kinds, and occasionally some of the
+_Phyllostoma_. Vampires, however, are more frequently met with on the
+main river than on the Issa or Japura.[34] They undoubtedly attack
+sleepers, and the subsequent loss of blood may be serious, especially in
+the case of a child. The point made for is always the big toe, and the
+wound is so slight that the victim does not waken, or if awake is hardly
+conscious of the hurt. It is possible that the loss of blood induces a
+comatose state. I never actually saw a case, though I have talked to
+persons who had been bitten. But the vampire is rare in these districts,
+whereas other bats are common enough in the forest.
+
+As a general rule the Indians have no pets; but on one occasion, near a
+Boro settlement on the north of the Japura, I saw some children of the
+Menimehe tribes with tame monkeys. These were the only Indians I ever met
+who kept any pet. Animal food is too scarce in the forest. Bates asserts
+that “the Indians are very fond of them [monkeys] as pets, and the women
+often suckle them when young at their breasts.”[35] I never heard of such
+a case as this, but certainly the monkey must be caught extremely young
+to be tamable at all; and, I repeat, food is scarce.
+
+
+CHAPTER IV
+
+    Classification of Indian races--Difficulties of
+    tabulating--Language-groups and tribes--Names--Sources
+    of confusion--Witoto and Boro--Localities of
+    language-groups--Population of districts--Intertribal
+    strife--Tribal enemies and friends--Reasons
+    for endless warfare--Intertribal trade and
+    communications--Relationships--Tribal organisation--The
+    chief, his position and powers--Law--Tribal
+    council--Tobacco-drinking--Marriage system and
+    regulations--Position of women--Slaves.
+
+
+Given equal conditions, similar environment, the human race, wheresoever
+on this globe its lot be cast, shows a marked sameness in its traits and
+habits. This need not, in fact does not, argue a unity of origin. There
+is no reason why a custom may not be indigenous in many parts of the
+world, among peoples labouring under like conditions; and if the same
+customs be evolved the same cultural types will also be found to exist.
+Thus it is easy to find even striking resemblances between these Indians
+of Amazonia and such distant peoples as the Arunta of Central Australia,
+the cannibal tribes of pagan Malay, or, to go even wider afield, the
+Basque people of Southern Europe. This does not for a moment suggest
+that such common beliefs, customs, or cultures have been introduced from
+one to the other, or even borrowed from a common stock. The human mind
+seems to work broadly on certain definite planes of thought, and there is
+less mental difference between the low-type illiterate of a London slum
+and the denizens of a tropical forest than there is between him and the
+learned occupant of a University Chair, though both be nominally of the
+same nation.
+
+Attempts are continually made to evolve some working classification of
+the South American Indians. The main difficulty, the sparsity of common
+factors, despite general similarity, is due in a measure at least to the
+absence of any standard, any fixity of language, or any confederation
+between the units of these races. The only rule is that there is no
+rule. What was a common word yesterday is possibly forgotten to-day;
+the custom shared a generation ago may vary now past recognition,
+and to-morrow will see further changes that increase the diversity.
+These people are in a state of flux. Disintegration is the determinant
+influence; nothing makes for amalgamation. A section of a tribe isolated
+from the remainder, surrounded by neighbours whose speech, whose physical
+features, are entirely different, may develop into a distinct tribe with
+dialect and customs as variant from the parent tribe as from those in
+its new vicinage.[36] But extinction rather than such increase is the
+more probable fate. These tribes are hardly embryos of nations to be, nor
+can they be entirely classified as the decadent remnants of perishing
+races. Rather did it seem to me that, despite the awful handicap of their
+environment, they were gradually evolving a higher culture. Their origin
+is a problem of no small interest, but one on which recorded history
+throws exceedingly little light. Whether they be the autochthonous
+sons of American soil, or the stranded vanguard of successive waves
+of Mongoloid immigrants pushed southwards to be swallowed up in the
+Amazonian forests,[37] or--which is most probable--a combination of
+both, can only be in part determined by the study of their physical
+traits, their habits, customs, speech, morals, and beliefs. It is for the
+comparative anthropologist, the comparative folklorist, to find an answer.
+
+As an instance of the difficulty of classification, and the confusion
+that has resulted in much of the literature on this subject, the
+statements given in the Contemporary Science Series volume, _The
+Races of Man_, may be examined. Deniker orders the Indians in four
+divisions--Carib, Arawak, Miranha, and Pano; and classifies the Witoto
+in the first, taking the determinative ethnic distinction to be “their
+acquaintance with the hammock, a plaited (not woven) texture, and
+a particular kind of cassava-squeezer.”[38] If this is correct and
+sufficient, all the Indians of the middle Issa-Japura regions are
+Caribs. But I do not think the arguments are conclusive. For example,
+“the practice of the ‘couvade’” is given as racially distinctive of
+the Carib.[39] But couvade is by no means peculiar to the Carib. In
+this region it is a common custom of the Witoto and the Boro, who are
+linguistically and physically diverse.[40] Then, as regards the hammock,
+it has been pointed out by Sir Everard im Thurn, who holds that the
+Carib did not migrate to British Guiana from the interior but from
+the islands,[41] that the Caribs of Guiana, the “stranger tribes,” as
+he calls them, that is, tribes who have migrated thither, “make their
+hammocks of cotton,” while the native tribes use palm-fibre.[42] None
+of the Issa-Japura tribes make use of cotton yam for their hammocks; it
+is, in fact, almost unknown to them, and what little they may possess is
+presumably obtained by barter, for to the best of my knowledge they do
+not prepare it, or know how to prepare it; palm-fibre only is used by
+them. The explanation probably is that Deniker apparently confuses the
+Karahone and the Witoto, as he speaks of “the _Uitotos_ or _Carijonas_,”
+as though they were the same, instead of a totally distinct group of
+tribes. He also gives Crevaux as his authority, when he states that
+the Witoto--according to him a Carib group--“live side by side with
+the Miranhas,” Miranha being differentiated as a distinct branch. But
+Dr. Crevaux speaks of “_Ouitotos_ ou _Miranhas_,”[43] and remarks that
+“Les Miranhas du Yapurá sont appelés par leurs voisins ‘Ouitotos.’”[44]
+It would seem, then, that the French traveller considered that the
+Witoto language-group belongs to the same racial division as the Miranha
+language-group, though, as Dr. Koch-Grünberg remarks, the languages of
+these groups “ne présentent aucun signe de parenté entre elles.”[45] In
+fact, he is of the opinion that “on serait sans doubte plus près de la
+vérité si on rattachait les différents dialectes parlés dans la région
+des Ouitotos à un groupe linguistique nouveau.” This he designates the
+_groupe Ouitoto_.[46] Miranha or Miranya is the name given to the Boro by
+the tribes on the north, and is the lingoa-geral name for the Boro and
+other groups. The word means a wanderer, a gratuitous distinction where
+all tribes have nomadic tendencies, and this may be the reason why it has
+apparently been applied to several groups.
+
+It is not surprising that there should be confusion over any attempted
+classification of these peoples, for not only are there many
+language-groups, each with numerous tribes, but in addition to this a
+group or a tribe will have not one distinct name by which it may be known
+and classed, but a number of names, so that inevitably the writer without
+personal knowledge of a group will be easily misled in dealing with it
+and its divisions.
+
+So far as the Indians are concerned no language-group and no tribe use
+the esoteric name. They talk simply of “our speech” or “our own people,”
+and they are named, and frequently named differently, by the surrounding
+tribes. The Boro, for example, are known as Boro to the tribes from the
+west and south, as Miranya to some of those of the east and the north;
+the same tribe would therefore be Boro to the Witoto and Miranya to
+the Yuri or the Menimehe. The Dukaiya are called Okaina--which means
+“capybara”--by the Witoto, though they are also called Dukaiya, which is
+the extra-tribal name of their most powerful tribe or section. Muenane
+and Nonuya are also Witoto names.[47] Witoto is the esoteric name for
+mosquito, but the Witoto tribes were thus named by the tribes on the
+south either because the name has the same meaning in their language or
+because they had learned the Witoto word for this insect. In this case
+the esoteric name is the same as the exoteric. Crevaux gives _ouitoto_
+as the word for “enemy” among the Karahone and the Roucouyennes,[48] and
+Martius has a similar word for that meaning among other tribes.[49] All
+this adds to the difficulties of nomenclature. It must be understood,
+also, that if you ask a Witoto, “_O Memeka bu?_” (What tribe do you
+belong to?) he would not tell you, but he would answer in the affirmative
+if the question be put as to whether he belongs to a certain tribe or to
+a certain group, though he will not himself use the tribal or group name.
+This applies to all Indians. Moreover, there is the very thorny question
+of spelling. I have throughout adopted the rule laid down by the Royal
+Geographical Society, and spelt words with English consonants--that is to
+say, with their equivalent values--and Italian vowels. This is the most
+generally accepted method, but even with this peculiarities of ear must
+result in sundry variants.
+
+Another source of confusion in writing about these peoples has been the
+indiscriminate use of the words _nation_, _tribe_, _clan_, _family_.
+To avoid possibility of mistake it may be explained at the outset that
+_tribe_ is here used in the sense ruled by the new editions of both the
+Anthropological and the Folklore Handbooks, that is to say, “a group with
+a common language, code of law, some rude form of government, and capable
+of uniting for common action.” These tribes I would further classify
+into language-groups, such as the Witoto language-group, the Boro
+language-group, and so forth. The group name--Witoto, Boro, Andoke, or
+whatever the case may be--applies to all the tribes of these groups, in
+addition to their individual names. The variations between these tribes
+of a group are mainly dialectic and local, but the variance between
+tribes of alien groups is more than a difference of speech and custom.
+The Boro, for instance, are distinctly Chinese in appearance; their
+neighbours the Witoto resemble rather the Dyaks of Borneo.
+
+
+The two groups with which we are mainly concerned, and the only two with
+which it is possible in this book to deal seriously in detail, are the
+Witoto and the Boro. They occupy roughly the lands between the Japura and
+the Igara Parana, and the Igara Parana and the Issa, though there are no
+actual boundaries. The Boro country lies north-west of the Futahi Hills,
+in the watersheds of the Pupuna and the Kahuanari rivers. The Boro also
+occupy a stretch of country north of the Japura, where that river bends
+south and east below its junction with the Wama, and including part of
+the Ira watershed. On this, the north-east border, they meet the country
+of the Menimehe, while on the north they touch the Karahone country.
+The Resigero and Nonuya districts lie between them and the Muenane. The
+country by the Futahi Hills west of the Igara Parana, that is to say,
+the basins of the Esperanza and Sabalo Yacu rivers, is very sparsely
+populated, and the Dukaiya country on the west of the Nonuya practically
+separates the Witoto and the Boro on the north-west. From the mouth of an
+unnamed tributary of the Japura--below the Tauauru and on the opposite
+bank--the Andoke country runs south of the Japura to the junction of the
+Kuemani, where the Japura becomes the boundary between the Andoke and
+the Witoto. On the west the Orahone country lies on the farther side of
+the Issa from the Witoto, the Issa being the dividing line from the west
+and south-west of the Witoto group. The name Orahone is given to all
+tribes indiscriminately if they elongate the lobes of their ears,[50] so
+the Orahone, or Long-ears, may possibly be many distinct tribes. Thus,
+one writer notes of the Napo tribes, the “Cotos” and the “Tutapishcos,”
+that they “are sometimes called ‘Orejones,’” but are not so known
+locally.[51] The Orahone are of a low type. To the east of the Menimehe
+and the Boro districts the Kuretu language-group of tribes occupy the
+country north and south of the Japura. To the north the Opaina, Makuna,
+and Tukana groups interpose between them and the Bara and Maku groups.
+The Maku are found from the Rio Negro to the Apaporis, and again above
+the Bara group north of the Arara Hills about the Kaouri river, a
+tributary of the Uaupes. Though the Bara group live to the north of the
+Apaporis they have nothing in common with the Uaupes Indians. Both their
+language and customs resemble more those of the Japura, and they have no
+intercourse with the surrounding tribes. They are a dark-skinned people,
+of a low type, and consequently looked down on by their lighter-skinned
+neighbours. The Maku, also of a low type and dark, are a very nomadic
+group; in fact all these peoples are wanderers, and the districts here
+given for their localities must be taken as merely approximate. That
+they were there when I was in the country is no guarantee that they will
+be found there now, or a few years hence. The locality of a tribe, or a
+language-group, is mainly dependent on the locality of its neighbours,
+especially of any powerful or warlike body. The tribes of the upper
+Issa districts are semi-civilised Colombian, those of the lower waters
+semi-civilised Brazilian Indians. Only in the middle district have the
+tribes been free, until recently, from the influence of the white man.
+
+It is almost impossible to give the populations of these districts even
+in round figures. My own estimate for the nine language-groups of the
+Issa-Japura region, based roughly on the number of houses and the extent
+of country, is as follows: but, I repeat, these figures must be taken as
+very approximate, and are probably overestimated in some cases:--
+
+    Witoto group of tribes    15,000
+    Boro group                15,000
+    Dukaiya or Okaina group    2,000
+    Muenane group              2,000
+    Nonuya group               1,000
+    Resigero group             1,000
+    Andoke group              10,000
+    Menimehe group            15,000
+    Karahone group            25,000
+
+making a total of eighty-six thousand, or well under a hundred thousand.
+Koch-Grünberg estimates the Witoto-language group as comprising at
+least twenty thousand souls,[52] and a Peruvian official estimate gives
+thirty thousand as the supposed total, reduced within the last decade
+to some ten thousand.[53] It is practically impossible to obtain any
+reliable figure. Koch-Grünberg gives six thousand as his estimate of the
+number of the Miranha. I am inclined to think in this case the number is
+insufficient, and should place it at from fifteen to twenty thousand.
+
+All the tribes north of the Japura have a mortal antipathy to all those
+south of that river, and think they are savages. The light-coloured
+tribes, as I have mentioned, invariably despise the darker races, and
+consider them of a lower grade than themselves, as, it will be seen,
+is actually the case. The Maku, a tribe of small dark people, are
+universally regarded and treated as slaves; the Witoto, smaller and
+darker than the adjacent Boro, are physically inferior, and far less
+particular in their ways and in the observance of tribal customs. The
+Andoke, sometimes called the white Indians on account of their fairer
+skins,[54] are the tyrants and bullies of all their neighbours; and it
+has been suggested that the warlike Awashiri, who are the terror of the
+Napo Piohe and Orahone tribes, are nomad Andoke or Miranha. Certainly
+both these people wander far from their usual districts. So feared are
+the Andoke that Boro carriers will refuse to go into the bush in the
+Andoke country.
+
+Wallace credits the Kuretu with peaceable habits,[55] but for the most
+part all these peoples live in a constant state of internecine strife.
+Some friendship, or perhaps--as tribes never make friendships outside
+their own language area--it would be more correct to call it intertribal
+commerce, takes place between certain of these groups; and a mutual
+hatred of one group will occasionally form a vague tie between others.
+For instance, the Boro, Resigero, and Okaina may not love each other,
+but they agree in their detestation of the Witoto. The Okaina and the
+Andoke are practically at ceaseless war with all their neighbours, but
+the Andoke have some traffic with the Muenane and with the wandering
+Karahone, who serve to link up the tribes of the north with those of the
+south of the Japura, though they are separate from all other tribes. The
+Boro on the left bank of the Japura, where they migrated into territory
+trenching on that of the Menimehe, are on fairly amicable terms with the
+latter, and I have even seen a Boro man with the Menimehe tribal mark,
+though _menimehe_ means “pig” in Boro. Possibly he had married a Menimehe
+woman. The Boro and Resigero also intermarry--at least cases of such
+marriages are known. The Tukana and Bara tribes on the Tikie will not
+marry into any other tribe, except the Maku, who will intermarry with any.
+
+This state of endless warfare is based not on avarice but on fear. They
+fight because they are afraid of each other, and see no protection but
+in the extermination of their neighbours. Every ill that befalls a man
+they set down to the evil intent of an enemy. Death, from whatsoever
+cause, is invariably considered to be murder, and as murder it has to
+be revenged on some suspected person or persons. Hence it follows that
+blood-feuds innumerable are carried on relentlessly. Any and every excuse
+serves for a fight. If a thunderstorm should wreck a house it is more
+than sufficient reason for that household to attack another in reprisal
+of the damage done; for it is to them quite evident that the catastrophe
+was caused by the magic of some malicious dweller in the vicinity.
+
+This state of abject apprehension influences the tribesmen in other ways.
+It will be found as root cause of many a tribal custom, and must not be
+forgotten in judging of native character and morals.
+
+One result is that there are no recognised native trade routes or trade
+centres, to the best of my knowledge, nor are there any markets where
+the tribes of any language-group may meet and exchange their wares.
+Even local markets are non-existent. Trade is individual. Articles of
+commerce are handed from the maker to the purchaser, from the owner to
+the buyer, from tribe to tribe. If a tribe be renowned for pottery, as
+are the Menimehe, such pottery could only be obtained from a Menimehe,
+or bought “second-hand” from tribes living in the neighbourhood of the
+pottery workers, and from them traded to others, third, fourth, and even
+fifth hand. That articles are bought and passed on indefinitely in this
+fashion is proved by the fact that I found a Price’s candle-box among
+the Boro tribes on the Pama river, who had had no relations with the
+white man before my advent. After all, the wants of the Indian are few
+and simple, and he can supply most of them for himself, or at least a
+community can furnish its own; extra-tribal goods are distinctly luxuries.
+
+It would be futile to attempt to give any localities for the many tribes
+into which the language-groups are divided; for if the group as a whole
+is to be regarded as a roving quantity, the tribes and their component
+units are far more uncertain, in view of their migratory habits. I have
+therefore not done more than make lists of the tribes met with in the
+middle Issa-Japura districts, without reference to the exact spot they
+might have temporarily inhabited when I met them.[56] These lists, which
+do not pretend to be exhaustive, contain the names of 136 Witoto tribes,
+41 Boro, and 15 Okaina.
+
+The “Maynanes,” “Recegaros,” and “Yabuyanos” mentioned by Hardenburg[57]
+as Witoto “sub-tribes, or _naciones_,” are not Witoto at all, and
+_nacione_ is not a recognised name for these divisions, but merely
+adopted from the loose jargon of the rubber-gatherer. Nor is the same
+writer correct in considering the Witoto to be “the largest and most
+important tribe,” as the Karahone outnumber them considerably, and many
+other language-groups are decidedly more important in both the social and
+the scientific scale.
+
+There is nothing to show any affinity among the tribes, and there is none
+of the intricate relationship of the Australian systems. The social
+unit of the tribes is the undivided household community of some sixty
+to two hundred individuals, with a common house, under the rule of a
+chief. Some tribes have but one central tribal house, others may have
+two or three; but each house would have its absolutely independent chief
+and would be exogamous. There is no head chief or central organisation
+to bind these households in the tribe, any more than there is to unite
+the tribes of any language-group. Intertribal fighting is continual, and
+only some great common danger, some threatened calamity of the gravest,
+might serve to combine the tribes in a supreme effort for self-defence. A
+man with an unusual magnetic influence might so dominate his neighbours
+as to weld tribe and tribe for extra-tribal struggle. At the most some
+half-dozen tribes under spur of most hazardous peril, urged to superhuman
+effort by imminent torture and death, ever unite even for war. On the
+rare occasions when this may be done the exceptional individual would be
+but the greatest among equals, not a recognised commander-in-chief.[58]
+I only know of one instance in point. Nonugamue, a Nonuya, was paramount
+chief of the entire Nonuya-speaking area, a large tract of country that
+lies between the Boro and the Okaina, and south of the Muenane and
+Resigero tribes. It was quite a recent usurpation on the part of this
+chief, and I never discovered any other case of one man influencing so
+large a district. It is true that a Boro chief named Katenere did get
+together a band of men numbering from thirty to forty to make war to the
+death against the white rubber-gatherers; but in this instance, though
+he was of notable personality, he could not combine the tribes. His band
+were all Boro, simply men of his own type, the boldest spirits of various
+tribes. A Resigero chief also made himself notorious by collecting a
+body of warriors to make war not on the white men but on those Indians
+who gave way to the pressure put upon them by these whites and agreed
+to work rubber. He warred, therefore, against his own tribe, against
+members of his own language-group, and he did so lest worse should befall
+his people. He knew of no other remedy than to make the punishment for
+yielding equal to that for refusing to yield. Nothing less in his opinion
+could save the tribes. Once I came upon a habitation with the dead bodies
+of thirty-eight men, women and children--for he spared none who had any
+dealing with the whites. They had been slain, and the house partly burnt,
+by this chief. In consequence of these drastic measures he was feared
+by whites and Indians alike, and both when walking through the bush
+within possible distance of his district would start at a sound every few
+minutes and imagine it was this redoubtable warrior on the warpath again.
+
+But these cases were abnormal, due to the presence of new and evil
+factors that threatened the tribes with a fate to which death itself
+were preferable. It was the instance of the approach of an unparalleled
+danger, the signal for supreme exertion, and for unexampled negligence of
+customs that are stronger than all law.
+
+In normal conditions the chief has no influence beyond his own household,
+and the extent of that influence would depend largely on the man’s
+personal character, and also the character of the rival authority,
+the tribal medicine-man. Whichever happens to possess the strongest
+personality would be the dominant spirit of their little community.
+Other things being equal, the odds are decidedly in favour of the
+medicine-man--death comes speedily to those who rebel against the
+magic-worker--and a weak chief would be entirely subservient to him.
+
+The chief has a special portion of the house assigned to him and his
+family, a larger share than would be allotted to any other man; but this
+privilege is necessary, as all prisoners belong to the chief, and he
+takes all the unattached women. As he thus has more women to work for
+him the big tribal plantations become his. He leads the tribe in war,
+presides over the tobacco palaver, and has the last word in the tribal
+councils. The chief has no special name, for there are no titles of
+courtesy, except among the Andoke, who call a chief _Posoa_. The ordinary
+warrior will talk to the chief with no outward sign of respect; still,
+the chief’s word carries a great amount of weight.
+
+On the death of a chief his successor must be elected by the tribe, and
+though the son as a rule is appointed, he does not become chief as a
+matter of course, but only after tribal selection. If due cause should
+be shown against him, and the tribe be of accord on the point when
+the matter has been discussed in tobacco palaver, another man would
+be chosen, and the honour conferred on him in accordance with tribal
+decision independent of relationship.
+
+There is but one law among the tribes, and that law is paramount and
+infrangible--_Pia_, it is our custom. Custom, more binding than any
+legal code, shepherds the Indian from the cradle to the grave. And _Pia_
+is not only the law, it is the reason for all things. So it has always
+been. Neither the chief, the medicine-man, nor the tribal council makes
+the law, though it is the business of all three to enforce it, and it
+can only be set aside, on the rare instances when such liberty would be
+tolerated, with the consent of the tribesmen given in formal conclave.
+
+The tribal council consists of all the males of the household who have
+attained to man’s estate, under the presidency of the chief; and the
+Indian parliament, the Indian court of law, is the tobacco palaver.
+
+This tobacco drinking--the _chupe del tabac_, as Robuchon calls it--of
+which so much has been written, must not be confounded with the _kawana_
+drinking at a dance. When word has gone round that it is desired to hold
+a council the warriors and elders of the tribe foregather, and squat
+on their haunches round the tobacco-pot, which is placed by one of the
+assembly on the ground in their midst. One of the group will start the
+subject to be brought under discussion, usually the Indian whose advice
+or suggestion has influenced the chief to call the council, or the one
+who has a cause to lay before the tribe. It may be a matter of war,
+some question of hunting, or the wrong-doing of a fellow-tribesman
+that has to be discussed and judged. The speaker is doubtless under the
+influence of coca, and will talk on and on. He may take hours to deliver
+his oration, given with endless repetitions, while those who agree with
+him will grunt “Heu!” to show approval from time to time throughout the
+performance. When his final word is uttered the spokesman will reach
+forward and take the pot, dip in a short stick, and wipe some of the
+black liquid on his tongue. He will then pass the pot round to his
+companions, and every man who has agreed with him will take tobacco,
+whilst any one who passes the pot by--to signify he disagrees--will
+be bound to give his reason for being of an opposite opinion. This is
+continued until all in disagreement with the original speaker have put
+forth their views. The question at issue is then settled by whichever
+side may have the majority, the chief having the casting vote. There is
+no appeal against such settlement. It is absolutely final.
+
+The passing of tobacco is also used as a binding promise on every verbal
+agreement between individuals. In this case they will dip a small stick
+like a match into the liquid and pass it over the tongue, or put their
+forefingers into each other’s tobacco pots, made from the hollowed
+husks of nuts, and which are usually carried suspended round the neck
+by a string. The tobacco pot comes into requisition again at a friendly
+meeting, and serves to emphasise the binding nature of the friendship.
+
+Though these Indians now all hold to patrilineal and patrilocal law,
+there are traces that point to possibly original matrilocal customs
+among them, such as still obtain among some of the tribes of British
+Guiana.[59] We find survivals of marriage by capture; but in no tribe
+are the girls sold, nor have they any dowry. The husband, once he has
+obtained his wife, is entirely responsible for her maintenance.
+
+Both endogamy and exogamy, with a preference for the former, exist so
+far as the tribe is concerned; but with regard to the social unit of the
+tribe, the community that shares a common house of assembly, the rule
+of exogamy is very strictly enforced. The reason for this is that all
+within a household are held to be kin. The one exception for this law
+among the tribes is also the one exception to their patrilocal customs.
+In the possible instance of a chief having a daughter but no sons to
+succeed him, the daughter may marry a man of the same household, who
+would probably be an adopted son. Any other exception would be most
+unusual, and could only be attempted with the permission of the tribe
+after thorough consideration of the case in tribal council. Otherwise
+any son and any daughter of a household, no matter though they be of
+different parentage, are barred from marriage by the blood-tie; yet what
+we should look upon as an equally close relationship on the spindle side
+is regarded by the Indians as no such thing, only the most intimate
+relations of the mother ever being so much as counted kin.[60] A man may
+marry into the household from which his mother came without transgressing
+any recognised law, because the mother, having left her original
+household to join that of her husband, has become one of his household
+on marriage, and has ceased to belong to her own. In all probability
+she will have had little or no intercourse with it. Marriage between
+two individuals does not establish any admitted affinity between their
+respective households. It follows that the children of two sisters might
+possibly intermarry, but the children of two brothers never could.
+
+Woman’s lot among all the tribes of the Amazon is commonly regarded as
+a hard one. It is true that the steady grind of the day’s work falls to
+her share. Men work intermittently, but the work that falls to the women
+to do is incessant. In addition to the natural functions of the mother
+and the housekeeper, the duties of an Indian wife include the bulk of all
+agricultural labour. The husband’s energies cease when he has cleared and
+broken up a patch of land, reclaimed a field from the surrounding forest,
+an arduous task that needs more physical strength than women possess. The
+ground once freed of trees and undergrowth, and roughly dug, the husband
+considers that his share in the toil is at an end, and he will lie in
+his hammock, eat, and sleep, while his wife, the baby slung behind her,
+tills the field and harvests the crops. It is for her to plant the slips
+and in due season dig the manioc. She must attend to the growing plant,
+and eventually prepare the roots for use. But it would be wrong to infer
+that the Indian husband is a lazy slave-driver. If his work is occasional
+it must be confessed that he does undertake all the heaviest labour.
+Each sex has its own pursuits. The man is the hunter and the warrior,
+the woman is helpmate, agriculturalist, and staple food-provider. The
+differentiation of work is very clear, bounded by the law of _Pia_--it
+is our custom, which is like unto that of the Medes and Persians. A man
+will on no account plant manioc, but he has a reason for this rule: he
+says that women, being able to produce children, can produce manioc;
+production is her province, not his.
+
+The subjection of wives, if subjection it can be called, is due to
+economic conditions. The woman holds a recognised, if subordinate,
+position. She rarely quarrels with her husband, though she is certainly
+not afraid of contradicting him when necessary; in fact I have met such
+anomalies as hen-pecked husbands.
+
+There are, as will be seen in detail subsequently, certain definite
+restrictions imposed upon the women of the tribes, food they may not
+eat, ceremonials they may not share, sacred objects they may not even
+see. Coca and tobacco they may neither prepare not partake of, a law as
+rigid as that which debars men from planting or preparing manioc. In some
+tribes women are not permitted to see or be seen by strangers, but, as a
+rule, the married women are remarkably free in this matter, though young
+girls are more restricted.
+
+Taken as a whole, women are well treated among all the tribes. A woman is
+so far respected that her husband will consult her, but there is nothing
+approaching to chivalry on the part of the man. The Indian does not
+idealise. He weaves no romantic dreams about the Sex, but looks upon a
+woman from the most material standpoint, pays her no small attentions,
+never thinks of saving her trouble or any exertion, and in no way
+attempts to lighten her lot in life. Yet everywhere, owing to conditions
+of existence, women’s influence is very great. The tribal reputation of
+a man rests largely in the hands of his wife; she can so easily leave
+him if badly treated, and once the forest is gained she is lost to him,
+and may without difficulty secure the protection of another tribe, or,
+should public opinion be strong enough to drive the guilty husband
+away, of another man in his household. The onus of her disappearance
+will lie heavy upon the husband who has forced her to such--in Indian
+opinion--extraordinary action. But cruelty on the part of a husband is
+rare, as rare as infidelity on the part of a wife. A man who ventured to
+ill-treat his wife would soon be the scorn of the tribe, for the other
+women would promptly make a song about him, and the ridicule to which he
+was exposed would be an effectual deterrent from further ill-doing in a
+country where adverse public opinion is more efficient than any police
+force in the prevention of recognised wrong.
+
+The right of women to personal possession appears to be allowed. At death
+her domestic implements are buried with her, and I have often wanted to
+buy some article of adornment from a woman, but when I asked the husband
+what he would like in exchange, have invariably been referred back again
+to his wife, and had to conduct the barter with her. Also, though the
+children belong absolutely to the father, it would be the mother and not
+the father who would negotiate the exchange of any ornament worn by a
+child.
+
+Finally we come to the last and lowest section of a tribe, the slaves.
+Slavery among the Indians themselves is little more than a name, for a
+slave belongs to the chief, and soon becomes identified with his family.
+Though slaves have frequently a chance to run away they seldom do so,
+for they are usually treated with kindness, and probably are nearly as
+well off in the house of their victors as in their own. Captives of both
+sexes under the age of seven years, or thereabouts, are kept as slaves
+by the conquering tribe; above that age they are destroyed, as they
+possess intelligence enough presumably to betray their new tribe to their
+old one. When a slave reaches man’s estate he is permitted to identify
+himself with the warriors as any other boy would be; and thereafter is
+looked upon as free; but the chief would consider that he had a lien of
+sorts on such a man, and this would be commuted by payment of perhaps
+half his shooting bag, probably until the time that he married. If the
+chief dies, the slaves become the property of the new chief, but a man,
+if already a warrior, would no longer feel himself bound to a new chief,
+except in so far as tribal discipline might enforce on all the warriors.
+A woman slave may be purchased from the chief by the gift of some small
+present to his wife. After this the girl is free.
+
+Maku slaves have little huts of their own in the forest, where they live
+apart, and are never in any way familiar with their masters. They are
+permitted to keep their own women. These slaves are generally despised.
+They act the part of the “proverbial cat,” and are held to blame when
+anything goes wrong. A medicine-man may accuse a Maku if a death takes
+place, or any crime is committed, and the wretched slave is then
+destroyed unhesitatingly. There are no Maku south of the Japura.
+
+
+CHAPTER V
+
+    Dress and ornament--Geographical and tribal
+    differentiations--Festal attire--Feather
+    ornaments--Hair-dressing--Combs--Dance
+    girdles--Beads--Necklaces--Bracelets--Leg
+    rattles--Ligatures--Ear-rings--Use of labret--Nose
+    pins--Scarification--Tattoo--Tribal marks--Painting.
+
+
+Judged by some of the pictures in books purporting to give accounts
+of the South American Indians, the photograph adjoining (Plate VIII.)
+would represent an Indian chieftain decked in his best to welcome the
+newly-arrived traveller, instead of what it is--merely a group of my
+escort and carriers tricked out in the rag, tag, and bobtail array they
+deemed due to my dignity and their own. Far different is the actual scene
+when the Indian homestead is approached and one meets these sons of the
+forest--be they Boro, Witoto, or others--in their native haunts and
+natural garb, unaffected by “civilised” influences. From the shadow of
+the interior will stalk the chief, accompanied by his escort of warriors,
+all naked, but for a strip of bark-cloth about the loins. Round the neck
+of the chief is a necklace of jaguar teeth, in his hand a broadsword of
+iron-wood; the men with him are destitute of feathers or ornaments, but
+each holds poised in his left hand a bunch of throwing javelins.
+
+It is regrettable that returning explorers[61] have deemed it a necessary
+concession to unscientific prejudice to illustrate the natives of the
+Amazons in clothing or drapery that is wholly foreign to their custom and
+to their thought. The hypocrisy was more common before the uncompromising
+days of photography, but the effect of the old woodcuts and engravings is
+to give an entirely wrong impression of the appearance of the Indian in
+his own haunts. Even so accurate an observer as Crevaux discounts much of
+the value of his illustration by clothing his figures in a manner that
+could only be possible within the Rubber Belt, or in the case of his
+personal servants. Since the introduction of photography, non-existent
+clothing has ceased to appear in pictures of the Amazonian tribes, but
+still much misconstruction has been occasioned by grouping sets of
+natives in such a fashion as to make it appear that they are ashamed of
+their nakedness. As a fact, they are totally unaware of it. Therefore
+it cannot be too strongly emphasised that the Indians of these tropical
+regions are no more alive to any idea of indecency in their lack of
+apparel than are the people of England conscious of immodesty in their
+conventional attire at a Lord Mayor’s banquet or a function of the Court.
+It is as impossible to comprehend the true psychology of the Amazonian
+from the pedestal of the prude as from the pulpit of the priest.
+Difficult as it may be for either to understand, it is none the less true
+that to some peoples dress appears to be more indelicate than nudity.[62]
+He who would see truly must divest the mind of inherited and instilled
+prejudices in favour of much that to the natives has no meaning or reason
+for existence. Moreover, he might do well to remember that clothes are
+not always worn from motives of decency. Then he will understand that the
+naked Indian in his forest is no more unchaste than is the statue of a
+Greek god in the galleries of the British Museum.
+
+
+It may be laid down as a generalisation for the regions under
+investigation that the women are wholly destitute of clothing, and the
+men wear little or nothing but what the Witoto call a _moh-hen_, that is,
+a strip of beaten bark-cloth carried from front to rear between the legs
+and tucked in at either end over a string or strap of bark-cloth bound
+about the waist. As the temperature varies hardly at all with the season
+of the year, there is no periodical deviation from this rule. Farther
+south the tribes make blankets, but here, though they were interested in
+mine, they have nothing of that description, and the native sleeps at
+night without covering, exactly as he, or she, walks abroad throughout
+the day.
+
+There is practically no scope for originality, no choice of costume.
+Even the chief is undistinguished from his tribesmen by the character
+of his attire, although as a rule he wears a necklace of tiger teeth,
+which is the outward evidence of his rank. His wife does not wear
+any special ornaments, but of necessity she possesses the greater
+number. The only member of the tribe who varies from his fellows is
+the medicine-man, and he will adopt any idea that appeals to him as an
+addition to the eccentricity of his appearance. One Andoke medicine-man,
+whom I photographed, was wearing a turban of bark-cloth dyed a brilliant
+scarlet; but his taste in this particular was purely individual, and
+denoted neither professional nor tribal distinction. The large bag shown
+in the adjoining illustration should be noted, for it was greatly admired
+by the tribe. It appeared to be made in the same way as the ligatures,
+with threads of red and undyed palm-fibre. It was not manufactured by the
+Andoke, but had been obtained by barter; however, it was of indigenous
+make, and probably came from the north of the Japura. Among the Orahone
+the medicine-men fashion for themselves vestments of tapir hide, the only
+instance in these parts of skins being utilised for clothing that came to
+my knowledge.
+
+The Amazonian boy is first provided with a breech-cloth when he is five
+years old. His earliest lesson is in its manufacture, for every Indian
+fashions his own clothing, is his own tailor and cloth manufacturer. He
+goes to the bush and selects a tree,[63] on which he marks a space 6 feet
+long by 9 inches in width, and strips from it both the outer and inner
+barks. He separates the two layers, cuts the strip of inner bark in two,
+and carries the pieces to the river, where the material is thoroughly
+soaked. Afterwards this is beaten with a small wooden mallet until it
+forms a yard length of bark-cloth 9 inches in width. Nothing further is
+needed, for this makes the breech-cloth, and it is sufficient to pass
+between the legs and tuck securely over the waist-band in front and
+behind. There is no variation from the type or method of manufacture,[64]
+and this simplest form of clothing is common to all tribes inhabiting the
+wide stretch of country between the rivers Issa and Japura.
+
+The breech-cloth is never discarded by the male Indian, nor, in the sight
+of man or woman, would he ever remove it. When bathing he wades into a
+sufficient depth before he interferes with its adjustment. Even when a
+man dies his breech-cloth is buried with him.
+
+
+South and west of the Issa, in the country of the Orahone, the men
+wear, like other Napo tribes, long shirts of bark-fibre, on which are
+traced circular designs painted in red, while north of the Japura the
+Karahone wear stiff stays of bark, like strait-waistcoats, above their
+breech-cloths. These garments are tightly plaited on to the body, and end
+in a plaited fringe. They must be cut off to permit of removal. The same
+uncomfortable costume extends northward from the Karahone country into
+that of the Umaua and the tribes of the Apaporis district.
+
+The Menimehe who, it will be remembered, occupy the left bank of the
+Japura to the south and east of the Karahone, wear a loin-cloth with an
+apron, which extends to the knees, of loose palm-fibre suspended over
+it. This apron is 18 inches long and 6 inches in width, and is taken
+off in the house. It is worn ceremonially, and always donned for war
+and for dances. The men of the Opaina, who succeed the Menimehe on the
+east between the Miriti and Apaporis Rivers, wear aprons after the same
+fashion as their neighbours. The women wear nothing.
+
+The Makuna, who dwell to the north of the Kuretu on the other side of
+the Apaporis, affect a small belt of beaten bark, from which depends in
+front a long apron of bast. The Kuretu group, who inhabit both sides of
+the Japura to the east of the Menimehe, improve upon the habit of their
+neighbours. Over the loin-cloth the men wear a bast kilt, or petticoat,
+which dangles as low as the ankles. When walking, this garment is tucked
+up between the legs, something after the manner of a Malay sarang. The
+loin-cloth is retained below.
+
+All the tribes on the right or south bank of the Japura follow the
+fashion of the Boro; the men wear only breech-cloths, the women go
+absolutely naked.
+
+Thus it will be observed that the fashion of dress falls into a definite
+geographical progression,[65] and there is no sudden change in passing
+from one neighbouring tribe to another, although the tribal distinctions
+are very marked.
+
+The natives wear no head-covering as a protection. In a heavy rain an
+Indian on the trail will tear down a palm-leaf and carry it over his head
+as we should an umbrella, and he will adopt the same rough-and-ready
+though effective means to shield himself from the sun.
+
+No gloves are worn nor coverings for the feet. Boots of any sort, in
+fact, would be impossible wear; even Europeans dispense with them.
+Still, it is not possible for the white man to go through the forest
+bare-footed. Personally, I used carpet slippers, which were washed every
+evening after the day’s trek, and dried during the night.[66]
+
+If for ordinary everyday life the attire of the Indian is of the
+slightest, on the occasion of a festival or a dance the most elaborate
+sartorial preparations have to be made. Wallace has enumerated no less
+than “twenty distinct articles forming the feather head-dress,” which is
+worn by the Menimehe and the Nonuya, as well as by the Uaupes Indians
+of whom he wrote.[67] Then there are the feather armlets--ruffles of
+bright-tinted plumage worn on the arm,[68]--wooden combs decorated
+with tufts of feathers, and curassow down for the women, anklets and
+strings of rattles hung round the legs, aprons of painted bark or belts
+of beads, earrings, and necklaces, and, supreme vanity, there are the
+elaborately-painted designs on the skin that are to the Indian belle what
+the latest Paris “creation” is to her civilised sister.
+
+According to Sir Everard im Thurn every tribe makes its own feather
+head-dress after a special colour scheme.[69] I did not find this to be
+the case with the Issa-Japura tribes. Instead of making them according
+to rule, rather do they make them according to luck. Whatever they can
+get in the way of gay plumage, feathers of the parrot, the macaw, or the
+toucan, especially the macaw, because its feathers are the longest, be
+the colour what it may, is employed indiscriminately. The effects are
+very brilliant, but there is nothing made in these districts of such
+elaborate description as the gorgeous feather-cloaks manufactured by the
+Napo Indians, which are veritable works of art. The Issa-Japura tribes
+content themselves with a coronet of the gayest breast-feathers, plumed
+with tufts of the long feathers from the tail, all tied together with
+fibre thread.[70] The Boro men on festive occasions also stick these long
+macaw feathers into their arm-ligatures. The chief’s head-dress is more
+lavish than those of his warriors. The only boy I ever saw wearing one
+was the young son of a chief. Women do not wear the feather head-dress,
+but they attach the white down of the curassow duck by means of some
+resinous substance--such as rubber latex, or the milky secretion of
+the cow-tree--for decorative purposes round their legs, between the
+ligatures. The result of this is to make the calves look enormous. The
+men do not decorate with down. The Indians are invariably most careful
+of their feather ornaments. At the end of a dance an old man, so
+Koch-Grünberg noted, will come round and knock the dust off the feathers
+with a long cane. I have myself observed Indians, when overheated by
+their violent exertions at a dance, take off their feather ornaments to
+preserve them from sweat. They will never part with them, as they are
+communal, not personal, possessions, and I found they objected extremely
+to any attempt I made to photograph them when wearing their dancing
+feathers.
+
+
+Combs for festive occasions are made of palm wood, with spines of the
+Bacába palm[71] for teeth, fixed in with pitch, and are ornamented
+with feathers. These tribes do not bind up their hair with _coroá_
+string as do some of the Uaupes Indians.[72] As may be judged from the
+illustrations, hair-dressing fashions are not very varied. They range for
+the men from quite short, as among the Muenane, to the long hair fancied
+by some of the Boro. The majority wear their hair slightly shorter
+than the women’s, as a rule divided down the middle, but occasionally
+cut straight across the forehead in a shock fringe, reminiscent of the
+coster’s. The only variation among the women is a band, a strip of beaten
+bark-cloth, occasionally seen among the Resigero (see Plate XII.).[73]
+The Makuna wear their hair in pigtails. The Karahone women keep their
+hair cropped short. In the Boro comb of the illustration the black spines
+are set between two pieces of cane, bound over with fibre, and finished
+with basket-work of narrow cane strips, light and dark, plaited into a
+regular pattern. The spines are 3¼ inches long, and project to within a
+quarter of an inch of the ends for about 1⅜ inch on either side of the
+basket-work back. This is 3¾ inches long and about half an inch thick.
+The spines are neatly pointed at either end, and the whole resembles
+very nearly--but for the uncommon effect of the basket-work--a European
+comb of rather large and coarse make.
+
+The Andoke comb is also made with two pieces of cane, slightly decorated
+with chevron incisions. It is a quarter of an inch shorter than the Boro
+comb, and has spines on one side only. These are set in pitchy matter
+between the cane, and project seven-eighths of an inch. From the hardened
+centre at one end depends a short tuft of fibre string, to which feathers
+may be attached, and a longer string from the other end is fastened to
+half a nutshell cut as a cup, very similar to the tobacco pot, and made
+from the same kind of nut. This is 2⅛ inches long by 1⅛ deep in the
+centre, and 1½ across. It is black and highly polished. This small cup is
+used to hold the latex employed for depilatory purposes.
+
+
+The Witoto comb is of much rougher construction, with a thicker back. As
+with the Boro, the spines are set right through, but instead of a section
+of cane, two sticks, round bits of bamboo or reed are employed, and the
+whole coated with pitch and tied with fibre string. The length of the
+spines is a quarter of an inch longer than in the Boro comb, but owing to
+the more clumsy back they project a quarter of an inch less.
+
+
+Having laid down the rough generalisation that all the women of these
+tribes wear nothing, one has to begin the list of various exceptions
+that go to prove this rule. It is true that they are nude to the extent
+of wearing no garment of any description, but though naked they do not
+appear to be so; and it is a qualified nakedness after all, qualified
+with a variety of ornament, and, above all, of paint.
+
+The Indian woman’s ideas on the subject of clothing are well illustrated
+by the behaviour of those women who were of my own party. I gave them
+djibbehs, but, unless I happened to be present and they feared my
+anger, they never would wear them. For this attitude they advanced five
+excellent reasons. If the sun shone the bright light would damage the
+garment by causing the colour to fade.[74] If it rained the djibbeh would
+get wet. If they were out in the bush the thorns caught and tore the
+material. If they were dancing the useless encumbrance of a dress would
+hide all their carefully-executed adornments of paint. If they were in
+the house a covering of any sort would be merely ridiculous. There were
+obviously, then, few or no opportunities left to wear their new, but
+cumbersome and useless, finery. Not that the Indian man or woman has no
+desire for finery, quite the contrary, their ornaments are more important
+than their dress, in fact their ornaments are their dress.
+
+The women of the Issa-Japura tribes wear a broad girdle for a dance.[75]
+It is worn on no other occasions, and removed immediately the dance is at
+an end. These dancing girdles are made by the women of seeds or Brummagem
+beads if such can be had. These are strung in about two-foot lengths,
+and so arranged that when two or three dozen strings are fastened into
+a broad flat band the varying colours make a bold and definite design.
+Like all these Indian ornaments, they evince a fine artistic sense of
+colouring and pattern. Beads are passed inwards from the Rubber Belt
+from tribe to tribe. On account of the isolation of these peoples, they
+cannot aspire to have fashions direct from Birmingham, and novel patterns
+hardly seem to occur to them. Designs must be symmetrical, and they are
+quite content to copy the old-established ones. The colours vary, but
+dark beads are the most sought after, dark blue being more favoured than
+red. Black and white ones are the most prized, but red and white is the
+combination usually seen. Any woman may possess a girdle, and it is
+an individual, not a tribal, possession, the reverse of the custom as
+regards the men’s feather head-dresses. These girdles are exceedingly
+handsome and wonderfully well constructed.
+
+Beads are especially treasured by the Karahone women, and they will wear
+chain upon chain, amounting in the aggregate to a considerable weight.
+The number worn by a Boro woman may be judged from the illustration (p.
+154), where the white appendage round the woman’s neck is made simply by
+stringing a few pounds of white beads together. Both men and women wear
+necklaces. Besides those made only of beads, they are made of tiger--that
+is to say jaguar--teeth, and pig, tapir, marmoset, and cat provide
+ivories that may be strung on _curána_ thread, besides the necklace of
+accomplished vengeance, the string of human teeth. With the exception of
+the latter, the teeth are bored through the fang, and threaded at regular
+intervals, interspersed with beads, bone, or Brummagem, tiny discs of
+bone or shell, or brightly-coloured seeds. The pendants on the necklaces
+seen in the illustrations are mostly coins, depreciated Chilian dollars
+as a rule.[76] Those shown in the various photographs were either given
+to the wearers by me or had filtered through from the Rubber Belt; a few
+may have reached these primitive folk through the medium of intertribal
+barter. In any case, they are always most rare and cherished possessions.
+The pendants generally worn are thin, flat, triangular pieces of beaten
+metal, obtained either from coins or old brass cartridge cases. The
+rarity of metal in these parts is marked by the small quantity allowed
+for any one ornament, which is invariably of extreme thinness, and hardly
+more than a featherweight. They are not grooved, incised, or beaten into
+any design, but have merely a smoothed surface. The edge is rounded, not
+sharp. They are hung by a small beaded fibre string to the necklet or
+more generally to the ear-plug.
+
+
+The necklaces are matters of importance, for they disclose the status
+of the wearers. The skill of a warrior as a hunter, his bravery in war,
+is proved by the character of the teeth that circle his neck: the more
+successful the hunter the finer the teeth he wears, the more numerous
+the adornments of his family. Most to be envied in Indian opinion is a
+string of human teeth, in that it is the witness of revenge; the teeth
+are from the head of an enemy, for a man wears only the teeth of foes or
+game that he himself has killed, and at his death they will be buried
+with him, unless he fall at the hands of a foe, and his string of teeth
+go to swell the spoils of the victor. Human teeth are never bored, they
+are carefully bound into the necklace with fine fibre string. The very
+insignificance of the small, worn, discoloured teeth is in itself a
+sinister characteristic, presupposes an object other than ornamental,
+adds a horrible touch to the bizarre effect of all this barbaric bravery.
+
+Necklaces of human teeth are frequently finished, if the teeth are not
+sufficient in number for the required length, with rounded bits of bone.
+Other teeth are spaced out with discs, some made of bone, others of shell
+obtained from river mussels, or even with knots in the fibre thread.
+The Boro necklace of human teeth in the accompanying illustration is
+made on cotton twist, an imported article very seldom found among these
+tribes,[77] though one of the Okaina beaded garlands figured on Plate
+XIV. is also made on cotton string, not palm-fibre as is customary. The
+handsome jaguar tooth necklace loses some of its artistic values in a
+black-and-white reproduction, which inevitably cannot do justice to the
+creamy ivory, shading to rich browns, of the teeth, making effective
+show against the red and blue of the beads, the dull colourlessness of
+the pieces of bone. Some of the teeth have a very primitive criss-cross
+grooving scratched on the fang end, others have a more elaborate attempt
+at a carved design. Each design differs, but the same idea of involuted
+curves is traceable in all.
+
+In cases where Indians are too poor or too isolated to secure a
+sufficient supply of the Brummagem article, chains are still made of the
+bright red and black seeds of a bush plant, as they were before beads
+were obtainable; or bits of bone are employed, short lengths of cane or
+reed, or even red berries, gay enough when fresh, but dull and crinkled
+when they wither and fade. Beetles also are utilised for ornament, and
+the fondness of the Indian for black is shown in his rejection of such
+beetles as the gaudy-coloured Longicornes and his preference for the
+shiny breastplate of a fat squat beetle in black armour.[78] These strung
+on fibre string look like irregularly carved jet beads, but are far
+lighter, and make a soft and hollow rattle when shaken.
+
+Besides these chains and necklaces the natives are very partial to a
+tight-fitting necklet of white beads bordering either side of a row of
+small, flat, diamond-shaped pieces of black wood, or the black shell of
+a nut, or gourd. These necklets vary a trifle in width: some have the
+diamond almost squared, they may have one, two, or three white beads
+between the black points, but there is no greater divergence than this
+from the stereotyped pattern. The polished bits of wood, like the beetle
+cases, resemble jet; and the sharp distinction of black and white sets
+off the native beauty, as a band of black velvet is supposed to put the
+finishing touch to her fairer sisters.
+
+
+A favourite ornament among the Boro and Witoto, and also with some of
+the Napo tribes, is a bracelet of iguana skin. To make these, a circular
+piece is cut off the creature’s tail, the ring of skin, varying in width
+from half to three inches wide, is removed and drawn over the hand when
+fresh and damp. This band dries tightly to the skin of the arm, and will
+remain there in spite of frequent washings for years. These lizard-skin
+bracelets can hardly be seen in any of the photographs reproduced in
+these pages. They are supposed to have certain magical properties, and to
+endow the wearer with special strength and vigour. For the same purpose
+children wear a black ring cut from a nut. The diameter of the ring--1½
+inch outside and quite a quarter of an inch less within--does not permit
+it to be worn when the child grows up; the arm always swells round it,
+and obviously it must eventually be cut off, but I cannot speak with any
+certainty as to how or when this is done. The women’s bracelets are made
+of beads when they can be obtained, or of gay-coloured seeds. Those worn
+by the Resigero woman in the illustration by page 80 are made of threaded
+seeds, or of beads, wound round and round the forearm with a turn or two
+of white beads at either end. The central beads are usually dark red.
+
+Rattles and feather ornaments are festooned on the legs for a dance,
+but only the women wear the tight ligatures that swell out the calf.
+Both men and women among all these tribes wear ligatures, the men on the
+upper arm, just below the shoulder, the women on the leg, below the knee
+and again above the ankle. These ligatures are worn extremely tight,
+and result not in atrophy of the limb, as might be expected,[79] but
+in an enormous swelling of the muscles above or below them. The ankle
+ligatures sometimes reach half-way up the leg. They all vary greatly
+in breadth, but this I consider to be a matter of personal taste--or
+possibly personal skill--and not a tribal fashion or distinction, except
+in so far as that the Witoto knee ligatures are narrower than those of
+other tribes, and are never so well made. But this confirms the idea
+of personal skill deciding the pattern, for all Witoto work is cruder
+than Boro or Okaina. Even the roughest of these ligatures, however, is
+a marvellously neat piece of workmanship, the more surprising when one
+discovers that only the fingers are used in its manufacture. A ligature
+band is made of a very fine fibre thread, and on the reverse side has the
+appearance of a knitted or crochetted fabric; on the right side it looks
+rather like a woven tapestry ribbon, with a slightly raised pattern.
+But so far as I could ever see no implement of any kind is employed
+in the making of these bands.[80] The fibre string is interworked
+and knotted with extraordinarily skilled finger-work only. Sometimes
+the band is decorated by a pattern of coloured lines, diagonals, and
+diamonds slightly raised. In nearly every one that I saw closely enough
+to examine the edge was corded, and the end finished with a kind of
+buttonhole looping. The ligatures shown in the illustration are Witoto
+and Boro-made ones.[81] The ends are finished with a line of open-work
+stitches and a buttonholed or twisted edge. Through the open spaces
+twisted fibre cords are run, and these pull the band together exactly on
+the principle of a lady’s silk purse. They are tied in two knots. A tuft
+of cords, or occasionally a bone or wooden disc, finishes off the man’s
+ligature, which is knotted in front. The women lace their ligatures on,
+and fasten them very securely. I had to cut those shown in Plate XIV. to
+get them off the wearer’s legs. The Yahabana and other Kuretu-speaking
+tribes wear their armlets very tight, and the skin underneath is lighter
+in shade than it is on the exposed portion of the limb, according to
+Koch-Grünberg. This lighter skin will blister in the sun if unprotected.
+
+
+The leg rattles are made of polished nutshells, and garters with beaded
+tassels and nutshells are fastened below the knee. The nutshells vary
+in size and shape, though all are approximately bell-like when cut and
+strung, with or without beads, on fibre thread. They give a tinkling
+sound if shaken, and for this reason, as they play a distinct part in the
+native dances, they are dealt with in a later chapter among the musical
+instruments. In addition to these rattles strings of feather-tufted
+reeds or bits of bone are also worn. The reeds, cane, or bones, are about
+three inches long, with a small bunch of feathers secured to one end by
+means of pitch. The other end is pierced, fibre thread strung through,
+and the intervals between the reeds are kept by means of knots.
+
+Similar little bits of cane are worn in the ears, which are bored by all
+these tribes at the age of puberty. These ear ornaments are frequently
+decorated at one end with a tuft of gay feathers. These are very neatly
+arranged in some cases; a ring of fine blue feathers may surround a red
+tip. They are fixed to the cane with latex or pitch. Orahone, which
+simply means Big Ears,[82] is a name given nowadays to many distinctly
+different tribes who follow the fashion of the Indians on the Uaupes and
+the Napo and insert large wooden plugs into the lobes of their ears. The
+Orahone and some Issa-Japura tribes--especially among the Boro-speaking
+group--use a disc of cabbage wood. The Orahone smear this with a red
+vegetable colouring matter, the Boro fix an ornamented shell into the
+wood.
+
+These wooden plugs are extremely light, about two and five-eighth inches
+long, and three inches across at the widest point, that is the front
+rim. This end is hollowed like a shallow egg-cup, and the shell set in
+it is decorated with a fine pattern done in black-and-white. In one
+earring in my possession the shell, so far as I can judge, is a portion
+of some hard, dark nutshell. The pattern is grooved, or scratched on the
+shell, and filled in with a fine white clay. This gives the effect of
+an elaborate black-and-white inlay. The shell is secured in the hollow
+with pitch. The back part of the plug that fits behind the ear is not
+decorated in any manner.
+
+Very effective earrings are made with round discs of a pearl-coated
+river-shell fastened to a short piece of bamboo with pitch. The
+mother-of-pearl is of a deep blue colour, and of a good quality. In shape
+these earrings are not unlike certain kinds of toadstool with a thin stem
+and an inverted cone head.
+
+With the Boro and other Indians near the Japura the lip also is
+perforated for the insertion of an ornament, except among the Witoto, who
+do not use the labret. This, as a rule, is made of metal, if it is in
+any way possible to secure some. Silver is occasionally seen, and brass
+is obtained from old cartridge cases, that are beaten flat and rubbed to
+shape.
+
+Nose-pins are another fashionable adornment of the forest Indians. The
+Makuna wear a long black pin, a palm-spine, through the cartilage of
+the nose. The Yakuna also wear a long pin, and the Muenane and Witoto
+women wear nasal ornaments. The nose-pins of the Kuretu-speaking tribes,
+Yahabana and others, must be somewhat of an obstruction to the wearer,
+owing to their exaggerated length, 30 centimetres. In the central Igara
+Parana district the Boro, especially the women, insert feathers into
+small holes made in the wing of the nose. Boring the algæ is peculiar
+to the Boro-speaking group of tribes, and to the Resigero. The women
+bore holes in the top of the nostril, into which they insert bits of
+quill to keep them open till such times as a dance is held, when the
+quills are removed and small ornaments with feathers are put in their
+place. No other tribes have this fashion. The Saka, who are of the same
+language-group as the Karahone, wear the bones of birds instead of a palm
+nose-pin through the septum. Robuchon confirms my observation that the
+septum of the nose only is perforated by the Witoto in the upper Igara
+Parana districts, and that a goose feather is then worn. He also mentions
+the use of the labret, and the elongation of the lobe of the ear. There
+are many varieties of ear ornaments, but most of them are big and enlarge
+the lobes.
+
+
+Among the Tuyuka the boys at the age of puberty burn scars on their arms,
+but I have never seen scarification among the Issa-Japura tribes;[83]
+nor is there much tattooing. The Menimehe, both men and women, tattoo
+the face and breast. The designs show little artistic skill, and are all
+done in straight lines. The patterns on the cheeks are simply tribal
+marks.[84] The breast patterns vary. On the arms of these people I have
+seen rough representations of a lizard tattooed as here illustrated. The
+incision is done with the spine of a palm, and the black residue from
+burnt rubber is rubbed into the puncture. This results in a blue mark.
+None of these tribes have such a practice as that described by Crevaux
+of making chevron marks on a woman’s thighs to record the number of her
+male children.[85] I know nothing of this or any similar custom, but some
+of the Boro living on the north of the Japura have borrowed the idea of
+tattooing from the Menimehe, and wear--both men and women--a tribal mark
+below the cheek-bone, and sometimes a pattern on the breast. These are
+the only two groups of tribes among whom I ever saw any people tattooed.
+
+
+But, if very few tattoo, all paint. The Karahone women are as fond of
+paint as they are of beads, and use more colours than other tribes. Their
+particular colour is purple. As a rule the colours are red, yellow,
+black--a bluish black--and white. The latter is secured from certain
+fruits. A bright red, the commonest paint of all, is made from a prickly
+burr, or nut, that is full of seeds and red matter.[86] Black paint is
+obtained by using charcoal, or the juice of a fruit,[87] and a species of
+_Cissus_ has a fruit from which the Indians get their blue paints. Ochre
+gives them yellow, but the source of the purple paint I was unable to
+discover.
+
+Red is a favourite colour with all the tribes, and many women daub
+their whole faces over with scarlet. This will quite content them, and
+no further attempt at a design will be made. A blue-black is also very
+often seen smeared on in the same fashion, the juicy stain apparently
+being merely squeezed over the skin. Robuchon mentions a custom among
+some Witoto tribes of covering the body with latex and then sprinkling
+it with black ashes. Hardenburg also mentions the use of a resinous
+matter which is daubed on by the Witoto.[88] The reason for the former
+Robuchon declared he could not divine. It was one of the secrets of the
+dressing-table of the Kinene girls that he was not prepared to fathom.
+Sometimes black ashes are so used, and at other times yellow clay. The
+secret is not so profound as the French traveller seems to have imagined.
+It is evidently done for protective purposes, as babies in arms are
+invariably treated in this fashion, women but seldom. Occasionally a
+black juice is smeared over the face and neck, under the jawbones. This I
+never thought was meant to be decorative paint, but always concluded it
+was some manner of skin tonic.
+
+Among the Orahone, and also some of the Issa and Japura Indians, the
+women cover their teeth and their finger-nails with a black pigment.
+
+The paint is never allowed to work off entirely; fresh designs are
+superimposed before the original has quite disappeared. The women always
+paint themselves for a dance, and dances are so frequent that before
+the coat of paint is worn away another festivity will be in prospect,
+and fresh decorations have to be considered. They also paint on other
+occasions than a dance.
+
+With regard to the designs the photographs give a truer notion than
+any possible description of the variations and tribal fashions. The
+independent Andoke have no fixed pattern, but their lines appear to be
+more flowing. A good example is the fourth figure in Plate XXI. The body
+in this case was coated with a purple paint, leaving only a broad seam
+down the middle unpainted. This design is not seen elsewhere; it is
+peculiar to the Andoke. In one dance I saw they painted themselves with
+what were intended to be representations of their Witoto neighbours. I
+saw also the Andoke got up for a dance covered with weapons painted in
+my honour, boots, trousers, and dresses all suggested. Purple paint
+predominated, and the effect was a rough copy of my own apparel in paint.
+
+
+The patterns are regular; the most highly finished ones are executed with
+an eye to the lines of the figure, and some, as for example those shown
+in the accompanying group of Okaina women, are of complicated if crude
+design. The Okaina designs are certainly the most elaborate that I met
+with, but it is to be noted that in no case do the women attempt to hide,
+disguise, or paint that portion of the body which most peoples are the
+first to cover, and which even among these tribes is never exposed by the
+males.[89]
+
+The effect of paint on the legs of women wearing tight ligatures is,
+as Robuchon very aptly remarked, to give them the semblance of small
+balcony pillars. Among the less particular--the Witoto especially being
+the more lax in this as in all other matters--the regular designs are
+not attempted, and paint is daubed crudely on the body in smears and
+splotches, with a result that is bizarre in the extreme.
+
+The men are painted by their women before a dance, but never in the
+intricate patterns and variety of colour used by the ladies of the
+community themselves.
+
+On one occasion among the Okaina three of the old women of the tribe were
+sent to me with purple paint, to paint me for the festivity. The Andoke
+men seem more given to painting themselves than the men of other tribes,
+and always use purple paint. A common device is a lizard, some nine
+inches long, painted on the back and in front on the middle of the chest.
+But painting is not a universal custom among the men as with the women. I
+do not remember, for instance, to have seen a Witoto man painted.
+
+
+CHAPTER VI
+
+    Occupations--Sexual division and tabu--Tribal
+    manufactures--Arts and crafts--Drawing--Carving--Metals--Tools
+    and implements--No textile fabrics--Pottery--Basket
+    making--Hammocks--Cassava-squeezer and grater--Pestle and
+    mortar--Wooden vessels--Stone axes--Methods of felling
+    trees--Canoes--Rafts--Paddles.
+
+
+Life in Amazonia to the man is occasionally strenuous, frequently a
+veritable _dolce far niente_; to the woman it is a ceaseless round of
+toilsome duties, broken only by the excitement of preparation for, and
+participation in, a tribal dance. The division of occupations between
+the sexes is possibly uneven, but very certainly strict. In many cases
+it amounts to a tabu,[90] and as a rule the reason for this division is
+either apparent or confessed. It is absolutely a question of sex. To men
+appertain defensive measures, all that calls for physical strength and
+skill, war, the chase, the manufacture of weapons, the preparation of
+certain poisons and drinks, especially those that are used ceremonially.
+Men paddle the canoes, except in extreme cases, when a sufficiency of men
+is not forthcoming, and women perforce must lend their aid. They cut the
+wood and build the houses. They climb the trees to gather fruit, clear
+the plantations, and turn the soil. Woman is the housewife, the mother,
+and the cook, but she is also the agriculturalist and the maker of all
+purely domestic implements. She manufactures the hammocks, the rough
+pottery, and most of the baskets, although it would not be considered
+derogatory on the part of the man to lend a hand if necessary.
+
+
+Besides this sexual differentiation various tribes have their special
+manufactures in which they excel their neighbours. The Menimehe are
+known as great pottery workers. The Karahone are renowned for their
+poisons. The Boro specialise on mat-making, plaiting, the manufacture
+of ligatures, and the preparation of blow-pipes. The Witoto hammocks
+are better than those of other tribes. Trade in any organised form is
+non-existent, it is true, but articles pass, as I have already described,
+irregularly by personal barter and exchange of gifts to other tribes;
+and in this fashion the poison of the Karahone reaches tribes unknown
+to the makers, and beads made in Birmingham filter down by many and
+devious routes even to these isolated wilds. Over fifty years ago Wallace
+estimated that some thousands of pounds’ worth of trade goods passed
+up the Uaupes yearly,[91] and this accounts for the fact that tribes
+north of the Japura are better supplied than those of the south. The
+best articles for barter I found were axes, knives, combs--especially
+scurf-combs--and Brummagem beads. Cloth and fowling-pieces are not valued
+except in the Rubber Belt; the less sophisticated Indian of the backwoods
+has no manner of use for them: cloth is less ornamental than paint, and
+the scatter-gun only frightens the game and lessens the kill.
+
+Indian arts and crafts are neither numerous nor particularly complex;
+indeed arts--with the exception of music and dancing--are almost unknown.
+There are no rock pictures in the Issa-Japura valleys, such as those
+executed by the Indians in so many other parts of the Americas, but then
+there are no rocks. I have occasionally among the Andoke and the Boro
+seen pictures of a rude type on the supports of the houses, and on the
+four large central posts of the big _maloka_; or these may be roughly
+carved. There is carving also on some of the dancing staves. But these
+people have no great use for colour and line beyond the ornamentation
+of their bodies, and in a lesser degree of their pottery. They make no
+attempt to use drawing for informative purposes. Elsewhere Indians have
+shown themselves skilful map-makers,[92] but none of these tribes could
+so much as draw a rough chart of their own district. Yet this district
+to them represents the whole world. They do not realise that there can
+be any other people but themselves and the half-dozen tribes or so who
+happen to be in their immediate vicinity, and always regarded it as a
+huge joke on my part when I talked of the sea and the vast countries
+beyond.
+
+
+One tribe of Witoto do possess a drawing on bark-cloth that is their
+equivalent of a map of the world. This tribe when I visited them were
+located near the source of the Karaparana, and the “map” was so very
+exceptional an acquisition that it was known and talked about by far
+distant tribes who had never seen either it or its possessors. In fact,
+it was one of the wonders of the universe, to be bragged about to any
+stranger who was ignorantly unaware of its existence. Nothing I could
+offer would persuade these Witoto to part with their treasure, and
+unfortunately I was unable to obtain a photograph of it. My too evident
+interest aroused suspicion, and on this account I was unable to study it
+clearly, as I saw it but for a moment, and that in a dark house before my
+eyes were accustomed to the gloom. It was almost immediately hidden for
+fear I should seize it. This map was made on beaten bark about two feet
+square. The centre was divided into about a dozen squares. In each square
+very crude human figures were represented fighting, planting, or hunting
+in their own tribal territory. These were the “nations” of the world. The
+dividing lines were of red vegetable pigment. The “nations,” so far as I
+could see, were fighting amongst themselves. In the margin were the sun,
+a moon, and many stars. I saw nothing to designate spirits or _Taife_.
+So ancient was this map, handed down from generation to generation, that
+divine origin or use was assumed. It was said to be the world in the
+days when the Good Spirit appeared to man.[93]
+
+Slight carvings, such as can be seen in the accompanying illustration,
+are done at times on the teeth that they string for a necklace; and among
+the Witoto I twice met with examples of figures carved in wood. The two
+figures in the first instance, a nude man and woman, were life-size.
+They were painted white with designs in black and red to represent the
+paintings done for a dance. These figures were placed on either side of
+the door jambs outside, and were the only two of the kind I ever saw or
+heard of in the country. They were greatly prized by their owners, and
+spoken of by neighbours as notable achievements. No one had any idea who
+made them, or when they were made, and if questioned simply said they
+always had been.
+
+In the second instance the figure was a small female doll. It was in
+the possession of the daughter of a chief of the Itoma Gurra tribe of
+Witoto, a young girl, but who had arrived at maturity. The Indians said
+the doll was for the children to play with, but such toys are extremely
+scarce. This one was about eight inches high, and was made of some very
+light wood, painted white, with the organs that denoted the sex marked in
+red.[94] The toy was not regarded in any way as an idol, nor was there
+any suggestion of magical powers attaching to it. To secure such a toy
+is almost impossible, but this doll I did obtain. Unfortunately I showed
+it to an Indian afterwards, who told me that his tribe made such things,
+and that he could get me a pair to it. I gave him the toy, but never saw
+him or the doll again. This was unusual. As a rule when an Indian says he
+will do anything he keeps his word.
+
+Smelting, or any description of metallurgy, cannot be looked for among
+the inhabitants of a country so singularly devoid of all metalliferous
+deposit or formation. Metal there is practically none in the aboriginal
+homes of the natives, and whatever of it is received, be it but a
+trousers-button, becomes at once an heirloom and a treasure. Their only
+method of working metal when obtained is to heat and hammer it into
+various forms and shapes for ornaments. Weapons and implements alike must
+be contrived of other materials. In normal conditions man, without the
+knowledge to work ore, turns to stone for substitute, but conditions in
+Amazonia are, as has already been shown, abnormal. If there is no metal
+neither is there any stone. It is so rare that it is looked upon as
+almost sacred,[95] and implements fashioned of it are not made nowadays
+by the tribes, but those in use are handed down from one generation
+to another. North of the Japura, where quartz can be obtained, at
+least by barter, it is used for knives, arrow-heads, spear-points, and
+cassava-graters; but these Issa-Japura Indians have to content themselves
+with wood and palm-spines, and have only their ancestral stone axes.[96]
+These are constructed in true “prehistoric” manner; the stones have been
+and are fastened to their wooden hafts with fibre lashings fixed by
+vegetable pitch.[97] The Indian cannot say from whence they came, there
+is no memory of their makers; they are, in fact, looked upon as veritable
+gifts from the gods.
+
+Wooden knives are constructed from such hardwood trees as the black
+ironwood. These knives and stone axes will be used by Indians even more
+in touch with civilisation than these tribes, possibly because the
+Brummagem trade-goods knife and hatchet has been proved useless for
+practical wear.
+
+For boring purposes the Indians make an instrument like a bradawl T with
+a capybara’s tooth, and a paca tooth is used for scraping. With these
+simple implements the labour involved in producing such a weapon as the
+blow-pipe is enormous. But these are all the tools the Indian craftsmen
+possess.
+
+Manufactures among the Issa-Japura tribes are not numerous. These Indians
+have no textile fabrics; they neither spin nor weave; everything is done
+by finger-work, and the local substitutes for woven goods are beaten
+bark-cloth and netted or plaited palm-fibre. This, as a rule, is in its
+natural colour, as very little dye is ever employed. There is no leather
+working. The only use made of the skins of animals, I ever discovered,
+was that some Menimehe tribes had large round shields of tapir hides,
+two to five hides superimposed one on another;[98] the medicine-men make
+garments of the same leather; while the medicine-pouch is often made of
+the unshorn skin of the jaguar. Leather thongs are sometimes employed for
+tying purposes, such as securing an axe-haft, and on the north of the
+Japura to string a bow, but the ubiquitous fibre and liana are in more
+general use.
+
+Glass is unknown to the Indian, but every tribe makes its own pottery.
+Earthenware pots are used by all Indians for cooking. The best are
+manufactured by the Menimehe women, and are distinguished by the red and
+black colouring. This is obtained by the use of certain juices extracted
+from the bark of a tree. These handsome, well-finished pots are a great
+article of barter, and are exchanged for other products of friendly
+tribes. Thus they are to be found at far distances from where they are
+made on the northern bank of the Japura. It amounts to a trade, distinct
+if unorganised.
+
+Pottery-making is the sole province of the women in any tribe,
+earthenware appertaining to the culinary department which is their
+special sphere. The pots, entirely made and shaped by hand, when finished
+are beautifully symmetrical, though the Indian potters possess nothing
+approximating to a wheel.[99] Squatting on the ground the women work
+and mould the clay, and rub it between their hands into long cylinders
+very much like plug tobacco. These are coiled round and round and kneaded
+into a previously constructed shape; or the women will prepare a circular
+hole in the ground and mould the clay into that. The plastic coils are
+then worked round with any hard thing that is handy--a bone or a piece of
+wood. When the vessel is built up to the size intended it is carefully
+rubbed before it is set out to dry in the sun. Finally, hot ashes are
+heaped over the pots, which are baked slowly and polished afterwards.
+
+The clay used is commonly to be found on the river-banks, and with
+it the Indians mix wood ashes, either to stiffen it or, as Crevaux
+suggests,[100] to render the finished article more porous, so that its
+contents are kept cool by evaporation. This pottery is known as caraipé
+ware, from the fact that the ashes of the caraipé bark are preferred for
+its manufacture.[101] In some districts vessels of even a very large size
+are made of it,[102] but I never saw any big pots either imported or made
+locally in the Issa-Japura valleys. The large vessels used for making
+kawana by these tribes consist merely of huge strips of the inner bark of
+the tree, riveted together with thorns or spines, and set upright on a
+hard earthen surface; or else a section of a great tree trunk is hollowed
+out to make a trough. Large flat plates to bake the cassava cakes on are
+made of earthenware, but very often only wooden platters are used.
+
+
+Women are not the tribal potters alone; they are also the chief
+basket-makers, though on occasions the men will make baskets. Both
+Karahone and Boro Indians excel in basket-making, though all tribes are
+skilful enough at it. If you give an Indian anything to carry he never
+dreams of holding it in his hands if it will allow of other carriage.
+He either winds a strip of bark-fibre round his head to make a sling in
+which to place it, or, if it were anything that did not admit of easy
+adjustment--as, for instance, fruit--he gathers some green palm leaves,
+and in about five minutes has plaited them, on a foundation of two
+rods, into a long and deep square basket, which is thrown away at the
+end of the march. Such quickly made baskets are continually in use, but
+the tribes also construct more elaborate ones that can be utilised for
+more than immediate purposes. In every _maloka_ may be seen baskets of
+plaited bark-fibre and of plaited cane,[103] usually white, but sometimes
+with an interwoven and regular pattern in black cane. The Resigero make
+bottle-shaped baskets as receptacles for edible ants. A large basket is
+carried on the back, slung from the forehead with the customary band of
+bark-fibre.
+
+Quite as important as the pottery is the manufacture of hammocks.[104]
+This again is done by the women of the tribes. It is woman’s, that is
+to say light, work. All these tribes make them on the same principle
+and in the same way, the only difference in the hammocks of different
+tribes is the spacing of the cross-threads. This, according to Hamilton
+Rice, is a tribal distinction, each group of tribes having an individual
+spacing.[105] The material used is curana string or palm-fibre. To
+prepare this the women take the pinnate leaflets of the Chambiri
+palm[106] and fold over each strip at its broadest part. They grip it
+tightly and shred it down with the thumb and forefinger. The fibre thus
+procured is then twisted into a cord by rolling it tightly and hard
+against the naked thigh.
+
+To make a hammock a woman takes a length of this fibre string and turns
+it round, backwards and forwards between two posts set in the earthen
+floor of the _maloka_. Cross strings of the same material are then tied
+at the regulation intervals and knotted across, from string to string, to
+the opposite side. No implement of any kind is used; the two posts are
+the only framework, and the whole construction is carried out entirely by
+the women’s fingers without any artificial aid.
+
+The cassava-squeezer, that essential complement to an Indian household,
+is another plaited or basket-work article. The squeezer, which is common
+to the Boro and all the tribes north or south, except the Witoto, the
+Muenane, and the Nonuya, consists of a long cylinder with a loop at
+both ends. One is attached to a rafter, and the other to a stout stick,
+on which a woman sits, and thereby pulls upon the cylinder. The manioc
+is inserted through the open end before the weight is applied, and the
+elastic structure widens out to permit the soaked and grated roots to be
+packed in, till it resembles nothing so much as a well-filled Christmas
+stocking; but when pressure is brought to bear on the lower end the
+cylinder gradually elongates, and thereby contracts, crushing the roots
+to a pulp, from which the poisonous juice drains away.
+
+The material used to make these squeezers appears to be a species of
+cane, but is said to be the bark of a palm tree.[107] It is cut into
+narrow strips and closely plaited into an elastic bottle some seven to
+ten feet long, and not more than about six inches wide when open. Instead
+of this cylinder the Witoto use a long web, a rectangular strip about ten
+inches wide of plaited bark-fibre, about an inch wide. This they wind
+round the grated manioc after the manner that putties are adjusted on
+the leg. The tighter they twist the pliable web the greater the pressure
+upon the crushed roots, and the juice is thus wrung out of them.
+
+The grater that is used to scrape the manioc roots, before they are
+placed in the squeezer, is a wooden implement made by the Indian women
+themselves.[108] It is a flat oval. The one in the illustration measures
+16½ inches by 5¾ inches. The wood is of a bamboo type set with short
+black palm-spines about an eighth of an inch apart, thicker at one
+end than the other, but arranged in no regular pattern. These spines
+are fixed into the wood and project about an eighth of an inch above
+it. Those in which quartz stones are inserted instead of spines are a
+valuable commercial commodity north of the Japura.
+
+
+I never saw manioc crushed, as Robuchon described, with a pestle and
+mortar; but these articles are in frequent use, especially for the
+preparation of coca and tobacco, so they are items of importance in an
+Indian inventory. A mortar is easily improvised from the hollowed trunk
+of a tree, and such a small mortar, with a long heavy pounder, is shown
+on the right of the photograph of a group of Okaina Indians. It is being
+used to pound coca (Plate XXV.). The pestles are made of some heavy wood,
+such as red wood or mahogany, and the lower trunk of the peach palm,[109]
+or a block of ironwood makes a very solid mortar. The peach-palm trunk
+is hollow, that is to say, it has a very hard shell filled with soft
+pith that can be scraped out with little difficulty.[110] Some of these
+mortars are of great size. Spruce gives the measurements as five to six
+feet high, but none I saw were more than four feet.
+
+Not only are mortars and troughs made from the tree trunks, but bark is
+cut into long strips to make smaller vessels, shallow concave trays not
+unlike the Arunta hardwood _pitchi_.[111] The method is ingenious by
+which the bark is stripped from the trunk, or the tree is felled, for
+the principle in each case is the same. Round the trunk of the selected
+tree a number of small holes are made, or, if only a portion is to be
+removed, the trunk is notched at the required distances. The edge of the
+stone axe is inserted in the notch, and the slip of wood is levered up
+with it until it splits away at the lower notch; or, if the tree is to be
+felled, the holes are widened into grooves that are deepened round the
+trunk till it gives way--a somewhat slow process, but a sure one.
+
+In this fashion the Indians cut down the trees from which their boats are
+to be made. A tree is felled, preferably a cedar,[112] and the trunk is
+hollowed out for the length required, which varies, but may be as much
+as 20 feet, though the breadth will not exceed 18 inches. To hollow the
+trunk the Indians bore holes in the wood in order to secure the proper
+thickness, and then slit off pieces with their stone axes. These are
+kindled into a fire to which logs of wood are added. This burns out
+the required cavity, and when the trunk is very hot the burning embers
+are scraped away and the burnt trunk is forced apart, which is done by
+gradually inserting longer logs that are hammered into place. This is
+a job that needs to be done deftly and quickly, or the cooling wood
+will soon either contract too much or break at the strain. The heat
+also causes the ends to curve upwards, so that the bow and the stern of
+the boat will rise higher than the centre. Such a “dug-out” is a heavy
+concern, often with a specific gravity greater than that of water.
+
+These boats belong to the community, and are not many in number. They are
+never left on the bank, nor are they kept in the _maloka_, but are hidden
+in the bush near the river-banks. The paddles, however, are kept in the
+house, stored overhead on the rafters.
+
+All the tribes of the Issa and Japura valleys make these rather clumsy
+craft, but it is possible that the original idea is not indigenous, and
+that the autochthonic boat is the temporary canoe made from the hollowed
+trunk of the bulge-stemmed palm.[113] These canoes can be fashioned in
+an hour or two. The soft pulp is removed easily with a knife, or even
+may be crushed up with the fingers, but the bark is very hard, and the
+bulging portion of the trunk is shaped already for the craft. The ends
+are stiffened with clay, and the improvised canoe is ready for use, and
+is quite sufficient for casual purposes--to cross a river when too deep
+to ford or too wide to bridge,--and being of no permanent value it may be
+left to drift away down-stream when used.[114]
+
+Spruce mentions tribes who cannot make canoes, and have to construct
+rafts to cross any main river;[115] but rafts are not used on the Issa
+or Japura streams except by the rubber-workers. They make them of trunks
+of light wood lashed with liana or withes, with a rail at the side, but
+such a construction is unknown to those Indians who have not met with
+the “civilized” invaders from the Rubber Belts. The Catanixi, so Wallace
+states, make canoes of the bark of trees stripped off in one sheet,[116]
+but I never saw anything approaching the “birch-bark” canoe, though
+some of the “civilized” Indians use a _montaria_, a built boat that is
+certainly not indigenous.
+
+The canoes are propelled with paddles from four to five feet long, cut
+from the solid block of wood, elongated in the blade, not rounded, as is
+universal on the main Amazon river. They may be decorated with roughly
+painted designs. Indians always paddle in unison, sometimes on alternate
+sides, sometimes three together on one side and three on the other. They
+face the way they are going, as one would in a “Canadian” or “Rob Roy,”
+and the man in the bow steers. When two men paddle a large canoe both
+will sit forward and paddle from the bow.
+
+
+CHAPTER VII
+
+    Agriculture--Plantations--Preparation of ground in
+    the forest--Paucity of agricultural instruments--Need
+    for diligence--Women’s incessant toil--No special
+    harvest-time--Maize the only grain grown--No use for
+    sugar--Manioc cultivation--Peppers--Tobacco--Coca
+    cultivation--Tree-climbing methods--Indian wood-craft--Indian
+    tracking--Exaggerated sporting yarns--Indian sense of locality
+    and accuracy of observation--Blow-pipes--Method of making
+    blow-pipes--Darts--Indian improvidence--Migration of game--Traps
+    and snares--Javelins--Hunting and fishing rights--Fishing--Fish
+    traps--Spearing and poisoning fish.
+
+
+Apart from the industries already dealt with, the occupations of the
+South American Indians of these parts consist in agricultural pursuits,
+hunting, fishing, making war, and holding festival. They are not a
+pastoral people and have no cattle; even the domestic pig is unknown,
+fowls are never seen, and dogs only exist in their wild state in the
+forest. There they are numerous enough, dun in colour, with ears erect.
+These Indians do not keep or train them, though some of the tribes away
+from this district have hunting dogs.[117]
+
+
+The greater part of the agricultural work falls, as has been seen, to the
+lot of the women, though the preliminaries--the heavier work of clearing,
+cutting, and breaking up the untouched soil--are undertaken by the men.
+Each tribal house stands in the midst of a small clearing. In front
+is the big dancing ground, for though the dancing proper takes place
+inside the _maloka_, this outer dance clearing is used for the purpose
+of assembly, and for effective entries. Near by are the cultivated plots
+that belong to the chief. The Indian with his own private lodging in the
+bush, or any married Indian,--and all marry when they come to man’s
+estate--has his special plantation patch by his country-house, if he has
+one, somewhere in the neighbourhood of the tribal house if he is content
+with only his quarters therein. But no plantations are made actually
+surrounding the _maloka_; they are perhaps half a mile away, for, as a
+rule, the house stands alone. Sometimes a man’s plantation will be two
+days’ journey from the house of assembly, in which case a “country-house”
+is a necessity. The tribal plantations belong to the chief, as he, having
+all the unattached women, is better able to cultivate them.
+
+To prepare the plots of ground the smaller trees are felled, the
+larger ones are burnt. The stumps of trees, cut about four feet above
+the ground, decay with some rapidity, and, directly the branches are
+dry enough to burn, fire is brought out and the clearing made into a
+gigantic bonfire, or rather series of bonfires, for the always damp wood
+will never do more than smoulder, but it is sufficient to destroy the
+brushwood and the tangle of creeping plants. There is then a savannah, a
+clearing such as is shown in the illustration (Plate XXVI.), a wilderness
+of charred posts and vegetable ashes which make most excellent manure.
+The ground is then broken up with wooden clubs, and therewith the men’s
+labour is at an end.[118] Henceforward their women take charge of the
+plantation--_ike_ the Witoto call it before it is planted; it is _akpho_
+after planting.
+
+The Indian plantation is no orderly market-garden. To begin with, the
+women have nothing but the roughest wooden implement, a wedge-shaped
+stake, with which to dig, and rake, and hoe. The ground is always uneven
+and broken; the charred remnants of the original vegetation are left to
+crumble beside the young growth, and the cultivated seedlings have to
+struggle for space and air with quick-growing wild things, forest growths
+and creepers that encroach on every side, and would speedily reclaim any
+cleared portions of the unconquerable bush were it not for the incessant
+diligence of the women. They go there daily straight from the morning
+bath, and keep up a constant chattering as they plant the cuttings of
+manioc, or tend to the pine-apples and the sugar-cane, while the men take
+to their canoes, or go a-hunting in the bush in company. I have never
+seen single Indians hunting or walking in the forest. For obvious reasons
+they never venture far afield by themselves, or even in very small
+parties.
+
+Sowing is done during the rainy season, but beyond the fact that things
+then grow faster than when it is comparatively drier, there is no
+especial harvest time. Crops grow and ripen all the year round. The
+Indians are not grain-growing people. Rice is unknown,[119] and the
+only grain that is sown at all is maize. This, though much cultivated
+by the Kuretu, and by tribes on the Tikie, is not grown in any quantity
+by Indians south of the Japura. What there may be is very small. Coca,
+manioc, and tobacco are the most universally cultivated. The Witoto grow
+a little sugar-cane and it is occasionally found growing wild, but in
+very few places. Originally, I imagine, it was imported. The Indians do
+not use it for sugar, as sweet things do not seem to appeal to their
+palates, and “beer” is unknown. Half-wild pumpkins and plantains are to
+be found in most plantations; pines,[120] bananas, yams, papaws, sweet
+potatoes, and mangoes are found cultivated more or less. The yellow fruit
+of the guaraná is prized by these Indians, especially the Boro, and is
+used here by them in the preparation of a stimulating drink[121] similar
+to that in use on the Rio Negro.[122] The wild cacao,[123] though not
+common, is seen about here, but the tribes do not cultivate it. Manioc,
+which is also known as cassava,[124] is a plant that grows throughout the
+tropical regions of America, and in the West Indies. It is known also in
+Africa, and has been introduced by the white man into some of the Pacific
+Islands.
+
+The manioc is planted by the women about July or August, and according to
+Indian belief manioc can only be propagated by replanting slips of the
+old growth after it has been lifted up and the tuberous root removed. As
+it cannot reproduce itself in this fashion in its wild state, presumably
+it will grow from young tubers, or seed, but, according to Bates, it is
+not found wild in the Amazon basin.[125] The ground is hoed by the women,
+and scraped into rough furrows. Cuttings of the manioc plant are set in
+these in little holes. Eight months after planting the root is ready
+for use. It is large, fleshy, and very heavy for its bulk, each tuber
+weighing from half a pound to two or three pounds, and even more. It has
+been said of the variety known as the great manioc that a root will weigh
+as much as forty-eight pounds.[126] The ground will only carry two crops,
+so a fresh patch must be broken up after the second harvest. Indians
+will, however, always return to plantations no longer in use, on account
+of the different palm fruits which continue to grow wild there after they
+have once been cultivated; but the disused plots will never be tilled
+again for plantation, they are only visited for this purpose of securing
+the fruit.
+
+Throughout the forest peppers are very common and plentiful. Some of the
+bushes grow to a height of ten feet. There are many varieties,[127] and
+peppers are grown, or allowed to grow, in patches on all the plantations.
+
+I have said that the women are the agriculturalists and the cooks; nor
+do I know of any exception to this rule, for though coca and tobacco are
+tabu to all women, and their preparation is forbidden to the sex, yet the
+women grow the tobacco in the plantations, gather the leaf, and dry it
+in the sun. But the actual making of the black liquid is done by the men
+alone, and only men prepare the coca for use. Tobacco is not an article
+of barter among these tribes, as all grow it, and its preparation is
+no secret to any of the tribesmen. Cultivated coca is sown when the
+rains begin. The young seedlings need both care and attention.[128] It
+is eighteen months before the slender shrub will yield any harvest,
+though once grown the supply will continue for three or four decades.
+The shrub grows to some five or six feet high, into small trees in fact,
+with lichen-encrusted trunks. Both the common kind and a smaller-leaved
+variety[129] grow wild in these regions.
+
+Men also must climb the trees to gather such fruits as the papaw and
+the seeds of the cokerite or the peach palms. Indians climb in what is
+practically a universal method, with a circling rope and a ring.[130]
+Their usual way is to secure the legs together about the ankles with a
+strip of the inner bark of a tree, and then, with arms and feet free,
+to use a bigger loop adjusted round the tree and hips of the climber
+for purchase power. For short climbs they will dispense with the bigger
+loop. Sometimes palm-frond is made into a ring for the toes, but with
+the forest Indians these are oftener left free to allow of prehensile
+action. With this simple attachment, made perhaps only of twisted liana,
+the native will work his way to a perilous height up the barest of tree
+trunks.[131]
+
+
+As a woodsman the Indian is so far in advance of the European traveller
+as to make all comparison futile.[132] An Indian in the bush is
+wonderful. From his earliest days he has been taught to watch and note.
+I have known an Indian stop and tell me that when the sun was in a
+certain position, that is to say half an hour previously, seven Indians
+passed that way carrying a tapir, which had been killed when the sun was
+there--indicating another position. It was killed a long distance away,
+and the bag must have been a tapir on account of the evident weight. He
+took up a leaf on which was a spot of blood, coagulated. He pointed to
+tracks on the ground, to prove the question of numbers and distance. The
+men who passed were weary, he knew it by the way their toes had dropped
+on the ground. The breaking of a twig, the exudation of sap, is enough of
+a guide for the Indian to judge when the last passer-by came that way.
+I have been told it was within ten minutes, and shown a leaf. It had
+begun to rain ten minutes before, and the leaf, overturned by a passing
+foot, was wet upon both sides. A glance will suffice for an estimate of
+what animals passed, and when. By some intuitive perception, moreover,
+he will deduce in a moment whither the game has gone, and will make, not
+along its trail, but more directly for it. Yet close and accurate as
+his observation invariably is, when the Indian sportsman begins a tale
+of the chase it is exaggerated beyond the wildest dreams and liveliest
+imaginings of the most gifted sporting Munchausen among ourselves.
+
+When an Indian is path-finding he judges both time and distance by the
+sun. If not attacked by an enemy, he will win his way home from anywhere,
+always at a jog-trot, and will probably do his fifty miles on nothing
+more sustaining than coca. A sense of locality is born in him, and from
+childhood upwards this is trained and developed by continued and varied
+experiences. To be able to judge by the sky, by the weathered side of
+trees, by the flight of birds, or the run of animals--above all to have a
+sense that is greater than all judgment--is a matter of life or death not
+once but continually. The inept are the unfit, and the forest will show
+them no mercy.
+
+This minuteness and accuracy of observation comes into play again when
+the Indian is hunting. Death to his quarry from the tiny poisoned dart of
+the blow-pipe is certain, but not absolutely instantaneous. He also will
+shoot birds with a blunt-headed arrow that stuns but does no damage to
+the plumage. The shock appears to kill the bird. Hit with dart or arrow
+they may flutter a little distance before they fall. I have watched an
+Indian scores of times when hunting game shoot bird after bird in a tree,
+mark down where each fell, and eventually never fail to account for every
+one despite the density of the surrounding bush. Hardly a traveller but
+has noted and wondered at the same thing.
+
+
+Blow-pipes are only carried by the Indians when hunting. They are weapons
+of the chase, not of war. Most of the tribes manufacture their own, but
+the Bara, who neither hunt nor fish, get theirs solely by barter from
+other tribes. The blow-pipe--_obidiake_ of the Witoto, _dodike_ of the
+Boro--made by these tribes is a heavier weapon than those made by tribes
+farther north.[133] It is constructed, like those of all tribes south of
+the Japura, in two sections, bound together with great nicety, and has
+invariably a mouthpiece made of vegetable ivory or a similar wood that
+fits round inside the mouth. These blow-pipes are from eight to fourteen
+feet long, with a quarter-inch tube, the outer mouthpiece being an inch
+and a half. They are sometimes made from reeds[134] by the Boro and
+Andoke, and I have seen small Boro boys with a hollow reed pipe, about
+half the ordinary length. This was merely a plaything. These are the
+simplest form of blow-pipe, and would appear to be the original type.
+Though I imagine reeds are always obtainable, for the flora did not
+seem to vary, as a rule the wood of the chonta palm is employed.[135]
+On the north of the Japura, the tribes, I believe, mostly make their
+blow-pipes of palm stems.[136] Two long strips of this wood are slit
+off by notching and levering with a stone axe, as already described. The
+chonta poles are trimmed, rubbed, and grooved with sand and a paca-tooth
+tool till they form the corresponding halves of a tube, which must fit
+most exactly. All this entails very careful and tedious work, so it is
+fortunate that time to an Indian is of no account. These half tubes are
+then fastened together and the bore polished with what is practically
+sand-paper. A string is dipped in some gummy substance, and then covered
+with sand. When dry, a fine polish is secured with this by friction. The
+blow-pipe is next bound from end to end with fibre-string, or narrow
+strips of pliant bark.[137] The whole pipe is then coated with some
+resinous gum, or wax.[138] A small bone is fixed about twelve inches from
+the mouthpiece, and this acts as a sight. Such a tube will send an arrow
+a distance of from forty to one hundred and fifty feet, and an expert
+hunter shoots the smallest birds at twenty yards. The chonta-wood pipe is
+the heaviest and most lasting, but I do not know if it carries farthest.
+The Indians’ accuracy of aim is extraordinary. The arrows, or darts, are
+about nine inches long, no thicker than a small match, and are tufted
+with fluffy down from the seed vessels of the silk-cotton tree,[139]
+the tuft being of a size to fit exactly into the bore of the pipe. The
+arrows are made of the leaf-stem spines of the Patawa palm.[140] They are
+carried in a quiver of bamboo lined with dried grass or fine rushes that
+protect the delicate darts. The poisoned points are partly cut through
+so that they break off in the wound. Once a bird or animal is hit the
+poison kills them very speedily. The silk-cotton for tipping the arrow is
+carried in a gourd that is attached to the arrow quiver with strips of
+cane, and to it is also tied the jawbone of the pirai fish, which is used
+as a file for the points of the darts. When the arrow is ejected from the
+blow-pipe there is a slight noise, like a child’s pop-gun, but it is not
+enough to scare the game.[141]
+
+Indians are no more provident as hunters than as housekeepers. When
+game is plentiful they will kill and eat, kill recklessly, and eat to
+repletion. But game is not always plentiful. It may abound to-day and all
+be gone to-morrow. Even parrots and peccary will fail at times. Birds and
+beasts wander, and though the hunter can often judge of direction through
+knowledge of their habits, and--what in this instance probably governs
+them--which fruits are ripest and where most abundantly to be found, this
+will not altogether account for the fluctuations in the supply of game.
+It must also be remembered that in this respect the bush varies greatly,
+and even where animal life is not scarce it is apt to become so on the
+advent of man. Even apart from the disturbance caused by the hunter, game
+in the vicinity of any human settlement tends to disappear. The hunter
+must go farther and farther afield.
+
+The Indian is an expert trapper. His traps though simple are ingeniously
+contrived, and seldom fail to act. An empty bag is due more frequently
+to absence of game than to the inadequate plan of the trap. Monkeys are
+caught with a running-noose loop snare made of liana, which is adjusted
+carefully along a fruit-bearing branch of a tree. Any monkey attempting
+to reach the fruit strangles itself in the noose, exactly as a rabbit
+does in the wire of an English poacher.
+
+
+A shallow pan of water is the Indian bait for ground vermin. Round it
+they dig a ring of holes, about a foot across, on which are lightly
+spread grass and leaves. Rats, mice, frogs, and small snakes venturing
+to drink fall through into the holes that are deep enough to hold them
+captive till the trapper comes round and secures his catch. For larger
+animals the hunters dig a line of pits, with a sharpened stake fixed
+upright at the bottom of each. The game, corralled and driven over these,
+falls in through the sticks and leaves that hide the opening, and is
+impaled on the stake. The Karahone arm their pits with poisoned arrows,
+and dig a succession of these death-traps down a forest avenue.[142]
+A more complex contrivance is made with carefully poised logs. This
+description of trap is set in a forest run, the brushwood on either side
+is twisted and plaited into a rough fence, and the trap erected in the
+opening. The slightest pressure on the footboard releases the weight, and
+brings the heavy trunk down with a crash on the intruder. A trap of this
+kind will catch anything from a squirrel to a jaguar.
+
+A tapir is sometimes killed with a throwing javelin, which the Indians
+use with much dexterity, though when they throw anything they do it
+with an over-arm action, with a jerk as a girl would. Their skill with
+these javelins is not surprising when one remembers that they hunt two
+or three days a week from boyhood, and so are continually throwing them
+at animals. The javelin is a light spear with a poisoned palm spine at
+the point. A man carries seven of these in his hand, and seven more in
+reserve in a bamboo case--fourteen in all. These javelins are about
+six feet long, and an Indian can throw one a distance of thirty yards.
+Sometimes only five are carried in the hand, but seven is the more usual
+number. Though long they are very thin and light. The haft is usually
+made of chonta, or similar hard straight-grained woods. A spine is always
+fixed in the point, which is filed almost through so that it will break
+off in the body of the wounded animal. These spines are poisoned with
+animal putrefying poison. Of the heavier spears more anon.
+
+Koch-Grünberg noted that tribes on the Tikie have well-defined and
+recognised hunting and fishing rights, but that when travelling any such
+rights are avoided. This is common to all Indians. They will even erect
+barriers in the bush and on the rivers, and they keep strictly to their
+own localities, otherwise quarrels would arise and war be the upshot.
+
+The sporting proclivities of the tribes vary considerably. The Tukana
+are fishers, but not hunters. The Boro, on the other hand, though great
+hunters do not fish, at least I do not remember ever having been given
+fish in a Boro house. Certainly they are not such fishermen as the Witoto
+or the Okaina, who are the most skilful of all the fishing tribes.
+
+Fish are taken with hook and line, in nets and traps, by poisoning
+the water, by spearing, and by shooting with bows and arrows. For
+fish-hooks these tribes have hardly anything but those that they contrive
+for themselves from wood, bone, or spines, and civilised metal hooks
+are greatly sought after by all of them. Napo Indians make hooks of
+bone.[143] The Witoto _fakwasi_ is a fish-hook made of wood or palm
+spine. A spine is fastened to a fine stick, and this is baited with
+grubs, and used with a fibre line, or with a _pihekoa_, a rod and a line.
+Fish are caught to some extent with bait and laid lines.
+
+Hand nets are made of _chambiri_ palm-fibre in the same way that
+hammocks are made, but with a finer mesh; larger ones are constructed
+by fixing fences of wattle across the stream before the rivers rise. In
+the dry season the Witoto use nets to drag the pools in the river-bed.
+They also catch fish with baited nets, the bait being larvæ, or some
+fruit attractive to fish, such as that of the _setico_, or the drupes
+of certain laurels. In the dry season they bale out the water from the
+shallower pools with gourds till the fish can be captured by hand.
+
+Some of the fish traps are most cleverly designed. There is one known on
+the Uaupes as the _matapi_, which is simply a basket open at one end,
+but without sufficient space for fish of any size to turn round in.
+As fish are not able to swim backwards without the room to turn they
+cannot escape once in the trap. On the Napo the Indians spear fish most
+expertly, but other Indians depend largely on these and similar traps for
+their supply.
+
+Fish are speared with a wooden trident or, rather, caught between its
+prongs, or stabbed with a bamboo spear that has a double-edged blade.
+Some of the civilised Indians of the lower Amazons have harpoons with
+detachable heads that they use for hunting the manatee, or river dolphin,
+but, in these upper waters, dolphins, if seen,--and that is rarely--are
+speared with tridents; the Indians have no harpoons, and the only thing
+that resembles a detachable head is the partly filed-through javelin. The
+Menimehe shoot fish with the bow and arrow.
+
+By far the most wholesale and general way in which fish are obtained is
+through the use of poison.[144] The Indians procure this from the root
+of an evergreen bush, the _babasco_,[145] which they pound very fine.
+They dam the stream with a wattle fencing and then throw the mashed
+_babasco_ in above this fish weir. The fish frequently jump out of the
+water, gasping as though they were being strangled, and the Indians
+secure those distressed fish in outspread palm leaves. Sometimes the
+dead fish drop down into a net, spread beside the dam to catch them; or
+the Indian fisherman will simply spear them when they are sufficiently
+narcotised. Dead fish will be found floating in the vicinity many hours
+afterwards. The Napo Indians put the crushed _babasco_ in a basket and
+stir the water with this below the dam--so that the fish cannot escape
+upstream.[146] Witoto and other Issa-Japura tribes merely throw the roots
+into the stream, and the dam is made more to prevent the dead fish being
+washed away than to stop the live ones escaping. The poison works almost
+instantaneously on the smaller fish. The Indians on the Tapajos make use
+of a poisonous liana called _timbo_.[147] Its action is similar though
+not so immediate as that of the _babasco_ root, and consequently it is of
+little use in quick-flowing waters. Neither _babasco_ nor _timbo_ affect
+the fish injuriously for human food.
+
+
+CHAPTER VIII
+
+    The Indian armoury--Spears--Bows and arrows--Indian
+    strategy--Forest tactics and warfare--Defensive measures--Secrecy
+    and safety--The Indian’s science of war--Prisoners--War
+    and anthropophagy--Cannibal tribes--Reasons for cannibal
+    practices--Ritual of vengeance--Other causes--No intra-tribal
+    cannibalism--The anthropophagous feast--Human relics--Necklaces
+    of teeth--Absence of salt--Geophagy.
+
+
+The armoury of the Indian contains, for the most part, weapons designed
+for primitive hand-to-hand encounter with either man or beast. The sixty
+or more feet a blow-pipe dart will carry; the two hundred feet, which is
+the outside range of an arrow from the most powerful of his bows, would
+be futile in any country less enclosed than these dense woodlands. Even
+here success in intertribal conflict is a matter of personal dexterity
+rather than mechanical accomplishment. It is true that the Witoto near
+the rubber districts have ordinary muzzle-loading scatter-guns. Other
+tribes have a few, a very few rifles, and some Brummagem fowling-pieces,
+usually with single barrels. But the rifle cannot be said to have won its
+way into unchallenged favour. When an Indian does possess a gun he is
+exceedingly chary of using it; his chief idea is to save his powder and
+shot. The Menimehe have neither rifles nor scatter-guns; they consider
+that firearms frighten the game, and prefer their own throwing-javelins,
+their bows, and their arrows.
+
+The Indian weapons of offence may be said then to consist of the sword,
+the bow, and the spear. There is no difference between war spears and
+arrows and those used against the larger wild animals. For defence the
+Menimehe carry a small club, or life-preserver, and the Jivaro and
+some of the tribes near the Napo river, use a circular shield covered
+with tapir hide like the Uaupes river Indians.[148] The Menimehe also
+have large round shields made with tapir skins. From two to five hides
+are superimposed one on the other to make a shield, and when finished
+these will turn any arrow or spear, and are impenetrable to other than
+a nickel-cased bullet of high velocity. The Yahuna on the other side of
+the Apaporis do not use a shield, nor do any of the tribes south of the
+Japura.
+
+The Indian’s club is like a quarter-staff made of hard red-wood--which is
+the heaviest kind known to them--and is used simply as a personal weapon
+of offence or defence. It is not a war weapon. The Indian sword is made
+of red-wood or black iron-wood, and is from thirty to thirty-six inches
+long, polished quite plainly. It is used by the attacker to aim blows at
+the thighs of his antagonist, the object being so to hit him as to bring
+him to the ground. Once this is done his head can be easily smashed. As a
+weapon of defence the Indian uses it to protect himself from the throwing
+of javelins. Holding the handle in one hand and the point in the other,
+he can ward off such missiles with the greatest dexterity, thus in a way
+obviating the necessity of carrying a shield.
+
+A diversity of spears, or javelins, is constructed by all these tribes.
+_Chonta_ wood is universally employed for spears and arrow-heads, the
+weapon differing in accordance with its purport, the _chonta_ spear for
+tapir, the blunt arrow for birds, and so forth. These wooden weapons are
+scraped smooth with the file-like jaw of the _pirai_ fish, and a final
+polish is put on with the leaves of the _Cecropia peltata_, which are
+rough enough to be effective substitutes for sand-paper. The spears are
+thickest at the head, and taper nearly to a point at the butt. The head
+is made of a separate piece of _chonta_ some three inches long, bound
+into the grooved end. A poisoned palm spine is always fixed in the point
+of a spear, as in the lighter throwing-javelin. About two or three inches
+down, the head is filed nearly through, in order that it shall break off
+in the wound, and so be the more difficult to extract. The poisoned
+point is protected with a reed sheath.
+
+
+Arrow-heads also are half filed through. This is done with the fish-jaw
+attached to the quiver immediately before use. The tips are made of
+_chonta_ and are poisoned.[149] The bows are of various kinds of wood,
+and of many sizes, strung with fibre made thicker and stronger as
+desired. The arrow shaft is without feathers, and has no nock for the
+bowstring. The arrows are carried in quivers of wicker or of wood. The
+Menimehe, the most skilful bowmen of these regions, are famous for
+their quivers as well as for their pottery. They make the quivers out
+of bamboo, the elementary ones being merely scraped-out sections cut so
+that there shall be a joint or a knot for the end; the more elaborate
+specimens are made of strips of bamboo bound together. The arrow poison
+is carried in a small pot or calabash. The vegetable poisons that are
+used for birds and small game give place to a mixture of strychnos and
+poison obtained from decomposed animal or human matter when the weapon is
+employed against men or the bigger beasts. Its effect on a human being is
+said to be almost instantaneous.
+
+Indian strategy makes for concealment both in attack and defence. A
+tribe will never rush precipitately into open and aggressive war with a
+neighbour. Plans for the campaign are no affairs of a hurried minute;
+no impulse of uncontrolled anger. They are, on the contrary, well
+matured and much deliberated. After many a tobacco palaver, when war is
+determined on for any good and sufficient reason--usually revenge for
+some real or fancied wrong--the tribal warriors muster, and it may be
+that a friendly tribe will assemble with them. Attack will be stealthy,
+silent, and never by any chance frontal. These are the true tactics
+of the forest denizen. A noiseless flank approach, a sudden rush, and
+then, if the foe be taken unawares, a furious onslaught. But surprise
+is essential to success. With the utmost caution they approach the
+enemy’s head-quarters, the big tribal house, probably when a dance is
+taking place and the hostile warriors are occupied with matters other
+than possible war. The invaders wait for night; creep in under cover of
+darkness; and if possible cut up the unprepared revellers when asleep
+after the feast. Should the victorious attackers be in a blood-thirsty
+mood, every soul will be killed and the house burnt. But the Indian is
+no Berserker when fighting. He is as careful of his own skin as he is
+anxious to destroy his foe--possibly even more so; a living enemy may be
+slain in the future, but if he be killed himself ultimate vengeance is no
+longer for him.
+
+As regards defence, the Indian never attempts any effective fortification
+of his home. The only defensive action taken by the tribes is to prepare
+a series of pitfalls in the forest avenues, after the fashion described
+for game, with poisoned stakes to impale any foe who may unwittingly
+stray into them. Death in such a trap comes very speedily. These pits, as
+I have already noted, are always dug by the Karahone.
+
+It appeared to me that the Indians depended mainly on the secrecy of the
+tribal dwelling, ensured by the absence of direct footways; for though
+their houses are not built on defensive--or even defendable--lines, the
+hostility between various language-groups is rampant, as has been already
+shown, and internecine strife is unending. The Indian has been called
+docile and gentle. He may be, if to fear an enemy as much as he is hated
+be docility. “Do not wait for the first blow but deal it: if you cannot
+deal it with impunity now wait till you can--but wait securely hidden”:
+there is the whole text-book of the Indian’s science of war.
+
+
+If it can be done with due regard to personal safety the Indian warriors
+like to take prisoners. A prisoner is tangible evidence of successful
+achievement and personal valour. There is, as a rule, no mutilation
+of the dead, or of a prisoner; whatever does occur is due to personal
+brutality on the part of some individual. Prisoners are bound with
+palm-fibre, and so long as they walk quickly enough, when the victorious
+band returns from the fray, they are not ill-treated. But there must be
+no delay. Every moment adds to the dangers that threaten the marauders.
+Vengeance accomplished, they must hurry back to the comparative safety of
+their own locality. If a prisoner lag he endangers his captors, and in
+self-defence they would slay him. Prisoners are sometimes sold, but as a
+rule they are killed and eaten at the big feast arranged to commemorate
+the event, unless they are young enough to be kept as slaves without
+risk of their running away to tell tribal enemies of the secret roads
+through the bush. The consumption of a dead foe at least guarantees his
+harmlessness--as a warrior, if not as a comestible.
+
+Prisoners are never kept for any length of time, on account of the danger
+that would follow should they manage to escape. They get no food nor
+drink, and if never actually tortured, are treated very casually until
+killed with a heavy wooden sword, not with poisoned javelins, as Robuchon
+imagined was the ceremonial method of killing for culinary purposes.
+The captor knocks his prisoner down with blows on the shins and the
+thigh, and then hacks off the head with his broadsword. Robuchon is also
+responsible for the statement that the prisoners consider that to be
+thus killed and eaten is a great distinction and honour. It is true that
+they make no complaints, but that is simply on account of the fatalistic
+nature of the Indian.
+
+If killed in war a chief’s body is carried off by his tribe if possible,
+though the ordinary warriors, dead or wounded, of the beaten faction
+are left to their fate, for fear of delay and possible surprise during
+retreat; although that fate be known to be consumption by the enemy.
+
+Among the Boro and other cannibal tribes anthropophagous orgies follow
+hard on the heels of tribal strife. If it happens to be possible, that is
+to say if the fight has taken place as an attack on their own house, the
+corpses of the enemy are eaten; but no Indian ever risks the chance of
+reprisals being taken by remaining in the vicinity of a hostile house to
+eat the dead, nor will he ever burden himself with food when returning
+to his own habitation. The cannibal feast thus becomes the prerogative of
+the conqueror.
+
+Unlike the better-known tribes of Guiana, most, if not all, of the
+Indians of the upper rivers are indisputably cannibals, especially the
+Boro, Andoke, and Resigero groups. It has even been asserted by some
+writers that sundry tribes belong to the lowest grade of cannibals in
+that they will “eat their own dead children, friends and relatives.”[150]
+This, however, is incorrect, and why it must be so is very obvious when
+the main causation of extra-tribal cannibalism is understood.
+
+There are three reasons why these Indians are anthropophagous.
+
+In the first place, and it is not only the first but the most general
+and important, anthropophagy is looked upon as a system of vengeance, a
+method of inflicting the supreme insult upon an enemy.[151] It will be
+seen that the Indian has very definite opinions as to the inferiority
+of the brute creation. To resemble animals in any way is a matter to be
+avoided at all costs. Body hair is an animal characteristic, so man must
+depilate. The birth of twins is a disgrace because it is a descent to
+bestial levels. What a crowning disgrace then must it be for the dead to
+share no better fate than that of slaughtered animals. No more absolute
+vengeance on the dead could be devised. The primary cause therefore is
+insult.
+
+Secondly, there is a desire to make use of what would otherwise be
+waste material. Animal food is scarce in the forest. But these tribes
+do not, as has been asserted of the Cobeu and Arekaine,[152] make war
+simply with a view to obtaining provision of human flesh. Anthropophagy
+is the effect, not the cause, of war. But then there remains the fact
+that meat is hard to come by, and is continually required. The slain and
+the prisoners provide meat, and at the same time the degradation, the
+ignominy of supplying the place of beasts makes vengeance most definite.
+
+
+Finally, and in a still more subsidiary degree, there is the reason most
+commonly advanced, the supposition that there exists a measure of belief
+in the assumption of the characteristics of the eaten by the eater; a
+belief that must give sardonic impulse to the primary reason of all, the
+desire to degrade the dead. Though this third reason has least weight
+of any with the Indian, it cannot be entirely absent when the food tabu
+connected with childbirth is remembered. But I know of no such actually
+admitted reasons as give rise to anthropophagous feasts elsewhere, as
+among the Aro, who are said to eat human sacrifices because “those who
+ate their flesh ate gods, and thus assimilated something of the divine
+attributes and power.”[153]
+
+The subsidiary reason, that of necessary anthropophagy, has been advanced
+by some apologists,[154] and with a certain amount of truth. But this
+reason may be looked upon as very secondary, in my opinion, though, were
+the food-quest of little importance, there might be less cannibalism. The
+Indian would, in fact, only eat human flesh ceremonially, as a ritual
+insult.
+
+From all this it follows that intra-tribal cannibalism would be a
+criminal outrage by the tribe _on itself_, and therefore it could never
+occur that a member of the tribe was eaten, nor would his teeth be
+extracted even to show an accomplished revenge. This disposes of any such
+thing as the eating of dead relatives as a sign of respect. These and
+similar statements are due to misapprehension of facts by the writer, or
+a too hasty judgment on the part of the explorer.
+
+One other cannibal custom noted by Wallace and recently confirmed by
+Koch-Grünberg, is unknown to me, that of exhuming the bones of the dead,
+which are then burnt and the calcined remains made into broth.[155]
+No such custom ever came under my notice, nor did any of the tribes
+refer to such practices in any way in my hearing. The dried human heads
+prepared by the Jivaro[156] are also unknown in the regions here dealt
+with. No heads are mummified in this district. But among some of the
+tribes south of the main Amazon river this repulsive art is carried on,
+and specimens of these heads, not more than one-fifth their natural
+size, have been obtained and brought to Europe.[157] Their exportation
+is now forbidden by the South American governments, as the supply not
+unnaturally was apt to coincide with the demand.
+
+Though these reduced heads are unknown to the Issa-Japura tribes, the
+head is not ignored as a trophy. The fleshy parts, the hair and the
+teeth are removed, and the skull is hung in the plantation patch to be
+cleaned by ants and other insect scavengers. These will pick one bare in
+half an hour. Cleaned, and dried in the sun, this memorial of victory
+is eventually suspended outside, or on the rafters in the house, over
+the string that carries the top part of the drums. Bates records how the
+Mandurucu soaked the heads “in bitter vegetable oil,” and then smoked or
+sun-dried them,[158] but the Issa-Japura tribes subject their dreadful
+trophies to no other process than the action of the insects, air, and
+sun in the plantations. These ghastly evidences of Indian vengeance I
+have often seen in the houses, and in the plantations, the bare skulls
+gleaming white like so many gourds on a string. Robuchon also mentions
+that he found skulls hanging from the ceiling of _malokas_, which the
+natives were quite ready to barter for a large handful of beads, but this
+does not tally with my experience.
+
+When a feast is to take place the prisoners are knocked down and
+despatched, their heads removed to be danced with and eventually dried
+as trophies. The body is then divided and shared among the feasters.
+Only the legs and arms, and the fleshy parts of the head, are eaten
+ceremonially, anything like the intestines, brains, and so forth, is
+regarded as filthy and never touched, nor is the trunk eaten. The male
+genital organs, however, are given to the wife of the chief, the only
+woman who has any share in the feast. The hands and feet are regarded as
+delicacies, for the same reason that civilised man has a preference for
+calves’ feet, on account of their gelatinous character.
+
+Each portion of flesh is tied to a stick, and every man, according to
+Robuchon’s account, drops his share in the pot, and places the stick
+to which it is tied on the ground beside it whilst he watches till the
+meat is cooked. I was told that the culinary processes were attended to
+by the old women of the tribe. The flesh, with the required seasoning
+of peppers, is boiled over a slow fire, while drums are beaten, and the
+assembled tribe--adorned with full panoply of paint, necklaces, and
+feathers, and with the gory heads fixed upon their dancing staves--dance
+round singing a wild song of victory.
+
+The savage orgy will continue for hours, with outbursts of drum-beating,
+gratulatory orations, and much drinking. I was told that the festival of
+drink and dance will go on without intermission for eight days.[159]
+
+Only men eat ceremonially, the women, with the exception of the chief’s
+wife, having no share in the revolting feast, except on occasions, when
+perhaps the necessity for animal food--the secondary reason--is the
+cause of the indulgence. What portions of the bodies are not eaten are
+thrown into the river. I do not know if this is ceremonial, but it is
+curious to note that the Indian paradise is up river, not down, where, of
+course, the refuse is carried by the stream. With some tribes the trunk
+is buried, or it may be merely thrown into the bush to be devoured by the
+wild dogs. This latter is not infrequent. These methods of disposal are
+ceremonial in so much as that they are carried out amid organised tribal
+jeers and insults.
+
+Flutes are made out of the arm-bones of eaten prisoners, the humerus. The
+radius and the ulna, fleshless and dry, with the fingers of the hand
+contracted, are fastened to wooden handles and used to stir the _kawana_.
+I have seen these, but they are jealously guarded by their owners, and
+probably no white man has succeeded in obtaining a specimen.
+
+Among the tribes of the Japura and the Issa the teeth are always
+carefully retained by the slayer, to be made into a necklace, a visible
+and abiding token of his completed revenge. This removal of the teeth may
+be held synonymous with the curse of many savage tribes in reference to
+their enemies--“Let their teeth be broken.” David himself called upon God
+to “break the teeth” of his foes. Possibly the reason is a reversion in
+thought to the time when the teeth were man’s only weapon.
+
+It is certainly worth noting in connection with the anthropophagous
+practices of these tribes that they have almost no salt. In its natural
+state it is non-existent throughout the Issa-Japura regions, and can
+only be obtained with difficulty. It is possible that the salt in human
+blood may be one of the unrealised attractions that lead these peoples
+to anthropophagous practices. A craving that can be so dominant as to
+influence race migration, as the salt-craving may do,[160] can hardly
+be ignored when dealing with the inhabitants of a country where local
+conditions offer little or nothing to satisfy it.
+
+Another vice which may very possibly have origin in the same lack of a
+necessary condiment, and to which these Indians are very prone, is the
+eating of clay.[161] It is not impossible that the clay may have saline
+properties; in any case among all these tribes geophagy is very common,
+especially with the non-cocainists, the women and children. As a rule
+it occurs among the very poorest--the slave clan,--those who are least
+able to obtain such a luxury as salt, and it is found among the female
+children most of all. The latter fact is perhaps because the male child,
+the potential warrior, is the more carefully guarded, and would be the
+more severely beaten if discovered eating dirt. I never came across any
+man who eat clay, though I know of a boy who suffered from this neurotic
+appetite. The clay, if it cannot be otherwise obtained, will be scraped
+from under the fireplace, and it is always eaten secretly.
+
+
+The Indians look upon geophagy as injurious, but it appears to be
+ineradicable. I cannot help thinking it must be due to some great
+“want” in Indian diet, a physical craving that the ordinary food of the
+tribes does not satisfy. It is instinctive. In the manufacture of coca
+they add clay. This suggests that if taken in small quantities it may
+have a neutralising and therefore a beneficial effect on some more or
+less injurious article of daily food. But it rapidly, and invariably,
+degenerates into a vice; and the habit appears to have a weakening and
+wasting effect on the whole body.
+
+In some parts of the Amazons, though not with these tribes, the clay is
+regularly prepared for use,[162] and the vice is shared by other races
+than the Indian.[163] Children who suffer from this extraordinary craving
+will swallow anything of a similar character, earth, wax, and Bates even
+mentions pitch,[164] but they prefer the clay that is scraped from under
+the spot where the fire has been burning, probably because the chemical
+processes induced by the heat render it more soluble, easily pulverised,
+and hence more actually digestive in its action.
+
+It has been suggested that this disease was introduced into America
+by negro slaves, and is not indigenous. This is a question for the
+bacteriological expert rather than the traveller to decide, but as it
+indubitably exists among tribes that have not come in any contact with
+negroes or negro-influenced natives it would seem to argue on the face
+of things that the similarity of vicious tastes was due to similarity
+of causation, rather than to contamination by evil example, unless the
+ubiquitous microbe is to be held responsible for this ill also.
+
+
+CHAPTER IX
+
+    The food quest--Indians omnivorous eaters--Tapir
+    and other animals used for food--Monkeys--The
+    peccary--Feathered game--Vermin--Eggs, carrion, and
+    intestines not eaten--Honey--Fish--Manioc--Preparation of
+    cassava--Peppers--The Indian hot-pot--Lack of salt--Indian
+    meals--Cooking--Fruits--Cow-tree milk.
+
+
+Food is the dominant problem of an Indian’s existence. The food quest is
+to him no indefinite sociological issue of future “food control,” but
+an affair of every day. Living, it would seem, in the midst of plenty,
+starvation is a frequent visitant in an Amazonian household. They are
+an improvident folk, as I have already stated, and if food be plentiful
+give no thought to make provision for the morrow, when there may be
+none to be had.[165] “None” to the man of the forest has a different
+significance, a more inclusive meaning, than it has to the white man, for
+it comprehends everything that by the widest stretch of the imagination
+can be considered possible for human consumption. And it is well for the
+Indians that they are omnivorous, for the uncertainty of food supply is
+the most certain factor of life in the Amazonian bush.[166]
+
+To run through the details of the possible provision of meat: there is,
+to start with, the tapir,[167] though the Witoto consider much tapir is
+bad, especially for women. The print of its three toes, with a fourth
+on the forefeet, is very seldom not to be found in the damp soil by
+stream and river. The tapir is in fact plentiful throughout these
+regions, though, thanks to its protective colouring, it may often not
+be obtrusively present. The young tapir is flecked and dotted with pale
+yellow spots on its brown coat, an exact imitation of sunlight on the
+earth through foliage. Gradually these stripes and spots fade to dull
+greys, only the fully grown animal is entirely without them, and of a
+uniform dead slaty colour. Young tapir flesh makes an excellent dish,
+and is like pork in taste, but it must be eaten very fresh, for the meat
+will not keep sweet many hours on account of its richness. Therefore if a
+tapir is killed in the water and sinks,[168] it must be eaten immediately
+it comes to the surface, that is after some hours, during which the gases
+have generated in the animal’s stomach, and so caused it to rise. But
+tapir is always considered unhealthy if eaten too frequently, and at
+certain seasons of the year is said to be quite uneatable, and if taken
+gives rise to sickness. An old tapir is tough and heavy eating at the
+best of times. Tapir flesh dried over a smoky fire is excellent eating,
+though I have never seen the Indians smoke meat for keeping, even when
+they found I did so myself. Another meat that has been compared with pork
+is that of the paca.[169] It is rich and fat, but it is eatable, and not
+so strong in flavour as the flesh of the capybara,[170] a larger animal,
+found usually in the vicinity of water. In appearance the capybara is not
+unlike a long-nosed, crop-eared rabbit, while its cousin the agouti,[171]
+chestnut-coloured and rough-haired, has a rat-like face on a rabbit’s
+body, though the flesh has nothing in common with the rabbit’s. Both the
+paca and the agouti are plentiful in the forest. Of the two the latter is
+more of a forest-dweller, and seeks the streams only to drink.
+
+A small species of ant-bear is fairly common, but the large ant-eater is
+not often found. The latter does exist in the Issa-Japura watersheds,
+according to Indian accounts; and ant-bear is eaten by the Boro, but has
+too strong and pungent a taste for the white palate. Armadilloes, when
+obtainable, are baked in the ashes of the fire, as hedgehogs are roasted
+in England.
+
+Monkey flesh, though usually tough and invariably insipid, is by no
+means despised, nor must a traveller in these regions be squeamish over
+it, horribly suggestive as the body of a cooked monkey very certainly
+is in appearance, for monkey meat most frequently will be the only
+_plat_ on the dinner menu. It is the most ordinary food of the Indian,
+though monkey is not the easiest game to collect. The wounded or dying
+animal is very apt to clutch at the boughs in its agony, and the hand
+will contract in death and the body remain pendant. Even if it drop it
+will frequently stick in a forked branch out of reach; so that for one
+monkey eaten probably several are slain. Monkeys of all sorts, however,
+abound throughout the forest, and also marmosets, pretty little creatures
+with something of the squirrel about them.[172] Though I never saw the
+big-bellied monkey mentioned by Spruce,[173] I noticed a large number of
+spider-monkeys, with tails so prehensile that they serve as additional
+hands to convey fruit to their mouths. The supply of monkey flesh depends
+in the first instance on what provender there may be in the neighbourhood
+for those animals. Monkeys are wanderers, and when they have cleared
+one part of the forest of fruit and nuts, they migrate to another. The
+migration of game is a serious matter for the Indian, for all animals
+here are subject to periodical movements as noted in the previous
+chapter. It may result in the abandonment of a homestead when scarcity of
+animal life in a district drives the human inhabitants away.
+
+When it can be obtained a deer, or a sloth, furnishes a variety for the
+cooking-pot; and then there is the peccary, so dreaded by the Indian.
+The peccary,[174] the wild pig of the forest, lives in small herds,
+and the reason proffered by the Indians for their fear of the animal is
+that when one is wounded it sets up a loud cry, and the rest of the herd
+promptly come to its aid and join in attacking the aggressor. This story
+is universal among the tribes. The peccary has a deceptively harmless
+appearance. They have not all tusks, and in no case are the tusks very
+prominent; yet, so sharp are they, that the fearless and pugnacious
+creature can inflict a severe wound. The shoulder and leg are the parts
+prized for eating. I know of no temporary tabu connected with this
+animal, though it has been said that at times the flesh is unfit for food
+on account of a gland in the back.[175] This may, however, be the reason
+why the body is rarely eaten.
+
+Of birds, parrots are the most plentiful, and the toughest. For a hard,
+tasteless, and unappetising meal commend me to the carcase of that noisy
+bird. They require to be stewed for quite twenty-four hours, and that
+over a slow fire, or else the flesh is impossible to eat. Their chief use
+is in soup. Macaw, curassow, _piuri_ and _panje_, mocking-bird, toucan,
+and egrets all go to the family pepper-pot of the successful hunter, with
+the turkey of these parts, pigeons, partridges, herons, ducks, and geese;
+in fact quite a good assortment of feathered fowl.
+
+The frogs that make night hideous with their croaking provide the Indian
+epicure with one of his most esteemed dishes, for both frogs and snakes
+are considered delicacies, so that the traveller who pitied tribes
+like the Botocudo, because insects and reptiles formed a large part of
+their diet,[176] would simply be wasting his sympathy. Even the white
+man does not disdain the delicate flesh of the iguana, ugly though that
+green-bellied, black-ridge-backed reptile is. Turtles are caught and
+eaten during the dry season when the rivers are low. The native method of
+capturing them is to turn the unwieldly creature over on its back when
+asleep on the sand-banks. This renders the turtles perfectly helpless,
+though a snap from their powerful jaws will do serious damage.[177] The
+eggs also are eaten by these tribes, although none of the Issa-Japura
+tribes will touch birds’ eggs, for they look upon them as fœtal, and
+therefore unclean.[178] Further it is beast-like, in their opinion, to
+eat the liver, kidneys, and other intestines of animals, though these may
+be made into soup or hot-pot. For the same reason the Indian does not
+touch carrion.[179] But such niceness is outbalanced by tastes that in
+our eyes would be equally or even more filthy, for the Indian will eat
+vermin, and head lice are looked upon as quite a _bon bouche_. Hence a
+scurf-comb is a most important present, and to comb your neighbour’s hair
+and eat the “bag” an honour and a luxury.[180] They will also eat the
+grubs of wasps and bees, in fact any larvæ--nothing comes amiss to them.
+
+All the Indians--except the Menimehe, who, as mentioned, keep hives in
+their houses,--collect wild honey from the hollow trees and other places
+where the bees nest in the bush. Sometimes these insects make nests of
+a considerable size, that look like lobster pots full of black pitch
+hanging on the tree-trunks. The large cells are full of a thin honey that
+is used by the natives to mix with various drinks. The Indians are very
+fond of honey, and smoke the bees out to secure it. Bees are more common
+than wasps in these parts, and fortunately are less dangerous.
+
+Fish abound in all the rivers, though like the plants and animals they
+are smaller in the upper reaches than in the lower Amazon valleys.
+Robuchon gave the following as found in the Issa: Silurios of all kinds,
+that is to say _platysomas_, _planiceps_, _platyrhynchos_, _leopardus_,
+and the little _caudirus_ (_Serasalmys_), _Pygo_, _Cebras_, _Piraga_
+(_D. costatus et carinatus_); also many kinds of needle fish and
+shark-toothed fish. There is any quantity of skate in the Issa, though
+its power to inflict a nasty wound does not recommend it to the naked
+Indian fisherman. Some of the fish are very good eating; none better than
+the _uaracu_, which is said to feed on laurel berries.[181]
+
+It is when one turns to the vegetable world that one finds the staple
+food of the Amazonian native. The manioc is to the Indian the chief
+necessary of life. The sweet manioc,[182] although known to these
+Issa-Japura tribes, is never planted, because it is not appreciated by
+them. They prefer the poisonous species which, as its botanical name
+_Manihot utilissima_ implies, can be put to a multiplicity of uses. To
+eliminate the poison and render it fit for food, the manioc is subjected
+to several processes. So far as I could observe, or learn by leading
+questions, these are roughly as follows:
+
+The women bring the brown tubers of the manioc in baskets from the
+plantation. On their way up they stop by the river and cleanse the soil
+from the roots, which are like a small beet in appearance, but white when
+peeled. The manioc after it has been washed and soaked for a short time
+is next scraped by means of a sharp wooden knife in order to peel off
+the thin adhesive skin, similar in substance to that of a potato, but if
+anything thinner. Sometimes the women instead of using a wooden knife
+simply scrape the skin off with their teeth. The peeled roots are washed
+in the river again, and taken up to the house. Each root is then cut
+longitudinally into three or four sections, which are put in a bowl near
+the fire and left to soak for twenty-four hours. When, at the end of this
+time, the manioc is sufficiently softened, they place a piece or two of
+rotten manioc in the bowl with the fresh stuff. The object of this is to
+promote fermentation and thus to extract the poison from the fresh root.
+
+The next process is to mash the manioc, and for this purpose it is
+all--both fresh and rotten--removed from the pan and grated into a large
+wooden trough, with the special implement that has black palm-spines
+inserted in the soft wood for teeth. The grated pulp is removed from the
+trough and put into a cylindrical palm-cane wringer, the cassava-squeezer
+which is used by the Boro, the Andoke, the Resigero, the Okaina, and all
+tribes to the north. The Witoto and other tribes on the south use a long
+rectangular palm-fibre wringer, which is twisted to form a cylinder in
+the same way as a puttee is wound round the leg. In this elastic cylinder
+it is compressed till all the poisonous juice has been drained away, when
+the remainder, a coarse kind of flour, is placed in an open pan and left
+to get thoroughly dry. Afterwards it is rubbed between the hands to make
+it finer.[183]
+
+The next operation is to sift this flour through a basket sieve. Any
+coarse stuff that does not rub through the sieve is thrown away. The fine
+residue is baked in a clay platter, and should be turned over with the
+hands once during the process. No water is added to the flour before it
+is baked.
+
+This flour is kneaded with water, put in a pan and cooked over the
+fire. The result, the cassava bread, is leathery and tough, and when
+one speaks of “bread” unleavened bread must be understood. It is never
+allowed to brown, the outer crust is merely hardened, and as a result the
+cassava cake has always a raw uncooked taste. But I found that if one
+of these native cakes were cut in small pieces and fried in animal fat
+till crisply toasted, it was quite good eating, better if anything than
+ordinary bread.
+
+The Boro leave the starch in the cassava flour, so their bread is more
+sustaining than Witoto bread, as Witoto women remove the starch and use
+it for other purposes.[184] Boro bread is also thicker, and when pulled
+apart is of a stringy consistency.
+
+
+Spruce mentions a manioc oven,[185] but this is quite unknown to me. All
+the tribes I visited cooked their cassava on large earthenware plates
+on an open fire. Nor could they prop their cooking utensils on stones,
+for--as has been noted--stones there are none in these districts. The pot
+is put simply on the three logs that compose the fire where their ends
+meet. The hot embers in the centre give plenty of steady heat, and if
+more be required the pot must be placed on a tripod of branches and the
+embers fanned with a palm-leaf to a flame.
+
+Among the Andoke manioc is peeled by the women with their teeth, and then
+washed. The roots are pulped with a grater, and the starch is washed
+out by adding water to them in a basket suspended on a tripod over a
+calabash. The partially prepared manioc is left till required for use and
+will keep in this state for a week at a time. When they wish to use it
+the grated pulp is strained in a cassava-squeezer, then mixed with starch
+and sifted through a sieve. The fine stuff is baked immediately, and the
+water that was drained off in the wringer is boiled up at once to make a
+sweet-tasting drink. The starch will keep for a month.
+
+Among the Boro and Witoto the manioc water is boiled till it thickens,
+and is then used as a sauce into which the cassava is dipped before it is
+eaten. Another way of eating cassava is to dip it in soup. The Boro on
+the Japura concoct a sauce of the consistency of paste by seasoning the
+manioc water with peppers and fish.[186]
+
+Though the tuber is the most valuable portion of the plant it is not the
+only part used for food. The leaves may be eaten as a vegetable. They are
+boiled till quite soft; pounded very fine with a pestle; fish, worms,
+frogs, ants and peppers are added as seasoning, and this brew is eaten
+with cassava bread and with meat. Another method of preparation is to
+take the leaves and cook them in the water squeezed out of the roots in
+the wringer. This sauce is boiled in an earthenware pot suspended from a
+cross-beam, or placed like the earthenware pan on a triangle of sticks,
+over a slow fire, until the leaves become a paste. This is carried in a
+palm-leaf as an emergency ration by an Indian when going into the bush.
+
+Cassava, then, is the Indian’s “staff of life.” Its complement is the
+hot-pot, or pepper-pot, which is a “generous” soup supercharged with meat
+that forms the staple, while the liver and so forth are added to enrich
+the brew. It is a standing dish with the aborigines. Each family has a
+big pot that simmers constantly over the special fires. Into this go
+all things, and it is replenished daily from the proceeds of the kill.
+Portions of animals that may not be eaten--blood, brains, intestines--can
+be utilised in the stew; and everything is very highly qualified with
+peppers, the chief stimulant in native diet.
+
+Wallace has suggested that the excessive use of peppers is due to the
+lack of salt.[187] This very serious need is not without considerable
+influence on the Indian, and it is possible--as has been suggested--that
+it is at the root of more than over-indulgence in pepper. Mineral salt is
+not to be had,[188] except by barter, throughout the middle Issa-Japura
+regions; and what little the tribes can obtain is chiefly secured by
+burning certain plants with saline qualities.[189]
+
+On account of its rarity salt is much sought after, and a present of salt
+is always highly appreciated.
+
+
+The Indian feeds at sunrise after he has had his drink of “tea” and his
+first bath. This morning meal is an informal one of cold cassava cake,
+and any meat that may have been left uneaten overnight, or a dip in the
+hot-pot. He eats sparingly, and never takes much of a meal if a day’s
+march or a hunt is in prospect. Nor does he carry food with him, unless
+he be going on a journey. Coca, which of course is but a stimulant, is
+sufficient sustenance in his opinion. Still, he will eat a little at any
+time it may be possible, and there is usually no lack of fruit for the
+taking in the bush.
+
+The great meal of the day is towards sundown when the hunt is over, the
+quarry killed and cooked.[190] Then all the men, squatting round their
+private family fires in the big house, help themselves from their hot-pot
+and eat to the limit of its contents. An Indian will not take a bite
+at his food; he tears whatever he is eating into small pieces with his
+fingers. Among the Issa-Japura tribes, as with the Tukana, men and women
+do not eat together, and the children feed with the women. None of the
+tribes have any special observances or purifications before or after
+eating, so far as I am aware, nor are there any general restrictions,
+except so far as carrion and the intestines are concerned. But even
+these may at a pinch be made use of without prejudice, by resorting to
+the simple expedient of blowing, or rubbing with a magic stone, the two
+antidotes for all evils with the Indian. There are temporary food tabu
+for women, and certain prohibitions for children. These will be dealt
+with later.
+
+The usual method of cooking is to rest the pot as described on the
+fire-logs themselves. Sometimes the pot is placed, like the pan for
+baking cassava, on lumps of clay, or on a triangle of sticks roughly
+made for the occasion. The sticks must be long in comparison to the
+height from the ground that is required, and are not tied, but merely so
+adjusted that each supports and locks the others. Such a tripod makes a
+firm seat, though never employed by the Indians for that purpose. I have
+never seen pots hung. The pot is covered with a single leaf, and the soup
+is stirred with any stick that comes to hand at the moment; there are no
+special ones, nor are any fashioned for use as ladles. Meat is almost
+invariably put in the hot-pot, but occasionally it is toasted over the
+fire.
+
+When the women have cooked the food the men help themselves from the pot;
+they are not waited upon by their women. An Indian will help himself from
+the hot-pot at any time the fancy may seize him, or, for that matter,
+from any hot-pot, so long as the owner thereof is present. The tribal or
+chief’s fire carries the tribal hot-pot, which is open to all, as all
+contribute to it, at least all the unmarried warriors must do so. This is
+the hot-pot which always remains, and the fire that never dies out. The
+family hot-pot and fire is the concern of each individual family only.
+
+Fruit is to be had in plenty, and throughout the year in this country of
+endless summer. Not being a botanist, and aware that some of the most
+tempting fruits held latent poison under an alluring exterior, I was
+most chary of eating fruit unknown to me, and never touched any until
+quite satisfied of its wholesomeness from its effects on the Indians;
+nor, mindful of the fact that the Indian will, and apparently can, eat
+anything, would I venture to eat many fruits the Indians partook of as a
+matter of course. Sweet and ripened fruit is rarely eaten by them; they
+prefer a bitter taste, and, as mentioned in connection with sugar-cane,
+have no particular use for anything sweet. The Indian will gather fruit
+and bring it to the house, though the usual custom is to pluck and eat it
+in the bush. So far as I was concerned especially, it was brought in as a
+present to denote good-will.
+
+One fruit the Indians grow in the plantations resembles and tastes like
+grapes.[191] It is very plentiful, particularly in the old plantations,
+and the Indian will often return to one of these in order to obtain this
+fruit. Another fruit, also found growing in old plantations, is the
+colour of a lemon, and the size and shape of an orange. It is very good
+eating, extremely sweet when ripe, with huge black pips, and the part
+immediately under the skin is gummy, like rubber latex, and sticks to the
+mouth.
+
+A fruit we knew as the mauve berry is found at the top of trees. In size
+it approximates to a red currant, and it grows in large bunches. The
+colour is a light pinky mauve. It is intensely sweet, and according to
+popular report has an intoxicating effect upon the eater. It certainly
+appears to have very heady properties.
+
+Various palms furnish palatable fruits. There is a small edible palm from
+which the Indians strip the bark after they have cut it down, and remove
+the cylinder of hardened sap which is of the same consistency as a hard
+woody apple. It is heavy but rich-flavoured and good eating. Then there
+is the cabbage palm, not to mention the pupunha.
+
+Nuts and seeds abound. There is a large oval seed in a fleshy envelope
+that birds feed on freely, and another fruit with a large stone is the
+wild alligator pear. The stone of this is more than one-half the size of
+the whole fruit. It is delicious in taste, and is looked upon by both
+whites and natives as a great delicacy. In shape it resembles a pear, and
+in colour it varies from green to yellow or russet.
+
+
+CHAPTER X
+
+    Drinks, drugs, and poisons: their use and
+    preparation--Unfermented drinks--_Caapi_--Fermented
+    drinks--_Cahuana_--Coca: its preparation, use, and
+    abuse--_Parica_--Tobacco--Poison and poison-makers.
+
+
+If the Indian eats but little during the day, he drinks to excess
+whenever opportunity offers. In the early morning a beverage somewhat
+akin to tea, but colourless, made from an infusion of bitter herbs, is
+taken. It has some tonic properties, and when I drank it seemed always
+to have a slight taste of peppermint. This herb infusion is the first
+meal of the day. It is drunk out of half-gourds, after the morning bath,
+before the members of the household disperse to their varied avocations.
+I am under the impression that this decoction is made from a species of
+grass, and not the _Ilex paraguayensis_ from which _mate_, or Paraguay
+tea, is made. It is probably the lemon grass mentioned by Simson.[192]
+The Indians also scrape the seeds of the _capana_, mix in some cassava
+flour, and wrap up the mass in plantain leaves. This is left to ferment
+in water, till it is the colour of saffron; then it is dried in the sun.
+This is drunk as a bitter tea in the morning when diluted in water.
+
+The Indian drinks enormous quantities of water, or unfermented liquor, at
+times, and afterwards can abstain like a camel for a considerable period.
+He never drinks when eating, but afterwards. At a feast or a dance when
+he is unable to drink more he simply pokes his fingers down his throat,
+with the result that room is made for renewed doses of his non-alcoholic
+beverage.
+
+
+The principal unfermented drinks made by these tribes are prepared from
+manioc, and from various fruits. The first is made from the grated manioc
+by merely squeezing out and boiling the water, and is thus a by-product
+of cassava in the making. This leaves a sweet drink, which is certainly
+insipid and is not considered to be healthy. The moisture squeezed out of
+the “squeezer” is boiled and boiled again into a rather thick drink. This
+is used more as a sauce into which cassava is dipped than as a “clean”
+drink. It still contains, I believe, a minute percentage of hydrocyanic
+acid.
+
+Another beverage is prepared from roasted pines. The juice is squeezed
+out, and this liquid extract is ready to drink without further process.
+Plantains, bananas, and other fruits, grated and mixed with starch
+obtained from the manioc tubers, are boiled and flavoured with local
+spices to make another concoction. A thick yellow liquid prepared from
+the _Patana_ palm is the national drink of all these Indians, except
+the Menimehe and Kuretu, who make fermented drinks from pine fruit. The
+_Patana_ fruit is boiled and broken with the hand in water, so as to mix
+up the pulp and allow the heavy skins to fall to the bottom of the pot.
+These and any fleshy remainder are strained away in a sieve, and cassava
+flour is added to the liquid, which is drunk while warm. This drink is
+known as _patana-yukise_ in lingoa-geral. There is a vegetable milk
+that is consumed by the Indians, which I take to be the cow-tree milk
+mentioned by other travellers.[193] I do not think it is very plentiful
+in these regions, and for my own part never saw nor tasted it. It is a
+creamy, sticky fluid, obtained by lacerating the bark, that can be drunk
+when fresh. I am certain these tribes do not use it for any cooking
+purposes, and do not think it is ever stored in their houses, but is only
+drunk in the forest from the tree.
+
+There are intoxicating drinks among the Menimehe and the tribes north
+of the Japura, but among some of these northern tribes the men drink
+_caapi_,[194] which is strongly erotic. I would suggest that _caapi_
+is unknown to the tribes south of the Japura, except probably to their
+medicine-men. It would account for the frenzy of the latter when
+diagnosing disease, and so forth, which quite corresponds with the
+descriptions given by Spruce of the effect of _caapi_.[195]
+
+The plant from which _caapi_ is prepared is grown in plantations by
+Indians on the Uaupes and Issanna rivers,[196] and by other Rio Negro
+tribes. The drink is made from the stem, mixed in a mortar by the Uaupes
+Indians with the roots of the painted caapi.[197] The pounded mass is
+rubbed through a sieve, and water is then added. Women are not even
+allowed to touch the vessel that contains the _caapi_. This intoxicating
+liquor is unknown to me, but I heard that the Karahone and other tribes
+had this strong drink. Though known on the Uaupes to all the tribes it is
+said to have only a confined use on the Rio Negro.
+
+Other drinks that are to be found north of the Japura are prepared from
+fermented maize, and manioc.[198] _Caxiri_, or manioc beer, is used by
+the Menimehe, the Ticano and Kuretu. Tribes on the Napo drink _masato_,
+which is also made from manioc that has been partly masticated by the
+women and then left to ferment.[199] They make another fermented drink
+from bananas, but pines are principally employed as they contain more
+sugar for fermenting purposes.
+
+Before a dance the women of the Issa-Japura region prepare great store of
+_kawana_, a drink made from the yellow pulp of a pear-shaped fruit,[200]
+not unlike a mango, with a large black seed in the centre.[201] The
+liquid is stored in the large vessels made by the primitive process of
+stripping off a sheet of bark and setting it end up on the hard ground.
+These are usually to be found at the chief’s end of the tribal house. One
+of these impromptu vats will hold as much as thirty gallons.
+
+By far the most important of the stimulants taken by these peoples are
+the preparations made from the leaves of the common coca shrub.[202]
+Coca is the mescal of the Indian,[203] and possibly a heritance from the
+Inca invaders of bygone centuries.[204] The use of coca is habitual, not
+intermittent. An Indian will take as much as two ounces a day.[205] All
+Indians use it, the Bara in especial being heroic coca-takers.
+
+To prepare coca for use the sage-green leaves are carefully picked and
+fire-dried. They are then pounded with other ingredients in mortars made
+from small tree-trunks. The pestle shown in the illustration is made of
+mahogany. Beside the coca leaf the Indian pounds up lime that is procured
+by reducing to ashes certain palm leaves,[206] baked clay that is scraped
+from underneath the fire, and some powdered cassava flour. Whether these
+leaf-ashes are a form of calcium I do not know. In the Sierra powdered
+coca is mixed with pulverised unslaked lime, or with the ashes of the
+_Chenopodium Quinoa_. As this latter is one of the distinctive Sierra
+flora, I presume the Indians of the forest have found some substitute in
+the bush. The drug is carried in a bag, or beaten-bark pouch, that is
+worn suspended round the neck. The clay and palm-leaf ashes certainly
+neutralise the bitterness of the pure leaf, and it is possible that in
+these foreign ingredients the Indians have discovered an antidote, if
+such there be, to the worst effects of the drug.
+
+The Indian by means of a folded leaf shoots the powder into the cheeks on
+one or both sides. This when moistened forms a hard ball, and with such
+a wad stuffed between the cheek and the teeth he can go without sleep,
+food, or drink, for several days. Coca is not swallowed, but gradually
+absorbed and passed down with the saliva.[207]
+
+As to cocainism, we know that the Indians are veritable cocaino-maniacs,
+or rather coca-maniacs. It is a matter of great regret to me that I was
+unable to make observations--may I say psycho-medical observations--on
+Indians under the influence of this drug. Perhaps it would be more
+correct to say that it was not possible to observe one not to some extent
+under its influence, for it must be remembered that the use of the drug
+is so continuous that it is difficult--one has hardly the opportunity--to
+differentiate. Whether coca permanently injures the higher brain
+centres, as has been suggested,[208] is unknown to me, as unknown as the
+Indians themselves before they developed the heroic use of the drug.
+The evidences of its effect are contradictory in the extreme, and vary
+in individual cases. In my own case hunger and thirst were eliminated,
+but I was unable to establish a tolerance for the drug, and after many
+vain attempts gave it up, except when food was scarce and anything was
+preferable to the pangs of hunger. I was certainly able to make greater
+efforts without food, but its effects were evanescent in the extreme, and
+were soon followed by acute vomiting and cramp in the stomach. The nausea
+may have been due to the foreign substances with which the powdered
+leaves are mixed and not to the coca, but on that point only a trained
+opinion could be of value.
+
+Even on the question of its influence on the appetite it is difficult to
+give any clear ruling. My own experience was that it utterly destroyed
+the appetite. Possibly the Indians’ “tolerance” accounted for the fact
+that despite the use of the drug they invariably eat heartily when
+opportunity permits.
+
+The dilation of the pupil caused by the use of the drug is marked in the
+Indian, and gives a curious expression to the eye. On account of the
+darkness of the iris this is not so markedly noticeable as would be the
+case with grey-eyed peoples.
+
+The Tuyuka and other tribes north of the Japura use as a stimulant
+_parica_ or _niopo_, a wonderful snuff which is a strong narcotic, and
+very similar in its effects to coca.[209] It is made from the dried seeds
+of a mimosa,[210] and, like coca, is mixed with quicklime,[211] and baked
+clay.[212] The seeds are roasted, and then pounded in a shallow wooden
+mortar, and the snuff when made is packed in snail-shells[213] and is
+inhaled through hollow bird-bones inserted in both nostrils. It is used
+for curative purposes by the Uaupes Indians.[214]
+
+The Menimehe and Yahuna tribes take snuff, but they neither smoke nor
+lick tobacco. The Uaupes Indians smoke enormous cigars,[215] but none of
+the tribes south of the Japura smoke their tobacco; it is only licked.
+After the tobacco leaves are gathered they are soaked, and then pounded
+in a mortar by the men. Tobacco, it must not be forgotten, is tabu to
+the women in any form, and it may be noted here that tabu on drink and
+drugs is far stricter than any tabu on food. The latter are intermittent,
+enforced only in special cases, or at certain times or ages; but the tabu
+on coca, aya-huasca, caapi and tobacco is always binding on all women.
+A little thickened cassava starch is added, which makes the mixture into
+a stiff dark liquid, to be used either privately or ceremonially, as
+already described. The tobacco-pot shown in the accompanying illustration
+is made of a thick and hard nut-shell, with apparently natural holes that
+are stopped with pitch.[216] Two artificial holes have been bored through
+for the string. It is about two and a half inches long, by one and
+five-eighths wide. The oval hole at the top is five-eighths of an inch
+across, and through it the point of a stick is inserted when the tobacco
+is to be taken.
+
+The ingenuity with which the Indians prepare cassava flour, their
+staple provender, from a poisonous root, though notable, is ordinary
+in comparison with the intricate processes which the poor Indian’s
+“untutored mind”[217] has elaborated for the preparation of various
+poisons. Natural poisons abound in the forest. There is one tree known
+as the poison-tree and credited with most deadly properties.[218] On the
+Issa and Japura an arrow-poison is made from putrefying animal matter
+mixed with strychnos. Good poison is very rare, and very much in demand.
+The most potent preparation is made by the Karahone, who have great
+knowledge of poisons and are by far the cleverest toxicologists. The
+Menimehe understand poisons to some extent, but are not the equals of the
+Karahone, from whom most of the tribes obtain their poisons by barter.
+But poison of some sort is always manufactured by every medicine-man.
+
+
+The most important poison is the _curare_.[219] It is made from two
+plants, called by the Witoto _ramu_ and _pani_ respectively.[220] The
+complicated recipe is a treasured hereditary possession.[221] The wood
+of the _Strychnos toxifera_ is the most necessary ingredient in the
+manufacture of _curare_. It is pounded in a mortar, and the sap, mixed
+with water, is strained and boiled with peppers, ants, and a variety of
+more or less noxious material.[222] When it is sufficiently inspissated
+it is put into the small pots, about an inch and a half in diameter, in
+which these Indians carry it round their necks, in readiness to smear on
+the palm-spine points of their darts, arrows, and javelins.[223]
+
+
+CHAPTER XI
+
+    Small families--Birth tabu--Birth customs---Infant
+    mortality--Infanticide--Couvade--Name-giving--Names--Tabu on
+    names--Childhood--Lactation--Food restrictions--Child-life and
+    training--Initiation.
+
+
+Though so recognised an authority as Bates is responsible for the
+statement that the fecundity of the Amazonian Indians is of a low
+degree,[224] because as many as four children in one family are rarely
+found, it is open to doubt whether he and his successors have not in
+this instance confounded effect and cause. It is certainly true that the
+normal number for a family is but two or three, yet that this is not a
+question of fertility the high percentage of pregnant women would seem
+to disprove.[225] The numbers are remarkable in view of the fact that
+husbands abstain from any intercourse with their wives, not only during
+pregnancy but also throughout the period of lactation--far more prolonged
+with them than with Europeans. The result is that two and a half years
+between each child is the minimum difference of age, and in the majority
+of cases it is even greater.
+
+The main reason why there are these limited families, is, in my opinion,
+not a diminishing birth-rate, but an enormously high percentage of
+infant mortality. The test of the survival of the fittest is applied
+to the young Indian at the very moment of his birth, for the infant is
+immediately submerged in the nearest stream, a custom that easily leads
+to infanticide in the case of an unwanted child, or one with any apparent
+deformity.
+
+Another accepted opinion with which I am not in agreement is that these
+girls become mothers at a very early age, and that when only fourteen
+years old themselves may have already had two children, as is said of
+tribes on the Tikie. My experience has been that these peoples do not
+arrive at the age of physical maturity even so early as white races,
+probably owing to lack of nourishing food and perhaps in some degree to
+the retarding and depressing effect of the forest environment.[226]
+
+These Indians share the belief of many peoples of the lower cultures
+that the food eaten by the parents--to some degree of both parents--will
+have a definite influence upon the birth, appearance, or character of
+the child.[227] Before the birth of an infant the mother has to submit
+to certain definite food restrictions, which vary with different tribes
+in some slight degree, but are all rooted in the same idea. Among some
+tribes all animal food is forbidden to any woman throughout the entire
+period of pregnancy, and this precludes her from share in the tribal or
+family hot-pot. Among the tribes of the Tikie and elsewhere tapir flesh
+is prohibited, not so much because it is considered unhealthy, which on
+account of its richness it certainly would be,[228] but because if a
+mother partook of any it would be looked upon as tantamount to allotting
+the visible characteristics of the animal to the unborn child. From a
+like cause these Indians imagine that the child would have the teeth of
+a rodent did the mother eat capybara during the months of her pregnancy;
+it would be spotted like a paca if she ate that beast; or, if she ate
+bush-deer flesh, which is tabu to all women after marriage among the
+Kuretu-language group, the venison would make the infant deformed.
+Peccary is tabu among many tribes, and with the Witoto during the last
+month of pregnancy the mother’s food is limited to one kind of small
+fish, with cassava and fruits.
+
+The belief that ill will befall the unborn infant if the mother do not
+regularly adhere to dietary laws is strictly held by both men and women.
+To give birth to a deformed or disfigured child is the most disgraceful
+calamity that can happen to any woman, and therefore all possible
+precautions must be taken, and any animals reputed to possess undesirable
+characteristics are naturally forbidden, lest the unborn child should in
+any way resemble the appearance or take the characteristics of the animal
+concerned. The prohibitions are, therefore, definitely tabus, inasmuch as
+they are believed to entail the penalty of deformed or malignant progeny
+upon the transgressor, a belief very binding on people who hold that to
+some extent the consumer absorbs the characteristics of aught that is
+eaten.
+
+Nor do all these tabus concern the mother only, for the father also
+among some of the tribes must abstain from meat a short time before, as
+well as after, the child’s birth.[229] This recognition of a definite
+connection between the father and the child, a more intimate connection
+than civilised peoples recognise, is to be noted, and should be borne in
+mind when considering the curious custom of the couvade, which must be
+recorded anon.
+
+Whatever the weather may be no accouchement ever takes place within the
+house.[230] When birth is imminent the expectant mother will go out into
+the forest with some trusted older woman, or alone, for the Indian wife
+is quite willing to take full responsibility without any further aid.
+Among some of the tribes north of the Japura the mother is accompanied to
+the forest, and assisted while there by other matrons, who have their
+faces painted red. But the Boro and the Witoto women go unattended or
+with but one female attendant. Neither the husband nor any other man is
+permitted to be present whatever the circumstances.
+
+The shelter of the forest gained, the woman makes a small clearing, and
+spreads a bed of leaves on which she sits down.[231] Her trouble is not
+of long duration. When the child is born she ties the umbilical cord with
+fibre-string, and then bites it through,[232] or cuts it with a wooden
+knife. This done she at once proceeds to the nearest water and bathes,
+after which she returns to the house. She wears no covering or bandage.
+
+The infant is taken with her to the river and is washed and ducked. If it
+survive this drastic treatment its body is covered with what the Witoto
+call _hittagei_, that is, rubber latex, over which a brown or red clay is
+smeared. Hardenburg relates that he was told this was done by the Witoto
+“in order to keep it warm.”[233] I have often seen the process carried
+out, but the warmth theory never occurred to me, and none of the Indians
+suggested it as a possible reason or gave any explanation of the custom.
+
+As I have said, with all these tribes infant mortality is very great. The
+custom of submerging the new-born child undoubtedly causes an immense
+increase in the number of deaths. This led me to inquire why they
+persisted in such a fatal course, but one and all said that if the child
+was not strong enough to survive it had better die. This is the Indian
+attitude, and explains much of the seemingly ignorant or harsh treatment
+to which young children are subjected.
+
+Indians do not care to have large families. To support a number of
+children would often be a matter of grave difficulty.[234] But fœticide
+is not practised, and abortion is probably unknown except to the
+medicine-men, who would only procure it for their own purposes or
+protection. Should destruction for any reason be desired, the birth would
+be allowed to take place, and the child afterwards killed “accidentally”
+during the subsequent lustration. Bastard children are undoubtedly
+destroyed, and the second of twins is left in the bush by the mother
+before immersion; or, among some of the tribes of the Kuretu, if the
+babies are of both sexes it is the girl that is killed, whichever may
+have been born first. Otherwise they kill the second, because it is
+obvious that the second is the transgressor, it had no right to come, and
+it is a disgrace to bear twins, as these people hold the opinion that to
+be delivered of more than one child at a birth is to lower themselves to
+the level of the beasts. The act of killing is performed by the mother
+secretly, at the parturition if possible, and the body would be concealed
+by her in the bush.[235]
+
+
+The act is not due merely to cruel or callous disregard of infant life.
+If to be sickly and deformed is an undesirable state, the Indian sees
+no reason why any unfortunate being should be condemned to live in such
+a condition; and, moreover, the sufferer must handicap others as well
+as itself in the strenuous race of life. Therefore deformed children
+are never seen. A child that is discovered to be in any degree abnormal
+or sickly at birth is allowed to die on immersion, by the very simple
+method of holding it under water till life is extinct. If, however, the
+deformity is not discovered till after the child has been brought to
+the tribal house, the medicine-man is called in to deal with the case.
+If the mischief be beyond his power to remedy, he declares that it was
+caused by some evil spirit and may work ill to the tribe,[236] so as a
+precautionary measure the wretched little creature is taken out and left
+exposed in the forest, or some tribes go as far as to bury it alive.[237]
+This is done with no intention to cause unnecessary suffering, but simply
+that as it had to die it might as well die by suffocation as by any other
+means.
+
+If there were an epidemic of deformed or sickly cases among the newly
+born it would most probably lead to a tribal blood-feud, as it would
+be most assuredly put down to the evil intention and craft of some
+enemy. Who the latter might be it is the province of the medicine-man to
+determine.
+
+Except in the above instances intentional infanticide is not common.
+Unintentionally it would seem to be very frequent. It might further be
+resorted to in time of famine, if lactation should be difficult or if the
+mother were to die.[238] I know of one case where a child on the death
+of the mother was thrown to the dogs--wild dogs are the voracious beasts
+of the forest. On another occasion the infant was buried with its dead
+mother, though this would not have been done had any one been willing to
+adopt it. Both these cases occurred among the Witoto.
+
+Koch-Grünberg found that among the Tuyuka the houses have a small chamber
+at the end where a man and his wife stay after the birth of a child.
+There is no such thing among these tribes.
+
+The day after her delivery the mother presents the infant to its father,
+and then, as though nothing had happened, goes back to her work in the
+plantation, and spends the day toiling in the fields as usual. She will
+only return to feed the child at night. But the father remains in the
+house with the baby, for he in his turn must submit to definite tabus,
+the restrictions and prohibitions of that curious custom known as the
+couvade, “a live growth of savage psychology,” as E. B. Tylor calls
+it.[239] The baby lies in a hammock and the father lounges in his, and
+there, with some tribes, he will remain for from three to six weeks.[240]
+The Witoto are more casual in this observance than the Boro. Colour seems
+to be given to the theory that couvade marks a stage of emergence from
+matrilineal to patrilineal organisation, by the fact that among those
+tribes where relationship is counted on the father’s side couvade is
+apparently practised far less strictly, and only in a limited form, as
+compared with the descriptions of couvade given by other writers among
+tribes such as those Sir Everard im Thurn studied in British Guiana,
+where definitely matrilocal customs are still extant.[241] But, however
+limited the restrictions, in all cases the father abstains from hunting
+until the child’s navel is healed. He must not touch his hunting weapons
+even,[242] nor may he eat the flesh of any animal that has been hunted,
+which, as regards animal food, is practically the same tabu as exists for
+the mother before the child’s birth. Fish and cassava form his diet, but
+coca is not tabu.
+
+Yet, despite his enforced deprivations, the Indian father enjoys himself.
+He has, in fact, a very easy time of it, which may go to confirm him in
+his quite genuine belief that his actions are of substantial benefit to
+the child.[243] Friends will assemble in numbers to express their joy
+at the happy event; they will even come from great distances for this
+purpose. There is much talk, and all exchange coca and lick tobacco.
+In the midst of the congratulations the medicine-man will arrive to
+deliver his opinion, given after due consideration, of the points
+of the new-born. Congratulations will be interspersed with numerous
+ventral grunts, as signs of assent and approval, with the decisions
+enunciated, on the part of the proud parent or his visitors. The orations
+will be interrupted by the ceremonial licking of tobacco between the
+medicine-man, the father, and his visitors.
+
+After eight days the child will be named by the medicine-man and the
+assembled family. The name given among all these tribes is generally that
+of the father’s father, if the child be a boy. With the exception of
+further ceremonial tobacco-taking there is no ritual.
+
+Boys are called as a rule by the names of animals or birds;[244] girls
+are given the names of plants and flowers. For instance, among the
+Boro a common masculine name is _Pimwe_, which is the name of a white
+water-bird; or _Eifoike_ among the Witoto, _eifoike_ being their name for
+the turkey-buzzard. My own name among the Witoto was _Itoma_, which means
+the sun, that sound being the nearest to Thomas that they knew. The Boro
+called me _Pimwe_, the white ibis, on account of my white bath-gown.
+
+No Indian ever uses his name, nor is he called by it when spoken to by
+his companions.[245] One will speak to another as _tanyabe_,[246] that
+is to say, “brother,” or _Iero_,[246] _Moma_,[247] that is, “father”;
+in the case of a woman it would be _Gwaro_,[246] _Rinyo_,[247] which
+is “mother,” or _Tanyali_,[246] “sister.” They will never address each
+other in more direct fashion, and if one of the speakers is not a member
+of the household, and therefore no relationship exists between them,
+they will make use of some expression equivalent to our “comrade,”
+“man,” “girl,” or other generality. The Boro, when they wish to call the
+attention of a man, cry _Mupe!_ of a woman, _Muije!_ As I obviously stood
+in no relationship to any of my companions, the usual congenital term of
+address could not be used in my case, and if I chose to run the risk of
+giving my enemies power over me through knowledge of my name that was my
+own affair.
+
+This objection to divulging the name is too widespread to need
+comment.[248] The Indian of the Upper Amazons is on this point not so far
+removed from our own old-fashioned country-folk.[249] But at the same
+time, though they would not divulge their own names they were invariably
+most curious to get hold of mine, and made great efforts to pronounce it.
+_Whiffena_ was the usual outcome of such attempts. I also found that the
+Indians had no objection to making use of any name I might give to them,
+presumably because, not being their true name, no magical dangers were
+possibly incurred through its use, such as would be probable did I call
+one of them by his or her own proper name.[250]
+
+Among some tribes the name of a deceased person will be given to some
+surviving relative.[251] This is looked upon as an honour to be bestowed
+on the greatest friend of the deceased,[252] and thereafter this new name
+is considered his private name, and the one originally his thenceforth
+ceases to concern him in any way.
+
+
+With the naming of a child the formalities connected with its birth
+are at an end, and once the navel is healed the father’s share in the
+ceremonials is completed. With his return to ordinary life the infant
+reverts to the charge of the mother. Day and night the child remains with
+her. It is carried out into the fields when she sets forth on her day’s
+toil among the manioc and pines, and is brought back to the fireside at
+night when she returns to cook the evening meal. The Witoto women, in
+common with other tribes in the vicinity, carry their infants in a sling
+of beaten bark-cloth that is passed round the forehead and hung as a bag
+behind. At a less tender age they will seat them on the hip, and small
+girls may often be seen with a smaller brother or sister astraddle round
+their waists.
+
+The Indian mother will suckle her young for three years, or even longer,
+and at least during the earlier nursing will have no connection with her
+husband. This long period of lactation is certainly due in a measure
+to the scarcity of food. There is no artificial supply or substitute
+obtainable in place of the natural provision. If the mother cannot feed
+it the child must starve. The child is fed wherever the mother’s duties
+may take her. On many occasions I have seen a child that is running about
+and playing, suddenly toddle up to the squatting mother intent on her
+cassava making, and still standing suck for a few moments and then toddle
+away. Not less remarkable is it to see the women milk themselves into a
+palm-leaf, a very usual custom after the children’s teeth develop. The
+leaf is rested on the palm of the hand, which gives it the necessary
+cuplike form, and from this the child is fed.
+
+The prohibitions with regard to certain foods that affected the parents
+before and immediately subsequent to childbirth, continue in force
+afterwards so far as the children are concerned. Such tabus are more
+strictly enforced on the girls than on the boys; and their diet is
+neither plentiful nor seemingly of the most nourishing description.
+Cassava cakes and fruits are permitted them, and some of the smaller bony
+kinds of fish among fish-eating tribes, but none of the better kinds of
+fish, and no game, until they attain maturity.
+
+There is no childhood as others know it for the little Indian. By this
+I mean no innocent childhood. These forest children from birth see all
+the life of their elders, hear all things openly discussed, and the very
+games and jests of the babies are tainted with what we should consider
+obscenity.
+
+Children are primarily under the authority and protection of the father,
+but any authority on the parent’s part is very slight, and ceases to
+exist altogether where the boys are concerned once the age of puberty is
+reached. Of course even a married son shows respect to a father if they
+are living in the same house. Girls, as they are in the care of their
+mothers or some responsible elderly matron of the tribe until their
+marriage, must be more under authority; and virginity, as with us, is
+strictly protected so far as is possible.[253] But in the main it may
+be said that parental control is only a semblance, and filial piety,
+so characteristic of the Inca and the Chinese, is practically unknown:
+indeed, though the smaller children seem very fond of their parents,
+after a few years it appears to be almost fashionable to disregard
+parental authority entirely.
+
+A child is not considered responsible for any damage it may contrive to
+do. If it commit any mischief that entails loss to others compensation
+is claimed from the parents, but no chastisement would in consequence be
+meted out to the little offender. Children are never beaten, whatever
+their offences, and rarely punished. They are looked upon as the
+potential warriors and mothers of warriors, and treated very differently
+to the old and worn, who may be left to forage for themselves. The
+parents, in fact, show great affection for their children, despite the
+stoical way in which infant lives are sacrificed. Often have I seen the
+father, who would on no account carry food or any part of his woman’s
+burden, however heavy, give his small son a lift over the bad ground.
+Although he will never play games with his children as western folk do,
+the Indian father will do his best to please the youngsters and make them
+happy. He will make little javelins, a small blow-pipe, a toy sword for
+the boys. They have their miniature weapons from the tenderest years,
+and imitate their fathers in all that they do, just like the girls, who
+go with their mothers to the plantations, and take a share in women’s
+work as their form of play, and shoulder a share of women’s burdens when
+hardly more than babies themselves. Their games, in short, are all
+mimetic. They have no games with string or balls.
+
+It follows naturally enough that there is little or no elaborate ritual
+of initiation among most of these tribes, so far as I was able to
+ascertain, for no part of a man’s life is kept secret from a child. The
+elders simply take the young of each sex apart and teach them. Nor is
+there much ceremony on the attainment of the young warrior to tribal
+rank. He has been instructed by the elder men as to the ways of hunting;
+he is allowed to join a tobacco palaver; he is presented by the chief
+with a pouch of coca; he is permitted to lick tobacco, and he affirms as
+he does so that he will bear himself bravely on all occasions. There is
+no further formality, and thus he enters the ranks of the fighting men.
+Among the Bara after a Jurupari dance all the youths of pubertal age are
+whipped, which is considered to be initiation. The whipping instrument,
+made from the hide of the tapir, is sacred. Women are excluded from this
+ceremony, and they believe when the boys shout that it is the expulsion
+of demons. The performance is regarded as strictly private, and if a man
+or boy tells of his experience he is outcast.
+
+For the girls there are some secret lodges in the bush. But how far
+this is an Indian custom, how far a recent development for purposes of
+defence, I was not able to ascertain. The matter is not one on which
+the Indian is ever communicative. Certainly among all the tribes in the
+vicinity of the much-feared and ever-raiding Andoke, the girls who are
+bordering on puberty are segregated in the depths of the forest under
+the protection of old and wise women of the tribe. This may not be
+general, and I do not think it is a universal custom. It is done by these
+tribes principally, I take it, for the protection of the flower of their
+womanhood, to prevent the mothers of warriors-to-be from falling into
+the hands of the restless thieving Andoke. At the same time the girls
+are under instruction of their keepers, they are taught in these lodges
+presumably the duties that will shortly fall to their lot. They learn to
+dance, to sing, and to paint themselves for festivals. It is no unusual
+sight to see a party of small girls painting each other, if by chance one
+haps across a secret lodge. This is, I take it, in the way of practice,
+the Indian girl’s version of her civilised sisters’ “dressing-up” games.
+
+The girls’ isolation is not absolute. There is always communication
+between the hidden lodge and the tribal house, but such communication
+is made with due care, no path is ever cut or worn to the hiding-place,
+and if one develops by usage it is speedily blocked the moment it is
+noticeable. When no inimical raiders are about, and all is considered
+safe, the girls repair to the tribal house, but no girl is allowed to
+return to the tribe for good until such time as a marriage has been
+arranged for her.
+
+One writer on the Jivaro tribes mentions festivities held when a
+four-year old child is first initiated into the art of smoking.[254] This
+could never occur among any of the tribes on the Japura or the Issa,
+where it has been seen tobacco is only licked. Boring the ears, nose,
+and lips of the adolescent is done when they go to the lodges at the age
+of puberty. It is very carefully carried out, and is probably done with
+their ordinary boring instrument, the tooth of a capybara. Among the
+Menimehe the tribal marks are tattooed on face and breast at this time.
+
+I have not met with the custom mentioned by Sir Clement Markham as
+existing among the Mariama, of a man cutting lines near the mouth of
+his twelve-year-old son, nor has the scourging of the Omagua, and their
+trial of the girls by hanging them in a net to smoke them, come under
+my observation, any more than the cruel scourging of girl children
+mentioned by Clough,[255] though boys on the Apaporis are thrashed, and
+I have heard of the custom north of the Japura. The Jurupari dance as
+described by so many authorities, and the girls’ whippings, as noted
+by Wallace,[256] have been told me second-hand by these tribes. I have
+never seen either, and south of the Japura I believe such customs to be
+unknown.
+
+
+CHAPTER XII
+
+    Marriage regulations--Monogamy--Wards and
+    wives--Courtship--Qualifications for matrimony--Preparations
+    for marriage--Child marriages--Exception to patrilocal
+    custom--Marriage ceremonies--Choice of a mate--Divorce--Domestic
+    quarrels--Widowhood.
+
+
+At the beginning of my stay among the tribes, I thought, as many have
+asserted, that polygamy was common among the Indians. The reason for
+this belief is simply the fact that it is extremely hard to distinguish
+at first between wives, concubines, and attached women--women under the
+protection of a man, but not necessarily in intimate relation. Inquiries
+do not immediately assist any conclusion. If, for example, you question
+one of the attached women she would merely reply, “I am the chief’s
+woman,” which answer would have been equally correct in either case.
+But on better knowledge of their languages and customs the conviction
+was forced on me that monogamy and not polygamy is the rule, with the
+exception of the chiefs north of the Japura, who have, so far as I could
+make out, more than one wife. Koch-Grünberg affirms, and other tribes
+told me, that among the tribes on the Tikie a chief may have four wives.
+This is not the case south of that river, where chiefs, like ordinary
+members of the tribe, have only one.
+
+But in addition to his wife or wives, all female prisoners and any
+unattached women belong by right to the chief. He is their father,
+mother, and husband, in so far that they receive his protection, though
+the wife would not permit any intimacy, unless it were when she was
+bearing or nursing a child. These women are not to be regarded, however,
+as what the Witoto call _rinyo kachirete_, that is tribal prostitutes,
+although other members of the tribe beside the chief are allowed to have
+access to them when his consent has been gained. The prisoners certainly
+would be used with his permission as women of convenience. So far as I
+could gather the chief respects the chastity of his wards, and it is
+therefore unlikely that he would claim any _droit de seigneur_ where the
+other women of the tribe are concerned.[257] Letourneau is responsible
+for the statement that “in America from the land of the Esquimaux to
+Patagonia, the loan of a wife is not only lawful but praiseworthy.”[258]
+I have never heard any suggestion of _jus utendi et abutendi_, and
+consider it unlikely in view of the Indian’s character. He is not only a
+jealous husband but the rights of the wife are tacitly recognised, and
+I should conclude that such a custom would be entirely alien to Indian
+nature. The same argument holds good in the case of a daughter.
+
+To distinguish between wards and wives is so great a difficulty that
+I even hesitated to accept without further confirmation the account
+given by Wallace of polygamous practices among the Isanna and Uaenambeu
+tribes,[259] careful as he was over all details of things about which
+he had personal knowledge. But I also was told by all tribes north of
+the Japura that it is permissible to have more than one wife, though
+the first must retain the position of “mistress of the house.”[260] It
+possibly resolves itself into the question of whether the women greatly
+out-number the men at a particular period or not.
+
+Marriage with these Indians is not a matter of any great or prolonged
+ceremony or even of festival. A youth marries as a matter of course when
+he reaches man’s estate. Till he has taken to himself a wife he must
+remain in some degree dependent either on his parents or the chief;
+for he cannot plant his own manioc or tobacco, nor can he cook his own
+food. He has no one whose duty it is to see that there are no thorns
+or jiggers in his feet, to paint him for a dance, to prepare him store
+of drinks. Complete independence comes only when with his own woman he
+can, if he so pleases, go his own way, and live in solitude out in the
+forest or have his own fire in the shelter of the big _maloka_, just as
+it suits his whim. To secure this independence, to get his woman, he
+is required in the first place to show that he is a capable hunter and
+warrior, that is to say he must demonstrate the fact that he can feed
+and protect a wife and children.[261] But there is no scheme in any way
+approximating to the customs of those African peoples who rule that a man
+must have killed his man before he can be considered a proved warrior,
+and qualified for matrimony. It is sufficient if he be a hunter by repute
+in the generality of cases, though among the Uacarra and some other
+tribes, as noted by Wallace, an exhibition of skill is demanded.[262] A
+girl of these tribes will not marry a man who did not prove a good shot
+in an archery trial held for the purpose of testing his prowess, the
+reason alleged being that he cannot be sufficiently adept to maintain
+a family. This is the underlying idea in all the ceremony attached to
+the transaction of marriage among these Indians, of a piece with all
+their doings and sentiments. There is no use for the unfit. It is the
+philosophy of the forest in practical form.
+
+Further, in view of his prospective position as husband and father,
+there are certain preparations, elementary enough, to be made by the
+bridegroom. From the surrounding forest a plot of land must be reclaimed,
+the trees felled and uprooted, the soil broken and roughly tilled, for
+the plantation. This is an absolute necessity, the agricultural is far
+more vital than any housing problem, for that is a point easy enough to
+settle, as the intending bridegroom need not build himself a house at
+all, if he can obtain a corner in the great house of assembly. There is
+nothing to prevent him from building one on his own account if he is
+not content with the quarters there allotted to him, though the usual
+arrangement is for a man to bring his wife to live with his family rather
+than to start a separate establishment.
+
+Betrothals are often made in childhood by arrangement between the
+parents, and occasionally a small boy is married to a small girl. This
+is not common, but I have seen it done in the case of a chief more than
+once. On one occasion that I remember it was among the Andoke, another
+time it was in a Boro house. The ceremony is the same as for adults,
+but naturally only in form. Among some tribes of the Andoke such child
+marriage is allowed if the boy has made a plantation and successfully
+hunted an animal, and either his or, more rarely, the girl’s family will
+admit them to joint life, and one Witoto man told me that he had been
+married as quite a youngster. But the general disparity of age is from
+five to fifteen years, for a man will choose an undeveloped girl, perhaps
+only nine or ten years old, and hand her over to the women of his own
+family.[263] The Andoke usually marry girls much younger than themselves,
+and I have seen a man of twenty with a tiny girl-wife hurrying after him.
+Undoubtedly the idea is the same as that underlying infant marriage in
+India, the man seeks to gain affection by association. The girl lives
+with him and his people, they become to all intents and purposes her
+people; she is trained by custom to their habits of life, must naturally
+imbibe their ideas, and will bring no foreign notions of manners or
+morals to disturb the equanimity of the common household when, in due
+time, she attains pubescence, and is made a wife _de facto_ as well as
+_de jure_.[264]
+
+In the ordinary run of events the woman invariably comes to live with
+the man’s family, he never goes to hers. Only in rare cases have I heard
+anything approaching the matrilocal customs noted among the Indians of
+British Guiana.[265] These cases would be exclusively when a chief, who
+has no son, marries his daughter to some man with a view to obtaining an
+heir through her. The man might be selected from friendly neighbours,
+or, with the approval of the tribe, an adopted son of the chief might
+be chosen. If the former, the bridegroom would have to leave his own
+people and live with his father-in-law. How exceptional this is may be
+judged from the fact that it is the sole circumstance of which I am aware
+where disregard is permitted to the prevailing rules of patrilocal and
+exogamous customs. This is, however, hearsay only. I never met with a
+case in point, though the Indians told me of it.
+
+Individual preliminaries settled, it remains for sanction to be obtained
+from the chief of the girl’s household--to whom, it must be remembered,
+all unattached women belong--with which end in view the would-be
+bridegroom presents him with a pot of tobacco and one of coca.[266] He
+need ask no one’s consent of his own account, as in marriage the man has
+an absolutely free hand, unless he goes against tribal law by marrying
+a girl of any hostile tribe who might prove to be a danger to the
+community. As proof that he is a man of substance and owns a house, or
+has a recognised right to quarters in one, he will bring a piece of palm
+shingle that has been left over after the thatching, to the father of the
+selected damsel. He also brings a small tree cut through, to show that he
+has cleared and made a plantation. In both cases the form would appear to
+be accepted without the actuality. The father then produces some coca and
+tobacco. North of the Japura they will chew _pataca_,[267] and they will
+lick tobacco ceremonially together. There is no further ceremony, and a
+fortnight later the marriage is consummated, the girl remaining with her
+own people during the interval.[268]
+
+Robuchon and Hardenburg, in dealing with this formality of presenting
+wood, have taken the action to be that the suitor wishes to provide his
+future parents-in-law with a supply of firewood. Though in other details
+of marriage ceremonial they are exactly correct, both these authorities
+seem to have mixed the idea of firewood--a matter it is never the
+son-in-law’s business to prepare--with this symbolic offering, which is
+intended to signify that his patch of ground for cultivation is prepared
+and only waiting for the woman to plant and cultivate it.
+
+If the information given me about tribes north of the Japura is correct,
+a more primitive marriage custom still maintains among their neighbours.
+The suitor, accompanied by his father and other relatives, visits the
+father of the chosen lady. Notice of the arrival having duly been sent,
+the object of such a formal visit is understood, though not definitely
+stated beforehand. If the suggestion meets with favour the visitors are
+welcomed with a feast. Two or three days later, in the middle of the
+festivities, the bridegroom’s party suddenly kidnap the bride, without
+any show of opposition on the part of her friends and family. She is
+carried off to the visitors’ canoes, and the pair thenceforward may
+consider themselves to be man and wife without further ceremony.[269]
+Though I never met with this custom in the districts near the middle Issa
+and Japura rivers, all the tribes told me of it, and among the Kuretu,
+so I was informed, the ceremony is even more suggestive of marriage
+by capture, as it is a point of honour for the bride to scream and
+protest while the groom carries her off with mock assistance from his
+friends.[270]
+
+In every marriage the contracting parties are allowed complete freedom
+of choice. This is absolute on the part of the man, and, with the rare
+exception of young girls adopted into a family with a view to marriage,
+equally so on the part of the woman. The unmarried women are never
+objects of barter. The man neither pays for his wife, nor does he receive
+dowry with her. With marriage he assumes entire responsibility for
+wife and family. Girls rarely refuse an offer made to them. They occupy
+an inferior position in the family compared with that of the sons. By
+education and custom they are subservient to the wishes of the elders. As
+they grow older and have to take their share of the communal work they
+lose what independence they had as irresponsible children. By marriage
+alone can the native girl obtain a corner of her own in the _maloka_,
+a desirable sleeping-place beside the fire. A man is not forced upon
+her against her will. One bachelor is to all intents and purposes as
+eligible as any other. Personal appearance, where all who attain puberty
+are of necessity healthy and well formed, counts for little. The battle
+of Eugenics is fought at birth not at marriage. Whereas a boy becomes
+independent almost from the date of his first breech clout, the girl
+has her freedom curtailed with each succeeding year. Food tabus have
+schooled her appetite. She has suffered the restraints of the secret
+lodge. Marriage is her destiny, she neither knows nor desires an
+alternative. Such an upbringing does not make for capriciousness where
+choice of a husband is concerned. She can always run away if her husband
+prove displeasing, but in the majority of cases, unless subjected to
+very decided ill-usage, it never enters into the head of any wife so to
+behave. Peoples who will submit to the tyranny of a few blackguardly
+oppressors, and make hardly an effort in self-defence, do not rebel
+against the obvious in everyday life. _Pia_, “it is so,” makes as much
+for demoralising inertia as _Kismet_. In short, there is no coercion
+in an Indian girl’s wedding, and equally no opportunity for original
+selection.
+
+This question of personal acquiescence rules throughout their matrimonial
+relations, for with these Indians the marriage contract is only binding
+so long as husband and wife desire to be bound. Divorce is simple. For
+good cause shown the husband can rid himself of his wife, and be free to
+try for better fortune with another. He has only to bring the matter up
+in tobacco palaver, and if he can make good his cause he need not trouble
+further: he is free.[271] Infidelity, bad temper, disease, laziness,
+disobedience, or childlessness, is deemed a sufficiently weighty
+objection in a wife to warrant such action. Tribal opinion is in every
+case the chief criterion in the business.
+
+On the part of the wife the matter is simpler yet. She will run away. A
+woman is never blamed for deserting her husband, on the presumption that
+such unnatural procedure could alone be due to the fact that she had been
+not only ill-treated but grossly ill-treated by him. For an independent
+woman is unknown among the Indians: if she is not under the protection of
+some man she is left in the lurch, and if she does not speedily find a
+protector must very surely die. Moreover it is obvious that when a woman
+runs away she must leave her children, and only gross cruelty will drive
+her to that.
+
+If, on the other hand, a man divorce his wife, that is to say if he
+drives her away from him and so forces her out of the household, he lays
+himself open to severe tribal censure should the consensus of opinion be
+that no good cause has been shown. If upon inquiry he fails to establish
+a satisfactory excuse, he promptly is held up to ridicule by his fellows;
+he is the butt of all the women; and he will certainly find it a most
+difficult thing to remarry, for no woman will ever consent to be his
+wife. In fact, tribal censure results in the practical banishment of the
+offender, for his life in the tribal family will be made unendurable
+till such time as his offence be forgotten. The end of this persecution,
+and his return to tribal rights and privileges, depends entirely on his
+ability to prove and persuade his fellows that after all he was not the
+one to be blamed.
+
+When a woman quarrels with her man, or wishes to revenge any wrong she
+may have suffered at his hands, real or imaginary, she will dart at the
+loin-cloth of the offender in the presence of the tribe and attempt to
+tear it away so as to expose him to his fellows. No insult could be
+greater, for this is the worst disgrace that can happen to a man. Should
+this occur, the victim must run into the forest and hide himself; nor
+can he return until he has beaten out a new bark loin-cloth to replace
+the one that was torn, and so, once more decently attired, he may come
+back and apologise to the tribe. The pair will then go off together into
+the bush, and, according to circumstances, the wrong-doer undergoes, or
+perhaps they mutually undergo, a very painful penance. The wronged one
+takes one or more of the big black stinging ants, and places them on the
+most sensitive and private parts of the other’s body. The sting of the
+virulent insects not only gives intense pain, but results in fever within
+twenty-four hours, and there is much swelling of the parts affected.[272]
+This is the recognised mode of punishment after any conjugal infidelity,
+or any ordinary separation; and, repentance thus very practically
+expressed by submission to torture, forgiveness follows and good
+relations are again restored.
+
+When a man dies the top ligatures of his widow are cut as a sign of
+mourning, and are only replaced if she marries again. There is no
+prohibition against remarriage, though this is not permitted till some
+months after the husband’s death. As a rule, on a man’s death his widow
+continues to live with his people, either under the protection of the
+chief, or under that of her dead husband’s brother. If her own people are
+not hostile to the tribe into which she married she may return to them,
+but the probability is that the tribes will have drifted apart, even if
+they have not become enemies. Very frequently widows become the tribal
+prostitutes, a custom that is not recognised, but is tolerated, and is
+never practised openly or immodestly.[273]
+
+
+CHAPTER XIII
+
+    Sickness--Death by poison--Infectious diseases--Cruel treatment
+    of sick and aged--Homicide--Retaliation for murder--Tribal and
+    personal quarrels--Diseases--Remedies--Death--Mourning--Burial.
+
+
+Indians, like most coloured races, are abject cowards in pain or disease.
+They will bear torture stoically enough when deliberately inflicted,
+but should they suffer from any, to them, mysterious reason, in their
+ignorance of natural causes they at once ascribe their affliction to
+witchcraft. To this possibly may be due the hapless manner in which
+they will lay them down to die, and actually succeed in doing so by
+auto-suggestion.
+
+To the Indian in common with other peoples of the lower cultures,
+moreover, there is no such thing as death from natural causes. It is
+the result either of poison administered in secret by an enemy, or
+magical evil wrought by him or at his instigation, and the crashing
+of the thunder is the magic noise that accompanies the fatal result.
+If a possible enemy is known or suspected, or if, after divination,
+the medicine-man can identify the culprit, it becomes the duty of the
+relatives to avenge the deceased, who has, according to Indian logic,
+been murdered.[274]
+
+Without doubt a very large number of deaths are due to poison. Removal
+by poison is practised to a great extent by the Karahone, who have, as
+has been said, much scientific knowledge of poisons and their effects.
+Further, it is the custom of the tribal medicine-man when his patients
+are in what he considers to be a hopeless condition, to administer a dose
+of poison quietly to the moribund sufferers after he has declared that
+all his skill is in vain, and announced that recovery is impossible. For
+the medicine-man it then becomes more important to secure the fulfilment
+of his verdict than to risk the chance of recovery falsifying his
+prognostications. The probability is that the patient would die, if for
+no other reason than that the medicine-man foretold his death, but that
+gentleman will take no risks.[275]
+
+There are other and more recognised cases in which it is the
+medicine-man’s province to administer a fatal draught. A mad person, for
+example, is first exorcised by the medicine-man to expel his madness.
+If this fails to secure the eviction of the evil spirits that cause
+the madness, the man is put to death to ensure the destruction of the
+bad influence which, since it passes the doctor’s power to remedy, has
+presumably been sent by some hostile colleague with greater magical
+gifts. Occasionally also, when any serious accident has befallen an
+Indian, a medicine-man goes through the ceremony of placing him in a
+secluded part of the bush, and administering the usual narcotic. The
+patient is then left for the night. The next day his relatives return,
+and if he is not dead he recounts to them his dreams, and from these they
+deduct who is the enemy that has caused his sickness. Reprisals naturally
+follow.
+
+Should any known infectious disease break out in a tribe, those attacked
+by it are immediately left, even by their closest relatives, the house is
+abandoned, and possibly even burnt. Such derelict houses are no uncommon
+sight in the forest, grimly desolate mementos of possible tragedies.
+
+Perhaps the cruel treatment of the sick arises from the fact that all
+disease is regarded as due to an enemy who essays by such means to
+procure the destruction of the tribe. Fear is undoubtedly the root-cause.
+But it must also be remembered that where life is not easy for the hale
+and hearty, for the helpless it is impossible except in so far as they
+can prey upon their active neighbours. The question of self-preservation
+comes in to complicate the problem of the unfit. At every point it is
+clearly to be seen that the survival of the most fit is the very real
+and the very stern rule of life in the Amazonian forests. From birth to
+death it rules the Indians’ life and philosophy. To help to preserve the
+unfit would often be to prejudice the chances of the fit.[276] There are
+no arm-chair sentimentalists to oppose this very practical consideration.
+The Indian judges it by his standard of common sense: why live a life
+that has ceased to be worth living when there is no bugbear of a hell
+to make one cling to the most miserable of existences rather than risk
+greater misery? Moreover, in Indian opinion, such clinging to life is a
+very arrant selfishness.
+
+Certainly cases of chronic illness meet with no sympathy from the
+Indians. A man who cannot hunt or fight is regarded as useless, he is
+merely a burden on the community. Should he show no signs of eventual
+recovery, his friends unhesitatingly leave him to die, or, if a
+medicine-man has not been commissioned to put him out of the way, he
+is driven into the bush, where the same end is speedily attained. This
+is done not only to the invalids, but also to the aged members of a
+tribe, unless they possess great wisdom and experience, and so are of
+great tribal worth. Otherwise they, too, have ceased to be units of
+any practical value in tribal life, and merely hamper the more active.
+Actual parricide there is none; old people are not killed, but they
+are left to die. There is no sentimental desire for their company, no
+affection to lighten the unhappiness of their lot. If they are unable
+to tend themselves, not an Indian will go out of his way to render any
+help or service. Cassava may be thrown to them occasionally, or it may be
+forgotten, and without doubt in times of scarcity no provision whatever
+is made for the feeble and the failing who can make none for themselves.
+Slaves, of course, are looked upon as of no account, and if sick or
+crippled they are abandoned without a thought. If a woman with a young
+child should die, and no one be found willing to adopt the infant, the
+father argues that it must die anyhow, and it is either quietly killed
+and buried with the dead mother, or exposed in the bush.[277]
+
+The reason that underlies such neglect of the sick and infirm has, on
+the other hand, resulted in the prevention of intra-tribal homicide. If
+the survival of the unfit is not to be desired, the existence of the
+fit is to be encouraged by all possible means. On the whole, although
+sick people are neglected, I do not think that they are often destroyed.
+Frequently a sick Indian has appealed to me, “Oh! let me die,” but none
+has ever said, “Kill me!” Intra-tribal homicide is certainly prohibited
+by custom, otherwise homicide is only limited by fear of reprisal, a
+more effective combination than any police force or criminal code. Even
+as punishment for an admitted offence, homicide within the tribe is not
+tolerated, for if a man die it means the loss of a warrior, an injury
+to tribal strength, a matter not to be lightly risked where the battle
+is only to the strong. There is, however, one exception to this, and
+that is in the case of theft. Living as these peoples do an absolutely
+public life, theft becomes of necessity a capital crime. The loser, if
+he can catch the thief, will kill him by knocking him down by a blow on
+the legs with the iron-wood sword, and then hacking off his head. This
+retribution is considered perfectly justifiable by the tribe, and is
+indeed sanctioned by custom.
+
+After a murder has been committed it is the sacred duty of some brother
+or near relative of the dead to kill the murderer, or, if not, at least a
+relative of his, in accordance with the world-old idea of an eye for an
+eye. A man who refused to revenge a murdered relative would be taunted
+by all the women, and this would soon render his own life in the tribe
+an intolerable one. But I have never come across the custom which is
+prevalent in Africa among some primitive peoples, that is, to search for
+the same relative to the murdered as the murdered man was to the avenger:
+for example, “You have killed my nephew, I will kill your nephew.”
+
+When an intentional murder has been committed the murderer flies to the
+bush, where he is promptly followed, and the pursuit is not foregone
+until the criminal is secured or the pursuers find themselves in imminent
+danger from a hostile tribe. In the latter case the blood-feud remains
+open for an early settlement, and the friends of the murderer are dealt
+with first.
+
+Homicide is, in fact, always looked upon as a wrong done to a man’s
+tribe or family, rather than to the individual himself. In the case
+of accidental homicide it may still lead to a blood-feud. The deed is
+done, that is sufficient for these simple-minded folk. It may possibly
+be put down to the witchcraft of some neighbouring medicine-man who has
+bewitched the unintentional slayer with hostile motives; but that will
+not save the unfortunate offender, rather is it an additional argument
+that he should be destroyed lest worse trouble follow. There is also
+to be reckoned with the idea that the dead man’s spirit will haunt the
+tribe, and especially his nearest relative, until his blood has been
+avenged.[278] Besides, it is undoubtedly difficult to draw the line
+between accident and design, and, for the matter of that, the meaning of
+the word “accident” is unknown to the Indian.
+
+The chief and the tribe will sometimes take up the quarrel as their own,
+but, on the other hand, a man considers it a disgraceful thing not to be
+able to avenge his own wrongs, and, therefore, never applies to the chief
+for tribal help. This is true of all small communities, an affront of any
+one of the community being a personal attack upon every other member,
+but it is not necessary that it should be avenged by all, unless the
+affronted one be unable for any cause to complete his revenge by himself.
+
+No tribal notice is taken of a murder committed intra-family, such as
+the murder of a son or a wife, as no revenge is necessary; the loss only
+affects the murderers, and it is simply arranged by the family itself.
+The loss of one member does not suggest itself as a reasonable cause for
+compelling the loss of another. The one exception to this would be if the
+murdered man were a noted warrior whose death would constitute a serious
+tribal loss. Action might then be taken by the whole tribe after the
+usual tobacco palaver.
+
+So much for death by violence; there remains something to be said of
+death by disease, and of sickness not necessarily ending in death.
+
+All travellers and writers have noticed how prone the Indian is to
+sun-sickness. Living as he does in the perpetual gloom of his tribal
+house, or the restricted light of the forest depths, he appears to
+be exceptionally susceptible to the effects of strong sunshine. His
+sensitiveness is tried further by any sort of change, even a transference
+from the upper reaches to the main rivers completely upsets him. Indians
+appear to go sick especially on moving only a short way from their own
+locality. They are also bad subjects for malarial fevers, and the Issa
+River is notoriously unhealthy in this respect. By this I mean the river
+itself, and in its immediate vicinage. Even a few hundred yards away from
+its banks the country is comparatively healthy and free from pestilent
+fly-belts, which, it will be remembered, are at their worst some three
+days steam up that river.[279] On the Brazilian frontier especially the
+_pium_ from sunrise to sunset is unbearable. The beginning of the rains
+invariably brings fever.
+
+On the other hand, chest complaints are rare, respiratory disease
+is unknown, and throat diseases uncommon, though you meet victims
+to rheumatism and cramp. There is no venereal disease among these
+tribes, and no umbilical hernia. Phimosis is common, and so are gastric
+complaints. Diseases of the eye are rare, though squinting is extremely
+prevalent.
+
+There are many parasitic diseases. Ringworm and intestinal worm are very
+general troubles, and lice in the head universal. Jiggers in the Indian
+houses are a pest to all, and one of the daily duties of the Indian wife
+consists in the examination of her man’s feet to remove any thorns or
+jiggers that may have effected a lodgment. This jigger is similar to the
+African species; it burrows into the foot, and lays its eggs beneath the
+skin. I have had as many as thirty-seven picked out of my foot at one
+time. The nuisance can be largely diminished if the traveller take the
+precaution always to wear boots in or about an Indian house, for jiggers
+are not found in the bush itself, though a somewhat similar pest abounds
+on the leaves and grasses,[280] and causes abominable irritation. In the
+Rubber Belt the usual remedy for this is a bath of white rum.
+
+Near the Rubber Belt smallpox has found its devastating way among the
+Indians. I have said that they fear any contagious disease, and will
+often leave a sick person to die, so it may well be understood that a
+case of smallpox causes the utmost panic and consternation.[281] Tribes
+further removed from contact with “civilisation” are spared this scourge,
+but I noticed a form of measles among the children. Yellow fever is not
+known in the upper reaches, but I can answer for it that beriberi is, as
+I fell a victim to it myself. It is very prevalent in all this country,
+but it does not attack the Indians.[282]
+
+The Napo Indians suffer from skin diseases that are not known to the
+tribes in the Issa and Japura valleys. There is a bluish discoloration
+and white blotch that is said to come from eating tapir.[283] Among the
+Karahone one meets with cases afflicted in the same manner as natives
+on the Apaporis. They are spotted with a leprosy which is said to be due
+to the amount of fish that is eaten by these tribes. This disease is
+otherwise unknown.
+
+All strangers suffer from ulcers on the legs.[284] Among the Indians
+themselves sores are common,[285] but I think are due entirely to
+neglected wounds caused by palm-spines and so forth, not to climate and
+feeding as would be the case with ourselves. Stings also have to be
+reckoned with.
+
+Indian remedies are rather symptomatic than specific;[286] the methods of
+cure will be more fully dealt with in connection with the medicine-men.
+The remedies are rather of the order of kill than cure. For instance,
+fever is treated by the drastic method of bathing in the cold water of
+the river to lower the temperature.[287] On the Napo the natives take a
+concoction of tobacco-water and quinine. They make a remedy for wounds
+from the bark of a tree, which they boil, and use the liquid to wash the
+wound. A root found in the forest yields a narcotic much employed by the
+medicine-man when it is scraped, crushed, and boiled in water. Another
+remedy, acting as a counter-irritant, is a sage-green feathery moss, some
+species of lichen, very dry, that grows round the roots of trees.
+
+During my stay with the tribes I never met with any such frantic sorrow
+at a death as is described by Koch-Grünberg,[288] though a mother will
+cry over the body of a dead child,[289] and sobbing, wailing, and a
+certain amount of excited grief is shown at a funeral, especially if it
+be that of an important person.
+
+Burial takes place without delay on the day of death. The dead man,
+unwashed, is wrapped in his hammock in a sitting position, and a grave
+is dug immediately below the place where the hammock was slung in his
+lifetime. Though they only dig deep enough to hide the body, this custom
+of intramural interment does not appear to have unhealthy effects upon
+the other inhabitants of the house, and no epidemic ever seems to arise
+in consequence. The dead man’s ornaments, his arms, and other personal
+possessions, such as his tobacco-bag, his coca-pot, are placed in the
+leaf-lined grave beside him. The whole interment is carried out with all
+speed, to get the body out of the way as quickly as they possibly can.
+South of the Issa a canoe or earthen jar takes the place of the hammock
+for shroud, but I never met with any urn burial, primary or secondary,
+among the tribes of the north.[290]
+
+When the deceased is a woman the same procedure is followed, only pots
+are buried with her in place of weapons. Among the Kuretu-language group,
+when a woman dies, her pots are broken before they are placed in the
+grave,[291] and her baskets are also buried with her in addition to her
+ornaments. This is done to prevent the return of the soul to ask for its
+properties should they be needed in the spirit world.
+
+When a chief has died the ceremonies are more elaborate. His body,
+like any other man’s, is wrapped in his palm-fibre hammock, and he is
+buried with his weapons, ornaments, and private treasures. But after
+the grave is filled in, the assembled tribe partake of a funeral feast.
+In the intervals of drinking and dancing the mourners sing of the great
+achievements, the worthiness and virtues of the dead man. The new chief
+comes forward, attired in the prescribed fashion, wearing a weird and
+wonderful head-dress to attract attention. He does not face the assembled
+people, but turns to the wall of the house, and speaks with his back to
+the tribe.
+
+After a burial a fire is made over the new grave by the relatives, and
+is always kept burning for some days, except in the case of a chief,
+when the whole house is burnt. This may possibly counteract the obvious
+dangers of these intramural burials, and account for the absence of evil
+results.
+
+Whatever mourning may be indulged in before the body is buried, no grief
+is ever shown after the interment, for the spirit has then departed.
+This belief explains why a man’s grave is not marked in any way by these
+tribes, and has, as a matter of course, no claim to respect from his
+survivors.
+
+It is possible that the question of cannibal customs as insults to the
+dead also influence the Indians in the matter of burial, and the absence
+of sign upon a grave. It would in some measure account for the burial
+in the house--as a protective measure--in spite of the fact that they
+recognise the danger of the spirit’s return, a belief which would more
+naturally incline them to extramural burials.
+
+Ceremonial bathing always takes place after a funeral, in which every one
+takes part for the purpose of purification.
+
+
+CHAPTER XIV
+
+    The medicine-man, a shaman--Remedies and cures--Powers and
+    duties of the medicine-man--Virtue of breath--Ceremonial
+    healing--Hereditary office--Training--Medicine-man and
+    tigers--Magic working--Properties--Evil always due
+    to bad magic--Influence of medicine-man--Method of
+    magic-working--Magical cures.
+
+
+The medicine-man of the South American Indian tribes has been described
+as “the counterpart of the shaman type.”[292] There would seem to
+be hardly need for any qualification--he _is_ a shaman. The word
+has attained a certain vogue, with too frequent lax usage, so that
+merely finding the name “_shimano_” in connection with any of these
+Indians--especially when it is found in the pages of an American
+writer--does not warrant this assertion.[293] But a short study
+of the exhaustive paper on Shamanism and the Shaman in the _Royal
+Anthropological Institute Journal_[294] will show that point for point
+the methods and procedure of the Witoto, the Boro, and kindred tribes
+tally with that of the shamans of Siberian peoples. That is to say he is
+a doctor and a wizard, not a priest. He claims to deal with spirits by
+magical processes, to exorcise, outwit, and circumvent, not to officiate
+in any sacred office as the minister, the vicar, of a deity. He is a
+hypnotist and a conjuror. But he is more than a mere charlatan. He is
+the poison-maker for the tribe, and possesses, as a rule, especially
+among the Andoke and Karahone, a considerable knowledge of drugs,
+both curative and lethal. The curare poison is a treasured secret of
+the medicine-men. Its recipe is religiously guarded by them, and the
+deadly preparation is made with both ceremony and privacy. The Andoke
+medicine-men have an ointment concocted from a plant--the identity of
+which they would not divulge--that is used for massaging purposes. They
+all use tobacco juice, coca, and a white snuff that I thought must be
+the famous _niopo_, but could not find out anything about it.[295] One
+cure for a headache is worked with a special kind of dried bark. The
+medicine-man carries a piece of this in his magic-bag, and with it he
+rubs over the head of the sufferer; or, if he is dealing with a wound,
+he will pass the bark over the skin to make it heal. There is also a
+species of lichen or moss used by them to rub lightly over the affected
+part, which acts as a very mild blistering agent. It stings and, acting
+as a counter irritant, draws the inflammation away from the seat of the
+injury to the surface, and thus to some extent neutralises the pain. It
+is a sage green in colour, dry and feathery in appearance, and is found
+growing round the roots of trees.
+
+Pain, sickness, death, each and all are caused in Indian opinion by
+some evil spirit, sent of course by an enemy. It is to combat this
+magic-worked mischief that the medicine-man’s services are required in
+the first place. Magic must be countered by magic.[296] Incidentally the
+medicine-man relies also to some extent on his own medicine, his purges,
+and narcotics. However potent these may, or may not be, the fact that the
+patient has implicit faith in their efficacy goes far to assist their
+intrinsic merits and further the cure, the expulsion of the evil spirit
+that has wrought the trouble. A medicine-man probably has a number of
+these more or less genuine remedies, infusions of herbs that possess
+curative properties, such as those already dealt with in the previous
+chapter.
+
+But drugs and ointments alone do not, to the Indian mind, go far to bring
+about recovery. Much more effective, as a spirit-evicting agent, is the
+medicine-man’s virtue, represented by his breath. It is sufficient for
+him to breathe over food or drink to render it healthy, to breathe on a
+sore place to secure removal of pain, to breathe on the sick to promote
+recovery.[297] Nor is this power vested only in the medicine-man. Other
+people’s breath may have similar value, if of less degree.[298] Should
+an Indian wish to eat of forbidden food, he may get an old woman to
+breathe over it. Is a child sickly, a like procedure may restore it to
+health. In all the medicine-man’s performances breathing and blowing
+over the patient is a prominent part of the processes. The medicine-man
+will breathe on his own hand and then massage the part of the patient
+that is affected; and if stronger measures are required he will suck the
+place, or as near the place as his mouth can be put, suck vigorously and
+possibly spit out a black liquid--the tobacco juice freely taken by him
+during the performance explains the colour. The avowed object of the
+suction is that it draws out the poison--the evil spirit.[299] It is
+here that some degree of charlatanism comes into play, for the operating
+medicine-man will presently produce a tangible object from his mouth, a
+bit of stick, a thorn, a fishbone, or anything of a similar description,
+and inform the patient and his friends that this is the material form
+which had been assumed by the evil spirit which he has drawn bodily from
+the flesh of the sick person.[300] This is the usual accompaniment of the
+shaman’s rites, and too universally indulged in by the wizard fraternity
+to need any particular comment.
+
+The Indian medicine-man receives presents for the cures he effects.
+Should he fail he must make the best case he can for himself,
+and depart to the bush to work magic against the rival who has
+successfully--according to his account--outmanœuvred him. The blame for
+failure is not to be his but another’s. This, it is hardly necessary to
+note, is an alluring chance for the repayment of any personal injury or
+slight, not often missed by so entirely human a person as the Indian
+medicine-man.
+
+To a certain extent the office of tribal medicine-man is hereditary, that
+is to say the eldest son, if efficient, succeeds the father. It would be
+more correct to say the most hairy of his sons, as hirsute qualifications
+are far more weighty and essential determinatives than questions of
+primogeniture. The hairier the wiser it would seem. But of this anon.
+Often the medicine-man will have a small boy with him, who may be his
+son, actual or adopted, and who is also credited with magic gifts.[301]
+Thus the secrets of the profession are preserved from generation to
+generation, the chosen youths being the recipients of the secrets and
+trained to develop and carry on the magic of their predecessors. Part
+of the ritual of initiation, as of the ceremonial healing, consists of
+what to the unbelieving white man is not too well done conjuring. The
+medicine-man is a clumsy conjuror, and only the implicit trust of his
+patients and audience saves him from frequent detection. But the belief
+that they must see what he declares they see goes far to make them in
+very truth behold it. The “conjuring” in the initiation of a novice
+consists of simple “passes” of sticks up through the nostril and out of
+the back of the head. According to Waterton the probationers have to
+endure exhausting ordeals and torture.[302] This is very probable, but on
+this point I received no information.
+
+So far as I am aware not one of these tribes attaches any importance
+to the hair that is clipped or depilated, nor to nail parings; if
+they do the point escaped me. But though they depilate because they
+dislike resembling monkeys with a hairy pelt, at the same time it is
+noticeable that not only does the medicine-man ignore this general
+custom, especially among the Andoke where it is strictly tabu to him--yet
+hairiness is, as I have stated above, a necessary qualification for any
+man or youth who is desirous of attaining the position of medicine-man.
+He is certainly the only man in the tribe with any face hair. When
+the medicine-man has a hairy son the boy is trained to inherit the
+“practice,” but should he have no offspring with this distinctive
+requirement, a hairy child will be chosen and educated for the post.
+
+There may possibly be some connection between this tabu and the belief
+that when a medicine-man dies he returns as a tiger, and even during
+his lifetime he can make excursions in tiger-form, and be so absolutely
+tiger that he can slay and eat the beasts of the wild. Every medicine-man
+possesses a jaguar skin that he is said to use when he turns tiger.
+By possession of a skin he has the power of resuscitating the tiger,
+he himself being the spirit of the tiger. He can thus work his will,
+afterwards returning to human form. An ordinary tiger might be killed,
+but a medicine-man in tiger form could not be.[303] On one occasion a
+medicine-man I met had a bag made of tiger-skin hung round his neck, in
+which he carried all his paraphernalia. But the medicine-men never wear
+these skins as wraps or coverings. Each hides his tiger skin away, when
+not in actual use for magic purposes.
+
+The power to return after death in the shape of the dreaded jaguar is
+a further defensive measure, a precaution against hostile peoples, as
+in this shape both before and after death the medicine-man can attack
+the tribal enemies, and carry obnoxious individuals away into the bush
+whenever opportunity offers.
+
+The medicine-man lives with, and yet aloof from his fellow-tribesmen.
+He has to observe many tabu, certain kinds of food are prohibited, and
+he must have no connection with women when making his medicines,[304]
+for should the woman bear a child it will be a tiger cub. To make his
+drugs and unguents a medicine-man goes alone into the forest, and this in
+itself marks him as different from other men, who will never of their
+own free will go far without a companion. Spruce mentions an armed guard
+attendant on medicine-men, “their lives being in continual jeopardy,”
+but no such thing is known south of the Japura.[305] The medicine-men
+certainly wander in the bush alone, for they will disappear at times,
+and on their return inform the tribesfolk that they have been about
+some magical journeyings; they may have worked in the guise of tigers
+against tribal enemies; or paid visits in the spirit to other lands. No
+armed escort could protect a medicine-man better than his own reputation
+suffices to do, for all medicine-men are feared--certes one that was not
+feared would not be worth the killing--and no Indian would be likely
+to risk the danger resultant on doing one an injury. I doubt if even a
+hostile tribe would wittingly put a medicine-man to death, for they fear
+retaliation on the part of the spirit, which would certainly haunt them,
+even if it worked no graver ill.
+
+The medicine-man’s dress, as already mentioned, is largely a matter of
+personal taste; something original and striking is usually attempted.
+The Orahone medicine-man clothes himself in tapir-skin, and the Andoke
+medicine-man in the illustration opposite p. 73 was wearing a dyed
+turban when I took his portrait. Any fancy article that comes to hand is
+utilised to make him different from his fellows. His “properties,” which
+are carried in an ornamented bag of tiger skin, or of beaten bark sewn
+with fibre string, consist of a rattle--of rather more elaborate design
+than the ordinary dance rattle--some small magic stones, and a cup made
+from the shell of a river fish.[306] The latter resembles a large oyster,
+and the mother-of-pearl inner coating is much used for earrings and
+ornaments. The medicine-man takes this cup, speaks into it, and rubs the
+sick person all over with it. Then, if this does not bring about a cure,
+the patient must suck it till he vomits, and continue to vomit till the
+evil spirit be expelled.
+
+Condor claws play a great part in magic-working among the northern
+tribes. These gigantic birds are rare in the bush, and I never saw one,
+though I heard of them from all the medicine-men, and obtained some
+specimens of the dried feet from them. These are ugly objects, the leg
+stump stopped with pitch and bound roughly round with bands of beaten
+bark, about half or a quarter of an inch wide, and not twisted. But
+though I got the claws I could not get any details as to what they were
+supposed to do.[307]
+
+I once saw a medicine-man with the skin of an anaconda, and was told
+that by using the skin he could control the spirit of the anaconda.[308]
+For this purpose the medicine-men are habitually provided with the dried
+skins of lizards and snakes.[309]
+
+The Andoke place great faith in strings of magical stones, five or seven
+in number. These are taken off the string and laid by the medicine-man
+in certain patterns on the sufferer. The medicine-man gazes at them
+abstractedly till a degree of self-induced trance is established. He will
+then break out into a frenzy, stamp, shout, and brandish his rattle.
+The stones are also used for magical rubbing, and are most assiduously
+guarded by their possessors, who will not part with them for any
+consideration. The only string of such stones I managed even to see are
+shown in the illustration. They are of quartz, somewhat roughly made flat
+discs, worn smooth by continual use, about three-quarters of an inch in
+diameter and a quarter of an inch thick, bored in the centre, the hole
+being half the size in the middle to what it is at its external radius.
+These stones are always carried on a string.
+
+
+Whatever goes wrong in tribal life, from a pain in the finger to a
+hurricane, the malice of an enemy working through the evil spirits is
+held to be responsible, as will be shown more fully hereafter. It is the
+medicine-man’s business not only to frustrate their malicious purposes,
+but also to discover who is the foe inciting their wickedness by magical
+influences. Mischief can be wrought without any bodily presence.[310]
+Revenge is also possible by the exercise of similar extra-natural powers.
+For instance, if a child is lost, or killed by a tiger, the bereaved
+parents call the tribal medicine-man to their assistance. If the hunters
+sent out to retaliate upon the tiger-foe fail to capture or overcome it,
+the medicine-man proceeds to work magic. This may be quite simple, for
+it is possible that in his solitary wanderings in the bush he may have
+the luck to come across the lost youngster. In this case he “re-creates”
+the child by the potency of his magic-working, and secures an unshakable
+reputation by producing it alive in due course. Should such luck not
+befall him he can but return with a tale of vengeance wreaked on the
+tiger, and a tiger-tooth--not necessarily of fresh extraction--in proof
+of that same. Then it is his duty to discover which might be the wicked
+tribe that sent the tiger, or had it sent at their instigation, as he
+would have to ascertain who had sent sickness were it the death of an
+adult that was under investigation. The procedure is the same whether the
+trouble be a house blown down by the wind or any other catastrophe. The
+tribe assembles for a solemn palaver, and the medicine-man, frenzied with
+drugs, eventually “divines” who is the enemy. The final decision usually
+is that the tribe had better go to war at once lest worse befall them.
+
+The medicine-man invariably has a considerable say in intertribal
+policy. War is never made without his advice, and in addition to his
+duties as tribal avenger and healer, he must warn the tribe of impending
+hostilities.[311] Should hostilities break out, or a death occur,
+during a white man’s visit to a tribe, he would possibly find himself
+in considerable personal danger. Success to the tribe might in part be
+attributed to his virtue, but disaster would certainly be considered due
+to his malign presence, a point the medicine-man would not be slow in
+urging against the visitor.
+
+The white stranger, with his foreign magic--for magic every other thing
+he possesses must seem to the unsophisticated child of the bush--in
+any circumstances is regarded with some jealousy by the professional
+magic-workers of the tribes. Naturally, therefore, it is with extreme
+difficulty that any details of their methods and doings can be learnt.
+It goes without saying that the medicine-man regards any inquisitive
+stranger as a potential rival, is on his guard against bluff or bribery,
+and never willingly gives so much as an opening for exchange of
+professional confidences. It is the hardest thing in the world to obtain
+information from the Indian, for every Indian will say “I don’t know,”
+or “Pia”--because it is so--in order to avoid having to explain his
+beliefs to the white man. I tried to bluff, and by feigning to possess
+magical gifts hoped to draw the local exponent into a rival display, but
+with no encouraging results. What I could gather had to be done with
+circumspection, a bit here, a trifle there, a note from a chance remark,
+a comment from another.
+
+The expulsion of the evil spirit causing sickness is a matter requiring
+invariably much noise and fury. The _maloka_ is always dark, be it day
+or night, and the gloom is not broken by torches for the medicine-man’s
+visit, nor are the smouldering fires kicked into a blaze. The doctor,
+well under the influence of drugs, works himself to a state of wild
+exaltation. He beats the floor with a palm branch, shakes his rattle
+vigorously, and makes the most appalling noises. He will imitate
+the beasts and birds of the forest, and--as he must be a skilled
+ventriloquist if he has any claims whatsoever to magic gifts--the sounds
+apparently come from every side. This is to demonstrate the embodying of
+the spirits of the nether world, the active causation of all ill. Also
+it is to summon to his assistance all friendly spirits, or all over
+whom he has attained magical influence. He carries on conversations with
+the assumed speakers, and intermittently howls, and shrieks, and beats
+the air with his palm branches. The greater the noise, the wilder the
+excitement, the more potent is the magic of the medicine-man. South of
+the Japura he does not blow smoke over the patient, but he makes use of
+both tobacco juice and coca. He further drugs himself most probably with
+some such powerful agent as aya-huasca, though that is not supposed to be
+known to these tribes. The medicine-man also doses himself with a drink
+made from a certain liana. When thoroughly intoxicated with it he will
+run away, and shortly go into profound slumber. In this comatose state
+he is supposed to hold intercourse with the unseen world, to wander in
+spirit to other places, and, as a result of what he has hereby learnt, to
+be able to foretell the future when he awakes.
+
+Magic-making in cases of sickness includes the blowing, sucking, and so
+forth, already described. The relatives of the patient will discourse at
+length on the story of the sickness, and the medicine-man will either
+announce who sent it himself or expound the sick person’s dreams and
+therefrom deduct the source of evil. The official explanation and verdict
+is always given in the most ambiguous phraseology, so that whatever
+happens the medicine-man may be able to twist his dictum to the desired
+equivalent of “I told you so.”
+
+As already described the invalid may be given a strong narcotic drink,
+the decoction of a root, and carried out to a small clearing made in the
+bush. There he is left under a rough shelter. No one may speak to him, or
+pass him while he lies there, otherwise he will die. The relations go out
+of sight, and guard the bush tracks, to prevent any such passage. If the
+patient die the medicine-man asserts very positively that some one has
+transgressed, knowingly or unknowingly, and so caused the fatal ending. I
+saw such a case on one occasion and was prayed by the Indians not to go
+anywhere in the direction of the sick man.
+
+Should a man’s wife fall ill her relatives may, if they are within
+reasonable distance, come and take her away. Koch-Grünberg mentions a
+case among the Bara Indians where two men came from another tribe and
+removed their sick sister. They were treated with a show of hostility
+and followed--as the ailing woman took her healthy children away--for
+some distance into the bush. But no tribal quarrel ensued, the hostility
+appears to have been merely ceremonial. This is typical of what might
+occur among any friendly tribes.
+
+Spruce, after seven months among the Uaupes Indians, “failed to catch a
+payé”[312] or see one at work. I attempted to get on terms with sundry of
+these gentlemen by an exhibition of my own “magic” powers, in the hope
+that I might elicit some comments, or hints of their own secrets. I made
+play with my eyeglass, and informed them that it was great medicine, and
+enabled me to see through a man. But though the tribesmen had on their
+own account attributed this faculty to my camera, the medicine-men were
+very sceptical of the eyeglass. Still I had better fortune than Spruce,
+for one day when I was with an Okaina tribe, a woman of my party went
+down with fever. She had a temperature of 103° to 104°, and the quinine
+with which I dosed her had no effect. There happened to be a great and
+noted medicine-man in the district, so they sent for him. The _maloka_,
+some fifty yards from wall to wall each way, was dark as pitch. Into
+the gloom rushed a frenzied figure. It was the medicine-man in a state
+of tremendous excitement. He passed his hands frantically all over the
+woman’s body. She lay rigid, and he was shaking with the intensity of
+his emotion. Never in my life have I seen a man so excited. If he were
+play-acting he believed most emphatically in his own play-acting. Then
+he filled his mouth with coca, and stooping over the moribund woman put
+his lips upon hers. Eager and trembling, he sucked up the contents of the
+woman’s mouth, then rushed out of the house and expectorated, emptying
+his mouth with his fingers. After this he announced that he had sucked
+away the evil spirit.
+
+Next morning the woman was perfectly well.
+
+I considered it the most extraordinary faith cure: but there was no
+burking the fact that a dying woman had been restored most miraculously
+to health. Certainly imagination goes very far in the curative process
+with a patient in Amazonia--as elsewhere,--but even allowing for this it
+was extraordinary.
+
+Faith in the healing powers of the medicine-men is not confined to the
+tribesmen, for I knew one case of an Indian woman who had been married
+for years to a white man and lived in the rubber district. She fell
+ill, and her husband, instead of trusting to the white man’s remedies,
+insisted on sending for a medicine-man.
+
+
+CHAPTER XV
+
+    Indian dances--Songs without meaning--Elaborate preparations--The
+    Chief’s invitation--Numbers assembled--Dance step--Reasons
+    for dances--Special dances--Dance staves--Arrangement of
+    dancers--Method of airing a grievance--Plaintiff’s song of
+    complaint--The tribal “black list”--Manioc-gathering dance and
+    song--Muenane Riddle Dance--A discomfited dancer--Indian riddles
+    and mimicry--Dance intoxication--An unusual incident--A favourite
+    dance--The cannibal dance--A mad festival of savagery--The
+    strange fascination of the Amazon.
+
+
+Whatever of art there may be in the soul of the tribesman finds
+expression in the dance. It is the concert and the play, the opera,
+the ball, the carnival, and the feast of the Amazons, in that it
+gives opportunity for the æsthetic, artistic, dramatic, musical, and
+spectacular aspirations of the Indian’s nature. It is his one social
+entertainment, and he invites to it every one living in amity with
+him. Any excuse is enough for a dance, but nevertheless the affair is
+a serious business. The dance, like the tobacco palaver, is a dominant
+factor in tribal life. For it the Amazonian treasures the songs of his
+fathers, and will master strange rhymes and words that for him no longer
+have meaning; he only knows they are the correct lines, the phrases he
+ought to sing at such functions, because they always have been sung, they
+are the words of the time-honoured tribal melodies.[313] It is for these
+occasions that he fashions quaint dancing-staves and wonderful musical
+instruments, and dons all his treasured ornaments, while his wife paints
+her most dazzling skin costumes. He practises steps and capers, tutors
+his voice to the songs; meantime his children rehearse assiduously in the
+privacy of their forest playground, against the time when they too may
+take part in the tribal festivities.
+
+
+The entertainment demands elaborate preliminaries. When any such carnival
+is on hand the old women of the tribe for days previously are busied
+making cassava, and with the preparation of _kawana_ or other appropriate
+drinks. The amount of liquid refreshment necessary for a large dance is
+enormous, in view of the custom by which the liquor-logged native simply
+steps aside, and by the insertion of a finger down the throat is speedily
+ready for a further supply. During the four or five days that a dance
+continues only the old men among the Turuka will eat anything, and that
+nothing more substantial than manioc starch; the dancers merely drink
+_hashiri_.
+
+Nor is the inner man only to be considered. All sartorial treasures,
+the feathers and necklaces of the men, the beaded girdles of the women,
+are taken from their receptacles, the wardrobes in the rafters of the
+_maloka_. The men--for the Amazonian male reserves to himself the
+greatest brilliance of attire on occasions of ceremony--array themselves
+in their feather tiaras, with necklaces, armlets, and sounding garters
+of polished nuts. The maidens and matrons also apply themselves to
+the elaboration of their toilets. No court dressmaker ever gave more
+anxious thought to the fashioning of _chef-d’œuvre_ in silk and brocade
+than do these dusky daughters of Eve to the tracing of circles, angles,
+bands, and frets upon their naked skins. Coquetry is as essential an
+accompaniment of the savage dance, in the unmapped bush of the Amazons,
+as in a garlanded ballroom of Mayfair. The most vain of English beauties
+probably spends less time over her adornment for any function than do
+these young women as they squat in chattering crowds over the calabashes
+of vegetable dye, white, scarlet, black, or purple, with which they trace
+upon each other the cunning patterns that make their only dresses.
+
+When these preparations are satisfactorily advanced the chief, or some
+one in authority, despatches his invitations, no formal cards entrusted
+to a postman, but a summons mysterious as a Marconigram, and imperious
+as a writ of the High Court. The chief takes his stand between the
+_manguare_, the signal drums slung from the rafters of the great house,
+and with the rubber-headed drumstick he beats out as message sonorous
+notes that travel to every Indian within eight or nine miles. This
+summons is no mere manipulation of the four notes which constitute the
+range of the instrument, but an articulate message to convey the time,
+the place, and the purpose of the meeting to the initiated.
+
+
+The numbers who congregate for a dance were a constant source of
+astonishment to me. Out of the silent and trackless bush scores of
+expectant guests, all painted and feathered, will pour into the clearing
+about the _maloka_, at the time appointed by the signal drum, and by
+nightfall some hundreds are gathered. Great bonfires are set ablaze,
+and the interior of the tribal lodge, where the chief has a place in
+the centre, flares ruddy with the light of torches. The men make loud
+clangour with their instruments, flutes, pan-pipes, or drums, and out in
+the clearing they form into line, clutching their jingling dance-poles,
+while the women form up facing them. Led by a strenuous tribesman
+clattering with nuts and dried seeds, the line begins its perambulation
+of the _maloka_. Forward two steps--_thud!_ Backward two steps--_thud!_
+Clattering and pattering, with the fifes shrieking high above all other
+sounds, as the drums growl deep below, the procession slowly encircles
+the _maloka_, and then enters. In a frenzied flutter of feathers and
+leaves the performers move round the chief, to a jangle of seed-pods and
+rattles, till the company is completed, and the tribal lodge is packed
+with the dancers, when he signals for silence. The dance stops. The
+instruments cease their outcry, and in the sudden contrast of silence the
+chief sings a line which is the keynote of the occasion, the explanation,
+the reason for the assembly. Then dance and song begin, while those who
+are not taking active part squat round upon their haunches and ejaculate
+hoarse cries of approval and encouragement at intervals.
+
+As aforesaid, any excuse is good enough reason for such festival. Dances
+take place continuously: at the harvest of the pine-apple and the manioc;
+at the conclusion of a successful hunt or war-expedition; and at such
+other times in the Amazonian season as the chief feels moved to give
+entertainment. As the weather does not vary sufficiently to influence the
+harvesting of the crops at any particular date, there is no equivalent
+to our harvest; and, though manioc is planted as a rule just before the
+heaviest annual rainfall becomes due, there is no part of the year when
+some of the roots are not ready to gather. Pines are most plentiful
+in October, and it is then that the special pine-apple dances take
+place.[314]
+
+The dance takes its character from the occasion. The dancing staff,
+unless the dance is in honour of some specific thing, is undecorated,
+merely furnished with a calabash that contains nuts, or with a carved
+head hollowed for the same purpose, and is sometimes hung with bunches of
+dried seeds that rattle when shaken or when knocked on the ground. These
+form important additions to the orchestra, and to the garters and anklets
+strapped to the legs. Very often the Indian decorates his staff with
+palm leaves merely for ornament, but in the harvest dances the staves
+are adorned with bunches of whatever crop is to be honoured--a tuft of
+pine-apple leaves or a bundle of manioc shoots. The Yakuna carve patterns
+on their dance staves.[315] Among the Tureka, north of the Japura, dance
+staves are a most important possession, and are looked on with great
+affection by their owners. The Tureka men wear aprons when dancing,
+and use clappers in one hand, instead of the horns and rattle used
+alternately by the Tukana.[316] The Menimehe carries a club in his right
+hand. On the Tikie, dancers are said to hold a flute in the left hand,
+and always to have a green twig under their girdle. Koch-Grünberg further
+states that they have clay whistles with which they blow at dances as
+well as for signals. These are not customs of the Issa-Japura tribes.
+
+The soloist who leads the dancers from the start outside the _maloka_
+very probably commences by executing some fancy high stepping. He may,
+for instance, prance like a stallion, and this is calculated to amuse the
+company immensely. When the performers get too heated by their exertions
+in the house they will file outside, still dancing, and after a few turns
+on the open space in front of the _maloka_, will return within.
+
+
+Among the Okaina and the Boro the hand is often placed on the far
+shoulder of the next in line. I especially remember one endless dance in
+an Okaina house in which all free performers were double locked, while
+those in possession of staves or rattles were content with a single lock
+to allow freedom for one hand. The dancers invariably stand in single
+file, usually with one hand resting on the shoulder of the next in
+line. The Menimehe and most other tribes place the left hand on their
+neighbour’s right shoulder, but, according to Koch-Grünberg, tribes
+on the Tikie place the right hand, though the Tukana rest the left.
+The figure is composed of a broken circle of men thus linked together,
+whilst in their free hands they hold the dancing staves, rattles, or
+flutes. Within, and concentric, is the ring of women dancers, who face
+the men and maintain a time which is complementary and not identical
+with theirs.[317] North of the Japura in some cases the women dance
+between the men in the same circle,[318] or the men and the younger girls
+dance round the elder women. When dancing, personal touch is not tabu
+or disliked, possibly because it is ceremonial or conventional. In most
+of these dances the woman who is not engaged in the inner circle of the
+select--the complementary figure of the dance--places herself outside the
+outer circle with her left hand on the left shoulder of the man of her
+choice. Her frontal portion is thus at right angles, and away from that
+of her man.
+
+The rhythm of the dance is always very marked. The figures and steps
+are simple, neither suggestive nor lascivious, and wholly destitute of
+the lustful invitation of the dances of the East. The step is almost
+invariably a high, prancing flexion of the thigh upon the body, followed
+by a deliberate extension to the ground, repeated two or three times, the
+advance being completed with a resounding stamp of the right foot upon
+the earth, according to the accentuation of the measure. The same steps
+are repeated backwards in retiring, although less ground is covered, so
+that the dancers sway rhythmically forward and backward; but the end of
+each movement finds the whole line advanced some little distance from
+where it was at the conclusion of the previous one. The forward movement
+may be described simply as, right foot forward, left foot forward, stamp
+with right, right foot backward, left foot backward, right foot back
+in position, toe on ground, to start _da capo_ right foot forward,
+in uninterrupted repetition. Spruce has described this movement as “a
+succession of dactyls.”[319] In stamping, which is done by all the
+dancers in unison, the knee is brought up to a right angle with the
+trunk, and the foot then thrust down with the whole weight of the body.
+Toe with right is the same motion as stamp right, but with only a slight
+flexion of the knee, and comparatively noiseless. The circles move to the
+right, continuing, but almost imperceptibly on account of slight change
+of ground. The Tureka make a jump before the stamp, shout at the end of
+the figure, and whistle through their teeth.
+
+
+While the principal dance is in progress a frequent form of side-show to
+the main entertainment is the entrance of a tribesman with a grievance.
+He will have made for himself the most remarkable costume he can devise,
+and to ensure that he shall gain attention, wears upon his head a
+veritable “_matinée_ hat” of absurd proportions.[320] He pays no heed
+to the dance when he comes into the _maloka_, but stalks solemnly to a
+position in the sight of all, though he will keep out of the actual track
+of the dancers. Then, standing stock-still with upraised hand, facing
+neither the performers nor the “sitters out,” but in any chance position,
+he raises his staff and begins to recite his complaint to a monotonous
+refrain. The following is a typical instance of what may be chanted:
+
+    There came a man this morning to our lodge--
+    A man who took cassava from my woman.
+    Cassava she gave him in exchange for two pines,
+    For two pines she gave him much cassava.
+    But where are the pines?
+    Where are the pines he promised?
+    Was this man a thief?--
+    This man who took cassava from my woman.[321]
+
+Or the complaint might run:
+
+    I came in with meat;
+    The hungry man took my meat,
+    But promised me bread.
+    He gave me no bread,
+    And my belly is empty.
+
+The following is a complaint made by a Boro chief’s daughter of her
+treatment by her own tribe:
+
+    The chief’s daughter was lost in the bush,
+      And no one came to find the spoor;
+    The branches were broken and the leaves were turned,
+      And no one came to find the spoor.
+    And where were my brothers and the sons of the chief’s brothers,
+      That no one came to find the spoor? etc.
+
+The petitioner will repeat his or her song for hours without ceasing.
+To all appearance no one takes the slightest notice of his presence,
+unless the dance should come to an end during the recitation, when the
+performers jeer and laugh at his tale of woe. This has no effect upon the
+plaintiff, who continues gravely to voice his grievance. The chief must,
+however, take note of the matter, and if it be thought of sufficient
+importance it is brought up for discussion and judgment at the next
+tribal conference in tobacco palaver. At any rate, this method of airing
+a grievance has the effect of placing the culprit on the black-list, in
+view of the resultant publicity; and the natural wariness that is shown
+by others of the tribe in all dealings with such suspect for the future,
+is in itself a punishment for the crime.
+
+It is difficult in the extreme to obtain any reliable evidence of the
+existence of initiation dances. Sixty years ago Dr. Russell Wallace
+described as the initiation dance of the girls of the Uaupes a dance
+which, six years ago, Dr. Koch-Grünberg, the latest and most painstaking
+of Amazonian investigators, found as a Jurupari ceremony confined to
+men on the river Aiary. The dance is the same in each case, and depends
+for its distinction upon the infliction of serious bodily injury. The
+mysteries of initiation, as has been said, have not yet been fathomed in
+the Amazons, nor have those of Jurupari. There is undoubtedly a dance
+in which the performers beat their fellows with lianas until the blood
+is drawn and the victims faint with pain, but no white man has yet
+spoken with certainty upon its origin.[322] The dance is not known in
+the district between the Issa and the Japura, nor do the mysteries of
+initiation fall to be discussed in this chapter. Those are not matters
+which are readily laid bare to even the most enterprising investigator in
+the haunts of the aborigines.
+
+According to Koch-Grünberg’s account, all the women, accompanied by the
+smaller boys, leave the _maloka_ directly the notes of the flutes are
+heard, and either hide in the woods or in another house with closed
+exits. The performers circle round in quick marching time, blowing their
+flutes, which each holds in his right hand, his left resting on the right
+shoulder of the next man. At the completion of the circle they stand in
+line. One dancer then draws the long whip they all carry under their
+right arms, and while his companion holds his flute high up, blowing
+lustily, he gives him three blows on the side and stomach heavy enough to
+draw blood freely. This continues till all have taken part. There is no
+singing, but the gaping wounds and much drinking of _kashiri_ rouse the
+performers to a state of wild excitement. This dance is followed by an
+ordinary one, in which the women take part.[323] Obviously none of the
+Issa-Japura tribes practise this dance, for I never saw any signs of the
+scars that must inevitably remain on the bodies of dancers cut in this
+wholesale fashion.
+
+The account given by Bates of a dance at the Feast of Fruits among the
+Juri and the Passé Indians is an equally good description of some of the
+Issa-Japura harvest dances. The men carry long reeds instead of javelins,
+and with their left hands on their neighbours’ right shoulders move
+slowly to right and to left. The accompaniment is a song as drawling and
+monotonous as the movement, which will be continued for upwards of an
+hour at a time.[324]
+
+In the pine-apple dance the Indians tie pine leaves to boughs and wave
+them as they move. The women of the chief, and possibly all the women
+of the tribe, form a semicircle with the chief in the centre, sometimes
+alone, sometimes with others. They carry the mid-rib of the Trooly palm
+or some similar wand, with a small pine, or often the pine-top, tied to
+the end.
+
+The proceedings at all harvest dances are very similar. I give as example
+a Boro dance at the gathering of the manioc, which is but an excuse for
+this dance, as manioc is pulled up at all times and seasons. As is almost
+universal in Indian dancing, the outer circle, or rather semicircle,
+is composed of men. The women, fewer in number, stand together in the
+centre, or each behind the man of her choice. Their dancing staves are
+all decorated with bunches of manioc shoots. The woman, with the nearer
+hand resting on the man’s shoulder, keeps step with him, moving to her
+own front and not sideways like the man, though in the same direction.
+The inner group face the circle of men, and their steps are complementary
+to those of the men, and not identical with them. The chief starts the
+dance with the first line of the song, his wife replies, and her answer
+is echoed by the chorus of the chief’s women.
+
+    _Chief._
+
+    I am old and weak and my belly craves food.
+    Who has sown the _pika_[325] in the _emie_?[326]
+
+    _Wife._
+
+    I have sown the _pika_ long, long ago.
+    The _maica_[327] is sown with young shoots.
+
+    _Chorus._
+
+    We have sown the _pika_ long, long ago.
+    The _maica_ is sown with young shoots.
+
+    _Chief._
+
+    I am old and weak and my belly craves food.
+    Who has cut the _pika_ in the _emie_?
+
+    _Wife._
+
+    I, even I myself, have cut the _maica_.
+    The _maica_ is cut in the _emie_.
+
+    _Chorus._
+
+    We, even we ourselves, have cut the _maica_.
+    The _maica_ is cut in the _emie_.
+
+    _Chief._
+
+    I am old and weak and my belly craves food.
+    Who has soaked the _maica_ for the _mao_?[328]
+
+    _Wife._
+
+    I, even I myself, have soaked the _maica_.
+    I have soaked the _maica_ for the _mao_.
+
+    _Chorus._
+
+    We, even we ourselves, have soaked the _maica_.
+    We have soaked the _maica_ for the _mao_.
+
+The whole process of growing, harvesting, and preparing the manioc for
+cassava is thus related, then the chief will ask:
+
+    Who has made the _mao_ that I may eat?
+    That my belly may swell with _mao_?
+
+    _Wife._
+
+    I, even I, have made the _mao_,
+    And my belly will swell with _mao_.
+
+    _Chorus._
+
+    We, even we ourselves, have made the _mao_.
+    We will all eat that our bellies may swell,
+    That our bellies may swell with _mao_.
+
+    _Chief._
+
+    _Ina? ina?_[329] that your bellies are swollen?
+    Who has eaten the _mao_ from the _pika_--
+    The _pika_ in the _emie_?
+
+The suggestion is obviously that the women have stolen and eaten the
+cassava of the chief, but it is made solely to bring in the sexual
+suggestion. The women deny the imputation, and declare that their bellies
+are empty, or that they are great with child, not swollen with _mao_.
+The chief will then ask why, or when, the belly fills with child, and so
+the song continues on the lines of the sexual ideas introduced until the
+finale is reached, when the chief would sing:
+
+    _Imine, imine_,
+    The women are good women,
+    _Imine_.[330]
+
+
+The Muenane, who occupy a part of the central Issa-Japura watershed,
+between the Andoke and the Resigero, possess a dance of their own, which
+has travelled into many of the other tribes south of the Japura, and has
+become very popular.[331] This is a combination of a riddle and an animal
+dance. The figure is formed as in the pine-apple dance, but the centre is
+taken by a warrior who has gained a reputation as a wit. His business is
+to ask a riddle, which will in all probability be an original one, and he
+asks it after the manner of a chant. Naturally a man with at least the
+indigenous sense of wit is loudly applauded and received with shrieks of
+laughter from the outset. The dancers take up the chanted question as
+they rotate round the questioner. At the end of the measure the dance
+stops, and the riddler rushes frantically round the circle with a lighted
+torch, looking, like Alcibiades, for a man--to answer his riddle. He
+stops suddenly, thrusts his torch into the face of a performer, and,
+peering into his eyes to seek for some sign of answering intelligence,
+repeats his question. The answer, if in the negative, is given--whatever
+the tribe dancing may be--in the tongue of the originators of the dance,
+Muenane--“Jana” (I do not know). The dancer thereupon, having failed to
+reply correctly, is then impressed to be a follower of the questioner,
+and must rush after him and imitate all his antics, which are apparently
+to give the clue to the riddle. In a short time a long single file of
+these failures is engaged in presenting a burlesque of the habits of the
+animal whose name is the answer required. The first performer who guesses
+correctly becomes the questioner in turn, and the dance starts afresh.
+
+It may be pertinent here to relate an incident which tends to convey at
+least an insight into the Indian character, the lack of altruism, the
+love of discomfiture of others. On one occasion the questioner--evidently
+to take a rise out of a stranger, and being intoxicated, if not with coca
+at least with the dancing mania--thrust his torch into my face, nearer
+than would be tolerated in the usual way. I quickly placed my foot on his
+chest, with the resultant back-somersault of torch and man. The shrieks
+of laughter lasted a considerable time. I was the hero of the hour, and
+custom decreed that the victim should laugh at his own discomfiture.
+
+All Indians are clever mimics, and the fidelity with which they reproduce
+the actions of jaguars, tapirs, monkeys, parrots, and other familiar
+animals of the bush is remarkable. The riddles are nearly always
+concerned with animals, and the test of wit is the amount of sexual
+suggestion contained in the reply.[332] A typical query is, “When is a
+howler-monkey not a howler?” The answer would be, “When he is covering
+his mate.” The dumb show of the actors delights the audience, and
+leaves no small characteristic to the imagination. The riddles may defy
+translation, but the actions are certainly not beyond interpretation.
+
+In this connection it is well to refer again to the subject of dance
+intoxication. The excitement due to rhythmic motion struck me very
+forcibly. It should be remembered too that the men are heroic cocainists,
+and this stimulant, in forcing the imagination, undoubtedly for the
+moment--_qua_ alcohol--has an aphrodisiacal tendency. The sexual
+innuendoes of the songs, though not of the dance, increase the effect. It
+must also be borne in mind that five days and nights is not an uncommon
+limit to one dance. It may cease at sunrise for a short space, and
+individuals, of course, rest and sleep as nature may dictate, but never,
+to my knowledge, for any length of time.
+
+
+On one occasion I was witness to the most remarkable salacity on the part
+of an individual. In my innocence I considered it part of the dance, and
+was satisfied with the idea that I had at last happed upon the indigenous
+counterpart of the coition and parturition dances of the East. It was
+not until the man was restrained by order of the chief that the true
+facts were realised.[333] But this was exceptional. The dance is carried
+on with frenzy and excitement, but with nothing beyond that. It never
+touches eroticism.[334] The dance never ends, as we know ending. It
+dwindles to cessation.
+
+Another dance, much appreciated by the tribes between the Issa and the
+Japura, is not very dissimilar in essentials from the musical chairs of
+our childhood. The dancers form into a line, or two parallel lines, and,
+headed by the song-leader, carry out the customary step in single file.
+At the leader’s mention of a certain word, or perhaps a certain subject,
+previously agreed upon, the whole line must right-about turn, and pick
+up the step again without losing a beat. Those who fail are withdrawn
+from the line. The dance continues until the fittest alone remain, and is
+productive of general amusement.
+
+But there are more tragic inspirations for a dance than the guessing
+of riddles or the garnering of the crops. I refer to the triumphant
+home-coming of tribal warriors, laden with booty from the war-path,
+with a band of doomed prisoners. The treatment of the latter and their
+disposal at the feast have been already dealt with. But the cannibal
+ritual of insult is not the end. When the orgy of blood and gluttony is
+over, the warriors must dance. Only the men may take part in the feast,
+so only the men may participate in this dance. The music is chiefly
+that of the drums, and to their gloomy rolling--according to Robuchon’s
+account--the warriors lurch portentously, drunk already with victory, and
+excited by dancing. They break apart frequently to stir the great troughs
+of liquor with the forearms of their dead enemies, and to quaff deep
+calabashes full of drink. Then they stagger back to the wild intoxication
+of the dance. Their songs become shrieks, demoniacal, hellish. For eight
+days this horrible dance of triumph continues, while the captive boys and
+girls, young enough to be saved from the fate of the earthen pot, cower
+in the darkness of the _maloka_ and suffer, perforce in silence, the
+gibes of the women. But this scene defies description.
+
+Set against the darkly impressive background of the forest any tribal
+dance gives an amazing effect of kaleidoscopic light and colour when,
+with nightfall, by the flare of great fires and the glow of torches, the
+performance begins. The chosen soloist of the tribe jangling his circlets
+of nuts, sounding his gourd rattle, in a falsetto voice sings the ancient
+air of the dance. The warriors follow the melody in canon. Then slowly
+the great line of naked men, arms interlocked about each other’s necks,
+surges forward two steps in perfect time, pauses a moment, then recedes
+two steps. In a little while the whole earth shakes with the swing of the
+movement. It is like the flowing and ebbing of mighty waves upon a shore.
+It intoxicates with the recurrence of the accentuation. Slowly round the
+big _maloka_ the procession passes, swaying in unison. The streaked and
+banded women dance uniformly in an opposite direction. The fires splutter
+and blaze. The torches cast strange shadows. The flutes, the pan-pipes,
+and the drums blare, bleat, and boom their barbaric accompaniment.
+
+
+It is a mad festival of savagery. The naked men are wildly excited; their
+eyes glare, their nostrils quiver, but they are not drunk. The naked
+women abandon themselves to the movement of the dance; they scream their
+chorus to the tribal dance-song; but they are not lewd. There is about
+it an all-pervading, illimitable delirium. The wild outburst affects
+even the stranger in their midst. Forgotten cells in his brain react to
+the stimulus of the scene. He is no longer apart, alien in speech and
+feeling. He locks arms in the line of cannibals, sways in rhythm with
+them, stamps as solemnly, and sings the meaningless words as fervently
+as the best of them. He has bridged an age of civilisation, and returned
+to barbarism in the debased jetsam of the river banks. It is the strange
+fascination of the Amazons.
+
+
+CHAPTER XVI
+
+    Songs the essential element of native dances--Indian
+    imagination and poetry--Music entirely ceremonial--Indian
+    singing--Simple melodies--Words without meaning--Sense
+    of time--Limitations of songs--Instrumental
+    music--Pan-pipes--Flutes and fifes--Trumpets--Jurupari music and
+    ceremonial--Castanets--Rattles--Drums--The _manguare_--Method of
+    fashioning drums--Drum language--Signal and conversation--Small
+    hand-drums.
+
+
+In considering the native dances it must be remembered that the
+accompanying songs are essential elements of the entertainment: they
+mark the character of the dance; and equally, in considering the songs,
+it must be remembered that the imagination of the native never goes
+beyond the relation of the sexes. The Indian’s poetry is an inverted
+form of romanticism. Instead of seeking to give rhythmical expression
+to an idealisation, to find in the beauties of Nature an analogy to the
+realities of Life, he reverses the process. For instance, he views a
+ripe fruit, and it only suggests to him a pregnant woman. In all such
+natural phenomena as he recognises he notes but the crude, if possibly
+the scientific, origin. In the most ordinary conversation he refers to
+conditions that appear indecent in common print; they are, however,
+undetachable from him.
+
+So it is that in his songs he debases idealism, does not elevate realism.
+His poetry is on a par with that of the music-hall comedian who conceals
+a mass of filth under avowedly innocent words--but the intention is very
+different. The Indian possesses no other verbal vehicle, knows no other
+source of inspiration. His imagination is bound by his vocabulary, as his
+vocabulary is limited by his imagination. Curiously enough the effect
+upon his audience is gained by the same means as those employed by the
+red-nosed singer in the places of entertainment south of the Bridges,
+and is almost identical in degree. Some of the Londoners of the County
+Council schools have advanced ethically but little beyond their naked
+brothers of the Amazonian bush.
+
+These Indians cannot be said to love music for its own sake. The use of
+music in any form is almost entirely ceremonial. They neither sing nor
+play instruments as a rule merely for pleasure. On the occasions of their
+festivals and dances, though, they give evidence of the possession of
+voices of considerable flexibility. They also display much ingenuity in
+the manufacture of their instruments, and, next to their weapons, the
+pan-pipes, flutes, and drums are most carefully fashioned and preserved.
+In fact, these take precedence over all domestic implements, and even
+most ornaments.
+
+The native singing voice is loud, high, and shrill. The male leader--as
+a rule it is a man who is appointed, and he may be any one who knows
+the old songs--sings the solo, to give the chorus their cue, in a high
+falsetto which is very penetrating, and marks both time and tune for the
+others to follow in canon. The song is started softly, and gradually
+increases both in volume and speed. According to the circumstances, the
+subject, and the occasion, the men sing alone, the women sing alone, or
+the men and women combine as in the tribal dances. Most of the singing
+is done in unison, with a regular drone accompaniment from those not
+actually articulating the words. The songs are sung in regular time, to
+the accompaniment of stamping, but not with hand-clapping. The melodies
+are simple, and in the definite tribal songs consist of little more than
+a single phrase that seems to admit of no variation, and is repeated _ad
+libitum_, as, for example, _Mariana Keibeio_, a Boro tribal song. The
+tune of this, notated from memory, and in part from a phonograph record,
+runs approximately, so far as it can be rendered in our notation:
+
+
+What this implies no Indian now knows, for with all tribal songs the
+natives offer no explanation of their meaning or their origin. They are
+the songs that their fathers sang, and one can find no evidence of the
+amendation or emendation of the score on the part of their descendants.
+These tribal lays are so old that the words are obsolete and no longer
+understood by the singers; what is of importance is the rhythm, and
+to that, as is common with uncivilised peoples, the music is largely
+subordinated. It is but an accompaniment to the dancing. “The sense of
+time” in the Indian, as Stevenson noted among the South Sea Islanders,
+“is extremely perfect,” and one might complete the quotation and add, “I
+conceive in such a festival that almost every sound and movement fell in
+one.”[335] It is not an easy matter to discuss, because the English and
+the Indian standpoint are so diametrically opposite. So far as I could
+judge the tunes are usually in a minor key, both melody and harmony being
+of the simplest.
+
+There are no love-songs among the Indians, for the poetic conception of
+love does not exist. Sacred songs and nursery songs are equally lacking.
+A mother never croons to her baby; she does not understand a lullaby.
+War-songs are merely the expression of the war-dance; they depend for
+their significance upon the words and for their ferocity upon the grim
+accentuation of the chorus.
+
+At the time of the harvest of pine-apples, when the great dance is held,
+the men sing the challenge, and the women reply in their own defence. The
+songs are similar to that sung at the manioc-gathering dance, and I have
+previously tried to give some idea of such a song.
+
+Apart from the traditional songs of the tribes, which are sacred and
+unchangeable, the Indians are very fond of a form of song which is
+really a game rather than a musical effusion. More correctly, perhaps,
+it should be called a ballad.[336] A leader of acknowledged fertility of
+imagination and fluency of expression is appointed, as for the Muenane
+riddle dance, and will collect the members of the tribe for what is
+actually an impromptu dance. He, or she, will chant to an improvised air
+with a simple rhythm, while the chorus repeat each line or its burden as
+a refrain. Such songs give opportunity for all the wit of the tribe. They
+are designed either to honour or to ridicule the subject of the ballad.
+In reality a composition of this description takes hours to sing. The
+first wit propounds the question, the chorus repeat it, and the second
+wit then suggests the answer, which is again repeated by all amid much
+laughter, and the repetition is continued not once but twenty times,
+until the first wit breaks in with a new query. This is a very favourite
+game among the women.
+
+The following is an attempt to suggest the song-words of a dance
+performed by some Witoto for my benefit, though I do the Indians too much
+justice, give too great an idea of continuity, in this version. There is
+no cohesion in their productions, and reiteration is the salient feature
+of all. The sound and the rhythm suggested to me at the time the metre
+of _Hiawatha_, so I give this song in an attempt at Hiawathian measure.
+But the adaptation is really too varied for the Indian original. I was
+outside the _maloka_ when the women started--no men took part--and they
+danced in front of me. After a time I went inside, and the performers
+promptly followed me, and continued to dance in the central space of the
+house. Naturally not one word would have been sung if these dancers had
+known it would be interpreted to me.
+
+    To our tribe there comes a stranger,
+    Comes a welcomed, honoured stranger.
+    And whence comes to us this stranger?
+    From what far and foreign country?
+    Wherefore comes this friend among us?
+    What the quest that brings him hither?
+    Are there in his native country
+    Empty fields and unkind women,
+    That he comes to seek among us.
+    So to satisfy his wishes?
+
+    By what name is called the stranger?
+    Tell us what his people call him.
+    Call him Whiffena Ri-e-i;
+    Call him Whiffena, the White Man.
+    Partly, too, his name’s Itoma.
+    But--his friends and bosom cronies--
+    Tell us, how do they address him?
+    He is nicknamed by his cronies
+    Ei-fo-ke, the Turkey Buzzard.
+
+    Ei-fo-ke, the Turkey Buzzard,
+    Is this, then, the name endearing
+    That his lovers whisper to him
+    When of him they grow enamoured?
+    No, not good! The Turkey Buzzard
+    Is a bird with beak of scarlet,
+    Yes, a long sharp beak of scarlet.
+    And a loose and hanging wattle.
+    No, his name is not Ei-fo-ke.
+    Let his love-name be Okaina!
+
+This went on _ad nauseam_. The true object in all such songs is to bring
+in and discuss sexual matters, and no song has advanced far before it has
+become essentially carnal in idea and thoroughly licentious in expression.
+
+Although instruments are always employed at the dances they do not seem
+to be introduced with any idea of organised accompaniment, but only to
+help swell the body of sound. The natives, being ignorant of the use of
+metal, have been forced to make their instruments entirely of vegetable
+substances; the only other material used is bone, human bone, _bien
+entendu_, and judging from a specimen presented by Robuchon to the
+British Museum, the shell of a small land tortoise. Their instruments of
+percussion are drums, castanets, and rattles: their wind-instruments are
+flutes and pan-pipes. Very rarely a solitary Indian may be found playing
+the flute, apparently for his personal amusement and solace. As a rule,
+it is merely used in combination with its fellows to increase the volume
+of sound without heed to its proper place in harmony.
+
+
+The pan-pipes are the simplest of all instruments of Amazonian music
+to make, and are the most universally popular. They consist of a
+bundle of reeds--three, five, six, seven, ten, or even seventeen in
+number--bound together with palm-fibre, or, on the Napo, with finely
+split cane. Although the pipes are cut to lengths yielding the necessary
+musical intervals, the number seems to be purely arbitrary. They are
+used in concert with all other instruments, and mark so much of tune
+as the Indian orchestra strives to attain. The pan-pipes shown in the
+accompanying illustration are Witoto instruments contrasted with the
+neater finish of one made on the Napo. The latter has the greater number
+of pipes, and all relatively smaller. There is nothing complicated about
+the make of either set. The cane pipes are cut immediately below the
+natural joint, and the node is thus made to serve as a stop.[337]
+
+The ubiquitous bamboo also furnishes the material for a larger flute,
+and flutes or fifes are made out of the arm-bones of prisoners taken in
+battle. After the victim is killed and eaten the humerus is cleaned, its
+extremities opened, and the soft matrix scooped out. Finger-holes are
+bored in the shaft of the bone, usually three in number, but occasionally
+five. When human bones are not forthcoming the tribesman uses the
+leg-bone of a jaguar. This is opened at the end and furnished with a
+wax stop that leaves a small canal open to a three-cornered air-hole.
+Occasionally one of these flutes is made with both ends open, in which
+case a square or semicircular hole is cut out from the upper rim. The
+flute is held against the lower lip, and commonly has three, or more
+rarely four, sound-holes. Flutes are also made of heron-bones, open at
+the lower end, with a square air-hole, and generally four sound-holes.
+These have mouthpieces made of leaves, and their tones are exceedingly
+shrill. But the most curious instruments of which I have note are
+flutes made from skulls of animals, by covering them with pitch, and
+only leaving open the holes of the nose and the occipital bone. One
+hole is blown through, the other is the sounding-hole. Many of the
+Indian instruments, especially the bone flutes, are gaily ornamented
+with elaborate incised patterns that are dyed black and red with
+vegetable extracts. The flutes are also adorned with tassels of cotton or
+palm-fibre.
+
+The flute or fife is played from the extremity that is rudely fashioned
+into a mouthpiece. No native trumpets are provided with sliding tubes
+like the familiar trombone, and there is no plug in the mouth-hole. Nor
+are any of the Amazonian wind-instruments fitted with a vibrating reed.
+There are no bagpipes, and, in the regions I traversed, no stringed
+instruments. Certain tribes north of the Japura, notably the Desana, use
+whistles made of clay, which they employ both as alarm signals and as
+adjuncts to the dance.
+
+Trumpets of bark and bamboo have an irregular distribution. Many tribes
+dispense with them on all ordinary occasions, and confine their use to
+Jurupari music. These sacred instruments constitute one of the most
+profound mysteries of the Amazon. They are lengthy affairs, made from the
+hollow stem of a palm, and fitted with a trumpet mouthpiece. The note
+is akin to that of the bassoon. These trumpets are tribal possessions,
+and are kept concealed at a distance from the _maloka_, in a hut which
+the women are never permitted to enter, and where the various secret
+paraphernalia connected with boy initiation--such as the whips of tapir
+hide--are stored. It is a capital crime for any woman even to set eyes
+upon them. The Jurupari trumpet is as tabu to Indian women as the
+bull-roarer of the Australian native is to his women-folk.[338] The
+Indian girls are brought up in the belief that the music of the trumpets
+is an essential element in the exorcism of the evil spirit from the
+body of the youthful initiate, and that any interference on their part
+must lead to the eternal residence of such spirit in the novice, to the
+consequent disaster of the tribe, and this belief holds good all their
+lives.[339] No sooner is Jurupari music heard approaching the _maloka_
+than all the women and uninitiated hurry to the bush, and remain in
+hiding until the ceremony is concluded and the trumpets have been
+returned to their tabernacle. What the ceremony may be is held a profound
+secret, and the punishment for infringement is death.[340] As a rule two
+of these sacred trumpets are used, and they are tuned to the same pitch,
+though differing in their tone according to their length. They are only
+used north of the Japura; south of that river the tribes have no Jurupari
+music and only know them as employed ceremonially by their neighbours in
+connection with initiation secrets to frighten their women.
+
+The Tukana when dancing use a trumpet alternately with their rattles; and
+the Indians north of the Japura have regular castanets, made of blocks
+of hard wood, which are manipulated with one hand, much in the manner
+that the nigger-minstrel plays the “bones.” All the tribes make rattles
+of small gourds by the simple method of partly filling the calabash
+with dried seeds, or fruit stones, and inserting a wooden handle so
+that they can be shaken in time to the dance. Some of these are of the
+roughest, the stick of the handle quite untrimmed; others are more finely
+finished, and the polished black surface of the gourd may be ornamented
+with designs in colour, or incised patterns. But these are by no means
+the only rattles used at a dance. The Indians have them of many kinds
+and descriptions. The smaller are worn as armlets, wristlets, leglets,
+and anklets. These are made of nuts, strung with coloured beads on palm
+fibre, and very carefully fashioned. The leg rattles are frequently
+handsome ornaments, the rich brown of the glossy nutshell making a
+splendid contrast with the blue or red of the Brummagem beads. The finest
+are made from a nut not unlike the Brazil nut of commerce in shape, but
+less angular. That shown in Plate XLIII. has natural groovings and marks
+which give the polished sections the appearance of being engraved. A
+section of the shell is cut off, thoroughly cleaned and polished, then
+attached by a short string of beads to the main leg- or arm-band from
+which these nut sections hang bell-like. The arm rattles are made of
+smaller nuts, some are not unlike an oval hazelnut, flat on one side,
+cut in half and highly polished. The nut is, roughly speaking, some
+three-quarters of an inch across and long. These also are hung on threads
+of beads pendant a quarter of an inch apart from the connecting beaded
+string. Leg rattles are made of larger nuts, and one variety is made in
+the form of a bunch, not a band or chain. The beads used for these are
+blue and red in colour, and the bunch of nuts on their beaded strings is
+fastened with plaited palm-fibre beneath the knee. The whole effect is
+most distinctly ornamental. The jangle of two or three of these nutshell
+bells is not unpleasant: there is almost a tinkle in their clatter, but
+the volume of sound obtainable from a number of them is remarkable, and
+so is the precision with which they accentuate the rhythm of movement.
+
+The Indians have no cymbals, gongs, or bells; but the drum is an
+important factor not only in native music, but in native life. The drum
+is the telegraph of the Amazons. In fact, the most remarkable of all the
+native instruments is the _manguare_ or signal drum. Although the primary
+use of this drum is to signal, it is utilised on great occasions as an
+addition to the aboriginal orchestra. To make this important adjunct
+of the _maloka_ two blocks of hard wood are chosen, some six feet in
+length, and about twenty-four inches in diameter. These blocks are very
+carefully hollowed out by means of heated stones that are introduced
+through a narrow longitudinal slit, and char the interior. Instead of
+endeavouring, however, as would be the case with an ordinary drum, to
+contrive as nearly perfect a cylinder as possible, the object of the
+signal-drum maker is to obtain a husk of varying thicknesses, so as to
+secure differences in note. Accordingly, with his rude implements, hot
+stones, capybara-tooth borer, and stone axe, he fashions the interior
+of the drum in such a manner that the outer shell, the sounding-board,
+varies in thickness from half an inch to four inches. Two blocks are
+used; the smaller is called the male, and the larger the female. The ends
+are simply the wood of the tree which is not removed, all the hollowing
+being accomplished by means of the grooved slit. When finished these are
+suspended by withes at an oblique angle, one end much higher than the
+other--say six feet and three feet respectively from the ground. They
+hang from the rafters of the _maloka_, or from an upright frame, and
+present the appearance of two barrels surmounted by a narrow slit.[341]
+
+
+The musician takes his stand between these drums and, with a wooden
+mallet headed with a knob of rubber, beats out his message or his
+tune. Altogether he has a range of four notes--two low ones on the
+female _manguare_, and two high ones on the male. On these he rings the
+changes with great rapidity, and produces a sound which, though not
+startlingly loud, has such penetrating qualities that it can be heard
+twenty miles away. He beats very quickly in short and long strokes, not
+unlike the Morse Code. By means of the _manguare_ a skilled signaller
+can carry on a conversation as accurately as a telegraph operator at
+St. Martin’s-le-Grand, or a soldier with a heliograph--but how he
+does it is another secret of the Amazonian bush. When used for its
+proper purpose as signal drum, the Boro and the Okaina can carry on
+conversations upon almost any subject within their ken. Other tribes are
+only able to distinguish between a warning of danger and an invitation
+to a dance. Brown could use the drum for small matters--he could hurry
+the bearers out of the bush for example. He said there was no code,
+but that the signaller tried to represent the sound of words with the
+drum, and Indians invariably told me that they made the words with
+the drum. However, with a language dependent on inflection, as theirs
+unquestionably is, there must be a code of some description.
+
+India-rubber, which has added a new and awful terror to the life of the
+forest Indian, is only employed by these tribes to make the drum mallet,
+used with the _manguare_, and the latex for depilatory purposes. The
+Witoto call the mallet _ouaki_, the drum is _hugwe_.
+
+These great signal drums have designs worked upon them in which the
+organs associated with the presumed sex of the instrument are prominent;
+and, after the manner of the natives, both instruments are invariably
+distinguished internally with the proper sexual characters, the female
+drum having two breasts pendant inside.
+
+Even in the construction of a small playing drum much time and ingenuity
+are expended. First an aeta palm[342] is selected, cut down, and a
+section of the trunk laboriously hacked off. This section in turn is
+carefully hollowed, until only a thin shell remains. Some tribes use
+a section of bamboo in place of the hollowed palm, but these never
+secure so fine an instrument or so fine a note as the palm trunk
+makes. Over the two ends of the cylinder dried monkey skin is tightly
+stretched--preferably that of the howler monkey, as it is popularly
+supposed to produce a louder and more rolling sound. Some tribes then
+fasten across one end of this drum a very tight cord, into the centre of
+which has been tied a fine sliver of wood. By this means two notes are
+obtained--the open note where nothing interferes with the vibrations of
+the drumhead, and the closed note where the vibrations of the splinter
+intersect those of the skin. A very inferior instrument is made with
+agouti skin over a bamboo cylinder. The drums made on the Napo River
+look very much like an English child’s toy drum, rather high and narrow,
+and, of course, made entirely without metal. The sides bulge slightly,
+and have crossed threads of fibre string. The vellum of the drumhead is
+kept in its place tautly by a close-fitting ring. These drums are usually
+decorated, and are objects of barter among many of the tribes. They are
+played with the fingers only, not with drumsticks or mallet.
+
+
+CHAPTER XVII
+
+    The Indians’ magico-religious system--The Good Spirit and the Bad
+    Spirit--Names of deities--Character of Good Spirit--His visit
+    to earth--Question of missionary influence--Lesser subordinate
+    spirits--Child-lifting--No prayer or supplication--Classification
+    of spirits--Immortality of the soul--Land of the
+    After-Life--Ghosts and name tabu--Temporary disembodied
+    spirits--Extra-mundane spirits--Spirits of particularised
+    evils--Spirits of inanimate objects--The jaguar and anaconda
+    magic beasts--Tiger folk--Fear of unknown--Suspicions about
+    camera--Venerated objects--Charms--Magic against magic--Omens.
+
+
+Some travellers and writers have asserted that the Indian has no
+religion. In the vulgarly-accepted meaning of the word he may have none.
+There is great variation among the groups, the tribes even--I venture
+to say--among the individuals. So far as they believe in anything they
+believe in the existence of supreme good and bad spirits; but their
+beliefs are always indefinite, only half understood even by themselves.
+To a certain extent it is open to the medicine-man, the chief priest of
+their magico-religious system, to vary, or even to disregard any current
+belief. Among individuals are to be found sceptics of every grade. On
+the whole their religion is a theism, inasmuch as their God has a vague,
+personal, anthropomorphic existence. His habitat is above the skies,
+the blue dome of heaven, which they look upon as the roof of the world
+that descends on all sides in contact with the earth. Yet again it is a
+pantheism, this God being represented in all beneficent nature; for every
+good thing is imbued with his spirit, or with individual spirits subject
+to him.
+
+In essence the idea of God is not that of a Supreme Being, and not
+entirely that of a Creator, but rather that of a Superior Being,
+possessed by an indulgent tolerance for all mankind. But he suggests only
+the negative idea. He is a spirit of benevolent passivity. He is good
+for no other reason than that he is not evil. There is no particularised
+sanctity in his name, no adoration of his nebulous personality, only
+an unquestioning acquiescence in his benignity. True, he is held in
+high esteem, but that is because he permeates all in nature that is not
+inimical, and thus demonstrates his kindly disposition. If the harvest
+fails it is due to the malevolence of their _Diabolus_, or some of his
+agents, yet if it be a good one the credit is due not to the Good Spirit,
+but rather to the medicine-man for having with his magic frustrated the
+machinations of the Bad Spirit.
+
+This Devil, or Bad Spirit, is affirmative in character, and is always
+active. He must not be invoked, but he is to be prevented by charms and
+magic from wreaking his vengeance on mankind, and must be placated at
+all costs as the supreme author of sickness and misfortunes, and the
+controlling power of malevolent nature.
+
+Both the Good and the Bad Spirit are attended by lesser spirits with
+similar characteristics. So far as I could ascertain, there is no
+suggestion that any of these supernatural beings ever lived in this
+world, though they influence it so entirely, and can visit it at will.
+
+The Good Spirit may be more potent, but he is certainly more remote than
+the Bad Spirit--too remote for ordinary people to be brought into any
+degree of contact with him whatsoever. His influence, his benefits, are,
+as he is, passive. The Bad Spirit, on the contrary, is of a ceaseless
+energy. His active influence is invariably present. He is always exerting
+his power in some definite, some concrete form. Poison, for example,
+is an active agent. The devil in it works vigorously to the undoing of
+his victim, definitely exercises a deleterious effect upon his enemy,
+man. So, too, the rocks that bar the way upstream are more active than
+passive. They repel, they may defeat the traveller, and, therefore, are
+to be regarded also as the active agents of a hostile power.
+
+It is noteworthy in this connection that the Bad Spirit may be
+materialised sufficiently to be able to carry a child bodily away, or to
+steal a woman, should she stray out into the forest by herself.[343] For
+this reason usually no woman will go alone into the bush, she will take
+a companion with her, especially at night, for the demon is popularly
+supposed to be unable to tackle more than one at a time, even if the
+second be only a young child.[344] Women who run away from their husbands
+are consequently said by them to have been taken by the devil. This is a
+favourite theory, as the man may thereby avoid the censure or hostility
+of the tribe. The men also do not care to be far in the bush alone, and
+after dark nothing will induce an Indian voluntarily to embark on the
+risk of adventuring into the forest by himself.
+
+One of the first difficulties met with when dealing in detail with the
+religion of these peoples is their refusal to use the true name of any
+spirit or deity. This has root in the same reason that ordains they shall
+never disclose their own names, nor voluntarily except on rare occasions,
+that is without questioning, the name of their tribe.
+
+In the Boro language we have the word _Neva_ as an equivalent for God,
+the good or sympathetic deity, and the word _Navena_ for the Devil,
+the great evil or antipathetic spirit, in fact the negative of all
+represented by _Neva_. But inasmuch as _neva_ stands also for the sun,
+the dawn, and the morning, while _navena_ is used for any spirit however
+humble--whether the soul-part of a thing, animate or inanimate, or the
+ghost or disembodied soul of the dead--we have a right to postulate
+that such are not the true, or supposed self-appellated names of these
+deities, but those that may be used without offence, and therefore free
+of the consequent evils that the mention of the true name would entail on
+the users.
+
+To give another example: In Witoto _Usiyamoi_ has the same meaning as God
+in ordinary parlance; _Taife_ is the Devil, whereas _Taifeno_ is any bad
+spirit whatever. But, again, the _Taife_, the dread of these people, the
+all-pervading evil genius, is named _Apuehana_, a word never pronounced
+above a whisper. Here then we may have reached a true secret name.
+
+The Boro _Neva_ and the Witoto _Usiyamoi_ are the _Tupano_ of the
+Tupi-Guarani tribes of the east and the Negro River. This we find is the
+_Apunchi-Yaya_ of the Guichua of the west, the Cachimana of the Orinoco.
+_Navena_ and _Taife_ or _Apuehana_ are the same as the _Jurupari_ of
+the north, the _Iolokiamo_ of the Orinoco, and the _Locazy_ of the
+Ticuna.[345]
+
+To return to the personal characteristics of the two regnant powers,
+the Good and the Bad Spirit, the former, though vague, is yet an
+omnipotent tempestipresent deity, and, although passive, something more
+than sympathetic and benevolent. He made the world, or it might be more
+correct to put it that he permitted it to be created, for his amusement
+and pleasure. When not otherwise engaged in his mysterious happy
+hunting-grounds he keeps a watch over earth and over mankind. But so
+great is he that no prayer or invocation is offered to him, nor, were it
+offered, could he be thereby influenced.[346] It is because he is so big
+a Chief that his attitude is entirely passive. Once Neva had forgotten
+the puny human factor, so he took the guise of a man and came to earth.
+The open spaces--the natural savannahs or geological outcrops--are where
+he spoke to the Indians, and it is a sign of his speaking and of his
+erstwhile presence that these are now open to the sun and the sky. But
+one Indian vexed Neva, the Good Spirit, and he was wrath with all men,
+so he went again to sit on the roof of the world. But before he departed
+he whispered into the ears of all the tigers that they were to kill the
+Indians and their children, and that is why the tigers to-day are wicked
+and sometimes are the habitations of the most evil spirits. Before this
+time the tigers were good to men, and they hunted together like brothers;
+they lived together in the houses; they ate and drank and licked tobacco
+in amity round the fire.[347]
+
+Such, so far as I could gather, is the Indian’s belief. The tale was
+told me by a Boro, but the belief is approximately the same with all
+these tribes. On the occasion of hearing this story of the visit of the
+Good Spirit to earth I related, to the best of my ability, the Christian
+story. The result may be of value in determining the possession of logic
+by the Indian. After they had listened to my story the tribesmen held
+a tobacco palavar, which lasted some six hours. Then the chief--the
+medicine-man was surly and remote--appeared, and this was the burden
+of his wisdom. His own people were greater than the people from the
+clouds--the white people--for the Good Spirit, Neva himself, came to the
+Indians, whereas only the Young Chief visited the clouds. And the Indians
+were better than the white people, for the white people killed the Young
+Chief, but the Indians listened to Neva, and only one among them vexed
+him.
+
+I had heard the story of the Good Spirit’s manifestation before, but
+doubted its genuineness, until one day when I inquired of a Boro what a
+savannah was he answered me that it was where Neva spoke to the Indians.
+When I questioned him further he told me the above. It is impossible
+to say how far this story may be a genuine folk-tale, how far it is a
+perverted version of the Biblical account. Tales travel far. They are
+adopted from one people to another, with resultant variations. We know
+that the Jesuits penetrated to the Rio Negro as early as 1668-69. There
+have been missionaries of that Society on the Napo. But I met with
+no traces of them on the upper waters, nor have any of these peoples
+anything in the least resembling the Christian symbol in their designs.
+One might expect to find so simple a figure as a cross reproduced in
+native art if once known, but it certainly is not. On the face of it
+we may here be dealing with a variant that has passed from tribe to
+tribe, that has trickled through centuries, to reappear now as a tribal
+tradition among peoples who have never been in any direct contact with
+Christian influences.[348]
+
+As regards the rule of these supreme spirits over the lesser spirits of
+good and evil they stand in the relation of great chief. The good spirits
+are the spirits of trees that bear edible fruits, of the trees from which
+arrows are made, of the _Coca erythroxylon_, of the astringent properties
+of various herbs, of the medicine-man’s magic stones that may be used
+as a prophylactic. These are not only the subjects of the Good Spirit,
+they were made by him. He made all the good things of the forest; and
+he also made the rivers and the skies. The Bad Spirit placed the rocks
+in the rivers, the poison in the mandiocca and in all noxious growths
+of the bush. He made the liana to trip the unwary walker, in short all
+things hurtful. These malevolent elements are the bad spirits which, as
+the name in Witoto appears to imply--the _Taifeno_,--are all subject to
+the _Taife_. As the Good Spirit lives above the world so the Bad Spirit
+inhabits the nether regions. The lesser spirits of evil go to him by
+way of the earth holes,[349] for these are the passages to his kingdom.
+The visit of the Good Spirit to earth as a corporate being was a unique
+event never repeated, but the Bad Spirit wanders with his myrmidons in
+the forest every night. Sometimes he takes the form of a tiger, or other
+fierce animal; sometimes, as alternative to the tiger-lifting theory,
+he resembles a man who can disappear at will. He imitates the call of
+the hunter who has found game, or the call of an animal to be hunted. He
+entices his victim by these and similar contrivances to venture deeper
+and deeper into the bush, until the wretched wanderer is utterly lost.
+According to tribal belief he is then destroyed, or spirited bodily
+away. As has been said, the Bad Spirit never appears to more than one at
+a time, and that one is usually spirited away, so can give no account
+of the appearance, but as confirmation of his real presence an Indian
+will sometimes whisper the evil name as he points out the track of an
+abnormal-sized tapir, which is curiously reminiscent to the European of
+the cloven hoof of his own Devil.
+
+The child-lifting story is a favourite one, and some amount of
+corroborative evidence is forthcoming, for in the awful loneliness of
+the bush a child naturally would become half demented with fear and
+apprehension, and if ever found again would be only too honestly willing
+to believe he had been in the very real clutches of a very real devil.
+The juvenile adventurer, answering in this way to leading questions,
+gives to these simple people all the proof they look for, and adds an
+immediate and local authenticity to the accepted myth.
+
+As there is no prayer to the Good Spirit, so there is no supplication to
+the Bad. The medicine-man, as I have said, invokes neither; he appeals
+to neither; but he attempts by magic to force the Bad Spirit into
+quiescence, to discover some more potent influence that shall make him
+powerless to hurt, for unless coerced he is all-powerful.
+
+Indefinite as these beliefs in a deity, good or evil, may be, faith as
+to the after-life of the soul is possibly still vaguer. Yet faith there
+certainly is, for the existence of the spirits of the dead is an accepted
+fact, acknowledged in the Indian ritual of burial.
+
+Of spirits there are four kinds:
+
+Permanent disembodied spirits, or the souls of the dead, their ghosts.
+
+Temporarily disembodied spirits, that is to say the souls of living men,
+with power to send them forth out of their material bodies.
+
+Extra-mundane spirits, or those from other worlds.
+
+Spirits of, or in, all natural objects, animate and inanimate.
+
+Any of these four classes of spirits are good or bad, according as they
+are benevolently or malevolently inclined.
+
+These Indians all believe in the temporary transmission of the
+disembodied soul into the form of an animal, bird, or reptile, not
+a regular and enforced series of such transmissions. This temporary
+transmission is for the pursuance of a certain aim, perhaps for some
+indefinite length of time. It appears that the spirit has the power
+of transmigration into other animal bodies, or back again to its
+extra-mundane form at will. Whether the animal is human, whether, when so
+invaded, it incorporates two spirits and becomes dual-souled, the Indian
+does not relate.
+
+Man’s soul in Indian belief is immortal, that is to say it exists as long
+as it is felt to exist, whilst it continues to appear in the dreams, in
+the thoughts of the survivors--for so long, in fact, as it is remembered.
+Surely this is immortality. A thing forgotten has never existed; and, per
+contra, the soul of a remembered being lives for ever. The disembodied
+spirit or ghost lingers near the body after death, in the woods near the
+house, or may even lodge in the house itself. And then indefinitely,
+indeterminately, after the body is buried the soul wanders farther
+afield, and goes at length to the happy grounds of the Good Spirit. Among
+some tribes this paradise is located above the skies, among others it is
+away up some river, in the far and mythical distance. The latter heaven
+is situated, as has already been mentioned, upstream, and that, in this
+country where the trend of the land is north-west and south-east, is also
+approximately towards the setting sun.[350]
+
+This land of the After-Life is a diminutive replica of the ordinary
+world, but with evil things eliminated and joyful things emphasised.
+All is on a lower scale, stunted forests and pigmy game. This idea of a
+world in miniature approximates to the Malay conception of a spirit, the
+“diminutive but exact counterpart of its own embodiment,” appertaining
+to all animal, vegetable, and mineral bodies.[351] The Indian miniature
+world would thus be, it seems, constructed of the spirits of the material
+world. Colour is given to this theory by the fact that individual
+possessions are buried with the dead, and the Kuretu confess that this
+is done to prevent the return of the soul in search of them. Were such
+properties to pass into the possession of survivors the soul part of
+each object, needed to represent it in the spiritual world, would be
+detained in the material world. Burial sets it at liberty, presumably,
+to accompany the soul part of its owner, to take in the miniature world
+of the After-Life a position corresponding in every detail to that
+which has been held here on earth. The soul is pictured as the body, in
+miniature also, visible or invisible at will, for these people, like the
+majority of many of a higher culture, are unable to imagine the soul
+except in some material guise.[352] Life in this enigmatic sphere has
+everything most prized in this world. Hunting is fruitful always; women
+are beautiful and amenable, and the men are all the old familiar friends
+of earth. The means of attainment to this desirable state are so vague as
+to be unassignable. Good and evil have no part in this scheme of heavenly
+philosophy. Broken tabus, crimes against tribal jurisprudence, apparently
+bring only temporary evil influences into play. Their punishment is
+immediate and material. The happy land is open to all the tribe with whom
+the Good Spirit is not vexed. It is closed to all their enemies.
+
+These lost souls, the spirits of those divinely damned, must still
+frequent the earthly forests, or perhaps ally themselves with the spirits
+of evil and wander down the holes in the earth to join the legions of the
+nether world.
+
+I have heard, but not very definitely, of the Zaparo belief that the good
+and brave souls will pass into birds of beautiful plumage and feed on
+the most delicate fruits, while the bad and cowardly are condemned to a
+future existence in the guise of objectionable reptiles.[353]
+
+This belief in, at least, a partial presence of the spirits of the
+dead has possibly a bearing on the Indian dislike, to use no stronger
+term, of mentioning his proper name. In the case of some tribes, as
+has been noted, the name of a dead man is given as a special honour
+to his greatest friend among the survivors. With other tribes names
+of the living may, and probably have once been those of persons now
+dead. To mention such a name aloud might conceivably be to attract the
+attention of the defunct erstwhile owner.[354] Therefore the name is only
+whispered, lest the spirit hearing it might come and bother the speaker
+or the individual named.[355] There is, of course, the further reason
+that the knowledge of a man’s name gives an enemy power to work him
+magical evil. But that is a point already dealt with, except in so far as
+it argues some identity of the name with the essential _ego_.
+
+Not only do the Indians hold that a man’s soul leaves his body at death,
+but, further, they believe that it may do so during life for a limited
+period. We have examples in sleep, they argue, when the spirit is out
+of the body and wanders about; for in dreams, they say, the soul passes
+through the mouth and has adventures in the outer world.[356] Dreams are,
+in fact, a portion of the man’s real life. His spirit has ventured forth
+and actually gone through the experience his fancy paints. They realise,
+therefore, that individuality is not in the body itself, but in the
+spirit that inhabits the body. So if a man dreams he will not hesitate to
+declare that he has done what he dreamed he was doing.
+
+This is an example of involuntary disembodiment, differing only from
+actual death in that it is of temporary duration. The soul has gone
+quietly, and will return. But if the soul make a violent effort to escape
+that apparently entails fatal consequences, for the Indians declare when
+anybody sneezes it is the soul attempting to leave the body and so cause
+death.
+
+Voluntary disembodiment is believed to be possible in certain favoured
+cases.[357] This power is said to be possessed by the medicine-man. He
+may free his spirit for magical purposes, to fight unseen enemies on
+better terms, or for the pursuit of some nefarious end. He may either
+remain disembodied and invisible, or lurk for a time in the form of some
+animal or object, a tree, a stone--where stones exist--or even in the
+wind, the rain, or the river. The layman Indian, though perfectly aware
+that he cannot of his own accord and free-will loose his own soul from
+its fleshy trappings to adventure in some foreign sort, is quite willing
+to believe that other more fortunate mortals can accomplish a feat to
+him so impossible.[358] No alternative explanation offers to his mind to
+elucidate sundry mysterious happenings.
+
+Quite distinct from these disembodied spirits are the extra-mundane
+spirits, good and bad, that visit this world and benefit or plague its
+inhabitants. These may invade all natural objects, and, especially those
+evilly disposed, will work unceasingly as agents for the supreme powers
+to whom they owe allegiance. The bad spirits haunt the darkness, they
+lurk in the recesses of the woods, find a habitation in deep waters,
+and ride to destruction on the floods. Danger from them threatens the
+Indian at every turn. He can only be protected by the counter-magic
+of his medicine-man. For fear of possible mischief at their malicious
+hands no Indian will bathe at night unless supported by the presence
+of companions. If he lose his way in the forest it is due to their
+machinations;[359] and all that goes amiss in this by no means
+best-of-all-possible worlds is at least in part engineered by them,
+either at the suggestion of an enemy, or from their own innate badness of
+heart.
+
+Sickness again is a concrete entity. The Indian knows not the microbe
+of science, but he recognises the existence of a definitely hostile and
+active enemy in the presence of disease. It is a spirit that wanders
+about, and at the instigation of an enemy attacks individuals or tribes.
+The attack is an actual invasion. Illness is due to the presence in the
+flesh of the sick person of a foreign and inimical body.[360]
+
+Before a thunderstorm the Indian believes that the air is full of
+spirits, and the medicine-man is requisitioned literally “to clear the
+atmosphere.” Thunder is the noise of evil spirits making a turmoil and
+fuss; whilst, according to Bates, any inexplicable noises are made by
+another of this destructive band, Curupira, the wild spirit of the
+woods.[361] Thunder probably means that an enemy is sending sickness to
+destroy the tribe. Therefore if a man is ill a flash of lightning is
+quite sufficient to kill him through sheer fright and shock.
+
+These extra-mundane spirits may be said to be the spirits of
+particularised evils, just as the _Taife_, the _Navena_, the _Jurupari_,
+is the supreme spirit of all evil.[362]
+
+With the final division of the spirit world is enwrapped the total
+philosophy, the innermost meanings, in fact both the whole and the origin
+of the Indian magico-religious system. As men have souls--so truly felt
+in all--what is more natural than that animals who move and breathe, who
+live and die, who in many respects are more powerful, more clever than
+men, should be assigned souls also by the Indian’s primitive reasoning.
+I say soul deliberately, for Indian metaphysicians do not differentiate
+between soul and spirit--they are one and indivisible, the miniature self
+that may be seen in the pupil of a living eye but has vanished from the
+eye of the dead. The question of souls other than human is to the Indian
+too obvious to need elucidation; it admits, indeed, of no argument. There
+is a degree of belief in a spirit, “a transcendental _x_,”[363] in all
+objects, even those that are inanimate. What lives and grows must have a
+spirit. What can interfere with, or affect man in any way must possess
+some occult influence, some mysterious personality, that works for or
+against him, especially if that object be in any degree unfamiliar or
+abnormal in appearance. All these things, vegetable growths, rocks, are
+to the Indian as we have repeatedly seen, active agents in the scheme
+of things, and as such must also possess the intangible _ego_, the
+spiritual essence, that is the soul of all earthly forms. Evidence as
+to animistic beliefs among the Indians is universal and overwhelming. A
+point of interest to the psychologist comes in with the problem whether
+the belief that undoubtedly exists is a belief in a duality of spirits in
+one envelop, or whether, when the supernatural spirit, or the disembodied
+spirit of a man, is transmitted into extra-human forms, it being the
+stronger can oust the natural spirit of the animal or object which is
+entered, and if so what becomes of the finally evicted spirit. On this
+point I have unfortunately no information to adduce.
+
+While these beliefs are in the main general among all the language-groups
+of the Issa-Japura regions, those of the Boro-speaking tribes are the
+most intricate. They have more definite notions of the spirit-world, a
+greater range of theories as to the powers and extent of supernatural
+phenomena. They fear the local devils more, take greater care to appease
+them and to avoid rousing their hostility. This is the natural result
+of the increased isolation secured by the Boro tribes. They have been
+influenced less by the outer world than the Witoto, for example. Both
+Boro and Andoke tribes invariably keep aloof so far as may be from any
+stranger.
+
+Two of the forest denizens, the jaguar and the anaconda, occupy
+outstanding positions in this connection with spirits and magic to all
+the other beasts of the wild. Any animal may be utilised by a spirit as
+a temporary abiding-place, but the “tiger” and the great water-snake
+independently of such spiritual possession are magical beasts. Tales
+gather round them; differential treatment is their portion. As regards
+the jaguar this may be due to the fact that it is seldom seen, and
+therefore the more mysterious in its evil doings. It is also a dangerous
+beast, bold and fearless, and to be dreaded for this if for no other
+reason. But the anaconda is no such aggressive enemy of man. Yet, though
+the Indian is an omnivorous eater, he will never kill either the tiger or
+the anaconda for food.[364]
+
+The anaconda is looked upon as an evil spirit. It is the embodiment of
+the water spirit, the _Yacu-mama_,[365] whose coils may bar the passage
+of the streams, and the Indian goes in terror of it, nor would he bathe
+in its vicinity, though, so far as my experience went, the gigantic
+reptile will not attack human beings unprovoked.[366] The _Yacu-mama_, as
+the name signifies, is the mother, the spirit of the streams. Among some
+tribes, though not in my field of exploration, a relationship is held to
+exist between this water-spirit and _Jurupari_, so it is said.[367] It
+occupies the place in Amazonian folk-tales filled by the sea-serpent of
+Europe; while the manatee and the dolphin are the Amazonian mermaids. The
+cow-fish, or manatee,[368] is an object of wonder on the main stream,
+but is unknown on the upper rivers. I have never seen one nearer than
+the mouth of the Issa river. The dolphin also is not found in the higher
+waters. On the lower rivers it abounds, but, according to Bates, no
+Indian willingly kills one; and though dolphin fat makes good oil the
+belief is current that when burnt in lamps it causes blindness.[369]
+
+Tigers are not killed unless they be the aggressors, that is to say
+they are never killed wantonly. The reason for this is not cowardice,
+but fear of further aggression on the part of the tiger family, or from
+the family of the medicine-man who has assumed tiger form. Indians look
+upon animals as having the same instincts as themselves, and therefore
+capable of a prolonged blood-feud with humans who may have wronged
+them. The tribesman is accordingly anxious not to provoke war with the
+tiger tribe, but if Indians are challenged by the death of one of their
+number the case is altered, and they will immediately accept combat. To
+hunt a jaguar without provocation merely for food or for sport would be
+foolishly to kindle the animosity of the whole tiger family, to rouse
+the violent enmity of the wandering spirit domiciled for a time in the
+body of the hunted beast. But when an Indian is killed, or a child
+lost--and tigers are usually credited with the destruction of any child
+missing from its home--the medicine-man is called upon, and he proceeds
+to discover that it was a tribal enemy working in disguise, probably
+the spirit of a hostile medicine-man, intent to destroy the tribe by
+thus slaying potential warriors or mothers of warriors. The tiger is in
+these circumstances to be treated as a human enemy. A big tribal hunt is
+organised, and if the quarry be secured a feast of tiger-flesh follows,
+a feast of revenge, very similar in detail to the anthropophagous orgies
+already described.[370] At no other time does the Indian eat jaguar meat.
+The tiger-skin becomes the property of the medicine-man, whose magic has
+thus triumphed over the magic of a rival.
+
+I have already noted that anything abnormal or unknown is regarded with
+suspicious dread. My camera was naturally endowed by Indian imagination
+with magical properties, the most general idea among the Boro being that
+it was an infernal machine, designed to steal the souls of those who
+were exposed to its baleful eye. In like manner my eyeglass was supposed
+to give me power to see what was in their hearts. When I first attempted
+to take photographs the natives were considerably agitated by my use of
+a black cloth to envelop the evil thing; and when my own head went under
+it they had but one opinion, it also was some strange magic-working
+that would enable me to read their minds, their unprofessed intentions,
+and steal their souls away; or rather become master of their souls, and
+thus make them amenable to my will at any time or in any place. This was
+undoubtedly due in part to the fact that I was able to reproduce the
+photograph. The Indian was brought face to face with his naked soul,
+represented by the miniature of himself in the photographic plate. One
+glance, and one only, could he be induced to give. Never again would he
+be privy to such magic. The Witoto women believed that I was working more
+material magic, and feared should they suffer exposure to the camera
+that they would bear resultant offspring to whom the camera--or the
+photographer--would stand in paternal relation.
+
+
+To cite another instance of the attitude of the Indian towards the
+abnormal. A certain Witoto tribe have a tree that they regard as
+an object almost of veneration. This palm, as may be seen in the
+photographs, has a forked stem, the trunk dividing into two some few feet
+above the ground. I met with no more formulated sign of tree-worship than
+this. Unquestionably, though they did not worship--for as I have said,
+these Indians worship nothing--the Witoto looked upon this tree as a
+thing to be respected, prized, and if it were not meted proper treatment
+perchance to be definitely feared.[371]
+
+Finally, in addition to all these spirits good or evil, the tribes
+south of the Japura are concerned with the sun and the moon. These
+are venerated, the sun as a great and sympathetic spirit, but not an
+incarnation of the great Good Spirit, the moon as his wife, who is sent
+betimes by the sun into the heavens at night to prevent the evil spirits
+from depopulating the world. Of the stars these people seem to have the
+vaguest ideas, and only one Boro explained to me that they were the souls
+of the chiefs and of the great men of his tribe.[372]
+
+The Indian lives in a world of imagined dangers, over and above the real
+ones that confront him at every turn. There is possible menace in any
+place, dormant hostility in all surrounding nature, active menace in
+the unfamiliar and unknown. One might expect to find that he decked his
+person and his belongings with an unlimited number of charms, to protect
+against these battalions of evil. But it is not so. The Tukano do, it
+is said, place certain green, sweet-smelling herbs under the girdle as
+a love charm, to attract the opposite sex, but nothing of this sort is
+known south of the Japura, and charms, as the western world knows them,
+hardly exist. I know of none beyond the medicine-man’s magical stones,
+the iguana-skin wristlets of the men and the wooden ring placed on a
+child’s arm, which appear to partake of the nature of charms. Magic
+is to be met by magic, not by material properties. The hostile evils
+that threaten a man are only to be turned aside by the exercise of more
+powerful anti-hostility on the part of his medicine-man. But the Indian
+must go warily, observe signs and portents, pay due heed to good and
+evil omens. He must, for example, never shoot a poisonous snake with a
+blow-pipe. Should he do so one poison will neutralise the other, and
+destroy not only the poison on the arrow that wounded the snake, but also
+all poison whatever that was in his possession at the time. It is magic
+against magic.
+
+As an instance of the Indian belief in omens, I remember that once a
+small species of wild turkey alighted in a clearing, and kept running
+round and round in circles. This was taken by the Indians to mean that
+people were coming to the _maloka_ who might be either friends or
+enemies. This gave rise to an excited discussion as to which would be the
+more likely event of the two. It so happened that a party of friendly
+Indians did arrive that same evening. Casement relates how a large wood
+ibis descended among a crowd of Witoto and Muenane in the compound at
+Occidente.[373] A Muenane wished to shoot the bird, and when persuaded
+to leave it unmolested, expostulated that the ibis must have been sent
+by their enemy the Karahone to bring disaster upon them. As a rule, it
+strikes me, an enemy would appear in a less kindly guise than that of an
+ibis. In my case no attempt was made by the Okaina to interfere with the
+bird in any way, in fact it was looked upon as a friend who came to give
+due notice of approaching visitors, and therefore was to be regarded with
+gratitude.
+
+
+CHAPTER XVIII
+
+    Darkness feared by Indians--Story-telling--Interminable length of
+    tales--Variants--Myths--Sun and moon--Deluge traditions--Tribal
+    stories--Amazons--White Indians tradition--Boro tribal
+    tale--Amazonian equivalents of many world tales--Beast
+    stories--Animal characteristics--Difference of animal
+    characteristics in tale and tabu--No totems--Indian hatred of
+    animal world.
+
+
+Darkness is full of mysterious horrors to the Indian, nor can one wonder
+that he fills with imaginary demons the weird and terrifying solitudes of
+the bush by night. The children are openly afraid of the dark, because of
+the tigers that may then be prowling about, let alone less substantial
+perils. Adults are not so frank with regard to their fears, but as a
+matter of course all occupations cease at sun-down, and every one makes
+for the sheltered warmth of the _maloka_. There, by the flickering
+firelight, after the contents of the family hot-pot have been discussed,
+long tales are told. First one and then another takes up the burden of
+recital. The chatter dies slowly, maybe it will linger on by the fire
+of some verbose story-teller, till the chill of coming dawn brings the
+sleepers from their hammocks to stir the smouldering embers into a blaze,
+and to gather round them waiting for daybreak to dispel the evil agents
+of the night.
+
+The tales are endlessly long, and so involved that they are utterly
+unintelligible to the stranger until they have been repeated many times.
+Then the drift of myth and tradition, the meaning of fable and story, may
+be broadly grasped. To win it comprehensively in detail is a matter of
+time, patience, and intimate knowledge of the speaker’s tongue. Moreover,
+the tales have such numerous variations, and are so grafted the one on
+to the other, according to the momentary fancy of the narrators, that it
+is exceedingly difficult to differentiate between a variant of a known
+story and one that may in its essentials have been hitherto unheard.
+
+“It is,” postulates Dr. Rivers, “not the especially familiar and uniform
+which becomes the object of myth.”[374] The mythopœic influence of that
+which is seldom seen would lead us to expect that among these Indians,
+sunk in “the gloom of an eternal under-world of trees,”[375] the heavenly
+bodies would play a prominent part in tribal folk-tale and myth. But
+so far as the stars are concerned this is not the case at all;[376]
+they seem to be ignored; and, as regards the sun and moon, it is the
+sun--contrary to usual tropical custom--that is the most important, the
+moon--as with more northern peoples--occupies the subordinate position
+of wife. Her inconstant appearances are accounted for by the suggestion
+mentioned in the previous chapter that she is sent periodically by
+the sun her husband to drive away the evil spirits of the night that
+await the stray or heedless loiterers in the forest thickets. But this
+protective character is denied to the moon by other tribes, and some
+South American Indians will hide young infants lest the moon should
+injure them.[377]
+
+What I cannot but consider the most important of their stories are
+the many myths that deal with the essential and now familiar details
+of everyday life in connection with the _manihot utilissima_ and
+other fruits. The tale that follows does not purport to be a literal
+translation of the myth as related to me, or in my hearing. I have merely
+attempted to put together, infinitely more concisely than any Indian
+raconteur would ever dream of doing, the various details of the local
+story and belief:
+
+    The Good Spirit when he came to earth showed the Indians a
+    manioc plant, and taught them how to extract the evil spirit’s
+    influence.[378]
+
+    But he did not seem to have explained how the plant might be
+    reproduced.
+
+    The Indians searched for seeds, but found none.
+
+    They buried the young tuberous roots, but to no effect.
+
+    The Good Spirit was vexed with them; that is why he did not
+    divulge the secret.
+
+    But long, long after, a virgin of the tribe, a daughter of the
+    chief, was found to be with child.
+
+    When questioned she replied that long, long ago, when sick to
+    death, and under the medicine-man’s magic,[379] she wandered far,
+    far into the bush.
+
+    In the bush she found a beautiful manioc plant.
+
+    She was seduced by the tuberous root--some Indians say the plant
+    was metamorphosed into a beautiful young hunter--and in due
+    course she gave birth to a girl-child, who could both talk and
+    walk at birth.
+
+    This child took the women of the tribe to a beautiful plantation
+    of manioc, far, far up a certain river, and there the precocious
+    infant explained how to reproduce the plant with bits of the
+    stalks.
+
+    So to this day the chief food of all the peoples is cassava.
+
+This story is utterly different from one Spruce heard from more northern
+tribes at Saō Gabriel. The Barré story has it that a bird discovered to
+the Indians the use of the mandiocca, then a great and solitary tree. All
+the tribes came to procure the roots, and when none were left carried off
+branches; hence the varieties of mandiocca now grown.[380]
+
+Deluge traditions are to be found among practically all the tribes. I
+repeatedly asked questions on this point, and invariably found, as other
+travellers had discovered previously elsewhere,[381] that the Indians
+would tell of a flood that drove their fathers in the long, long ago to
+seek refuge in canoes, for all the earth was under water. But though
+Mr. Joyce considers it “strange how this deluge myth not only pervades
+practically the whole of the Andean region of South America, but extends
+also to many regions in the northern portion of the Continent,” it must
+be remembered that inundations are frequent in these regions, and a great
+one probably occurs every few decades. It would only be strange were
+there no deluge myths. As Sir Everard im Thurn has so aptly put it, when
+“the Indian tells in his simple language the tradition of the highest
+flood which covered all the small world known to him, and tells how the
+Indians escaped it, it is not difficult to realise that the European
+hearer, theologically prejudiced in favour of Noah, … is apt to identify
+the two stories.”[382]
+
+With the possible exception of the Eldorado fable, there is no South
+American legend that has excited so much interest and speculation as the
+story of the warrior women who in some mysterious forest fastness dwelt
+apart from men, cultivated masculine attributes, and destroying the
+male brought up the female progeny resultant from the yearly exception
+to their celibate rule,[383] to be women of the same stern pattern as
+their extraordinary selves. Some writers would make them a seventeenth
+century edition of the modern suffragette, rebel against the “tyranny”
+of man--and with certainly better reason for rebellion.[384] The story
+has been treated as mere Spanish romance,[385] or a mistake on the part
+of the invaders due to the custom of wearing the hair long among many
+of the tribes.[386] It has been taken to be a deliberate fabrication on
+the part of Pizarro to explain his failure, a temptation to which Sir
+Walter Raleigh himself also fell victim.[387] Be it what it may, the
+tale was told, the land known as the land of these women warriors, and
+their name of Amazons bestowed upon the great river. The tale of warrior
+women is, however, not confined to the forests of the Amazon. One comes
+therewith to the question of nomenclatory origin. The Baron de Santa-Anna
+Nery devotes the first ten pages of his _Land of the Amazons_ to this
+discussion. It seems to be a case of where doctors disagree.[388] But at
+least the tale, Asiatic, African, or autochthonic, was localised here,
+and stories of feminine prowess in the field continued to be quoted even
+in the nineteenth century. Wallace himself mentions “traditions” said to
+be extant among the Indians themselves, of “women without husbands.”[389]
+This is no proof of the local existence at any time of celibate women
+warriors. The tradition may well exist, the only curiosity again would
+be if it did not. For three centuries at least the invading white man
+has talked of, and inquired for, a tribe of such warrior women. It takes
+less than this to start the most robust of folk-tales. A world agape like
+the Athenians of old for some new thing, some tale to vary the oft-told
+stories, does not require three centuries to adopt a novel romance. The
+question “do such things exist?” is not asked long before it ceases to
+be a question and becomes an assertion. The more positive the assertion
+the greater will be the wonder of the tale. When the wonder is sufficient
+it will be established as a current myth. I do not therefore deny that
+such a tale is told, or at least may be told, but for my own part I
+never heard mention of it. Spruce speaks of women assisting their men to
+repulse an attack on tribal head-quarters,[390] but no story of any woman
+fighting, or having done so at any time, was ever told me. Moreover it
+should not be forgotten in this connection that all weapons are strictly
+tabu to women.
+
+A story that is prevalent throughout South America tells of a race of
+white Indians who sleep in the daytime, and only go abroad at night.
+This tale was laughed at when repeated at a recent meeting of the
+Royal Geographical Society, but it is certainly in existence among the
+tribes,[391] and Crevaux states that the Ouayana will not go near one
+river, “_à cause des singuliers habitants qui habiteraient près des
+sources … des Indiens aux chevaux blonds qui dorment le jour et marchent
+toute la nuit_.”[392]
+
+Of tales as to the reputed origin of any tribe I have no note, though
+when I cross-questioned a Boro tribe as to why a certain district was
+almost uninhabited, they told me that the reason was as follows:
+
+    Once a large tribe lived there, one of the most powerful of all
+    the tribes, and also one of the most numerous.
+
+    But long, long ago a chief, an _Abihibya_, of this tribe of
+    the Utiguene had a daughter, who was not only ugly but bird
+    rumped. The _Chekobe_, the medicine-man, gave her the name of
+    Komuine.[393]
+
+    When she grew older and was about five feet high,[394] Komuine
+    went into the _Bahe_, the bush, to pick _dio_, peppers, and
+    berries, but did not return.
+
+    The tribe then said that a _wipa_, a tiger, must have carried her
+    off. So a tribal hunt was instituted, and the bush searched for
+    the tiger; but with no success, for when they were in the bush
+    they were attacked by a wicked tribe, which fell upon them and
+    killed them in great numbers.
+
+    So they returned with great sadness to the _maloka_.
+
+    Long, long after this Komuine reappeared in the _Ha-a_, the great
+    house of the tribe, and sang a solo, as is the custom among the
+    people when making a complaint. And this is the complaint Komuine
+    sang:
+
+    The Chief’s daughter was lost in the forest,
+    And no one came to find the spoor;
+    The branches were broken, the _gwahake-ane_, the leaves, were turned,
+    And no one came to find the spoor.
+    And where were my brothers, and the sons of the chief’s brothers,[395]
+    That no one came to find the spoor?
+
+    And while Komuine was dancing, it was noticed, to the disgust of
+    the tribe, that her bird rump was covered with _nikwako_, hair,
+    so the old women came and rubbed milk[396] upon her to remove
+    the unsightliness. But as they pulled and the unsightliness was
+    removed, more unsightliness came, and the hairier she grew. When
+    she was covered with leaves,[397] she told her story:
+
+    “O my brothers! When I was in the forest picking peppers a
+    _komuine_ came to me, and taking me by force he deflowered me. He
+    took me with him into the bush to become his _gwame_, his woman,
+    and I gave birth to twins, and the second one was buried, for
+    even _komuine_ have but one _ehemene_, one child. And the child
+    was hairy like a _komuine_, but had the face of a man. And when I
+    gave him milk the unsightliness came, and I ran from the beasts
+    and came to my own people.”
+
+    The tribe then had a tobacco palaver, and because of the
+    unsightliness, and the pollution,[398] and the blood-feud with
+    their enemies which had cost the tribe so many warriors, it was
+    decided to destroy her.
+
+    And when she heard this she fled into the forest, and all the
+    _komuine_ came and robbed the _emiye_, the plantation, and there
+    was no _pika_, manioc, and no _kome_, fruit.
+
+    And when the men of the Utiguene went out to hunt, the lianas
+    were like a net in the path, and so thick no one could pass. And
+    the tribe got thinner and thinner, and now to-day there is no
+    tribe of the Utiguene.[399]
+
+The Amazonians have stories equivalent to many worldwide tales, such as
+that of the lion and the mouse, only in the forest version it is the
+jaguar who enacts the lion’s part, while the mouse is replaced by the
+ant, a liana serves instead of a net to keep the great beast captive,
+and there are other correspondingly local and numerous variations. The
+hare and the tortoise fable has its counterpart in the story of a race
+between the deer and the tortoise. The ramifications of this tale are
+most intricate. These stories are very dissimilar in detail, so far as I
+could gather, from their equivalents in the Old World, but in each case
+the same principle is evolved: by a widely different route Old and New
+reach eventually an identical goal.
+
+There is a marked prevalence of animal stories, tales--and this is a
+point not to be overlooked--of the familiar forest beasts, the birds
+and the reptiles of everyday life. In these the birds and beasts have
+certain accepted characteristics, they stand in the Indian folk-tales as
+representing definite abstract ideas. Thus, as with us, the tortoise is
+crafty and slow; the ant and the bee are typical of industry. The snake,
+that is to say the poisonous snake, in Amazonian myth, as in Biblical
+story, represents evil, the evil eye. The tapir stands for blindness and
+stupidity, while cunning and deceit are represented by the dog. These
+bush dogs approximate to our fox, and like Reynard have sharp up-standing
+ears. They prowl round the _maloka_, and will clear off anything they
+can find, even in close vicinity to the house. The agouti, or capybara,
+takes with the Indian the place held in African folk-tales by the hare.
+He is the wittiest of beasts, can outmanœuvre all the others, and is the
+practical joker of the forest. The boa-constrictor, unlike the poisonous
+snake, is not evil; it exemplifies the silent and the strong. The
+chattering parrot represents irresponsibility; it is a woman in disguise,
+and is certain in Indian animal tales to be noisy and unreliable, and
+probably will betray some secret. The peccary is for constancy, the hawk
+for cunning, the sloth for laziness, and the tiger for bravery. The
+monkey stands for tenacity of life, which is probably due to the fact
+that owing to constriction of the muscles its hold on a branch does not
+relax for some time after death.
+
+These characteristics, however, do not appear to govern in any way
+the question of food tabu concerning the respective animals. On the
+contrary, the reasons alleged for such tabu often appear to be, if
+anything, opposed to what one would expect to find from the foregoing
+classification. It is the material, not the abstract characteristic
+with which the tabu deals. Moreover the tabu varies. Irrespective of
+those connected with birth, at certain times of the year there is a
+restriction, if it does not amount to an actual prohibition or a tabu,
+with regard to eating heavy meats. Simson assigns such avoidance to a
+belief current among Indians “that they partake of the nature of the
+animal they devour.” This is the case professedly for any tabu on foods
+for women with child, but the reason given to me for general restriction
+as regards, say, tapir flesh, was not that the eater would be affected
+by any characteristic of the animal, material or spiritual, but that
+the tapir meat if eaten at forbidden seasons was very bad, that is to
+say unhealthy, and would be the cause of certain skin diseases. It
+probably would be. Tiger meat, as already explained, is treated much
+as human flesh is treated. Apart from the tiger, the meat of larger
+game will, it is sometimes averred by other tribes, make the eater
+gross and unwieldy.[400] In connection with this question of big game
+and food, Spruce refers to a “superstition” among the Uaupes Indians
+that may be a possible survival of a totemic system, though he does not
+advance the theory. “How should we kill the stag?” they say, “he is our
+grandfather.”[401] However this may be with other language-groups, among
+those of the Issa-Japura regions there is no trace of any totemic system,
+except in so far as that boys and girls are named, as already stated,
+after birds and flowers respectively. Animal names are made use of
+occasionally, but only as names of contempt and ridicule. These Indians
+look upon all animals as enemies. To suggest that any animal is an
+ancestor would be the direst of insults to people who so strenuously try
+to avoid all likeness to the brute creation. One need only refer to such
+customs as the killing of one of twins, or depilation, to give the lie to
+any theory that would seek to trace in Boro story--for example--for sign
+of suggested descent from any eponymous animal. Relationship is traced
+indeed only so far as memory serves; that is to say the oldest man may
+relate how he remembers his grandfather telling who _his_ grandfather’s
+father was. Also there are invariably tales of bygone chiefs, great
+warriors whose deeds and characters are outstanding enough to be
+remembered.
+
+A story is told of a small fish that is to be found in these rivers
+which may be fact or may be fable. All Indians say that this fish is a
+parasite that will find its way into the intestines of human beings when
+they are bathing. This belief is noted elsewhere, and I merely refer to
+it here because it is so universally credited without--so far as I could
+ascertain--an atom of corroborative evidence.
+
+
+CHAPTER XIX
+
+    Limitations of speech--Differences of
+    dialect--Language-groups--Tribal names--Difficulties of
+    languages--Method of transliteration--Need of a common
+    medium--Ventral ejaculations--Construction--Pronouns as
+    suffix or prefix--Negatives--Gesture language--Numbers and
+    reckoning--Indefinite measure--Time--No writing, signs, nor
+    personal marks--Tribal calls--Drum-language code--Conversational
+    repetitions--Noisy talkers--Ventriloquists--Falsetto
+    voice--Conversational etiquette.
+
+
+In speech, as in everything else, the forest Indian is confined within
+the narrow limits of his immediate surroundings. Unlike the nomadic
+Indian of the plains, he passes his entire existence in an area little
+larger than an English parish. He has almost no commercial dealings with
+his neighbours. The only fresh blood that penetrates his tribe is brought
+in by the immature children taken prisoners in war. Like the landscape
+his imagination owns no perspective, no horizon. In the Amazonian bush
+an Indian may live and die without ever having gazed upon a terrestrial
+object at the distance of a mile. His mode of life, a community within a
+single house, under a single roof, makes of household words a dialect,
+and with the passing of a generation makes that dialect a language.
+
+In a society where each tribe is complete in itself and at deadly enmity
+with all its neighbours, and where writing is unknown, language must
+naturally undergo very rapid, very definite change. Moreover Indians will
+not voluntarily speak the language of other Indians. Thus the Amazonian
+natives use no common tongue, and there is little in the vocabularies so
+far collected to explain either the origin or the relationship of the
+existing dialects. Tribes divided by the breadth of a narrow river speak
+languages that are mutually unintelligible. On the other hand, tribes
+distant some hundreds of miles from each other possess a language with a
+common root, which is fundamentally different from those in use among all
+the intervening peoples.
+
+So far as I could classify them, the language-groups of this district
+fall under thirteen headings. By group I comprehend all tribes speaking
+a language with common roots, though the dialects may vary considerably.
+These groups, and the approximate number of Indians in each, are as
+follows:
+
+    Witoto                  15,000
+    Yuri                    unknown
+    Yahua} Yahua            unknown
+    Pegua}
+    Andoke                  10,000
+    Boro or Miranha         15,000
+    Muenane                  2,000
+    Nonuya                   1,000
+    Resigero                 1,000
+    Okaina or Dukaiya        2,000
+    Karahone }
+    Umaua    } Karahone     25,000
+    Saha     }
+    Tukana   }
+    Yahuna   }
+    Makuna   }              unknown
+    Opaina   }
+    Bara     }
+    Kuretu   }
+    Menimehe }              15,000
+    Akaroa   }
+
+According to Koch-Grünberg all the tribes on the Tikie speak the Tukano
+language, and as a result of segmentation the Airi and Tihio speak the
+Dessana language.
+
+Occasionally tribes, though speaking an entirely diverse tongue, and
+members of a distinctly different language-group, have some comprehension
+of the tongue spoken by a neighbouring language-group. For instance,
+the Muenane can understand Witoto, but they have no knowledge of Boro,
+probably because they come more in contact with the former people.
+The Menimehe know some words of Tupi, or lingoa-geral, which is
+extraordinary, even though their acquaintance with it is very slight.
+
+The tribal names in ordinary use are, as has been said, bestowed by
+neighbouring tribes, and are merely nicknames. It follows that the name
+by which a tribe becomes known to a traveller is the name in use among
+the tribes in the districts through which he passes, so that a visitor
+from the north probably knows of a tribe by a different extra-tribal
+name from that known to a new-comer from the south. The difficulties
+of identification caused by this have already been commented on in an
+earlier chapter, it is only necessary to refer to them here in so far as
+the same difficulties beset any attempt to learn the local dialects.
+
+Of the thirteen languages tabulated above, one of the most difficult, and
+the most guttural, is the tongue spoken by the Resigero group of tribes.
+Nonuya, also guttural, is perhaps equally difficult, whilst Andoke is
+possibly the worst, as it is almost ventral. Okaina, though presenting
+many difficulties, is easier to acquire than the first-named three, and
+may be characterised as nasal, while Boro and Witoto are neither nasal
+nor ventral nor impossibly guttural. Muenane is somewhat akin to Boro,
+but is richer in words. Menimehe approximates more to the speech of the
+Uaupes River Indians, and it again is nasal.
+
+The endeavour to reproduce the guttural expressions of the Indian in
+Roman letters is rendered the more complex by the uncertainty of his
+utterance and the aural variations of his European interpreters. The same
+word phonetically transcribed by an Englishman, a German, a Frenchman,
+and a Spaniard bears little or no resemblance to a common inspiration.
+Each European observer conveys to his written word the error of his
+national idiosyncrasy of impression and pronunciation.
+
+The difficulty of a phonetic rendition of a foreign language into
+English has long been apparent, and is one shared--though in a lesser
+degree--by all Continental linguists. To meet this difficulty the Germans
+have devised a system almost Chinese in its intricacy, while the French
+seek to reproduce such simple sounds as that of our English “W” by
+combinations of diphthongs. Many of these elaborate phoneticisms have
+been adopted by English writers without consideration of the lingual
+limitations of their inventors, or of the confusion induced in the mind
+of the student.
+
+To simplify transliteration, though at the sacrifice of the finer
+distinctions of the language, the orthographic system of the Royal
+Geographical Society has been used in this work,[402] and the explanation
+of the system given in the appendix with the Witoto and Boro vocabularies
+is taken from the rules laid down by that Society and adopted by the
+Royal Anthropological Institute.[403] This system ordains that an
+approximation to the sound should be aimed at only, as any system which
+attempted to represent the more delicate inflexions of sound and of
+accent would be so complicated that it would merely defeat itself.
+
+I attempted to make a vocabulary of Andoke words, but the language is,
+as I have noted, so guttural, not to say ventral, that it renders all
+attempts impossible without some medium to work upon at the start, such
+as I had with Boro and Witoto. In these two cases Brown’s knowledge of
+the latter, and even his very slight acquaintance with the first, were of
+great use to me as a basis upon which to work.
+
+As an example of the difficulty to be faced without some common medium,
+I have asked a native, “What is this?” and touched my head or a stick,
+but could find no clue to whether his answer referred to the thing
+touched or my action in touching it. Only a long and tedious study can
+overcome conundrums of this description, and when to these is added the
+impossibility of conveying accurately by written signs the sound as
+uttered, the attempt proved beyond my powers and resources.
+
+Mention has been made by one writer of the “‘cluck’ of
+satisfaction--common to all the tribes of the Provincia Oriental.”[404]
+I consider the sound emitted by the Issa-Japura peoples as a sign of
+assent or pleasure is more ventral than that described by Simson. It
+is approximately _Hurrr!_ like a grunted sigh of satisfaction. The
+exclamation of surprise amongst all these peoples is very similar and
+may be written _Huh!_ This sound, lengthened considerably, is the
+Witoto affirmative _Huhhh_. _Huh!_ _huh!_ _huhh!_ as affirmatives are
+very freely used in conversation. The more an Indian agrees with the
+speaker the more ventral do his ejaculations become. The negative will
+not be used except in direct answer to a question, for it is contrary
+to Indian custom and etiquette to interrupt or contradict. The absence
+of the affirmative _Huh!_ is practically a contradiction, on the ground
+of doing nothing being itself negative. A similar idea is seen in the
+tobacco palaver, where the dissentient signifies his disapproval by
+abstaining from licking tobacco. Should an Indian, however, wish to give
+an affirmative answer to a negative question, he will then make use of
+the negative No, for to answer Yes in Indian parlance would be to confirm
+the negative.
+
+This brings us to the question of construction, and it is at once
+apparent that in Witoto, for example, the construction of a sentence
+tallies more with the construction of the deaf and dumb mute’s gesture
+language than with anything else, that is to say it is the very
+antithesis of the Chinese, or of our own. It may be said of the Indian,
+as Tylor wrote of the deaf and dumb mute, that he “strings together … the
+various ideas he wishes to connect, in what appears to be the natural
+order in which they follow one another in his mind.”[405] For instance
+the Witoto say, _Benomo honne_, literally “here put it”; _benomo ekkono_,
+“here open it you”; _eijo rie dotoenyino_, “much fruit put in it not do
+you”--“do not put much fruit into it.”
+
+It will be noted that the personal pronoun here has become the suffix
+of the verb. This is the general rule, as in _dinitikwe_, “I shall
+carry it”; _a chimitekwe_, “I am going to see”; _ona dueruetckwe_, “I
+want you.” But this rule is not invariable, as we find _kwe mona_,
+“I am unable”; _ke hanyete_, “I do not understand,” with the pronoun
+_kwe_ or _ke_ placed, as we should put the “I” before the verb; nor is
+the variation caused by the negative, as “I do not want you” is _ona
+dueruenetckwe_. In this instance the position of the personal pronoun
+_kwe_ is probably determined by the objective _ona_, which structurally
+must precede, otherwise the meaning of the phrase would be inverted and
+become “You do not want me.” A pronoun is also used as a prefix to a noun
+to denote possession, as _tano_, “cassava,” _ometano_, “your cassava.”
+According to Koch-Grünberg the suffix _make_ indicates some other place,
+or thing; it occurs in _baimake_, “other”; _naimake_ “them”; but I am not
+aware that it acts as a definitely differentiating suffix in these or any
+other case.
+
+In Witoto _nyete_ as a suffix negatives what proceeds it, the literal
+meaning of the word _inyete_--a compound of _ite_ = are--being the
+equivalent of the French _il n’y en a pas_.[406] As examples of its
+use we get _figora_, “good,” _figonyete_, “bad”; _huchite_, “twisted,”
+_huchinyete_, “straight,” that is to say “not twisted.” The Boro negative
+is _ne_, as for instance in _imine_, “good,” _nemine_, “bad,” _i.e._ “not
+good.”
+
+Repetition of a word literally doubles its meaning, as in the Witoto
+_nana_, “all,” and the Boro _paa-paa_, “low-low,” that is to say,
+“lower”; _kame-kame_, “high-high,” _i.e._ “higher.”
+
+I have said that the principle of construction in both Boro and Witoto
+is that of the mute’s gesture language, but gesture language actually is
+almost unknown, non-existent, among all these tribes. The hand is pointed
+to show direction, or to identify a person or object. The Indian beckons
+with one hand, but its movement is downward, not upward as with us. There
+is also a recognised sign to express desire for sexual intercourse. This
+is a mere jest, a ribald suggestion, as with boys of a certain age among
+our lower classes. The right elbow is grasped with the left hand, the
+elbow being so flexed as to allow the hand to point upwards. It is, in
+fact, the letter Z of the dumb alphabet.
+
+Fingers and toes are used for reckoning, and are the more needed in that
+the Indians’ knowledge of numbers is of the slightest. But few can
+reckon beyond five, though I once found a senior wrangler who counted
+seventeen, by the aid of all his fingers, all the toes of one foot, and
+two of the other. The remaining three toes he covered over, to show
+that they were not required for the total sum. If an Indian wished to
+enumerate anything over ten he would place both hands to his head and
+say, “Like the hairs of my head.”[407] In Boro I could only learn of four
+numerals, _tiamie_, “one-half”; _tsanere_, or _tsape_, “one”; _mieke_,
+“two”; _sause_, “five.” These in combination give _tsape-mieke_, “three”;
+_mieke-mieke_, “four.” The Witoto numerals are _dahe_, “one”; _mena_,
+“two”; _dahe-amene_--equivalent to the Boro _tsape-mieke_,--“three”;
+_menahere_, “four”; _dapekwiro_, “five”--that is one hand; _nagapekwiro_,
+“six.”
+
+It makes absolutely no difference to the value whether you say
+_tsape-mieke_ or _mieke-tsape_; _dahe-amene_ or _mena-dahe_.
+
+For measures these tribes have nothing more definite than a handful,
+a foot- or finger-length, and of weights they possess no knowledge
+whatever, nor, so far as I am aware from their customs or their language,
+is there any consciousness of more possible or desirably-accurate
+definition.
+
+To express a length of time other than the merely immediate past,
+present, and future, the Indian makes use of what conveys to him an
+indefinable idea, “As long as the hairs of my head.” This is similar
+to his notion of expressing any large number. He reckons time by the
+moon to the extent of saying, “When the moon is small,” or, pointing to
+it, “As it is now,” but I never heard anything like “so many moons,”
+or an equivalent value in a word. In fact, time to the Boro, so far as
+I am aware, is distinguished by only _pekare_, “to-morrow,” _aiupe_,
+“yesterday.” The Witoto will speak of _beiruito_, “to-day”; _wiremoni_,
+“to-morrow”; _dawire_, “the day after to-morrow,” or _nawire_,
+“yesterday”; _beinawire_, “the day before yesterday,” or _beinawife_,
+“the night before last.”
+
+There is, as I have already mentioned, no writing, not even the most
+primitive picture-writing. The Indian makes use of no signs as aids
+to memory; and the only recognised symbol that I met with--other than
+such symbolic practices as the presentation of wood and thatch by the
+bridegroom to his parents-in-law--was the tobacco folded in a strip of
+palm leaf that is the regular invitation card of North-Western Amazonia
+when festivities are toward. Neither individuals nor families have any
+recognised name-marks--such as a peculiar notch or number of notches--to
+distinguish personal property. It must be remembered that in the small
+private habitations in the bush a man and his wife and children are
+more or less isolated, and that in the great tribal house the family
+community have most of their possessions in common. It is difficult with
+so communal a people to know what may be looked upon as general property,
+and what as individual, with the exception of personal ornaments.
+Indians recognise their property only by differential qualities, certain
+ornamentation, ways of binding or lashing, patterns in basketry,
+colouring--and division of colours--on pottery; and these differences are
+known and recognised by others, as well as by the actual owners.
+
+Each tribe has its peculiar call or signal, which I believe is altered
+occasionally as a precautionary measure. This may be a whistle, or the
+imitation of the cry of bird or beast. Then there is the so-called
+drum-language used in signalling, and already noted in a previous
+chapter, which I certainly believe to be some sort of code. Brown’s
+assertion that the sound of the word is made with the drum, and
+the Indians’ description of making the words is, I take it, merely
+the untaught intelligence striving to explain how an onomatopœic
+language--such as Boro and Witoto to some extent certainly are--can be
+further conventionalised to a scope even more circumscribed than the
+ordinary monotone of the Indian’s speaking voice.
+
+Not only is the Indian voice monotonous, but the conversation is rendered
+yet duller by the invariable repetition of the last words of a sentence.
+This is particularly the case with the Tuyuka, where conversation has
+a definitely ceremonial form. For instance, if a man leaves a party to
+bathe, he says, “I go to take a bath,” and the company present reply in
+chorus, “You go to take a bath.” On his return the formula runs, “I have
+taken a bath,” and the confirmative echo follows, “Yes, you have taken a
+bath.” This endless repetition, as was noticed with regard to songs, is
+characteristic of all Indians.
+
+In quality their voices are strident and rasping, and are always raised
+in conversation and grow higher with increased excitement. No Indian
+speaks confidentially, he shouts; and unless something very sacred and
+secret is under discussion the conversation in an Indian house can be
+heard a mile away. In the forest the mass of vegetation above appears to
+act as a sounding-board, and so to lengthen the distance that sound is
+carried, not, as one might think, to stifle it. But independent of this
+the Indians possess extraordinary power of throwing the voice, a sort
+of ventral whisper; and all, to some extent, are ventriloquists. Even
+semi-civilised Indians of Brazil, who have lost much of the cunning of
+their brethren, the “Wild Indians” of the forest, have this power.
+
+The Indian is as fond of speaking and singing in a high-pitched
+voice interspersed with ventral grunts as a Chinese coolie, and this
+predilection, as regards the falsetto voice, is greatest on the part of
+the women, whose voices are always higher than the men’s.
+
+When an Indian talks he sits down, no conversation is ever carried on
+when the speakers are standing unless it be a serious difference of
+opinion is under discussion; nor, when he speaks, does the Indian look at
+the person addressed, any more than the latter watches the speaker. Both
+look at some outside objects. This is the attitude also of the Indian
+when addressing more than one listener, so that he appears to be talking
+to some one not visibly present.
+
+
+CHAPTER XX
+
+    No individualism--Effect of isolation--Extreme reserve of
+    Indians--Cruelty--Dislike and fear of strangers--Indian
+    hospitality--Treachery--Theft punished by death--Dualism
+    of ethics--Vengeance--Moral sense and custom--Modesty
+    of the women--Jealousy of the men--Hatred of white
+    man--Ingratitude--Curiosity--Indians retarded but not
+    degenerate--No evidence of reversion from higher culture--A
+    neolithic people--Conclusion.
+
+
+We find in all savage races, peoples of the lower cultures, that there is
+no differentiation of individualism, that is to say all members of the
+race or group are at approximately the same level. This is what we know
+as a “low state of civilisation.” It has been suggested that such dead
+level, the lack of all initiative, of progress in short, is due to the
+absence of religion, of ideals or gods, through which true enthusiasm
+only is engendered. A religious ideal undoubtedly tends to progress,
+and with the exception of patriotism--which, after all, is a religious
+ideal--is the main influence. It is a case of cause and effect, however,
+for the effect of environment must not be overlooked. Local conditions
+initiate progress and may cause enthusiasm for an ideal, the effect and,
+at the same time, the potent accelerator of such progression.
+
+It is an extraordinary but undeniable fact that the Indian is
+individually wise yet racially foolish, individually intelligent,
+racially inept. This may be due entirely to geographical control, to
+the peculiar characteristics of the social environment. The greatest
+incitement to human progress, intercommunication, is denied in the Amazon
+wilds. True, there are the rivers, but the value of rivers and waterways
+in this respect is negatived by custom. Existing conditions make this
+necessary, for in isolation alone is protection to be found for any
+tribe.
+
+We find, then, the group system, where the community is everything,
+the individual nothing, blocking the path of progressive evolution to
+a very great extent among the forest Indians of South America, as it
+has done among the native tribes of Australia. The individual can gain
+nothing for himself, he can only work for the greater glory of the group,
+and has therefore no intimate incentive for strenuous advancement. A
+tribe has little or no opportunity for progress when it consists of
+but a few hundred members, and is practically isolated from all other
+tribes, except for the hardly intellectual shock of war, or perhaps the
+occasional intrusion of some wandering barterer, a member of possibly
+a hostile tribe, who is tolerated on account of the necessary articles
+which he brings, things that cannot be manufactured by the tribes he
+visits.
+
+The Indian is hedged about with a constricting environment against which
+he can scarcely be said to battle. He accepts with the resignation of the
+East, and knows nothing of the restless rebellion that makes for Western
+amelioration and progress. What the Indian lacks is not intelligence but
+character, that is to say will-power. The Indian is brave, he endures
+pain and privation with the greatest stoicism, he can be doggedly
+obstinate, but only in exceptional cases can he rise above his fellows to
+anything approaching individuality and strength of mind.
+
+The dominant characteristic of the Indian is a profound and nervous
+reserve. The extreme nervousness of his manner is due undoubtedly to
+wholesale indulgence in coca. It affects all the conditions of social
+intercourse. It makes the Indian character extraordinarily negative.
+Enthusiasm is to seek in Amazonia. The Indian never expresses violent joy
+or fear. A shock is more likely to raise a laugh from him than a cry. He
+will submit to much, he will bear greatly, but it is easy to provoke a
+laugh against even a fellow-tribesman. An Indian will invariably laugh at
+another’s discomfiture. But with a stranger all Indians are taciturn, and
+they will have little or nothing to say to him if he be a white man.
+
+Outside the narrow limit of the tribe the Indians possess no altruistic
+feelings, no sympathy with strangers. They look upon every man as a
+definite, or at least a possible enemy. The gentle Indian, peaceful and
+loving, is a fiction of perfervid imaginations only. The Indians are
+innately cruel. They certainly have no true kindliness for animals;
+every animal is a foe, as I have elsewhere noted. The Maku children are
+especially cruel to them, but cruelty to the dumb brute is universal
+among the tribes. On the other hand, intra-tribal hospitality is without
+end. I have given a single biscuit to a boy and seen him religiously
+divide it into twenty microscopic pieces for all and sundry. But they
+are quite improvident so far as the morrow is concerned. If a family is
+threatened with famine the whole party will walk over to another house,
+make themselves at home, eat and drink without the slightest hesitation,
+without even craving invitation so to do. The reason is obvious. The
+host of to-day may be the guest of to-morrow. I have seen, however, a
+hunting party doing their best to eat a whole tapir, with the evident
+desire to finish the feast before the arrival of another, and possibly a
+less successful, hunting party. Otherwise division of spoil is absolutely
+equal, except that the chief by right has the greatest share.
+
+The Indian is not always a hospitable host where other than his own
+tribe or language-group is concerned. Vague tales have penetrated even
+to his well-guarded ignorance of the customs of the Rubber Belt, of the
+servitude of his fellows. He hates the white man and mistrusts him.
+The Andoke are invariably surly in their attitude towards him. There
+are tribes--the Karahone, for instance, on the northern bank of the
+Japura--who refuse all attempts whatsoever at intercourse. They will
+neither receive presents nor ambassadors. If the explorer persist despite
+the rejection of his overtures he will find poisoned stakes sunk in his
+path. He will be harassed in all his doings. When at length he attains to
+the tribal head-quarters he will find a house indeed, and perhaps food,
+but no warriors, no women, no children The fire will still be burning
+within the _maloka_, but the tribe has vanished, leaving no track, no
+sign of its whereabouts. The Indian’s “Not at home” is no mere social
+euphemism. It is a demonstrated fact.
+
+When the stranger finds such silent evidence of the tribal attitude
+toward his presence, it behoves him to take steps very promptly for
+his protection. He may be certain that the natives, though hidden, are
+covering his every action. If he, or one of his party, show himself, a
+flight of poisoned arrows whistles forth from the bush. Then follows a
+siege that tries the nerves of the stoutest campaigner. The hidden enemy,
+the noiseless weapons, menace from every tree. It is almost certain
+death to stop in the open. Within the house is a shelter little more
+dependable. The natives pierce the thatch with fire-javelins, with tiny
+spears bearing blazing tufts of hemp or cotton, and sooner or later the
+great structure will catch fire. There follows the imposed rush into the
+clearing, and the quick butchery by that unseen but ever-watchful enemy.
+
+Later comes the dance of triumph and the feast of the victims.
+
+Against such an enemy, in such a situation, the resources of civilisation
+are of little avail. A wretched little dart steeped in the tribal
+war-poison may be fragile as a reed, but fired from the near shelter of
+the bush it is as effective as a Mauser bullet.
+
+When travelling among these Indians it is necessary in order to gain
+their respect to do as they do. I have emphasised this throughout. The
+traveller must cross the most nerve-racking bridge without help, he may
+have no hammock in which to be carried. This is a striking contrast to
+what I have met with in parts of Africa, where to walk is taken as a sign
+of unimportance; the man who does so cannot in native eyes be what they
+would call in India a “burra sahib.” I have also noted that the student
+of life must conform in all things that may be with the customs and
+habits of the tribesmen with whom he wishes to associate. In a land where
+_pia_ is the supreme law, deviation from custom can be only regarded as
+criminal.
+
+When an Indian house is reached the chief comes out with a party of his
+warriors. The burden of proof rests with the invading European. He
+advances to the chief with his interpreter, and must make declaration of
+friendship. If the explanation of his appearance be accepted, the Indian
+laughs and may slap his visitor vigorously on the back, after the usual
+custom of the native in South America welcoming the stranger. Together
+they then proceed to the house, and the chief calls his woman and orders
+food to be provided for the strangers. The white man on his part tenders
+whatever he has brought by way of presents--beads, gun-cartridges, a
+small-tooth comb, or a knife.
+
+When the evening meal is finished the chief stalks into the centre of
+the _maloka_, which has hitherto been untenanted, like the arena of a
+circus before the performance begins. A great fire is made up, and about
+it the men of the tribe squat on their haunches. The chief explains to
+them the presence of the stranger, and takes counsel on the question
+of his entertainment. As he describes his intentions he falls into a
+rhythmic chant, and his followers assent with deep-chested _Huhh!_ All
+this is a lengthy business, but the tribe eventually arrive at a common
+decision. The chief then bends forward to the tribal tobacco pot that has
+been placed midway among the group. Into this he solemnly dips a tobacco
+stick, and conveys a little of the liquid to his tongue. Man after man
+bends forward round the circle, and each in turn dips his splinter of
+wood into the pot to notify his assent. It is a sign of tribal agreement
+as binding as the Lord Chancellor’s seal on a document of state. With it
+the tobacco palaver is concluded and the Indians seek their hammocks for
+sleep.
+
+The Indian’s treachery is proverbial. I may mention on this point two
+sayings--there are hundreds similar--which illumine this phase of the
+character and customs of the tribesmen. The Andoke says, relevant to the
+Karahone, “If your spirit wander (sleep) in the hammock of a _monkey_
+or _beast_ Indian, it wanders always.”[408] The meaning is this, the
+Karahone appear to have a real and exact knowledge of virulent poisons.
+It is related that they can saturate a hammock with some narcotic which
+the victim does not discover, thus ensuring his death or destruction.
+They also burn fires under the hammock of those they wish to remove from
+the world, and stifle them with a narcotic smoke.
+
+Another proverbial remark runs: “If a Karahone give you a pineapple,
+beware.” This refers to the Karahone’s playful habit of presenting
+poisoned pines. The Boro have a similar saying: “Take a pine from an
+enemy and die,” but this is due to the recognition of the fact that an
+Indian is never so dangerous as when simulating hospitality that is
+treacherous in the extreme.
+
+Perhaps the Indian trait that soonest strikes, and most indelibly
+impresses the observer, is his charming altruism in the community of the
+family or tribal group, his wild misanthropy towards other tribes. His
+ambition is to live undisturbed with his family in the deep recesses of
+the forest. He asks only to be let alone.
+
+In a region where land is free for all to take who will, and personal
+belongings are few--and invariably buried with the owner--laws of
+inheritance there can be none. But the law of possession is strict, and
+the penalty is death. There can be no toleration of theft, as on account
+of the publicity in which the Indians live it may be effected with such
+ease. The punishment for theft has therefore to be drastic, final. The
+victim may kill the thief. I was told that this is done by hacking at
+the culprit’s head with a wooden sword or a stone axe. This savours of
+ceremonial sacrifice. But though to steal from a member of the tribe is
+to steal from the whole community and therefore a crime, there is no
+bar against stealing from the stranger. They will do so unblushingly. I
+remember once missing a pair of scissors. On searching I discovered a
+Witoto woman stealing them. But she swore she had never put them in her
+basket, though they were found there!
+
+There is very distinctly a dualism of ethics, one law for the tribe, and
+another law for all who are not members of it. To kill a fellow-tribesman
+is to injure the tribe by destroying one of its units. Sin against the
+individual is of no importance except in so far as injury to any one
+person is injury to a unit of the tribe, to be punished by the law of
+retaliation in kind if the offender be of another tribe. Sin against
+another tribe is no sin except in the eyes of the tribe sinned against;
+then for its members it becomes not the sin of the individual doer but of
+his whole community. It is the tribe and not the individual that would be
+held guilty for any offence committed by one of its members. For instance
+if a Boro killed a Menimehe, vengeance may be taken by the dead man’s
+tribe on all or any of the members of the Boro tribe concerned.
+
+Vengeance is primarily a matter for the individual principally affected.
+A man considers it a disgraceful thing not to be able to avenge himself,
+and will therefore never apply to the chief for tribal help. On the other
+hand the chief and the tribe will sometimes take up a quarrel and make it
+their own. This is a common custom amongst small communities, an affront
+to any one of the community being a personal attack upon every other
+member, though it is not necessarily avenged by all unless the affronted
+one is himself unable to compass revenge.
+
+Members of a tribe sometimes quarrel, though rarely, but at times a fight
+commences in which others join, till eventually it becomes a “set to”
+between two families. On the whole I am inclined to say that the natives
+of the Amazons are the least quarrelsome people I have ever met.
+
+It would be wrong to state that these people have no moral sense, because
+a slavish adherence to custom in itself is moral. That is to say they
+possess a moral code. However that does not entail any right or wrong as
+we know it, but only _pia_, that is “what our forefathers thought and
+did,” in other words tribal usage, which may be translated by what we
+call “good form.” There are no words in the Indian tongues for virtue,
+justice, humanity, vice, injustice or cruelty. These are unknown to the
+tribes who differentiate only with the equivalents for good and bad.
+Points like this earmark the ethics of a people. The curious negative
+character I have already noted is carried out here also. Again there
+is recognition of the moral law of conjugal fidelity in that there is
+definite punishment for infidelity--the ordeal of the stinging ants.
+Punishment infers transgression of a law or code. It is not sufficient
+to say that in this case it is due to the extraordinary jealousy of
+Indian husbands, for the penalty is imposed on both husband and wife,
+the retribution is due to public opinion not personal revenge. Before
+marriage the men take the tribal prostitutes--the Maku girls and to
+some extent the unattached women--openly, but after marriage this is
+not the case. Incest is unknown among them, and in that term I include
+promiscuous intercourse among any of the members of a household. The
+antipathy to this lies only between those living under the same roof,
+it does not extend to consanguineous individuals who are members of
+different households.
+
+The women are extraordinarily modest in their behaviour. Their eyes
+rarely leave the ground in the presence of a stranger. I had one woman
+in my party who never spoke to me, or even looked in my direction, the
+whole time we were together. After much dancing, I have seen the women,
+succumbing to dance stimulation, show their preference for certain men
+in the dancing party by placing their hands on their shoulders, an act
+in obedience to the impulse of the moment. In fact after dancing for a
+length of time they become comparatively boisterous and irresponsible.
+But even at the height of excitement there is nothing markedly rude in
+the dance, when one allows for the fact that sexual suggestion is not to
+be included in that category in Indian ethics. Even on this point they
+have their limitations, for Koch-Grünberg relates that when talking to
+some Desana Indians on sexual subjects, the conversation was stopped by
+them till the women were sent away. After their departure the men talked
+freely and broadly. This I did not remark among the Indians I visited, in
+fact sexual matters appeared to be discussed freely and lewdly by both
+sexes, and even by young children.
+
+The Indians under the range of discussion most certainly possess the
+greatest racial antipathy towards the white man. This is noticeable among
+the women especially, for they will never admit to their own people if
+they have ever had any dealing or connection whatsoever with the white
+man.
+
+Gratitude among Indians is unknown--at least to me. Take this example:
+I had Indians who had been slaves, who had elected to come with me, or
+at least had evinced no repugnance at the idea, with whom I had shared
+all the food at my disposal, stinting myself often to ensure their
+gratitude--as I thought--caring for them, doctoring and curing them when
+sick, till eventually I became fond of them. But on the main river at the
+first opportunity they ran, apparently at the suggestion of one of their
+own tribe, the Peon of a rubber-gatherer. What arguments were used I know
+not--perhaps that I was a devil, that my real motive was to fatten them
+for culinary purposes. The fact remains they left me, to all appearances,
+willingly.
+
+This stealing of Indians is a well-recognised source of amusement on the
+Amazon river, and the victims of such loss--who of course perpetrate
+the same sort of outrage on others directly opportunity permits--are so
+indolent, so lethargic, that they will not cross a river to recover the
+stolen. The custom is the more prevalent on account of the character of
+the Indian. He will always leave one white man to go to another. He is
+always on the alert to run, to go elsewhere. This is true of Indians
+enslaved by other Indians, to a limited extent. Unless they are well
+treated and identified with the tribe they will run, only to be again
+enslaved by others, or put to death. The matter is hard to explain. It
+simply is in the blood. It is _Pia_, as Brown remarked. It is their
+custom. They do it “just for so.”
+
+Another point about the Indian is that he must always be kept up to the
+work in hand. The women toil unceasingly, but the men are only too ready
+to seize any excuse to cry off a job. They spend their time mainly in
+mooning around. Obtaining food is their chief occupation. But when an
+Indian is kept up to his work he works hard and well.
+
+Though the Indian attitude at first is invariably stoical they are not
+lacking in inquisitiveness. Their curiosity was enormously aroused by
+many of my possessions. It is hard to say what will evoke their wonder.
+I have seen an Indian evince no interest in a steam-boat, but show the
+most extraordinary interest in my jackboots, and be greatly occupied with
+the problem of how I got into them. A walking-stick was an unanswerable
+conundrum to them, it never occurred to their minds that I could use it
+as an assistance in walking. My eyeglass, my camera, were mysterious
+devils that could read into their hearts and filch their souls, as I
+have already noted. My watch, with an alarm to it, struck consternation
+to their simple minds. My phonograph, that reproduced records of dancing
+which were repeated on reversal, raised shouts of wonder. An Indian in
+a down-river town saw nothing to excite him in a tram, and took a ride
+thereon quite unconcernedly, but the women’s hats were exciting, and at
+the sight of a man on a bicycle his astonishment was unbounded: it was
+“man on spider-web!” Horses are unknown in these regions, and there is no
+possibility of the majority of the Indians seeing any one on horseback. I
+could only get a mule as far as the first big river, but beyond the bush
+became too dense. Otherwise I fancy their amazement would equal that of
+the Australian natives when they saw the beast come in two on the man
+dismounting.[409]
+
+Decadent the Indian may be, and thanks mainly to his inveterate cocainism
+he undoubtedly is, but that he is the degraded descendant of a higher
+race is a theory that I beg leave to doubt entirely. According to von
+Martius the standard of ethics rises or falls with the increase or
+decrease of a tribe. He based his theory on the fact that the most
+corrupt Coeruna and Nainuma were nearly extinct. It is possible to
+argue that they were dying out because they were corrupt,[410] rather
+than they were corrupt because they were dying out. Sir Roger Casement
+appears to have accepted the theory expounded in _Vergangenheit und
+Zukunft der amerikanischen Menschheit_. But Tylor remarks, “I cannot but
+think that Dr. Martius’ deduction is the absolute reverse of the truth.”
+Certainly the theory of the Indians’ regression is, I consider, entirely
+erroneous. I see nothing to suggest it. On the contrary it appeared to me
+that in spite of the awful handicap of their environment, these tribes
+were slowly evolving a higher standard of culture. There is no evidence
+of their having reverted from a higher culture. A people who once knew
+how to produce fire by friction do not easily forget that method to rely
+on the clumsy processes of fire-carrying. Men who have smoked tobacco
+are not very likely to content themselves, nor would their offspring be
+contented, with merely sucking it. People who knew the simple method of
+preparing yarn with a spindle would only revert in exceptional cases
+to the slow and even painful process of rolling fibre on the naked
+thigh, and that in a land where cotton is abundantly to hand on every
+side. The tedious method of plaiting and tying by hand would hardly,
+one imagines, be substituted for weaving. A race that has once worked
+metal and relapsed to the use of stone without even more exceptional and
+definite reasons for that relapse, is no more likely in fact than it is
+recorded--so far as I am aware--in history.
+
+Examples are known of peoples who have forgotten one useful art, for
+material and utilitarian, or social, or magico-religious reasons; but a
+people who have allowed some half dozen to disappear is unknown to me.
+Yet these Indians carry fire, lick tobacco, roll fibre on the thigh, and
+though they make use of an embryo loom--the two posts between which their
+hammocks are plaited--have not appreciated its potentialities. Some of
+the Amazon tribes,[411] though surrounded by canoe-building peoples, can
+only make rafts; the secret of the dug-out, if ever known to them,[412]
+has been forgotten. But it is possible that an isolated section of the
+original canoe-builders--as we have seen these tribes today are all
+isolated sections--may for some reason have had no need to construct
+a canoe for such lengths of time that the method of fire-heating and
+burning, especially of forcing the hot trunk open, had through disuse
+been at least partially forgotten.[413] Presume that they failed in
+their attempt to build one for some reason,[414] and it was found that a
+raft would do momentarily in its place, the original skill and knowledge
+might easily die out in a generation. Therefore the absence of canoes
+alone would be no convincing argument. Nor must it be forgotten, as Dr.
+Rivers has pointed out,[415] that other causes besides defective memory
+and lack of practice may result in the entire disappearance of even
+useful arts. But I repeat hardly of so many among all these tribes in
+common.
+
+Everything points to the conclusion that these tribes found their way to
+the forest in a very primitive condition. The forest has arrested, it
+has stunted their growth, but it has not plunged them back from later
+cultures to the Stone Age. The stones themselves deny it, _for stone is
+not the natural substitute for iron in these regions_.[416] Whence the
+tribes came hither, and when, in whatsoever far back age of our earth’s
+story, they were a Neolithic people--hardly that, a people emerging from
+the unsettled conditions of the Paleolithic hunter, agricultural but not
+yet pastoral, and such they have remained throughout the centuries.
+
+
+APPENDICES
+
+
+APPENDIX I
+
+PHYSICAL CHARACTERISTICS
+
+
+Physically, as may be judged from the accompanying tables, there is a
+wide margin for dissimilarity among these tribes. Their appearance is
+nearly as varied as their speech, more so in fact, in that there is much
+diversity of type even among individuals of the same speaking-group. I
+have seen a Boro as dark as a Witoto, while his fellow-tribesmen may be
+yellow as a Chinaman. It is, of course, possible that the darker Boro are
+sons of Witoto women. The custom prevalent in all the tribes of adopting
+the young children captured from their enemies, makes of necessity
+for great changes in type even in one household, so that despite the
+preference for group endogamy that undoubtedly exists there are few
+households where cross-breeding is not in evidence.
+
+In stature the Indian is small, which I take to be a result of depression
+due to his forest environment; but the body is well-balanced and upright.
+Among the tribes I visited the Andoke as a speaking-group were, so far
+as I could observe, the largest in build and the tallest. The Okaina
+may possibly come into the same scale. The Karahone represent the mean,
+while the Maku are invariably small, a low class and badly-fed people.
+The average measurements of the tribes are best gathered from the types
+tabulated. I made the average height to be for men 5 feet 6 inches;
+and for women 4 feet 10 inches.[417] I certainly remember one case of
+a man among the Andoke nearly 6 feet high, but can recall no other.
+The women were never much over the average of the female type. I give
+my measurements for what they are worth, but unfortunately I did not
+know the correct way in which they should have been taken; they were
+made with a centimetre rule, but not on the correct anthropometrical
+principles. The Indians stood against the side of the house to be
+measured, and I registered their height by the simple process of placing
+the ruler on the head and measuring its distance from the ground.[418]
+
+The bone of the Indian’s skull is thick, and both dolichocephalic and
+brachycephalic types are in evidence.[419]
+
+The Indian does not run to fat, rather is he inclined to be thin, but
+strong, muscular and healthy, with rounded outline and finely-developed
+chest. The Witoto, however, though broad and strong, fail in the limbs,
+their legs especially lack development. On this point my observations
+tally with Robuchon’s notes. The Tukana have a magnificent physique. The
+Andoke, though some are tall, with large frames, as a group incline more
+to breadth of both face and figure. The tribes of the Tikie are of a low
+grade.
+
+The Indians as a rule, have hands of an average size, with stumpy
+fingers, and short, spatulate nails. Constant manual labour of some
+sort would seem to keep the nails naturally of a normal length. I never
+remember seeing an Indian pare his nails, but fear this is a point that
+may have escaped my observation. The men’s arms are frequently distorted,
+and the shoulders gain an artificial breadth by the use of ligatures to
+swell the muscles of the upper arm by means of constriction.
+
+The natural symmetry of the Indian’s person is further enhanced by slight
+hips, flat buttocks. The abdomen seldom protrudes though the navel is
+prominent, but not to the same extent as is found among negroes.
+
+
+The men generally have large feet,[420] with long toes. Both men and
+women have very prehensile toes, and will pick up objects off the ground
+with their feet rather than trouble to stoop. They are flat-footed.
+
+The Indian does not extend his legs when he walks, as Europeans do. He
+moves rather with the action of an unathletic woman. His step is on an
+average about two-thirds of an ordinary man’s thirty-inch pace. The foot
+is of necessity raised well above the ground, on account of the lianas
+which would trip the slovenly walker. This does not make for rapid
+progression. But though he walks more slowly than the white man, the
+Indian can keep up a jog-trot of about five miles an hour for tremendous
+distances. Moreover his wind is far better than any white man’s. At a
+push, to get away from hostile neighbours for example, he is capable of
+going sixty miles a day. In ordinary circumstances he walks nowhere,
+except about the house and compounds. Consequently he has developed a
+different set of muscles from the ordinary pedestrian.
+
+As the Boro are more harassed than the Witoto they march as a rule in
+silence, while the Witoto are noisy generally; but a march in country
+that might prove hostile is done in silence by every tribe for obvious
+reasons. In friendly country the Indians go along chattering and joking,
+or in silence, just as the spirit moves them: there is no rule. The
+necessity for walking in single file, and the invariable difficulties
+of the route, do not, however, altogether encourage conversation. These
+restricted paths have a further influence upon the Indian. Often enough
+it is necessary to place one foot directly in front of the other in
+order to find any footway at all. This is the probable reason, or one of
+the reasons, why the men walk with a straight foot, a specially needed
+precaution on the narrow bridges, that are merely formed of single
+trees. The women walk in rather a stilted fashion, with the toes turned
+inwards at an angle of some thirty degrees, on account of the tight
+ligatures they wear below the knee and above the ankle, which cause the
+calf to swell to enormous proportions, as has been noted. This may not
+inconceivably have a contracting effect in the angle of the foot. It is
+regarded as a sign of power if the muscles of the thighs are made to come
+in contact with each other when walking.
+
+That the men run and jump well is due to their good wind, but they have
+no pace, and could easily be outstripped over a limited course by an
+average white man in good condition. But the women neither run nor jump
+with any facility, as they all suffer from varicose veins, caused by the
+ligatures to some extent, but also by the burdens they carry, and from
+labouring in the fields when in a condition unsuited to such physical
+exertion. As weights are carried on the back suspended by a strap
+across the forehead, the tendency to stoop or grow round-shouldered is
+counteracted, for the pull of the strap brings the head back, and the
+strain is taken by the muscles of the neck.[421] Water is always carried
+in vessels balanced on the head, and though the Amazonian Indian may not
+have the superb carriage of her sisters in the East, yet the young girls
+at least are very well set up, though with advancing age a lifetime of
+field work and burden-bearing may bow the elder women till they walk, as
+described by Robuchon, “in an inclined position.”
+
+The Indian woman has generally a beautiful figure, well proportioned
+and supple, with high, straight shoulders. Untrammelled by dress she is
+graceful and free in her actions. Before marriage the women have very
+small breasts, but after they have borne a child the breasts develop
+considerably. Old women, probably on account of poorer nourishment, are
+very flat-chested, and one never sees a woman with very pendent breasts.
+In the older women they atrophy.[422]
+
+There is great individuality in the faces of the Amazonian Indians. A
+tribe is no herd of sheep, differentiated only to the experienced eye
+of the shepherd; the dissimilarities of countenance are immediately
+apparent, and even to the most casual observer Indians show marked
+variety of face and colour and feature. Like all savages the Indians
+admire most the lightest coloured skins. The divergence of colour is
+both tribal and racial; and as a rule it will be found that the higher
+the type the better the physical development, and the greater the mental
+capacity, the lighter will be the skin. On account of the saturation of
+the atmosphere the Indians mostly have skins of a good texture. I never
+found rough skins on Indians in these districts.[423] Of all the tribes
+the Menimehe have the lightest complexions, and they are invariably
+fatter and in better condition than the surrounding tribal groups.
+
+
+I have mentioned the custom of covering a new-born infant with rubber
+milk either for warmth or to protect the skin; the women daub themselves
+with gum and a yellow clay because it is supposed to preserve the skin;
+but none of these peoples use any oil for lubricating purposes, and they
+are free from any noxious-smelling secretion. The smell of a negro they
+consider most offensive, but do not extend this dislike to the white man.
+The Indian owes his immunity from this unpleasant trait in part because
+he does not perspire at all freely, perhaps to difference of glandular
+secretion, and in part to frequent ablutions. Yet, though even a dirty
+people like the Witoto will bathe at least three times a day and most
+tribes far more often, these Indians, as has already been noted, are by
+no means free of body parasites. Head lice may be said to be universal,
+and in addition jiggers and the red tick that drops off leaves in the
+forest and burrows under the human skin, there is another burrowing
+parasite that invades the human body to lay its eggs, which is extremely
+common among these people. One is apt to be infested with these pests
+merely from touching an Indian, certainly by lying in an Indian hammock.
+The parasite causes considerable irritation, and the local remedy is to
+apply babasco juice.
+
+Except in the case of a medicine-man, who never depilates, hair is
+looked upon as dirt; therefore it is always removed, only the hair
+of the head being permitted to grow. Depilation is usually done just
+before a dance. The method of removal adopted is to cover the hirsute
+parts with rubber latex. This is allowed to dry, so that a grip can be
+obtained and the hair removed simply with the forefinger and thumb or by
+means of two small pieces of cane. Two persons will, as far as facial
+hairs are concerned, depilate one another. It is universally considered
+a sign of cleanliness to remove all the body hairs, and even to pull
+out the eyebrows and eyelashes.[424] That the eyebrows are not removed
+for æsthetic purposes is proved by the fact that the effect is promptly
+reproduced with paint. It is not easy to get information with regard to
+the removal of body hair,[425] but I was able to obtain a little from a
+Karahone slave boy who was with an Andoke tribe I met. He told me that
+the Karahone did not depilate the hair of the face. This is the one
+exception among these tribes.
+
+On the authority of Schomburgh, im Thurn states that occasionally when
+there is great demonstration of grief at a burial “the survivors crop
+their hair.” So far as my experience went none of the Indians of the
+Upper Amazons ever “crop” the hair close, except that of young girls when
+danger threatens. Should there be any reason to suppose that some man is
+inclined to steal a girl, her hair might be closely cut as a preventive
+measure to save the child from being kidnapped, for a hairless woman is
+looked upon as a social outcast among the tribes. The young Indians have
+long hair that often reaches to below the small of the back, but this
+length does not continue, and it is a varying quantity among the adults.
+
+The hair is uniformly scattered over the scalp, and is coarse in texture,
+lank, and very abundant. Baldness is unknown, and greyness, as with the
+negroes, is very rare. I have only seen grey hair on a few people of
+apparently unusual age. In colour it is almost uniformly black, a red-
+not a blue-black, which gives it an occasional brown glint. Some of the
+children are lighter-haired, but such a variation as red hair is unknown,
+though in the sunlight the women’s hair may take a reddish gleam. Both
+women and children have finer hair than the men, and with young children
+it is often quite downy. As a rule it is straight, but among the Tukana
+wavy hair is more evident.
+
+Among the greater part of these peoples the hair is not cut, either by
+the men or women. The Karahone men cut their hair to the shoulders; the
+Boro women, and in some cases the men, trim theirs round very much as is
+often seen among our small girls. Sometimes the Witoto women trim their
+lank locks. This is done with a knife if they have one, otherwise it is
+singed. With the Menimehe and Karahone it grows very low on the forehead.
+The Tikie tribes have most untidy and ill-kept hair.
+
+Owing to race--possibly of Mongoloid origin--and to the prevalence of
+depilatory customs, the men have scanty beards, if any.
+
+On the whole these Indians hold their own in the matter of good looks,
+even the lowest types are not repulsive in appearance. I mean, of course,
+to the eye of the stranger, not according to their individual standard
+of beauty. In feature both the various language-groups and the tribes
+of each group show many grades. It may be taken as usual that with a
+lighter skin the nose and lips are thinner than among those with darker
+colouring. The Boro and the Resigero, both comparatively light-skinned
+groups, have thin lips. This naturally follows from what I have already
+said as to colour and type, the higher type possessing, as would be
+expected, the more refined features. The Boro, taken as a group, are
+the best looking, many of them are very handsome, and some of the Andoke
+also are notably well favoured in appearance. “Noble” is Koch-Grünberg’s
+decision on the question of the Tukana tribesmen’s appearance. The
+Okaina, also, must be classed as good looking.
+
+
+It seems somewhat of a contradiction after this to remark that a squint
+is so common a trait among these tribes that one cannot but notice
+immediately any one with normal eyes. This is, however, with the
+exception of the Tukana, very prevalent among all these tribes. The
+eyes are not large, and are deeply set. They are black in colour with
+occasional yellowness of the eyeball, but never to the degree seen in the
+bilious eye of the negro. Both eyesight and hearing are very acute. In
+the bush, or in the dark, the tribesmen have most penetrating sight, and
+can distinguish details at a glance where the ordinary white man can see
+nothing of any description. In the sun, or any strong light, their sight
+is inferior.
+
+It is difficult to judge what an Indian’s ears would be like if left to
+Nature’s fashioning, as they are invariably distorted to more or less
+degree by artificial means. They are frequently prominent, and do not
+appear to be set close to the head in any case. The large ear-plugs will
+pull the lobe of the ear half-way down the neck and more. Nose-boring is
+not carried to so disfiguring an extent. The Boro, especially the women
+of those tribes, bore the wing of the nose--a custom peculiar to this
+people--as well as the septum, which is also bored by Muenane and Witoto
+women, but the nose pins are small, and do not distort the feature as
+the ear-plugs do the ear. The Tukana’s nose has naturally large alæ. The
+tribes on the Tikie also have broad noses, with prominent cheek-bones, a
+characteristic noted by Wallace among the Kuretu.[426]
+
+The Indian’s chin is narrow, small, rounded, and, especially in the case
+of the women, retreating. There is no dimple or cleft. The teeth are big
+and even, and very rarely found projecting.
+
+The Indian’s expression is stolid enough ordinarily, but when talking
+he has much play of feature, and he will gesticulate freely under the
+influence of coca. Among the tribes to the south of the Japura a man will
+look a stranger straight in the face, but north of that river the native
+has a more furtive glance. The Indian’s gaze is intense.
+
+They are never demonstrative of affection, and, though they will touch a
+white man as a salutation, never touch each other. By this I mean that
+when friendlily disposed an Indian would return a white man’s salute,
+the offer of the hand, but no Indian would grasp a fellow-tribesman’s
+hand, or put an arm around his neck. Kissing is unknown among these
+people. Crevaux records that he saw children among the Calina kiss to
+show affection, but the nearest approach to an embrace I ever witnessed
+was a slap on the shoulder, probably under the shoulder-blade, which is
+the salutation between great friends. Mothers of course fondle their
+children, and I have even seen a woman with her arm round her husband,
+but such an exhibition is considered barely decent. Neither do they
+exhibit grief by weeping. The girl children cry occasionally, but no
+child ever screams; and adults may whine but never shed tears.
+
+As regards brain-power, the Boro group are the most intelligent, with
+the possible exception of the Menimehe. I invariably found the Boro
+exceedingly anxious to learn from me anything they judged might be of
+utility to themselves. They evinced a definitely intelligent interest,
+not to be confounded with the ordinary curiosity of the untaught. Among
+all these peoples the power of mental development ceases after they have
+attained puberty.
+
+One limitation that is to be noticed with all of them is their inability
+to grasp any chronological data. They have nothing in the way of a tally
+of any description, and in speaking use the vaguest expressions only
+for reckoning. It is my opinion, based on observation of the number of
+generations still living at any one time, that these people live to an
+advanced age. They grow elderly at from twenty-five to thirty years, and
+may, under favourable conditions, live another half-century or more.
+This is borne out by the fact that I found occasionally a man with grey
+hair--a sign in all coloured peoples, and I believe in Mongoloid peoples,
+of great age. But no Indian can give any information as to his own age,
+or the age of his children. For him age is non est, time of little value.
+He cannot tell you when he came to the neighbourhood in which you find
+him, though obviously only a year or two may have been passed there. His
+day is regulated to some extent by the rising and the setting of the
+sun, portioned only by its height in the heavens. If but occasion serve,
+one or other of the warriors, drunk with coca, will talk the whole night
+through, excitedly recounting some folk-tale, or endlessly boasting his
+feats in the hunt or on the war-path. The interruption is not resented by
+his comrades, nor does it seem to interfere with their slumber. Indians,
+in fact, never appear to sleep much, or rather they sleep little and
+often, as chance offers. Night is no more the time of repose than day,
+except in so far as darkness puts a stop to certain of their avocations.
+When sleeping on the ground an Indian curls up on one side with his knees
+to his chin, or he sleeps on his stomach, seldom lying on the back.[427]
+
+Though, as has been noted, they sleep with no wrap or covering, these
+Indians are most sensitive to climatic changes. They are decidedly
+susceptible to a difference of locality, and, more than this, in a
+land where the extreme contrast of temperature is no more than twenty
+degrees throughout the year, with an average of half that total, they are
+affected by even slight variations of temperature. They fear the cold of
+the early morning, and, accustomed as they are to the half-lights of the
+forest, they dislike sunshine, and prefer to keep in the shade, fearful
+of sun-sickness if exposed to the sun.
+
+It has been suggested by some travellers that the curious habit of the
+Indians of inducing sickness every morning by means of a feather was
+based on the idea that any food which was retained in the stomach all
+night must be unwholesome and ought to be removed immediately.[428] I
+have often seen the Indians do this, but always put it down to a desire
+to rid the stomach of the non-absorbent constituents of the coca powder,
+as only the men, who alone may take coca, resort to this practice. The
+Indian in the early morning drinks an infusion of herbs, as I have
+already mentioned, which induces the removal of such substances by
+vomiting, although not taken primarily for this purpose.
+
+Sickness is also secured with the fingers after a prohibitive quantity
+of cahuana has been drunk, as afore noted, during a big dance. Having
+imbibed to his utmost capacity, the Indian adopts this simple expedient
+to enable him to drink again.
+
+The tribes of the upper Amazons are, comparatively with others, very
+cleanly. But it is only comparatively. The Boro are the cleanest, and the
+Witoto unquestionably the most dirty. Immediately on rising all Indians
+resort to the river, but except among the Boro and the Resigeros, who rub
+themselves with sand, the performance can hardly be called washing, it is
+simply bathing. The Nonuya and Muenane are cleanly, like the Resigero.
+Even the Andoke, though they use no sand, are cleaner than the Witoto,
+for this tribe never wash, and only take a dip two or three times a day,
+while at least five times is the ordinary rule with the majority.[429]
+
+The first duty of the morning is a visit, as has been said, to the
+bathing-place. Thither troop the old and the young, both male and female,
+to wash and revive in the water. They do not attempt to rub their bodies
+dry, but are content to let the moisture evaporate when they emerge from
+the stream. When on a march or out hunting Indians will always bathe in
+any water available on the route. They go in streaming with perspiration,
+but seem to suffer no ill-effects. Bates has described them as “taking
+merely a sitz-bath” like a dog,[430] but they seemed to me to bathe as
+any ordinary person would who went into the water to get cool.
+
+After returning from war the Indians bathe scrupulously before they
+re-enter the house. It is in the nature of a ceremonial washing, and
+possibly is a subconscious act of purification, though the Indians,
+when asked the reason, told me only that it was _pia_, our custom. In
+fact lustration with the Indian is too frequent an action to keep any
+ceremonial significance it may ever have had.
+
+It follows as a matter of course with people so familiar with water that
+one and all are expert swimmers. The Indian of the Amazons invariably
+swims as naturally as he walks, and with as little tuition. From the hour
+of his birth he has been conversant with the river, and in a climate
+where the temperature of the water varies but little from 75° to 80° or
+more, he regards a dip as his chief solace. He never passes a stream
+without taking advantage of its proximity to bathe, and the fact that he
+may have recently fed, or that he is perspiring freely, does not hinder
+him from a plunge, and makes no difference to his enjoyment.
+
+In swimming the Indian paddles like a dog, and does not attempt to attain
+to anything approaching the breast-stroke of the European, nor does he
+extend the legs widely. He flexes the legs sharply upon the trunk, and,
+suddenly stretching them in a straight line, drives the body forward.
+The stroke is not a tiring one, and the native is capable of undergoing
+long immersion without suffering exhaustion, but the speed he can acquire
+is not remarkable. For that matter there are no reasons why the Indian
+should desire to make rapid progression. Swimming to him is an adjunct to
+bathing, or a means to cross a stream; its finer developments trouble him
+not at all. In the muddy rivers of the Amazons there is nothing to tempt
+the native to dive, nor are there suitable places to jump off the banks.
+The Indian slips in as best suits the occasion, and does not aspire to
+exhibition feats, or to water games.
+
+
+When bathing the Indian is exposed to a certain element of danger from
+fish that inflict varying degrees of injury. There is the stinging eel,
+and skate of some sort and another stinging fish,[431] the caneiro, and
+the piranha. Electric fish are less common in the upper rivers than in
+the main streams, and I never noticed one Indian of the Issa-Japura
+tribes take any special precaution against them, though elsewhere the
+natives will beat and prod the water with rods before they bathe, to
+discover, if possible, whether any eels are lurking in the vicinity.
+The caneiro’s method of attack is by suction, not shock. They are
+very plentiful in all these rivers, and their power of suction is
+most extraordinary. I am not likely to forget the first time I made
+acquaintance with one of these voracious little fish. It suddenly
+attacked, or rather attached itself with its sucker-like mouth, to the
+inner side of my leg. The sensation was most alarming. I made with all
+possible speed to land. The caneiro certainly sucks up the flesh rapidly
+and painfully, but I am doubtful if it really “tears off pieces of the
+skin and flesh,” as it is said to do.[432] The piranha, though quite a
+small fish,[433] is even more ferocious. It will attack anything, and is
+said to be capable of reducing a large animal to a skeleton in the space
+of a few minutes. There is a story, repeated elsewhere, that one very
+small fish is actually a human parasite. The Indians aver that it will
+enter the body of a man when bathing. Orton mentions this fish, which
+according to him is “a slender silurid fish (_Vandellia_)” but remarks
+that he never met “with one confirmatory case.”[434] Neither did I. But I
+found that all Indians take precautions against it when bathing.
+
+
+APPENDIX II
+
+MONGOLOID ORIGIN
+
+
+On the vexed question of original Asiatic extraction what little evidence
+I have to offer is in general support of the theory that some at least
+of the ancestral stock probably found their way hither from Asia,
+or--what is more in accordance with the laws of migration as so far
+ascertained--spread from the American to the Asiatic continent. There is
+undeniably a marked prevalence of what are recognised as Mongoloid traits
+among these peoples. I fully accept Ratzel’s dictum, “We may hold firmly
+to the relationship of the Americans with the East Oceanic branch of the
+Mongoloid race.”[435] To quote another writer, “As Burton remarks, this
+strain demonstrates itself in big round Calmuck skulls, flat faces, with
+broad, prominent cheek-bones, oblique oriental eyes, rather brown than
+black. They have also dark thick eyebrows, and thin moustaches fringing
+large mouths, with pointed teeth and sparse beards hardly covering the
+long pointed chin.”[436] The truth of this description can be judged from
+the illustrations in this volume. The most casual observer must notice
+the prevalence of Mongoloid facial characteristics prevalent among the
+South American Indians, such as obliquity of eye, prominent cheek-bones,
+broad flat nose. My own observations led me to conclude that the
+Mongoloid type was very pronounced in individual cases, so much so that
+I estimated at least one per cent to be of a pure Chinese type, and my
+common name for them (_vide_ my note on secrecy of individual names, p.
+154) was Chin-Chin. I would refer to such illustrations as that facing p.
+254 in the second volume of Spruce’s _Notes of a Naturalist_. (See again
+Spruce, i. 328; Orton, p. 170, for references to prevalent obliquity of
+eye.) On the other hand, Bates remarks of the Tupuyo that “their eyes are
+black and seldom oblique like those of the Tartar races” (Bates, i. 78);
+and Wallace remarks, “I never could discern an unusual obliquity of the
+eyes” (Wallace, p. 332). I cannot agree with this statement. The latter,
+however, noted the prominent cheek-bone among the Curetu (p. 354); and
+Orton refers to it and to the flat nose (Orton, p. 170).
+
+Further characteristics in common among Mongoloid peoples and these
+tribes are the customs of shaving or depilating facial hair, and a
+prolonged period of suckling the young (_vide_ Westermarck, p. 484).
+
+
+APPENDIX III
+
+DEPILATION
+
+
+All tribes south of the Japura remove hair, except that on the head.
+
+Tukana depilate body hair.
+
+Tuyuha men depilate armpits, not pudenda: women depilate pudenda.
+
+Kuretu--all depilate.
+
+Purakato, according to Koch-Grünberg, do not depilate.
+
+Karahone are said not to depilate. This (see text) is debatable. I
+believe that they pluck out the hair of the chin and whiskers, but leave
+eyebrows and moustache.
+
+Bara--women only depilate.
+
+Menimehe--all depilate, but the women are not so careful about it as the
+Boro.
+
+Boro--all depilate.
+
+Witoto--men more careless, women depilate.
+
+Tuhana, according to Koch-Grünberg, do not depilate.
+
+Okaina--all depilate.
+
+Resigero--all depilate.
+
+Muenane--all depilate.
+
+These tribes have no body hair, except pubic hair, which is very scanty.
+The Indian women are most particular about the removal of all pubic hair.
+The men are less careful, though it is supposed to be done, but as that
+part of their bodies is never voluntarily exposed they are more heedless
+than the women.
+
+
+APPENDIX IV
+
+COLOUR ANALYSIS AND MEASUREMENTS
+
+
+COLOUR
+
+(_Vide_ Colour Curve. Tintometer.)
+
+    1. Menimehe--lightest.
+    2. Resigero.
+    3. Okaina.
+    4. Boro.
+    5. Nonuya.
+    6. Andoke.
+    7. Karahone.
+    8. Muenane.
+    9. Witoto.
+
+Robuchon gives the colours of the Witotos as brown-copper colour,
+varying between twenty-nine and thirty of the chromatic scale of the
+Anthropologicas of Paris.
+
+
+COLOUR ANALYSIS
+
+_Unexposed Part--Armpit_
+
+  +---------------+-----------------------------------------------------+
+  |   Substance   |  Matching Standards.       Colour developed.        |
+  |   examined.   +------+---------+-------+--------+---------+---------+
+  |               | Red. | Yellow. | Blue. | Black. | Orange. | Red.    |
+  +---------------+------+---------+-------+--------+---------+---------+
+  | Witoto    }   |      |         |       |        |         |         |
+  | Muenane   }   |      |         |       |        |         |         |
+  | Karahone  }   | 3.6  |  2.8    |  1.6  |  1.6   |  .2     | .8      |
+  | Andoke    }   |      |         |       |        |         |         |
+  | Nonuya    }   |      |         |       |        |         |         |
+  |               |      |         |       |        |         |         |
+  | Boro      }   |      |         |       |        |         |         |
+  | Okaina    }   |      |         |       |        |         |         |
+  | Resigero  }   | 3.3  |  2.7    |  1.5  |  1.5   |  .2     | .6      |
+  | Menimehe  }   |      |         |       |        |         |         |
+  +---------------+------+---------+-------+--------+---------+---------+
+
+Mean average attempted by means of colour markings and identified
+according to Lovibond’s tintometer scale.
+
+There was practically no tribal differentiation of pigmentation in the
+units of these groups, as far as the unexposed part of the body is
+concerned. This is understandable. The palm of the nigger’s hand differs
+little from his white brother’s.
+
+
+COLOUR ANALYSIS
+
+_Exposed Part--Back_
+
+  +---------------+-----------------------------------------------------+
+  |   Substance   |  Matching Standards.       Colour developed.        |
+  |   examined.   +------+---------+-------+--------+---------+---------+
+  |               | Red. | Yellow. | Blue. | Black. | Orange. | Red.    |
+  +---------------+------+---------+-------+--------+---------+---------+
+  |9. Witoto    } |      |         |       |        |         |         |
+  |8. Muenane   } | 10.6 |  9.2    |  6.2  |  6.2   |   3.0   | 1.4     |
+  |               |      |         |       |        |         |         |
+  |7. Karahone  } |      |         |       |        |         |         |
+  |6. Andoke    } |  8.7 |  7.5    |  4.5  |  4.5   |   3.0   | 1.2     |
+  |               |      |         |       |        |         |         |
+  |5. Nonuya      |  8.0 |  7.0    |  4.0  |  4.0   |   3.0   | 1.0     |
+  |               |      |         |       |        |         |         |
+  |4. Boro      } |      |         |       |        |         |         |
+  |3. Okaina    } |  4.9 |  4.4    |  1.5  |  1.5   |   2.9   |  .5     |
+  |2. Resigero  } |      |         |       |        |         | Yellow. |
+  |               |      |         |       |        |         |         |
+  |1. Menimehe    |  3.4 |  4.1    |   .7  |   .7   |   2.7   |  .7[437]|
+  +---------------+------+---------+-------+--------+---------+---------+
+
+There is here more differentiation. The tribes numbered 1-9 are in order
+of shade, from the lightest according to personal observation. This is
+borne out by data except the grouping which was not so apparent to the
+eye.
+
+Apparently in one tribe only is red non-existent, free yellow taking the
+place--No. 1 (_vide_ curve).
+
+
+_Note._--It will be seen at a glance that differentiation is caused by
+increased “sadness” or excess of black, and by the amount of free red.
+These are the two governing factors. Orange is constant throughout.
+
+_N.B._--There is extraordinary variation amongst individuals of the
+same tribe, as well as amongst tribes of the same language-group and
+language-groups themselves.
+
+
+HUIS’ MEASUREMENTS OF SAMPLES OF WOMEN’S HAIR
+
+No. 1. Maturity.
+
+No. 2. Ante-pubertal.
+
+_Note._--The lighter tips of latter which become eliminated after
+puberty, _i.e._ elimination of _orange_.
+
+  +--------------+------+---------+--------------+--------+---------+
+  |              | Red. | Yellow. | Blue. Black. | Green. | Yellow. |
+  +--------------+------+---------+--------------+--------+---------+
+  | No. 1        | 19.5 |  31.0   | 28.0 = 19.5  |  8.5   |  3.0    |
+  |              |      |         |              |        |         |
+  |              |      |         |              | Orange.|         |
+  | No. 2        | 18.5 |  26.0   | 17.0 = 17.0  |  1.5   |  7.5    |
+  |              |      |         |              |        |         |
+  | Light tips } |      |         |              | Green. |         |
+  | Dark ends  } | 19   |  26.0   | 25.0 = 19.0  |  6.0   |  1.0    |
+  +--------------+------+---------+--------------+--------+---------+
+
+_Descriptive Characters_
+
+_Eye._--1. Dark, _i.e._ black-brown iris. _Note._--Outer angles of eyes
+visibly elevated; deep-set; eyeball thick; covers the caruncle; outer
+angle slightly compressed and pointed.
+
+_Hair._--_Colours_--1. Black, _not coal_ black. 2. Children’s hair is
+some shade lighter than adults’, but still “black.”
+
+_Form of Face._--1. Face inclined to be square and wedge-shaped. 2.
+Inclined to concavity. 3. Compare photographs. 4. Chinese, Fig. 6,
+but not so pronounced. (_N.B._--There is great variation.) 5. Chin
+small, round, retreating. 6. Cheek-bones broad. Face flat (inclination
+to, _vide_ photographs). 7. Medium lips--great variation. 8. Ears
+medium-sized--flat. 9. Lobes sometimes attached.
+
+
+MEASUREMENTS OF TYPES[438] IN CENTIMETRES
+
+  +-------------+-----------------+-----------------+
+  |             |  Head--Round.   |  Head--Across.  |
+  |   Tribe.    +-----------------+-----------------+
+  |             | Male. | Female. | Male. | Female. |
+  +-------------+-----------------+-----------------+
+  | 1. Resigero |  56   |   53    |  14   |   14    |
+  | 2. Nonuya   |  56   |   51    |  16   |   14    |
+  | 3. Boro     |  56   |   52    |  18   |   15    |
+  | 4. Andoke   |  57   |   53    |  17   |   16    |
+  | 5. Witoto   |  54   |   --    |  15   |   --    |
+  +-------------+-----------------+-----------------+
+
+  +-------------+-------------------+------------------+
+  |             |   Head-Length.    |      Neck.       |
+  |             +---------+---------+--------+---------+
+  | Tribe.      |  Male.  | Female. |  Male. | Female. |
+  +-------------+---------+---------+--------+---------+
+  | 1. Resigero |  20     |   18    |  Short |  Short  |
+  | 2. Nonuya   |  21.5   |   19    |  Long  |  Short  |
+  | 3. Boro     |  24     |   20    |  Short |  Long   |
+  | 4. Andoke   |  22     |   19    | Medium |  Short  |
+  | 5. Witoto   |  21     |   --    |  Short |    --   |
+  +-------------+---------+---------+--------+---------+
+
+  +-------------+-------------------------------+------------------+
+  | Tribe.      |          Cheek-Bones.         |        Mouth.    |
+  |             +---------------+---------------+----------+-------+
+  |             |     Male.     |    Female.    |   Male.  |Female.|
+  +-------------+---------------+---------------+----------+-------+
+  | 1. Resigero |   High, not   |   High, not   | Moderate | Large |
+  |             |  pronounced   |   pronounced  |          |       |
+  | 2. Nonuya   |  Very high    |   High, not   | Large    | Large |
+  |             |               |   pronounced  |          |       |
+  | 3. Boro     |  Wide, high   |   Wide, high  | Small    | Small |
+  | 4. Andoke   |      --       |        --     | Small    | Small |
+  | 5. Witoto   |  Wide, high   |        --     |  Large   |  --   |
+  +-------------+---------------+---------------+----------+-------+
+
+  +-------------+---------------------+--------------------+
+  |    Tribe.   |           Teeth.    |        Eyes.       |
+  |             +-------------+-------+----------+---------+
+  |             |    Male.    |Female.|  Male.   | Female. |
+  +-------------+-------------+-------+----------+---------+
+  | 1. Resigero |    Large    | Large | Oblique  | Oblique |
+  | 2. Nonuya   |     --      |  --   | Deep-set | Oblique |
+  | 3. Boro     |     --      |  --   | Deep-set | Oblique |
+  | 4. Andoke   |     --      |  --   | Slightly | Oblique |
+  |             |             |       | oblique  |         |
+  | 5. Witoto   | Large, even |  --   | Oblique  |   --    |
+  +-------------+-------------+-------+----------+---------+
+
+  +-------------+-----------------------+---------------+
+  |   Tribe.    |         Nose.         |    Height.    |
+  |             +-----------+-----------+-------+-------+
+  |             |   Male.   |  Female.  | Male. |Female.|
+  +-------------+-----------+-----------+-------+-------+
+  | 1. Resigero | Straight  |   Broad,  |  160  | 138   |
+  |             |           |  bridged  |       |       |
+  | 2. Nonuya   | Aquiline  |   Flat    |  168  | 149   |
+  | 3. Boro     | Depressed | Depressed |  162  | 146   |
+  | 4. Andoke   | Aquiline  | Depressed |  171  | 146   |
+  | 5. Witoto   |   Flat    |    --     |  164  |  --   |
+  +-------------+-----------+-----------+-------+-------+
+
+  +-------------+---------------+---------------+
+  |   Tribe.    | Chest--Round. |     Waist.    |
+  |             +-------+-------+-------+-------+
+  |             | Male. |Female.| Male. |Female.|
+  +-------------+-------+-------+-------+-------+
+  | 1. Resigero |   85  |  75   |  73   |   71  |
+  | 2. Nonuya   |   87  |  79   |  73   |   75  |
+  | 3. Boro     |   88  |  75   |  77   |   65  |
+  | 4. Andoke   |   89  |  82   |  76   |   76  |
+  | 5. Witoto   |   90  |  --   |  77   |   --  |
+  +-------------+-------+-------+-------+-------+
+
+  +-------------+---------------+------------------------+
+  |   Tribe.    | Hips--Round.  |Tip Shoulder-Tip Elbow. |
+  |             +-------+-------+------------+-----------+
+  |             | Male. |Female.|   Male.    |  Female.  |
+  +-------------+-------+-------+------------+-----------+
+  | 1. Resigero |  82   |  79   |    35      |    28     |
+  | 2. Nonuya   |  83   |  88   |    35      |    32     |
+  | 3. Boro     |  87   |  81   |    34      |    30     |
+  | 4. Andoke   |  90   |  87   |    38      |    33     |
+  | 5. Witoto   |  84   |  --   |    36      |    --     |
+  +-------------+-------+-------+------------+-----------+
+
+  +------------+---------------------------+-----------------------+
+  |   Tribe.   |Elbow to Top Middle Finger.|Eminence Buttock to Tip|
+  |            |                           |    Flexed Knee.[439]  |
+  |            +-------------+-------------+-----------+-----------+
+  |            |    Male.    |   Female.   |   Male.   |  Female.  |
+  +------------+-------------+-------------+-----------+-----------+
+  | 1. Resiger |     45      |      39     |     52    |    44     |
+  | 2. Nonuya  |     47      |      41     |     53    |    48     |
+  | 3. Boro    |     46      |      42     |     47    |    45     |
+  | 4. Andoke  |     48      |      40     |     53    |    48     |
+  | 5. Witoto  |     44      |      --     |     52    |    --     |
+  +------------+-------------+-------------+-----------+-----------+
+
+  +-------------+-----------------------------+------------------------+
+  |   Tribe.    |Crutch to Tip of Flexed Knee.|Eminence Knee to Ground.|
+  |             +---------------+-------------+-------------+----------+
+  |             |     Male.     |   Female.   |    Male.    |  Female. |
+  +-------------+---------------+-------------+-------------+----------+
+  | 1. Resigero |       37      |     28      |      51     |     44   |
+  | 2. Nonuya   |       40      |     31      |      53     |     45   |
+  | 3. Boro     |       36      |     32      |      51     |     45   |
+  | 4. Andoke   |       41      |     33      |      55     |     44   |
+  | 5. Witoto   |       38      |     --      |      52     |     --   |
+  +-------------+---------------+-------------+-------------+----------+
+
+  +-------------+-----------------------------+-------------------------+
+  |             |          Feet.              |Distance between Nipples.|
+  |    Tribe.   +--------------+--------------+------------+------------+
+  |             |   Male.      |    Female.   |     Male.  |  Female.   |
+  +-------------+--------------+--------------+------------+------------+
+  | 1. Resigero | Broad, large | Broad, small |      20    |     23     |
+  | 2. Nonuya   | Long         | Broad        |      21.5  |     23     |
+  | 3. Boro     | Large        | Small        |      23    |     22     |
+  | 4. Andoke   | Large, broad | Medium       |      22    |     20     |
+  | 5. Witoto   | Large, broad |    --        |      22    |     --     |
+  +-------------+--------------+--------------+------------+------------+
+
+  +--------------+---------------------------+--------------------------+
+  |              |Length from Centre Nipples |                          |
+  |              |        to Navel.          |      Navel to Crutch.    |
+  |   Tribe.     +-------------+-------------+-------------+------------+
+  |              |     Male.   |    Female.  |    Male.    |  Female.   |
+  +--------------+-------------+-------------+-------------+------------+
+  | 1. Resigero  |      23     |     24      |     19      |     19     |
+  | 2. Nonuya    |      25     |     22      |     24      |     20     |
+  | 3. Boro      |      21     |     22      |     20      |     20     |
+  | 4. Andoke    |      25     |     25      |     24      |     23     |
+  | 5. Witoto    |      26     |     22      |     --      |     --     |
+  +--------------+-------------+-------------+-------------+------------+
+
+  +----------------------+----------------------------------------------+
+  |                      |                   Remarks.                   |
+  |       Tribe.         |-------------------+--------------------------+
+  |                      |      Male.        |         Female.          |
+  +----------------------+-------------------+--------------------------+
+  | 1. Resigero          | Moderate          | Plump                    |
+  | 2. Nonuya            | Lean              | Fat                      |
+  | 3. Boro              | Well-nourished    | Well-nourished           |
+  | 4. Andoke            | Well-nourished    | Very plump               |
+  | 5. Witoto            | Well-nourished    | --                       |
+  +----------------------+----------------------------------------------+
+
+
+ESSENTIAL MEASUREMENTS
+
+_Two Cases, Women, Witoto_
+
+                                                    Centimetres.
+
+     1.} Head {Maximum length                      17.3      18.15
+     2.}      {Maximum breadth                     13.85     13.9
+     3.} Nose{Length from base to root              4.3       4.0
+     4.}     {Breadth across nostrils               3.0       3.0
+     5.}             {From vertex to root of nose   9.2      10.0
+     6.} Projection  { ”    ”        mouth         16.0      14.2
+     7.} of head     { ”    ”        chin          19.0      17.4
+     8.}             { ”    ”        tragus of ear 10.7      12.0
+     9. Bizygomalic breadth of face                12.75     12.0
+     9. Face length from nasim to chin             10.2       9.3
+    10. Length of upper limb                       60.0[440]
+    11.   ”    cubit                               38.0
+    12.   ”    hand along its back                 15.0
+    13.   ”    foot                                23.0
+    14. Sitting height                             72.0
+    15. Kneeling height                           103.75
+    16. Standing height                           139.5
+    17. (Obvious) height to chin                  120.5
+    18. Height to sternal notch                   117.0
+    19. Height from internal malleolus to ground    6.4
+    20. Span of arms                              140.5
+
+
+EXTRA NOTES ON TWO WOMEN, WITOTO (chosen types)
+
+No. 1. Very short neck; short sternum; straight shoulders. When standing
+at ease the middle finger of hand is half-way between flexion of knee and
+hip-joint. Thighs short.
+
+No. 2. Neck short; shoulders straight; good teeth--very large and even.
+
+
+GENERAL DESCRIPTION OF TWO INDIAN WOMEN FOR EVOLVING A TYPE. BOTH
+WITOTO-SPEAKING
+
+No. 1. Woman full grown. No. 2. Still growing, of pubertal age. According
+to _Schedule_, pp. 11, Anatomical Observation.
+
+_External Characters._--General condition well nourished--healthy. No. 1.
+Stout. No. 2. Medium.
+
+_Descriptive Characters._
+
+    A. Colour of skin.
+        No. 1. Exposed part light reddish-brown.
+        No. 2. Unexposed part--very much lighter, and
+          tintometer curve, etc.
+
+    B. Colour of eyes. Black.
+        No. 1. Dark-brown iris.
+        No. 2. Black iris.
+
+    C. Fold of skin at inner angle of eyes.
+        No. 1. } Covering the caruncle.
+        No. 2  }
+
+    D. Colour of hair.
+        No. 1. } Black, brown in sunlight,
+        No. 2. } _i.e._ brown-black.
+
+    E. Character of hair (_vide_ Section of Hair).
+        No. 1. } Straight and coarse (horse hair but finer).
+        No. 2. }
+
+    F. Amount of hair.
+        No. 1. Body very very scanty, depilation not recent.
+        No. 2. Face _nil_. Body _nil_.
+
+    G. Shape of face.
+        No. 1. Short. Broad.
+        No. 2. Pyramidal. Wedge-shaped.
+
+    H. Profile of nose.
+        No. 1. Chinese type.
+        No. 2. Chinese type, but not so pronounced, between
+                 this and European.
+
+    I. Prognathism.
+        No. 1. Slight.
+        No. 2. Very slight.
+
+    J. Lips.
+        No. 1. Medium--slightly everted.
+        No. 2. Medium European type.
+
+    K.
+        No. 1. } Platyoprosopic _not_ excessive.
+        No. 2. }
+
+
+APPENDIX V
+
+ARTICLES NOTED BY WALLACE AS IN USE AMONG THE UAUPES INDIANS THAT ARE
+FOUND WITH THE ISSA-JAPURA TRIBES
+
+
+_Household Furniture and Utensils_
+
+    Hammocks.
+    Baskets, flat and deep.
+    Calabashes and gourds.
+    Earthenware water-pots.
+    Earthenware cooking-pots.
+    Manioc graters.
+    Manioc squeezers.
+    Wicker sieves.
+
+_Weapons_
+
+    Bows and arrows.
+    Quivers.
+    Blow-pipes.
+    Small pots and calabashes for poison.
+    Spears.
+    Nets.
+    Rods, lines, and palm-spine hooks.
+    Wicker fish-traps.
+
+_Musical Instruments_
+
+    Fifes and flutes of reeds--Menimehe and Napo tribes.
+
+_Dress and Ornaments_
+
+    Feather head-dress.
+    Palm-wood combs.
+    Necklaces of seeds, beads, and teeth.
+    Wooden ear-plugs.
+    Armlets.
+    Painted aprons.
+    Rattles and ornaments for legs.
+    Knitted garters.
+    Calabashes of red pigment.
+    Painted earthen pot for _caapi_.
+    Small pot of dried peppers.
+    Dancing rattles.
+    Balls of string.
+    Baskets for edible ants.
+    Small dug-out canoe.
+    Paddles.
+    Pestles and mortars.
+    _Bombax_ silk-cotton for arrows.
+    Stone axes.
+
+
+APPENDIX VI
+
+NAMES OF DEITIES
+
+
+Many writers have stated that the Indians of the Upper Amazon forests
+have no words in their languages to express a Supreme Being. (See, for
+example, Bates, i. 162; Wallace, p. 354; Nery, p. 273; Orton, p. 316;
+Bates, ii. 137, 162-3; Markham.) It therefore seemed to me worth while to
+make the following list of words expressive of some idea of a superior,
+non-human being, good or bad.
+
+        Tribe.         |     Good Spirit.      |    Bad Spirit.
+    Amazon (proper)    |                       | _Curupira_
+                       |                       | _Diabo do mato_
+                       |                       |   (Spruce, ii. 437)
+    Atabayoo, Inivida  | _Cachimana_           | _Iolokiamo_
+      (Orinoco tribes) |   (Humboldt, ii. 362) |   (Humboldt, ii. 362)
+    Baniwa             | _Diotso_              | _Yenauepena_
+                       |                       |   (Koch-Grünberg)
+                       |                       | _Ienahabapen_
+                       |                       |   (Tavera-Acosta)
+    Baré               | _Diose_ (Sp. _Dios._) | _Iyehe_
+                       |   (Koch-Grünberg,     |   (Koch-Grünberg)
+                       |     p. 92)            |
+                       | _Oayaba_              |
+                       |   (Spix)              |
+    Boro               | _Neva_[441]           | _Navena_[442]
+    Bororo             |                       | _Bope_[443]
+                       |                       |   (Cook, p. 55)
+    Casiquiari         |                       | _Yamadu_
+                       |                       |   (Spruce, ii. 437)
+    Equatorial Andes   |                       | _Munyia_
+                       |                       |   (Spruce, ii. 437)
+    Guayana            |                       | _Yawahoo_
+                       |                       |   (Bancroft and
+                       |                       |   Stedman, Spruce,
+                       |                       |   ii. 437)
+    Hypurina           |                       | _Kamiri_
+                       |                       |   (Steere, p. 379)
+    Imihita Miranya    | _Nawene_              |
+                       |   (Koch-Grünberg,     |
+                       |     Z. 9081)          |
+    Karutana           |                       | _Inei_
+                       |                       |  (Koch-Grünberg,
+                       |                       |    p. 93)
+    Katapolitani       |                       | _Iyemi_, _Koai_
+                       |                       |   (Koch-Grünberg,
+                       |                       |      p. 93)
+    Puru               | _Ara_, _Carimade_     | _Arabuny_, _Camery_,
+                       |   (Clough, p. 117)    |   _Mendy_
+                       |                       |     (Clough, p. 117)
+    Quichua            | _Apunchi-yaya_[444]   |
+                       |   (Orton, p. 628)     |
+    Siusi              | _Yaperikuli_[445]     | _Iyeimi_
+                       |   (Koch-Grünberg,     |   (Koch-Grünberg,
+                       |     p. 92)            |     p. 93)
+    Tamanac            | _Amulivaca_[446]      |
+                       |   (Humboldt, ii.      |
+                       |     473-474).         |
+    Tariana            | _Yaperikuli_          | _Iyei_
+                       |   (Koch-Grünberg,     |   (Koch-Grünberg,
+                       |     p. 93)            |     p. 93)
+                       | _Iapiricure_          | _Inhat_
+                       |  (Crevaux)            |   (Crevaux)
+    Ticuna             | _Nanuloa_             | _Locazy_
+                       |   (Markham)           |   (Markham)
+    Tupi-Guarani       | _Tupan_[447]          | _Ananga_[448]
+                       |   (Nery, p. 281)      |   (Nery, p. 281)
+    Uaupes             | _Tupanau_             |
+                       |   (Wallace, p. 348)   |
+    Uarekena           |                       | _Kue_
+                       |                       |   (Koch-Grünberg,
+                       |                       |     p. 92)
+    Witoto             | _Usiyamoi_,[449]      | _Taifeno_, _Taifa_,
+                       |    _Husinaimui_       |   _Taegfeno_ (spirit),
+                       |   (Koch-Grünberg)     |   _Foremo_ (phantom)
+                       |                       |   (Koch-Grünberg)
+    _Yagua_            | _Tupana_              |
+                       |  (Orton, p. 628)      |
+    Yukuna             |                       | _Hiya_
+                       |                       |  (Koch-Grünberg,
+                       |                       |    p. 93)
+    Zaparo             | _Piatzo_[450]         | _Mungia_ (black
+                       |   (Orton, p. 628)     |   spectre)
+                       |                       |     (Orton, p. 170)
+                       |                       | _Zamaro_
+                       |                       |  (Simson, p. 175)
+                       |                       | _Samaro_
+                       |                       |  (Simson, p. 263)
+
+
+APPENDIX VII
+
+VOCABULARIES AND LISTS OF NAMES
+
+_Note re Pronunciation._--Vowels as in Italian and consonants as in
+English. The system adopted by the Anthropological and Geographical
+Societies has been followed.
+
+
+SOME WITOTO TRIBES OF THE ISSA-JAPURA WATERSHED
+
+    Achopego.
+    Aifuya.
+    Aiguya.
+    Aigwene.
+    Aimene.
+    Aiyofo.
+    Amenane.
+    Angarofo.
+    Aniliene.
+    Arama.
+    Aronia.
+
+    Baienise.
+
+    Chaigero.
+    Chepeye.
+    Choria.
+
+    Dedinuia.
+    Diguene.
+
+    Eguidafo.
+    Eifuya.
+    Eikifo.
+    Emerai.
+    Emuidifo.
+    Enao.
+    Enenea.
+    Enifofo
+    Enokaise.
+    Erai.
+    Erifo.
+
+    Fainya.
+    Feyagene.
+    Fitia.
+    Foetano.
+    Fueragero.
+    Futekwene.
+
+    Gidone.
+    Gimene.
+    Guidua.
+    Gwamareya
+
+    Hane.
+    Hedua.
+    Hegero.
+    Hemui.
+    Heone.
+    Heya.
+    Hifikuine.
+    Hikoniai.
+    Himene.
+    Himua.
+    Hipunya.
+    Hitamene.
+    Homaguya.
+    Huieku.
+    Hui-Hui.
+    Hurae.
+    Husinene.
+
+    Iagero.
+    Iane.
+    Iconya.
+    Ifekwene.
+    Ipunya.
+    Isikifo.
+    Itomangero.
+    Iyane.
+
+    Kaiduya.
+    Kaio.
+    Kaniane.
+    Kaniene.
+    Kitopeise.
+    Kokoya.
+    Kotuene.
+    Kotwine.
+    Kuito.
+    Kumaiere.
+
+    Machifuri.
+    Megiya.
+    Menia.
+    Merekweine.
+    Mereta.
+    Mikagwe.
+    Minwa.
+    Mofuinista.
+    Mokine.
+    Monane.
+    Monanisei.
+    Monanuise.
+    Monawike.
+    Muidofege.
+    Muititefa.
+    Muitofeiche.
+
+    Naikwene.
+    Naimene.
+    Naiuiene.
+    Nefesa.
+    Nemuigaro.
+    Nigwerene.
+    Nimaita.
+    Nofuinista.
+    Nirafo.
+    Nomene.
+    Nomuene.
+    Nongone.
+    Nonuya.
+    Nufuidai.
+    Nufuya.
+    Nuisai.
+    Nuiuene.
+
+    Owapirei.
+    Owapure.
+
+    Pofaito.
+    Pueneisa.
+    Puinaise.
+    Puineita.
+    Puruia.
+
+    Raikene.
+    Riai.
+    Rochegero.
+    Ruiraga.
+
+    Sebua.
+    Seguene.
+    Sigwene.
+    Sikibia.
+    Sikitaise.
+
+    Taigwene.
+    Taikebua.
+    Tiase.
+    Torifa.
+
+    Uane.
+    Uchopego.
+    Uekanise.
+    Uguine.
+    Uiguene.
+    Uhiya.
+    Urafo.
+    Urama.
+    Utiguene.
+
+    Yaaniani.
+
+
+SOME TRIBES OF THE OKAINA GROUP
+
+    Aniokasa.
+    Dukaiya.
+    Ekanocha.
+    Enoya.
+    Fatite.
+    Harabahanako.
+    Konega.
+    Movanio.
+    Netarako.
+    Nimone.
+    Ofofo.
+    Pikaha.
+    Tokoia.
+    Tonhanoija.
+    Zohonoija.
+
+
+SOME BORO TRIBES OF THE ISSA-JAPURA WATERSHED
+
+    Atehl.
+
+    Bachiwame.
+    Bakiehe.
+    Bakohe.
+
+    Chemaio.
+    Chenome.
+    Chibame.
+
+    Dossamehe.
+
+    Ibamahe.
+    Ikepake.
+    Imene.
+    Inege.
+    Itiage.
+    Ivamehe.
+
+    Kontadura.
+    Kugwamihe.
+    Kugweme.
+
+    Megwae.
+    Megwamehe.
+    Mememue.
+    Metakwe.
+
+    Nabeme.
+    Nevahe.
+    Nonuya.
+    Nuremehe.
+
+    Oha.
+    Okaina.
+
+    Paheime.
+    Pei.
+    Pirehamuena.
+
+    Teiere.
+    Tichibamuene.
+
+    Ugwame.
+    Uhemehe.
+    Uratefo.
+    Uwame.
+
+    Wanahe.
+    Warime.
+    Warine.
+    Warume.
+    Wawako.
+
+
+WITOTO CHIEFS AND MEDICINE-MEN
+
+    Aikikwe.
+    Ainenatofe.
+    Amenatofe.
+    Amuiyena.
+
+    Bogana.
+
+    Diehi.
+    Diomao.
+
+    Eavama.
+    Echu.
+    Efuyaima.
+    Etokwenami.
+
+    Fenamena.
+    Forina.
+
+    Hename.
+    Henatoba.
+    Hifaro.
+    Hirevaina.
+    Huguraitoma
+    Husinachire.
+
+    Itomakuto.
+
+    Kaimarigero.
+    Kutina.
+    Kutofirima.
+    Kwegado.
+    Kwegare.
+
+    Magui.
+    Maiji.
+    Maiu.
+    Mayi.
+    Meinyitofo.
+    Monagara.
+
+    Naimekwe.
+
+    Okaima.
+    Okainama.
+
+    Puinanyete.
+    Puinayeni.
+    Puineima.
+
+    Riaduema.
+
+    Sekwana.
+    Sotaro.
+    Suneirokwe.
+
+    Tifecheamena.
+
+    Wamue.
+
+
+NAMES OF BORO CHIEFS AND MEDICINE-MEN
+
+    Adiama.
+    Adiwako.
+    Agepa.
+    Akteume.
+    Ativa.
+    Ativatahe.
+
+    Bugwaheio.
+
+    Chevetahgwe.
+    Chiako.
+    Chikaho.
+
+    Darapade.
+    Dekio.
+    Dihidihe.
+
+    Ekeniba.
+    Evahihaia.
+    Evahikie.
+
+    Gwanebe.
+
+    Ibaje.
+    Ibapakama.
+    Imenepa.
+    Inateraka.
+
+    Kadokuri.
+    Katinere.
+    Kivape.
+
+    Magapamena.
+    Matremiko.
+    Mewago.
+    Mucheochime.
+    Muchichigwako.
+
+    Nehevaio.
+    Nevamarime.
+    Nevame.
+    Nipemeiwako.
+    Nivagwa.
+    Nivahna.
+
+    Poachiiba.
+
+    Rimetagwa.
+
+    Tchitchitaga.
+    Teripa.
+    Tikaame.
+    Tirakagwako.
+    Tirakawako.
+
+    Uvatipa.
+
+    Wadikova.
+
+
+WITOTO
+
+  Darkness (devil)                _Apuehana_
+  Fire                            _Ireiki_
+  God                             _Usiyamoi_
+  Moon                            _Fuibui_
+  Sky                             _Mona_
+  Sun                             _Itoma_
+  Water                           _Heinowei_
+
+  Hunger                          _Ameniti_, _naimede_
+  Laugh                           _Sateide_, _seteide_
+  Metal                           _Okkupe_
+  Paper (book)                    _Kwerape_ (literally my leaves)
+  Paper (leaves)                  _Rape_
+  Paper, a speaking leaf          _Kwede_, _hweyarape_
+  Powder (dust)                   _Himuisa_
+  Sleep                           _Inude_, _unyude_, _kwinyakate_
+  Sleep, dream                    _Inie_
+
+  Bush, the                       _Aisikumo_
+  Cliff                           _Ifere_
+  Compound                        _Gicheipwere_
+  Palm jungle                     _Amena_
+  Plantation                      _Akafo_
+  River                           _Imane_
+  River, a large                  _Ichue_
+  Road                            _Io_
+  Stream                          _Hurete_
+  Streamlet                       _Ichemo_
+
+  Alligator pear                  _Nomedo_
+  Coca                            _Hibia_
+  Cocoa                           _Museje_
+  Fruit (general)                 _Rie_
+  Grape fruit                     _Hurekoi_
+  Gum (rubber milk)               _Hittie_
+  Leaves                          _Rape_
+  Maize                           _Bechado_
+  Mango palm                      _Himeki_
+  Mango palm drink                _Hayabei_, _hagapui_
+  Manioc (poisonous)              _Maika_
+  Palm                            _Amena_
+  Palm                            _Himepile_, _hitiji_
+  Palm drink (pjnayo)             _Himepwi_
+  Palm-spines                     _Edo_
+  Pepper                          _Ifigo_
+  Pineapple                       _Rosiji_
+  Plantain                        _Ogoda_
+  Plum                            _Nemawsi_
+  Rubber                          _Isire_
+  Rubber latex                    _Hittagei_
+  Sugar-cane                      _Kananoganei_, _kononga_
+  Sugar-cane juice                _Kananogan’heinowei_, _kononochiki_
+  Tobacco                         _Deui_
+  Tree                            _Inya_
+  Trees, felled                   _Amena_
+  Tree poles                      _Neda_
+  Withe                           _Vineihi_
+
+  Bird (small generally)          _Siji_
+  Bird (small unknown species)    _Iguyitoi_
+  Bird, cock                      _Eitaba_
+  Birds (small game)              _Ataba_
+  Birds, chickens                 _Ataba hissa_
+  Capybara                        _Okeina_
+  Curassoa                        _Eifoke_
+  Deer (one species)              _Kito_
+  Deer (generally)                _Chaota_
+  Eggs (generally)                _Herga_
+  Eggs (one kind)                 _Ataba hige_
+  Fish (general)                  _Jukua_
+  Jaguar                          _Hekko_
+  Monkey (general)                _Homa_
+  Monkey (one species)            _Hemwi_
+  Monkey, small                   _Hidobe_
+  Parrot                          _Kwiyoto_
+  Parrot (another kind)           _Kweko_, _Uiyike_
+  Pig                             _Mero_
+  Pig, small                      _Emo_
+  Spider                          _Humakinyo_
+  Tapir                           _Zuruma_
+  Tiger, dog, etc.                _Hekko_
+  Turkey                          _Muitoka_, _muito_
+  Turkey (another kind)           _Egwe_
+  Turkey Buzzard                  _Eifoke_
+
+  Boy                             _Toii_
+  Girl                            _Rinyosa_
+  Lad                             _Hivisa_
+  Man                             _Rema_
+  Man, old                        _Weikiroma-superoma_
+  Man, strong                     _Reima_
+  Men, white (Europeans)          _Riei_, _riama_
+  People                          _Komweine_
+  Stranger                        _Oikommo_
+  Stranger, an enemy              _Ikagmake_
+  Stranger, a friend              _Cheinama_
+  Woman                           _Rinyo_
+  Woman, old                      _Weirinyo-irokwe_
+
+  Brother--
+    Man speaking                  _Ama_
+    Woman speaking                _Tio_
+  Brother-in-law                  _Oima_
+  Child                           _Hito_
+  Father                          _Moma_
+  Grandfather                     _Marama_
+  Grandmother                     _Einyoko_
+  Husband                         _Une_
+  Mother                          _Einyo_
+  Nephew--
+    Brother’s child               _Enasai_
+    Sister’s child                _Komona_
+  Niece--
+    Brother’s child               _Enasanyo_
+    Sister’s child                _Momonio_
+  Sister--
+    Man speaking                  _Mirinyo_
+    Woman speaking                _Epunyo_
+  Sister-in-law                   _Ofanyo_
+  Uncle--
+    Father’s brother              _Iso_
+    Mother’s brother              _Vichama_
+  Wife                            _Ei_
+
+  Anus                            _Sirafo_
+  Arm                             _Onawji_
+  Fore-arm                        _Onefai_
+  Belly                           _Ero_
+  Blood                           _Dueidi_
+  Body                            _Namaseapwi_
+  Bowels                          _Hepe_
+  Clitoris                        _Hito_
+  Ears                            _Efo_
+  Eyes                            _Uise_
+  Face                            _Uyeko_
+  Feet                            _Elba_, _epa_
+  Finger                          _Onoko_
+  Flesh                           _Jukua_
+  Hair                            _Ifoterai_
+  Hair (body)                     _Heinektere (!)_, _heineitere_
+  Hair (face)                     _Eimago_
+  Hair (pubic)                    _Hueke_
+  Hand                            _Ono_
+  Head                            _Ifo_
+  Heart                           _Komeke_
+  Limbs                           _Rueisi_, _reesi_
+  Mouth                           _Fue_
+  Nails                           _Onokobi_, _onopeko_
+  Nails (toe)                     _Ekobe_
+  Navel                           _Modda_
+  Neck                            _Kimo_
+  Nose                            _Dofo_
+  Penis                           _Hechina_
+  Pudenda                         _Jana_
+  Semen                           _Uke_
+  Skull                           _Ifoku_
+  Teeth                           _Isido_, _isife_
+  Testicles                       _Hinyergo_
+  Tongue                          _Hufe_
+  Urine                           _Poji_
+  Vagina                          _Berirafo_
+
+  Ague                            _Fuibuiko_
+  Diarrhœa                        _Nuimuisa_, _Jui_, _chui_
+  Illness                         _Duide_, _tuike_
+  Small-pox                       _Guiyoko_, _tutuko_
+
+  Bark cloth                      _Vinei_
+  Beads                           _Sirie_
+  Breech cloth                    _Mokoto_, _makuto iroi_, _hinoi-giroi_
+  Clothes (general)               _Uiniroi_
+  Cord (belt)                     _Kirige_
+  Feather head ornaments          _Eniago_
+  Necklace, dance                 _Chikai_
+  Necklace of seeds               _Imaidu_
+  Necklace, of teeth              _Efoke_
+  Slippers, boots                 _Epa iko_
+  Socks                           _Epa iko_ (see Feet and Cap)
+  White man’s cap                 _Ifoigiko_, _ifoiko_, _iko_
+  White man’s shirt               _Kaifofero_
+
+  Baking-pan                      _Sipe_
+  Cassava                         _Tano_
+  Firewood                        _Rege_
+  Hammock                         _Kunei_
+  House                           _Hofo_
+  House, large                    _Ejo hofo_
+  Hut                             _Hiochupe_
+  Light (artificial)              _Maha_
+  Lighted torch                   _Maha_
+  Mat                             _Duriei_
+  Pot                             _Inogo_, _ichuki_
+  Thatch                          _Ereije_
+  Tobacco-pot                     _Kuruke_
+  Torch                           _Rekekawdo_, _rekeketo_, _recheki_
+
+  Axe                             _Chovema_
+  Blow-pipe                       _Obidiake_
+  Fish-hook                       _Fakawasi_
+  Knife                           _Chovefa_, _chovetera_
+  Drum                            _Hugwe_
+  Drum mallet                     _Quaki_
+  Pan pipes                       _Piabami_
+  Sword                           _Chovega_
+  Trap, animal                    _Iregi_
+  Weapons, stones, shot           _Chowefi_, _jowefi_, _chowefei_
+  Signal-drum                     _Ware_
+
+  Afternoon                       _Nawipe_
+  Morning                         _Wiremoni_
+  Morning, early                  _Monanyeno_
+  Night                           _Nagona_
+  Night, last                     _Nago_, _hahe nago_
+  Night before last               _Beinawife_
+  To-day                          _Beiruido_
+  To-morrow                       _Wiremonei_ (see Morning)
+  To-morrow, day after            _Dawire_
+  Twilight                        _Naruide_, _nagona-yakate_
+  Yesterday                       _Nawire_
+  Yesterday, day before           _Beinawire_
+
+  All                             _Nana_
+  Before                          _Fuere_
+  Before (position)               _Uikota_
+  Before (long time)              _Heiyei_
+  Behind                          _Moina_
+  Behind (position)               _Moina_
+  Enough                          _Asirete_
+  Farther                         _Beife_
+  For                             _Mero_
+  Full, carefully, good measure   _Einue_
+  Full                            _Moniteidi_, _monite_
+  Here                            _Benomo_
+  How many?                       _Nigama?_
+  How much?                       _Niga?_
+  Much                            _Eijo_
+  Much, enough                    _Monome_
+  Nobody                          _Buna_
+  Now                             _Monokoi_
+  Only                            _Dama_
+  Then, afterwards                _Achue_
+  There                           _Batinomo_
+  This                            _Pie_
+  Together                        _Fofona (?)_
+  Well?                           _Mei?_
+  What?                           _Nifote?_
+  Where?                          _Ninomo?_
+  Who?                            _Bu?_
+  Why?                            _Nibaji_, _nibeiji?_
+
+  No                              _Damaita_
+  Not                             _Inyete_
+  Yes                             _Huhh_, _U_ (ventral)
+
+  I                               _Kwe_
+  Thou                            _O_
+  He, she, him                    _Afima_
+  We                              _Koko_
+  You                             _Omei_
+  They, them                      _Afimaki_
+
+  Bad                             _Figonigete_
+  Big                             _Eijue_
+  Bitter                          _Neimenete_
+  Black                           _Ituide_
+  Cold                            _Rosirete_
+  Cool                            _Maneide_
+  Dark                            _Hitirite_
+  Dead                            _Teide_
+  Deeper                          _Nane efarite_
+  Dry                             _Daherede_
+  Good                            _Figora_
+  Hard                            _Agarrite_
+  Heavy                           _Merete_
+  Hot                             _Usirete_
+  Light (sun)                     _Hite_
+  Light (weight)                  _Fekote_
+  Long                            _Are_
+  Red                             _Larede_
+  Short                           _Hiannare_
+  Small, little                   _Yewrete_
+  Soft                            _Itieide_
+  Straight                        _Huchinyete_
+  Strong                          _Agarrite_
+  Thick                           _Herie_
+  Thin                            _Henite_
+  Twisted                         _Huchite_
+  Well (in health)                _Gagritte_
+  White                           _Userede_
+
+  Early, soon                     _Ono_
+  Slowly                          _Puiya_
+  Soon                            _Reiri_
+
+  To bathe                        _Noise_
+  To bring                        _Ate_
+  To carry                        _Ui_
+  To come down                    _Anabi_
+  To come up                      _Kifobi_
+  To cool                         _Rosirete_
+  To cry                          _Ede_
+  To dry                          _Nokitenyete_, _nohipuinyete_
+  To eat                          _Oko_, _gunyo_
+  To go down                      _Anahei_
+  To go quickly                   _Reiri maka_
+  To go up                        _Kifohei_
+  To hear, listen, understand     _Kekate_
+  To heat                         _Usirete_
+  To hurt                         _Isirete_
+  To like, love, desire (persons) _Dwere-uite_
+  To like, love, desire (things)  _Oyakate_
+  To know                         _Onote_
+  To make                         _Nenyo_, _fuiho_
+  To rain                         _Nokitede_, _nokipuite_
+  To sit down                      _Anarana_
+  To sleep                        _Mei-ine_
+  To speak                        _Naitode_
+  To stay                         _Fuipire_
+  To take                         _Gweipi_
+  To urinate                      _Chowei_, _pochite_
+  To wait                         _Anafue_
+  To wash                         _Hokoa_
+  To work                         _Biefono_
+
+  I am                            _Iti kwe_
+  Thou art                        _Iti-o_
+  He is                           _Afima ite_
+  We are                          _Iti koko_
+  You are                         _Iti omoi_
+  They are                        _Afimaki ite_
+
+  I was                           _Kwe ia_
+  Thou wert                       _Ia o_
+  He was                          _Afima ia_
+  We were                         _Koko ia_
+  You were                        _Ia omoi_
+  They were                       _Afimaki ia_
+
+  One                             _Dahe_
+  Two                             _Mena_
+  Three                           _Dahe-amene_
+  Four                            _Menahere_
+  Five                            _Dapekwiro_
+  Ten                             _Nagapekwiro_
+
+  Ask me                          _Kwemohikka_
+  Give me                         _Kweme_
+  Give me food                    _Eka_
+  A few days ago                  _Tika irue_
+  It is dark                      _Nawite_
+
+  It is going to rain           { _Teyakate_
+                                { _Puiyakate_
+
+  What tribe do you belong to?  { _O Komweine?_
+                                { _O Memeka bu?_
+
+  Move along!                   { _Hei!_
+                                { _Ifo!_
+
+  Come!                           _Bi!_
+
+  It is very far                { _Hikka Ite_
+                                { _Hikka Are_
+
+  It is near                      _Hiannare_
+  It is very near                 _Hikka-iannare_
+  It is very much farther         _Hikka-fe_
+  Be quick                        _Reiri_
+
+  Be slow                       { _Pwia hei_
+                                { _Pwia ifo_
+
+  You do not want me              _Kwena dueruenyeteo_
+  I am about to punish you        _O feitakkwe_
+  What do you want?               _Nifote oyakateo_
+  How much do you want?           _Niga oyakateo_
+  I want to see                   _Eroi yakatekwe_
+  I want to eat                   _Okoyakatekwe_
+  I want to sleep                 _Iniyakatekwe_
+  I do not want to sleep          _Iniyakanyetekwe_
+  Let us sleep                    _Meikoko ini_
+  Let us walk                     _Manyakoko maketchi_
+  Let us bathe                    _Manya koko noi_
+  Go and wash                     _Hokorise_
+  What are you doing?             _Nefoteo nia?_
+  What are they doing?            _Nefoteo nietimeke?_
+  What have you done?             _Nefoteo nieteo?_
+  What have you others done?      _Nefoteo omoi nieteo?_
+  Are you sick?                 { _O seicha?_
+                                { _Tuiko teiteo?_
+  What is the matter with you?    _Neisoi o icha?_
+  What pains you?                 _O nino isiritte?_
+  He is dead                      _Ei e teide_
+  He is well again                _Ei e hichoet_
+  Put water to boil               _Heinoi kokoita_
+  We are nearly there             _Duki-eikateki_
+  We have not arrived             _Duki nieteke_
+  It is a long way yet            _Nia areiti_
+  It is a very long way           _Nia are are are_
+  It is very short                _Wei iannare_
+  Put on more wood                _Nane rege honne_
+  Fill it full                    _Nue oruita_
+  Be careful not to break it      _Chitesai_
+  Remove the leaves               _Rape honne_
+  Open it carefully               _Nue ekonotta_
+  Cook only manioc and plantains  _Dama seteo meika ogoto_
+  Eat the skins                   _Igore ine_
+  Take some crushed maize         _Pechato tuta hisano ui_
+  How many women are there?       _Niga rinyona hisa ite?_
+  From what cause has your
+    brother died?                 _Nipeiche tio teide?_
+  Why did you leave the child
+    outside? It will be eaten
+    by the dogs                   _Nipeiche hito hino o fuaka ia daria_
+  Go soon and guard the women     _Mei rieri rinyona hofona ipeise_
+  Do not do it again              _Mene amanyete omoi_
+  An unmoral Indian woman         _Rinyo Rei-irage_
+  An immoral Indian woman         _Rinyo Kachirete_
+  With whom have you been having
+    intercourse?                  _Bu tika beriteo?_
+  How many husbands have you had? _Nigama bettora-o?_
+  Are you (a virgin) married?     _Nia rutanyega-o?_
+  Who ravished you?               _Bu-o rutaka?_
+  You are blind (a fool)          _O ui nirite_
+  Do not delay                    _Fwepi neri_
+  Give me something               _Feka_
+  Do not give anything            _Fekanyete_
+  Walk                            _Mekkate_
+  Do not walk                     _Mekanyete_
+  I do not understand             _Kehanyete_
+  That’s my business (common
+    expression without intention
+    of rudeness)                  _Pia_
+  My body aches                   _Kwe apui isirete_
+  Let me go                       _Kwe-mosueta_
+  Hold me                         _Kwe-mojeno_
+  Turn round                      _Jireno_
+  Do not move                     _Weihoi_
+  Why do you shout?               _Nipeiche kicheteyo?_
+  It is big                       _Ei ichwe_
+  It is small                   { _Hurete_
+                                { _Eichonyete_
+  It is not good                  _Fogonyete_
+  Do you like it?                 _Kimmarueteo?_
+  Do you not like it?             _Kimmaruenyeteo?_
+  You are pretty                  _Nuen otego_
+  You are ugly                    _Nuenonyeteo_
+  You are dirty                   _Oapwi gagrette_
+  I want you                      _Ona dueruetckwe_
+  I do not want you               _Ona dueruenetckwe_
+  Tie well (the cross poles)      _Nue kwina_
+  Tie higher                      _Keifofe kwina_
+  Take care not to break          _Titeise_
+  Well done, you thatch well      _Mei omoi ita_
+  Is everything clean?            _Nana ganino fuinore?_
+  That is dirty, I shall
+    punish you                    _Vie gagrette a kioiteo o feitikwe_
+  It is very sweet                _Eicho nimerettega_
+  I do not like it hot            _Usirete ittinyetekwe_
+  I like it warm                  _Chiei maneide ittitekwe_
+  Look well in front of you       _Nue oroi_
+  The plantation is a good one    _Nue akafo icha_
+  The plantation is a bad one     _Akafo fogonyete_
+  Let us go and build a house     _Manya ofo koko fuinoche_
+  There are not sufficient
+    palisades                     _Nia amena nana inyete_
+  All of you bring timber         _Omoi amena atiche_
+  You make the thatches           _Are niite omoi_
+  These boys will bring canes     _Bie hettanitino are gweichi_
+  These others will bring palm
+   leaves                         _Bimeke ererite_
+  Those will make holes           _Bimeichino iffweirakte_
+  I do not want it there          _Batinomo ittinyetekwe_
+  Open it here                    _Benomo ekkono_
+  Send me the small boy           _Urettema kwemo hito_
+  Go and throw away that water    _Mei ba i heinoi dota_
+  Wash it well                    _Nue hokorii_
+  Do not delay                    _Are enyeno bi_
+  You are dirty                   _Nia gagrette_
+  Put it there                    _Batinomo honne_
+  Put it here                     _Benomo honne_
+  Put it yonder                   _One honne_
+  Do not put it over there        _Batinomo honne nieno_
+  Why are you sad?                _Nipeiche sure iteo?_
+  Who hurt you?                   _Bu o faga?_
+  When did you come?              _Nirueteo viteo?_
+  When did you go?                _Nirueteo heito?_
+  It is so firm I cannot move it  _Are agagrette ekkononyette_
+  Bring the wood                  _Itofie nue omoi ire_
+  Do not throw them away          _Oni tinyeno nue ofitare_
+  I am going to see               _A chimitekwe_
+  If you do not bring them, I
+    shall punish you              _Omoi pweya fachiomoi_
+  Plant them carefully            _Nue omoi haire_
+  Go and clean up                 _Mei omoi reitiseiri_
+  Place all the sticks together   _Reitekinyo nue omoi ofitare_
+  You have left the plantation
+    untidy                        _Akkafo gagritte omoi fueka_
+  Why don’t you bring it?         _Nipeiche atinyeta omoi?_
+  Make enough cassava             _Eichwe tano fuinore_
+  Let it be good                  _Nuere finoiche_
+  Bring a little                  _Yewre atitomoi_
+  Not enough                      _Dutenyete_
+  It is soft                      _Itieide_
+  What are you doing?             _Nifote niecomoi?_
+  What are you eating?            _Nifote okoteomoi?_
+  Where are they--the rest
+    of you?                       _Ninomo iteomoi?_
+  Why have they (the others)
+    gone without telling me?      _Nipeiche kwe jonyeno heite omoi?_
+  Bring it to the light           _Useritenomo ate_
+  To-morrow go and see the tribe
+    and then return here together _Weirimoni dama komweine hoke teiteo
+                                   nana fofona orerire_
+  Split it with the knife         _Chovefa do ekkono_
+  Take out the cane early         _Monanyano kononwe ono_
+  It is rich                      _Kei maritte_
+  Wash the pot well before
+    boiling water in it           _I chiko nue hoko heinowei hoku-itechi_
+  Do not put much fruit in it     _Eicho rie dotenyino_
+  It is very inconvenient         _Y otirette_
+  I am unable                   { _Kwe mona_
+                                { _Hitinyete_
+  I shall carry it                _Diuitikwe_
+  Do not carry it                 _Uinyetekwe_
+  I am tired                      _Aeeiontekwe_
+  You are going to carry manioc   _Meika omoi ui_
+
+
+BORO
+
+  Brother                         _Tanyabe_
+  Chief                           _Abihibya_
+  Chief’s wife                    _Abihilya_
+  Child                           _Chemene_
+  Father                          _Iero_
+  Fellow-tribesman                _Miamuina_
+  Husband                         _Tahe_
+  Liar                            _Aliraje_
+  Man                             _Gwapime_
+  Medicine-man                    _Chekobe_
+  Mother                          _Gwaro_
+  People                          _Akime_
+  Sister                          _Tanyali_
+  Sluggard                        _Ubeye_
+  Son                             _Chukije_
+  Wife                            _Tapa_
+  Woman                           _Gwame_
+
+  Abdomen                         _Mebigwa_
+  Arm                             _Menejeko_
+  Back                            _Meatche_
+  Belly                           _Epae_
+  Blood                           _Tibune_
+  Body                            _Kepe_
+  Bone                            _Pukene_
+  Bosom                           _Neghpane_
+  Buttocks                        _Medehe_
+  Cheek                           _Mekwa_
+  Ear                             _Menimeo_
+  Eye                             _Ajike_
+  Finger                          _Utsigwako_, _mechiko_
+  Flesh                           _Iyame_
+  Foot                            _Tia_
+  Hair                            _Nikwako_
+  Hand                            _Meuche_
+  Head                            _Nikwa_
+  Heart                           _Meebe_
+  Knee                            _Mimoko_
+  Leg                             _Take_
+  Mouth                           _Mehe_
+  Navel                           _Icheba_
+  Neck                            _Metchke_
+  Nose                            _Metiko_
+  Penis                           _Nomeo_
+  Testicles                       _Domiba_
+  Thigh                           _Kibaje_
+  Tongue                          _Menigwa_
+  Tooth                           _Igwahe_
+  Vagina                          _Elyapo_, _diugwa_
+
+  Ague                            _Chinabe_
+  Prickly heat                    _Nikemoi_
+  Smallpox                        _Maraipa_
+  Tick                            _Chichihe_
+  Wound                           _Pepene_
+
+  Dance                           _Machiba_
+  Falsehood                       _Achipe_
+  Fear                            _Apichune_
+  Grief                           _Abiyene_
+  Ill                             _Chemei_
+  Remedy (in general)             _Tabota_
+  Smell                           _Tukine_
+  Truth                           _Imiane_
+
+  Agouti                          _Bute_
+  Anaconda                        _Bua_
+  Ant-eater                       _Ehe_
+  Armadillo                       _Tie_
+  Bird                            _Karaha_
+  Capybara                        _Uba_
+  Deer                            _Nibigwa_
+  Fish                            _Amome_
+  Flea                            _Ikookwa_
+  Frog                            _Nihagwa_
+  Hawk                            _Ane_
+  Head-louse                      _Knawni_
+  Jigger-flea                     _Mipahe_
+  Land crab                       _Nekwalige_
+  Monkey                          _Kemuime_
+  Mosquito                        _Nee_
+  Paca                            _Tahe_
+  Parrot                          _Yabe_
+  Pig                             _Mene_
+  Tapir                           _Ukahe_
+  Tiger, wild dog                 _Wipe_
+  Tucan                           _Neiche_
+  Turkey-buzzard                  _Pikahe_
+  Wild turkey                     _Imiko_
+
+  Cane                            _Imuepa_
+  Cassava                         _Mao_
+  Cassava (cake)                  _Topohe_
+  Coca                            _Ipe_
+  Fruit                           _Kome_
+  Grain                           _Tsokome_
+  Guarana fruit                   _Inye_
+  Guava                           _Tuche_
+  Gum                             _Makhine_
+  Leaf (letter)                   _Gwahake-ane_
+  Lemon                           _Teheba_
+  Maize                           _Ihio_
+  Manioc (flour)                  _Chobéma_
+  Manioc (Poisonous)              _Pika_
+  Manioc (Sweet)                  _Baheri_
+  Millet                          _Matsaka_
+  Palm needle                     _Aneto_
+  Peppers                         _Dio_
+  Pine-apple                      _Kitsea_
+  Plantain                        _Uhiko_
+  Plantation                      _Emiye_
+  Stinging-herb                   _Ate_
+  Twig                            _Katine_
+  Withe                           _Ahéba_, _mo_
+  Yam                             _Kate_
+
+  Basket                          _Minyeba_
+  Baulks of timber                _Imei_
+  Comb                            _Pidogwa_
+  Cooking pot                     _Iguanye_
+  Door                            _Cheugwa_
+  Drinking gourd                  _Jirijo_
+  Firewood                        _Kuba_
+  Grater                          _Chilye_
+  Hammock                         _Gwapa_
+  House                           _Ha-a_
+  Manioc squeezer                 _Buahe_
+  Mirror                          _Mekeme_
+  Oil                             _Diripa_
+  Platter                         _Patahe_
+  Salt                            _Kanama_
+  Small timber                    _Igwa_
+  Soap                            _Nishtie_, _tagwa_
+  Spoon                           _Daihigwa_
+  Tobacco                         _Banye_
+  Tobacco stick-match             _Kugwao_
+  Torch                           _Diripa_
+  Water jar                       _Ijo_
+
+  Arrow                           _Beremehe_
+  Arrow-poison                    _Bakua_
+  Boat, canoe                     _Kihikwame_
+  Blowpipe                        _Dodike_
+  Dance rattle                    _Tekie_
+  Fish-net                        _Tsene_
+  Gun                             _Anihe_
+  Head feathers                   _Aboka_
+  Knife, sword                    _Nitsikwa_
+  Mallet                          _Imepachura_
+  Paddle                          _Bodugwa_
+  Rope (vegetable cable)          _Igwanye_
+  Signalling drum                 _Kimwe_
+  Sword                           _Pitoho_
+  Whip                            _Gwachike_
+
+  Beads                           _Ichkabe_
+  Clothes                         _Kwaiame_ (loin-cloth)
+  Garment                         _Kameha_
+  Head ornament                   _Gwatako_
+  Loin-cloth                      _Ike_, _pakehe_, _kwaiame_
+  Man’s bracelet                  _Manyame_
+  Metal                           _Tsitsi_
+
+  Bush, the                       _Bahe_
+  Dawn                            _Tsitsibeko_
+  Death                           _Tsihibeko_
+  Devil                           _Navena_
+  Dust                            _Anijio_
+  Fire                            _Kihigwa_
+  God                             _Neva_
+  Good Spirit                     _Neva_
+  Gunpowder                       _Anijio_
+  Morning                         _Neva_
+  Night                           _Beko_
+  Plantation                      _Emie_
+  Rain                            _Nihava_
+  Shadow                          _Nave_
+  Star                            _Mikirigwa_
+  Stream                          _Te-e_
+  Sun                             _Neva_
+  Thunder                         _Tsitsi_
+  Water                           _Nepakio_
+
+  Now                             _Ikuka_
+  To-morrow                       _Pekore_
+  Yesterday                       _Aiupe_
+
+  Yes                             _Eh_
+  No                              _Cha_
+
+  To call attention of a man      _Mupe!_
+  To call attention of a woman    _Muije!_
+
+  All                             _Bemere_
+  Enough, much                    _Lirane_
+  Other                           _Chipe_
+  Same                            _Tedere_
+
+  Slowly                          _Tsikene_
+  Quickly                         _Chukure_
+
+  Far                             _Chiejene_
+  Far away                        _Kamine_
+  Here                            _Iji_
+  Near                            _Perine_
+  There                           _Eji_
+  What                            _Itsebane_, _ina_
+  When                            _Mukoka_
+  Where                           _Kia_
+  Why                             _Ivekie_
+
+  Angry                           _Kaiyupa_
+  Bad                             _Nemine_, _imitine_
+  Black                           _Kiribebe_
+  Cold                            _Tsigore_
+  Good                            _Imine_
+  High                            _Kame_
+  Higher                          _Kame-kame_
+  Lazy                            _Urenere_
+  Little                          _Neku_
+  Long, big                       _Kameme_
+  Low                             _Paa_
+  Lower                           _Paa-paa_
+  Old                             _Kieme_
+  Purple                          _Chepanye_
+  Small                           _Chuchine_
+  Strong                          _Kupene_
+  Thin                            _Arenegwe_
+  Warm                            _Kogore_
+  White                           _Alijimuinya_
+  Young                           _Balyika_
+
+  I        }
+  Me       }
+  We       }                      _O_
+  Us, Mine }
+  Ours     }
+  You      }
+  Yours    }                      _Di_
+  My                              _Ta_
+
+  One                             _Tsanere_, _tsape_
+  Two                             _Mieke_
+  Three                           _Tsape-mieke_
+  Four                            _Mieke-mieke_
+  Five                            _Sause_
+  One-half                        _Tiamie_
+
+  To advance                      _Ikeyi_
+  To bathe                        _Maboigete_
+  To beat flat                    _Kihigwa_
+  To bind, sew                    _Tsiko_
+  To break wind                   _Nepo_
+  To bring                        _Tsate_
+  To call                         _Pibwa_
+  To catch hold                   _Dekeba_
+  To come                         _Dichabe_
+  To crush                        _Megwasako_
+  To cut, shorten                 _Gwatairo_
+  To drink                        _Mado_
+  To eat                          _Macho_
+  To go                           _Opeko_
+  To go away                      _Gwadipe_
+  To hang                         _Nehigwa_
+  To make, do                     _Mene_
+  To move                         _Chinye_
+  To open                         _Paiyeke_
+  To rain                         _Nihaba_
+  To rest                         _Paribe_
+  To run away                     _Imiba_
+  To scratch                      _Medonakons_
+  To search                       _Neku_
+  To see                          _Aktime_
+  To speak                        _Dibaje_
+  To strike                       _Kaboko_
+  To throw                        _Wago_
+  To tie                          _Chichi_
+  To wait                         _Ubi_
+  To wash                         _Nitie_
+  To work                         _Wakimei_
+
+  Where are you going?            _Kia bwipe ite?_
+  Where do you come from?       { _Kia-te itse?_
+                                { _Minekwe?_
+  Do not go away                  _Tsa petine_
+  Stand still                     _Tachure_
+  Sit down                        _Takebe_
+  Bring here                      _Chibahe_
+  Let us go                       _Mahu Mepei_
+  Leave me alone                  _Ubiédere_
+  Give me                         _Okedake_
+  Where (is it?)                  _Kia_
+  Whose (is this?)                _Mu_
+  There is none                   _Tsa ikatine_
+  I do not know                 { _Ureta_
+                                { _Tsa quaha Kétine_
+  How many?                       _Muitemeko?_
+  What is the matter?           } _Ina ichabie?_
+  What is hurting you?          }
+  What are you called?            _Muipa dimene?_
+  Are you willing?                _Imeje?_
+  Cover it up                     _Gwatako_
+  Hold your tongue                _Kéktere_
+  It is well                      _Imine_
+  Good-bye                        _Opeko_
+
+
+APPENDIX VIII
+
+
+    _Oikommo_ is within the _hofo_,[451]
+      With our tribe there is _Oikommo_,
+    And whence cometh _Oikommo_,
+      And from where does he come?
+    He comes from the clouds,
+      From the clouds he comes;
+    And why does he come so far?
+      And why does he come?
+    In his land are no bread and few women
+      In his land is no bread;
+    And what is the name of the stranger,
+      And what is his name?
+    His name is Whiffena _Ri-e-i_,[452]
+      His name is Whiff-en-a,
+    And partly his name is Itoma,[453]
+      Itoma is also his name;
+    And what is he called by his man friends.
+      And what is his other name?
+    His privy name is _Ei-fo-ke_,[454]
+      _Ei-fo-ke_ is his privy name;[455]
+    And why is he called _Ei-fo-ke_?
+
+
+FOOTNOTES
+
+
+[1] My arrival in England was postponed to some months later through an
+attack of beriberi.
+
+[2] It was unknown to me till afterwards that Dr. Koch-Grünberg of Berlin
+had, in 1904, ascended the Uaupes to, I believe, 71° west longitude.
+
+[3] A rifle, where possessed, is never used against an animal but kept
+for use against the white man.
+
+[4] Turtle eggs are, curiously enough, not considered fœtal.
+
+[5] For my share I had the honour to receive, through the Secretary of
+State for Foreign Affairs, the thanks of the French Government.
+
+[6] Steamers have been on the Amazon since 1853, and navigation is
+continuous throughout the year (cf. _Brazilian Year-Book_).
+
+[7] I never saw the Andes actually from these districts, but the
+suggestion is always there, they are seen in the mind’s eye; an ultimate,
+if invisible, limit to what would otherwise seem more than illimitable.
+
+[8] Wallace, p. 246.
+
+[9] Spruce, ii. 379-380.
+
+[10] Robuchon’s estimate of distances is 471 geographical miles from
+Iquitos to the mouth of the Issa; thence to the Cotuhe, which he places
+at 2° 53′ 12″ S. and 69° 41′ 10″ W., 150 geographical miles. From
+the Cotuhe to the Igara Parana, 252 miles, a total distance of 873
+geographical miles from Iquitos to the Igara Parana.
+
+[11] Robuchon gives latitude 1° 43′ 9″ S., longitude 71° 53′ 36″ W.
+
+[12] Spruce, i. 7, ii. 100.
+
+[13] September to January is the hottest portion of the year, the heat
+being at its worst in December. 90° would be extreme heat, and 70° the
+lowest the mercury would probably reach; the average being from 75° to
+85°. Robuchon is responsible for the statement that the temperature at
+the mouth of the Cotuhe in September was 43° Cent. in the shade, but
+that after a brisk shower it fell to 31°. The water of the Amazon has a
+temperature of 81°; the Japura is a warmer river and reaches 85°. Wallace
+gives the mean temperature of the Rio Negro water in September--that is,
+during the hot season--as 86°, and the corresponding temperature of the
+air as from 76° to 92.5°. The water, he considers, is probably never
+less than 80° at any time. The temperature of the Uaupes has been noted
+as invariably 76° at three to six feet below the surface (_Geo. Journ._,
+1910, p. 683).
+
+[14] The Amazon at its mouth is 158 miles across from bank to bank.
+
+[15] This I take to be the _Yacitara_ mentioned by Spruce, i. 30.
+
+[16] Wallace noted a butterfly frequenting “the dung of some carnivorous
+animal” in Malacca, and remarks that many tropical butterflies suck
+liquid from muddy places, “and are generally so intent upon their meal
+that they can be easily approached and captured” (Wallace, _The Malay
+Archipelago_, pp. 29, 114).
+
+[17] Spruce, ii. 366.
+
+[18] Bates, ii. 262.
+
+[19] Spruce, i. 49.
+
+[20] One tree is reputed to be so poisonous that no Indian will touch it.
+See Maw, p. 294.
+
+[21] These tribal houses differ from the communal long-houses of the Fly
+Delta, British New Guinea, not only in shape, but in that there are no
+platforms and no divisions for each family; the whole interior is open.
+For description of Kiwai and Daudai long-houses see _Expedition to Torres
+Straits_, iv. 112-117.
+
+[22] _Maloka_ = Indian lodge or tribal house (lingoa-geral).
+
+[23] _Manicaria saccifera_ (cf. Spruce, i. 56).
+
+[24] Eugene André noted that two kinds were commonly used on the Causa,
+the _mulato_, a kind of _Aroideae_, and the _murcielago_, which belongs
+to the _Bignoniaceae_ family.
+
+[25] Several kinds of palm-leaves are used for this purpose, and
+whichever was most easily procurable in the district where the house
+was built would be used by the tribe. Hardenburg mentions the leaves of
+the _Phytelephas macrocarpa_, the vegetable ivory-tree, as in use among
+the Witoto, and the _Bactris ciliata_ or Chonta palm for the posts and
+rafters (p. 135). The leaves of the Bussu palm, _Manicaria saccifera_,
+will make a thatch that lasts for ten or twelve years, by some accounts
+(cf. Waterton, p. 479).
+
+[26] Wallace, p. 341.
+
+[27] This is architecturally interesting in view of Foucart’s theory of
+the evolution of the Egyptian grooved stone pillar from wooden originals,
+bundles of reeds.
+
+[28] Simson mentions such a “door,” p. 237.
+
+[29] Wallace, p. 341.
+
+[30] Among the Jivaro one partitioned half of the house is kept for the
+women (Orton, p. 171). There is no such distinction among the Issa-Japura
+tribes.
+
+[31] Cf. Wallace, p. 354.
+
+[32] Crevaux has described the process. He watched an Indian “qui fait du
+feu en roulant vivement un roseau dans une cavité creusée dans une tige
+de roncon” (_Voyage dans l’Amérique du sud_, p. 214). Wallace mentions
+this method among the Kuretu, _op. cit._ 355.
+
+[33] If a jigger is removed at once with a needle it will not hurt, and
+scarcely makes a puncture.
+
+[34] Vampires in this country are few and far between, but Simson
+mentions them as a plague at Agnano (Simson, p. 131).
+
+[35] Bates, i. 246. For the taming of a full-grown _Coita_ see p. 247.
+Another pet mentioned by Bates, a “strange kind of wood-cricket,” is also
+unknown to me as a pet, and though I have often heard loud-voiced insects
+of the cricket class they have never been in captivity (cf. Bates, i.
+250).
+
+[36] Cf. Martius, _P.R.G.S._ ii. 192.
+
+[37] See Appendix.
+
+[38] Deniker, p. 552.
+
+[39] Marriage by capture was a Carib custom (Westermarck, p. 383). It is
+unknown nowadays to the tribes south of the Japura.
+
+[40] Partial couvade is found also among tribes in the north of America,
+that is to say, certain things are tabu to the father after the child’s
+birth. Cf. Dorsey, _Siouan Cults_, p. 511; Venegas, i. 94; Tylor, pp.
+294-7.
+
+[41] im Thurn, p. 173. Joyce locates the original Caribs on the upper
+Xingu, from whence, he considers, they spread over Guiana and the lesser
+Antilles (_South American Archæology_, p. 256). Rodway, on the authority
+of Spanish chronicled Arawak information, suggests they were the original
+inhabitants of the north-west coast, migrant from Mexico (_Guiana_, pp.
+41, 45).
+
+[42] _Ibid._ pp. 171-2.
+
+[43] Crevaux, _Fleuves de l’Amérique du Sud, Yapura_, F. 5 et 7.
+
+[44] Crevaux, _Vocabulaire français-roucouyenne_.
+
+[45] Koch-Grünberg, _Journal de la Société des Américainistes de Paris_,
+tome iii. No. 2 (1906).
+
+[46] Koch-Grünberg, _Zeitschrift für Ethnologie_, xxxviii, 189.
+
+[47] It must be remembered that I came to all these people from the
+Witoto country.
+
+[48] Crevaux, _Voyages dans l’Amérique du Sud_, p. 368.
+
+[49] Martius, _Beiträge_, ii. 340.
+
+[50] The Inca were called _Orejones_ by the Spaniards on account of the
+large studs they wore in the lobes of their ears. See Joyce, p. 110;
+Ratzel, ii. 172.
+
+[51] Simson, p. 210.
+
+[52] Koch-Grünberg, _Zeitschrift für Ethnologie_, xxxviii. 188 (1906).
+
+[53] Cd. 6266, pp. 9, 10, 12, 25, 26.
+
+[54] Rice, p. 690.
+
+[55] Wallace, p. 354.
+
+[56] See Appendix.
+
+[57] Hardenburg, _Man_, p. 134.
+
+[58] This combination is of so exceptional a character that it is hardly
+to be recognised as a definite trait of organisation, and it follows that
+though such exceptional cases may point to a possible past unity of clans
+as a tribe, these clans are now practically small tribes, being incapable
+of combining for common action. The expressions language-group, tribe,
+and tribesman are therefore more correct than tribe, clan, and clansman
+would be.
+
+[59] Cf. im Thurn, p. 185.
+
+[60] This is exactly the reverse of the matrilocal customs related by Sir
+Everard im Thurn.
+
+[61] Or their artists and publishers.
+
+[62] “The natives are ashamed, as they say, to be clothed” (Humboldt,
+_Travels_, iii. 230; cf. also Wallace, p. 357). Clothes, in fact, are
+often donned by savages at periods of license only. See Westermarck,
+_History of Human Marriage_, chap. ix.
+
+[63] There are several trees in these forests that supply the needed
+fibrous bark. im Thurn suggests that the bark used is that of the
+_Lecythis ollaria_, but Spruce states that tauari is made from the bark
+of certain species of _Tecoma_ of the _Bignoniaceae_ order, and tururi, a
+thinner bark-cloth, from various figs and _Artocarps_. Naturally natives
+use the tree that is handiest when required (cf. im Thurn, pp. 194, 291;
+Spruce, i. 27).
+
+[64] Dr. de Lacerda in his journal for July 22, 1798, describes just such
+a manufacture of bark-cloth carried on by the Muizas, who traded this
+with their neighbours the Maraves. See _Land of Carembe_, R.G.S., 1873,
+p. 71. Loin-cloths made from the bark of the _Artocarps_ are also found
+among the Semang of Kedah and other wild tribes of the Malay Peninsula.
+See Skeat and Blagden, i. 143-4, 157, 376, etc.
+
+[65] A similar geographical progression has been noted among the women of
+British New Guinea. See Williamson, _The Mafulu_, p. 28.
+
+[66] Sandals known as _alparagatas_, with soles of plaited aloe-fibre,
+are usually worn by travellers in the Amazons. These can be cleaned and
+washed in the same way. See also Simson, p. 83.
+
+[67] Wallace, p. 351.
+
+[68] Feather ruffs are worn by Napo Indians, but not by these tribes.
+
+[69] im Thurn, p. 305.
+
+[70] One feather head-dress in my possession is made with rough cotton
+yarn, obtained presumably by barter, for none of these tribes make cotton
+yarn themselves, and it is very rarely to be found among them. The
+feathers are bound into the hank with very fine fibre.
+
+[71] _Oenocarpus distichus._
+
+[72] Wallace, p. 351.
+
+[73] According to Koch-Grünberg the Yahabana and other Kuretu-speaking
+tribes part the hair in the middle and plait it with bast. After bathing,
+the hair is dried, combed, and arranged with a bandage.
+
+[74] Red was the favourite colour for a djibbeh. White ones were not much
+liked.
+
+[75] This corresponds with the bead _tanga_ described by Wallace, but the
+Uaupes’ apron is “only about six inches square,” and these girdles or
+garlands are two feet long or more (Wallace, p. 343).
+
+[76] Value, I believe, about ninepence exchange or less.
+
+[77] So uncommon is it that I was under the impression that it was
+entirely unknown until I examined the necklace in question very carefully
+after my return to England. Certainly I never saw any of these tribes
+preparing cotton or making use of it in any way except in its natural
+state to tip their blow-pipe arrows. String or yarn of any sort, except
+the fibre thread, I always found to be absolutely unobtainable anywhere
+throughout these districts.
+
+[78] Possibly one of the _Histeridae_ mentioned by Bates, i. 211.
+
+[79] _Pace_ Maw, p. 226.
+
+[80] Belts of apparently similar minute plaiting are worn by the Mafula
+of British New Guinea. These natives also wear armlets and leglets of the
+same material, but not tightened to swell the muscles. The thread these
+are made of is manufactured from vegetable fibre in the identical manner
+employed by the Issa-Japura Indians (Williams, _The Mafula of British New
+Guinea_, pp. 32, 53, 54).
+
+[81] Compare illustration with pictures of ligatures in D. Rannie’s _My
+Adventures among South Sea Cannibals_, pp. 80, 170, 179.
+
+[82] The Spaniards called the Inca _Orejones_ on account of the large
+studs worn by them in the lobes of their ears. See Joyce, p. 110.
+
+[83] Wallace states that all the Indians “have a row of circular
+punctures along the arm” (Wallace, p. 345). These tribes have nothing of
+the sort.
+
+[84] Wallace describes the mark as “three vertical blue lines on the
+chin” (Wallace, p. 345). This is not correct; _vide_ drawing.
+
+[85] Crevaux, p. 264.
+
+[86] The _Bixa Orellana_ (Spix and von Martius, p. 228).
+
+[87] _Genifa americana_ (Spix and von Martius, p. 228).
+
+[88] Hardenburg, p. 138.
+
+[89] “Covering, if not used as a protection from the climate, owes its
+origin, at least in a great many cases, to the desire of men and women
+to make themselves mutually attractive” (Westermarck, p. 211). “Clothing
+was first adopted as a means of decoration rather than from motives of
+decency. The private parts were first adorned with the appendages that
+were afterwards used by a dawning sense of modesty to conceal them”
+(Johnston, _The River Congo_, p. 418).
+
+[90] The result of this is that a traveller is forced to have women
+as well as men in his escort, or he would find that half the services
+required would not be rendered him. For instance, no male Indian will
+prepare food, neither will he wash clothes, nor clean the cooking
+vessels. This refers to the untouched districts, and must not be confused
+with the forced “willingness” of the Rubber Belts.
+
+[91] A. R. Wallace, p. 349.
+
+[92] E. B. Tylor notes that the savage is often skilled in map-making as
+a form of picture-writing (_op. cit._ p. 90), and quotes Prescott for
+the existence of maps in Peru before Europeans reached South America
+(Prescott, _Peru_, i. 116). Ancient maps or books like “rolled up palm
+leaves” (Ratzel, ii. 169).
+
+[93] See Chap. XVIII.
+
+[94] _Pudenda maioris statuae muliebris nigra, labia maiora rubra picta
+sunt; sed et in maiore et in minore statua vagina tam profunde perforata
+est ut transitum ab vulva ad uterum suggerere videatur. Scrotum statuae
+virilis nigrum, praeputium rubrum, pictum est; membrum autem ipsum,
+quamvis quiescens, erectum tamen est et sic ad abdomen parallelum._
+
+[95] See Chap. XVII.
+
+[96] Keane tells of the Mojos valley natives that so uncommon is stone
+in that district that if a man set out on a journey to the uplands where
+stone is procurable he would be asked to bring some back as a curiosity
+(Keane, p. 12). For some use of stone implements of the past still
+employed among present-day peoples, see Mitchell, _Past in the Present_,
+p. 12, etc.; Routledge, _With a Neolithic People_; Spencer and Gillen,
+_Native Tribes of Central Australia_, pp. 592-4, etc.; Skeat and Blagden,
+_Pagan Races of the Malay Peninsula_, i. 242, 296.
+
+[97] Spruce mentions a white pitch obtained from _Icica_ trees, I never
+saw any white pitch. These Indians use only black.
+
+[98] Some tribes near the Napo also use circular shields of tapir hide,
+p. 116.
+
+[99] The use of the potter’s wheel was even unknown to the Incas (Joyce,
+p. 193).
+
+[100] Crevaux, p. 193.
+
+[101] The caraipé tree is, according to Spruce and Bentham, one of the
+_Licania_ genus of the _Chrysobalaneae_ order (Spruce, i. 13).
+
+[102] Spruce, i. 14.
+
+[103] The _Cerropia peltata_, according to Spix and Martius, p. 259.
+
+[104] Tylor mentions the hammock as one of “the inventions which it seems
+possible to trace to their original districts,” and states that it has
+spread from South America and the West Indies “far and wide over the
+world, carrying with it its Haitian name, _hamac_” (_op. cit._ p. 175).
+It is interesting to note in this connection that a hammock is known as a
+_hamaka_ among the Yakuna; the Tariana call it _hamaka_ or _amaka_; and
+the Yavitero Indians call it _aimaiha_ (Koch-Grünberg, _Aruak-Sprachen
+Nordwestbrasiliens und der angrenzenden Gebiete_, p. 65). The Baré
+Indians call it _mi_; the Baniwa _bidzaha_ or _bisali_; the Siusi _pieta_
+or _piete_; the Katapolitani change the _t_ to _d_ and have _pieda_; the
+Kurutana call it _makaitepa_; the Uarekena say _soalita_ (Koch-Grünberg,
+_op. cit._); while the Pioje call hammocks _jangre_ (Simson, p. 268). The
+Witoto word is _kinai_ and the Boro _gwapa_.
+
+[105] Hamilton Rice gives the distances between the meshes as the space
+of thumb to little finger stretch for the Witoto, palm-length for the
+Karahone, four fingers for the Cubbeo (p. 700). I knew the spacing
+differed, but never heard that it was a tribal distinction.
+
+[106] The palm employed is, according to Bates, an _Astrocaryum_ (Bates,
+ii. 209). Wallace and im Thurn mention the _Mauritia flexuosa_ (A. R.
+Wallace, p. 342; im Thurn, pp. 283, 290), which, according to Spruce,
+“seems confined to the submaritime region” (Spruce, i. 15). He gives
+_Bromelia karatas_, ii. 520. Spix and Martius give the Tucuma palm
+(_Astrocaryum vulgare_) and others of the same genus (Spix and Martius,
+p. 248).
+
+[107] “A species of _Desmoncus_” (A. R. Wallace, p. 336).
+
+[108] Women make both cassava-squeezers and graters. This may be a
+coincidence, as I have seen men making the mats for the doorways, usually
+women’s work.
+
+[109] _Guilielmia speciosa._
+
+[110] Spruce, ii. 447.
+
+[111] Spencer and Gillen, _Native Tribes of Central Australia_, pp.
+668-9, and _Across Australia_.
+
+[112] Any hard wood may be used, but cedar makes the best canoe. Hamilton
+Rice says _cachicama_ (Rice, p. 691). Spruce mentions “a heavy laurel,
+probably _Paraturi_,” used by the Tussari for making their _cascos_
+(Spruce, i. 413). Bates mentions the _Itauba amarello_, “the yellow
+variety of the stone-wood” (Bates, ii. 117). But all trees will not do,
+for some will not open properly when they are fired (André, pp. 241-2).
+
+[113] _Iriartea ventricosa._
+
+[114] This is said to be the only kind of canoe used by the Auhishiri
+(cf. Simson, p. 199).
+
+[115] Viz. the Maca, the Guaharibo, and the Guahibo (Spruce, i. 477).
+
+[116] Wallace, p. 358.
+
+[117] For example, the Zaparo (Simson, pp. 169, 295); the Uaupes Indians
+(Wallace, p. 349).
+
+[118] Among other tribes this is not always the case. Manioc and banana
+cultivation with the Rucuyens is carried on by the men (Ratzel, ii. 128).
+
+[119] There is a wild species on some of the rivers, but the Indians make
+no use of it (cf. Bates, i. 194).
+
+[120] _Anauana sativa_ (Wallace, p. 336).
+
+[121] Spruce, i. 180-81.
+
+[122] Among the Issa-Japura tribes it is rather sustaining than
+stimulating, _i.e._ it is not fermented.
+
+[123] _Theobroma_, the food of the gods (Spruce, i. 79).
+
+[124] I would suggest that _manioc_ is the true name for the plant,
+_cassava_ for the “bread” made therefrom. _Mandiocca_ is only
+American-Spanish for manioc.
+
+[125] Bates i. 194, n.
+
+[126] Spruce, i. 215.
+
+[127] _Capsicum frutescens_ (Spix and Martius, p. 259). _Artanthe eximia_
+and other _Artanthe_ and _Peperomia_ (Spruce, ii. 283-4).
+
+[128] For processes of growing and preparation, see Markham, pp. 148-9.
+
+[129] _Erythroxylon coca_ and _E. cataractarum_ (Spruce, ii. 446-8).
+
+[130] Cf. E. B. Tylor, p. 170.
+
+[131] An illustration in Sir H. Johnston’s _Liberia_, ii. 406, shows a
+West African native climbing with only one ring and both arms and ankles
+free. Bates mentions an Indian climbing with only one ring used for
+the feet (Bates, ii. 196). The same method is to be found in Ceylon,
+among the Malays, etc. (cf. Skeat and Blagden, i. 51, 62, 85; Tennant,
+_Ceylon_, ii. 523; Partridge, _Cross River Natives_, p. 150, etc.).
+
+[132] This is no uncommon thing among peoples of lower culture, but
+that it does not of necessity follow as a corollary to life in the bush
+is proved by some of the West African tribes who are most indifferent
+sportsmen. This is the case among sundry of the peoples of the Northern
+Territories of the Gold Coast, where a British official has before now
+had to train his shikari, if he hoped for successful sport.
+
+[133] The blow-pipe, the _gravitana_ in lingoa-geral, is known as the
+_zarabatana_ among the Teffe tribes (Bates, ii. 236); the _bodoquera_
+on the Napo. Koch-Grünberg gives the following names for it: _todike_,
+Imitritä Miranya; _uataha_, Yavitero; _uilipona_, Uarekena; _uapana_,
+Yukuna; _Mauipi_, Katapolitani; _mauipi_ or _moipi_, Siusi; _mauipi_ or
+_mauipi_, Tariana (_Aruak-Sprachen_, p. 73).
+
+[134] A species of _Arundinaria_.
+
+[135] _Bactus ciliata._
+
+[136] The wood used is _paxiaba-i_, the _Iriartea setigera_ (Spruce, ii.
+522). This small palm grows from ten to fifteen feet high, with a stem
+of an inch to two inches in diameter. When dry the soft inner pith is
+removed, and the bore polished with a bunch of tree-fern roots pulled up
+and down (Wallace, p. 147).
+
+[137] _Jacitara_ (Bates, ii. 236).
+
+[138] From the _arbol-del-lacre_ (Hardenburg, Man, p. 136);
+_Pao-de-lacre_, _Vismia guianensis_ (Spruce, ii. 522).
+
+[139] _Bombax_ (Wallace, p. 147); _Eriodendron sp._ (_Sterculiaceae_),
+(Spruce, ii. 523; Bates, ii. 237).
+
+[140] _Oenocarpus Batawa_ (Spruce, ii. 522).
+
+[141] These blow-pipes appear to be similar to those still in use among
+the Orang Kuantan Malays, of which a specimen is to be seen in the
+British Museum. It is made of two grooved halves of a hard wood, bound
+with cane, and coated with “a gutta-like substance” (Skeat, _Man_, 1902,
+No. 108). This is, however, a shorter instrument than the Witoto or
+Boro use, the measurements given being only 5 feet 2 inches for total
+length, with an interior diameter of seven-sixteenths of an inch at the
+mouthpiece and three-eighths of an inch at the muzzle-end. The blow-pipe
+is found among all Malayan tribes. For distribution in the South Seas,
+cf. map in Skeat and Blagden’s _Pagan Tribes_, i. 254.
+
+[142] Deniker states that the Miranha hunt “like the ancient Quechuas by
+means of nets stretched out between the trees, into which they drive,
+with cries and gestures, the terrified animals” (Deniker, p. 561). I have
+never seen or heard of such nets among them.
+
+[143] Orton, pp. 169-70.
+
+[144] Cf. method of poisoning adopted by natives of Torres Straits
+(_Torres Straits_, iv. 159).
+
+[145] _Jacquinia armillaris._ According to Spix and Martius _babasco_
+poison is made from the leaves and blossom of the _Budleya connata_ (Spix
+and von Martius, _Reise_, 1820, p. 98).
+
+[146] Simson, p. 131.
+
+[147] _Paullinia pinnata_ (_Sapindaceae_) (Spruce, ii. 523; Bates, ii.
+82-3). Spruce also mentions _cunambi_, poison obtained from the roots of
+_Ichthyothera cunambi_ (Spruce, ii. 520); and Yuca-raton, the root of
+_Gliricidiae sp._ (Spruce, ii. 455).
+
+[148] The frame is made of _timbo-titica_, _Heteropsis sp._ (Spruce, ii.
+523).
+
+[149] Such very hard wood is procurable, and so abundant is it that even
+tribes like the Botucudo, who could use shell, stone, or metal, use wood
+in preference, and many tribes prefer their lithic axes to metal ones.
+The inference is obvious--these peoples are not, and never have been,
+metal-using races, and poisoned wood suits sufficiently their purposes
+for arrow-heads.
+
+[150] Oakenfull, p. 30.
+
+[151] Compare with customs of the Mafulu in British New Guinea
+(Williamson, p. 179; _Fiji_, Thompson, p. 35).
+
+[152] Clough, pp. 104-5; Wallace, p. 353.
+
+[153] Partridge, _Cross River Natives_, p. 59; “Upper Congo Cannibals,”
+_J.R.A.I._, xxiv. pp. 298-9.
+
+[154] For example, Maw, p. 160.
+
+[155] Wallace, pp. 346-7.
+
+[156] Ratzel, ii. 138-9; Orton, pp. 171-2.
+
+[157] See British Museum, Cambridge Museum, Munich Museum.
+
+[158] Bates, ii. 132.
+
+[159] I was never present at a cannibal feast. This information is based
+on Robuchon’s account, checked by cross-questioning the Indians with whom
+I came in contact.
+
+[160] Johnson, _Liberia_, ii. 898.
+
+[161] On the other hand earth-eating is prevalent among the Torres
+Straits people, where salt is not rare. The pregnant woman eats it to
+make her infant light in colour and strong and brave (_Torres Straits
+Exped._, iv. 139).
+
+[162] Crevaux, p. 287.
+
+[163] Bates, ii. 195.
+
+[164] _Ibid._
+
+[165] Some tribes, for example the Jivaro (Simson, pp. 93-4), are said to
+be more provident in this respect, but the Boro and Witoto groups are not
+among them. Occasionally a store of pines may be made in October, when
+pines are most plentiful, but this is all.
+
+[166] It may be noted here that all the denizens of the forest, including
+even the larger carnivora, are by popular report fruit-eaters, and are
+specially fond of the wild alligator pear (cf. Spruce, ii. 362-3).
+
+[167] _Tapirus americanus._
+
+[168] All animals when wounded appear to take to water.
+
+[169] _Coelogenys paca._
+
+[170] _Hydrochaerus capybara._
+
+[171] _Dasyprocta agouti._
+
+[172] I captured some and brought them away as pets.
+
+[173] Spruce, i. p. 182.
+
+[174] _Dicotypes tajacu_ is the only one I observed in these parts, but
+_D. labiatus_ is common in the bush. The peccary is called _kairooni_
+by the Arawak; _mero_ and _emo_ by the Witoto according to the species;
+_mene_ by the Boro; and _whinga_ by the Macusi.
+
+[175] See Wood’s _Natural History_, “Mammals.”
+
+[176] Oakenfull, p. 30.
+
+[177] Turning turtles is prohibited by law in Brazil, but no law reaches
+these wilds.
+
+[178] The Indians of British Guiana who eat the turtles’ and iguana eggs,
+also “will not touch the egg of a fowl” (im Thurn, p. 18).
+
+[179] They do not, however, object to their food being decidedly “high”
+(cf. Simson, p 115).
+
+[180] In this they share the tastes of the Liberian women (cf. Johnston,
+_Liberia_, ii. 954).
+
+[181] Spruce, ii. 381.
+
+[182] _Manihot aypi._
+
+[183] The description given by Fr. Pinto in Dr. de Lacerda’s
+eighteenth-century journal of the preparation of manioc flour by the
+Murunda Kaffirs differs only from the Indian method in that the root is
+not squeezed, merely soaked till “almost rotten,” then dried and pounded
+(R.G.S., _The Lands of Cazembe_, 1873, p. 129).
+
+[184] It would seem that the Boro use what is known in Brazil as _Farinha
+de aqua_, and the Witoto make _Farinha secca_ (cf. Spruce, i. 11-12).
+Brazilian arrowroot and tapioca are products of the manioc prepared in
+different ways. Only the Boro and Menimehe make _Farinha de aqua_.
+
+[185] “A mandiocca oven (called _budari_ in Barré)” (Spruce, ii. 477-8).
+
+[186] Bates noted that he saw Indians on the Tapajos season this sauce
+with ants in place of fish (Bates, i. 318-19).
+
+[187] Wallace, p. 340.
+
+[188] Simson mentions salt-licks in the neighbourhood of the Rio Salado
+Grande (Simson, p. 238).
+
+[189] The ashes of the drum tree (_Cecropia peltata_) “are saline and
+antiseptic” (Spruce, ii. 447). “A kind of flour which has a saline taste”
+is extracted from the fruits of the _Inaja_ palm (_Maximiliana regia_),
+and the _Jara_ palm (_Leopoldinia major_), and the _Caruru_, a species of
+_Lacis_ (Wallace, p. 340). _Cuaruru_ is given by Spruce as a native name
+for _Pogostemon sp._; when this is burnt the ashes give salt (Spruce, ii.
+520).
+
+[190] Cf. _Torres Straits_, “The chief meal of the day is taken at night,
+soon after sundown; the remains are eaten in the morning,” iv. 131.
+
+[191] This is probably the puruma (_Puruma Cecropiaefolia Martius_)
+mentioned by Bates (Bates, ii. 217).
+
+[192] _Yerba Luisa_ (Simson, p. 61).
+
+[193] This may be _Mimusops sp._ (_Sapotacae_) or _Callophora sp._
+(_Aponcynaccae_) (Spruce, i. 50, 224; ii. 520). Bates, i. 69; Spruce, i.
+51; Orton, pp. 288, 500, 581.
+
+[194] _Caapi_ is known as _aya-huasca_, the drink of Huasca, the greatest
+king of the Inca, to the Zaparo and other tribes farther west (Spruce,
+ii. 424).
+
+[195] Spruce, ii. 419-21.
+
+[196] _Banisteria Caapi_ (Spruce, ii. 414).
+
+[197] _Haemadictyon amazonicum_ (_ibid._ p. 415). This is only added by
+the Uaupes tribes.
+
+[198] Both _Manihot utilissima_ and _Manihot Aypi_ (Spruce, ii. 414).
+
+[199] Cf. Tylor, pp. 179-80.
+
+[200] _Paullinia cupana_ (Spruce, i. 180).
+
+[201] _Guarana_, “_pro panacea peregrinantum habetur_” (von Martius), is
+made from the roasted seeds. It is “almost identical in its elements with
+theine and caffeine” (Spruce, i. 181). It is cultivated on the Negro as
+an article of trade. According to Bates it is made from the seeds of a
+climbing plant (_Paullinia sorbilis_) (Bates, ii. 134).
+
+[202] _Coca Erythroxylon._
+
+[203] Spix and von Martius, p. 153.
+
+[204] Joyce, p. 97.
+
+[205] Markham, _Peruvian Bark_, p. 151.
+
+[206] According to Bates the leaves of the candelabrum tree (_Cecropia
+palmata_) are used (Bates, ii. 211-12). Spruce has the _imbauba_ or drum
+tree (_Cecropia peltata_) (Spruce, ii. 447). Markham gives the quinoa
+plant (Markham, _op. cit._ p. 151).
+
+[207] _Re_ effects. Spruce notes that it had little effect on him
+(Spruce, ii. 448). One of my companions though “at first affected … with
+slight nausea … soon became accustomed to it, and found it very useful on
+many occasions” (Hardenburg, p. 137-8). This is interesting in relation
+to my own continued intolerance. “In Peru its excessive use is said to
+seriously injure the coats of the stomach” (Spruce, ii. 448). At Ega it
+was regarded as a vice only to be indulged in secretly (Bates, ii. 211).
+Markham, on the other hand, considers it “the least injurious, and the
+most soothing and invigorating” narcotic (Markham, _op. cit._ p. 152). He
+even recommends it as a preventative of loss of breath to Alpine climbers
+(_ibid._ p. 153). With this I cannot concur.
+
+[208] See Appendix for this and other notes.
+
+[209] Spruce relates that a Guahibo told him, “With a chew of _caapi_ and
+a pinch of _niopo_ … one feels so good! No hunger--no thirst--no tired!”
+(Spruce, ii. 428).
+
+[210] _Mimosa acaciodes_ (Bentham). “A species of Inga” (Bates, i. 331).
+The seeds of _Acacia Niopo_ (Humbolt). _Piptadenia peregrina_ (L.)
+(Bentham and Spruce, ii. 427).
+
+[211] The Guahibo use no quicklime (Spruce, ii. 426).
+
+[212] This is curious, but I can advance no reason.
+
+[213] Or “a bit of the leg-bone of the jaguar, closed at one end with
+pitch” (Spruce, ii. 427).
+
+[214] And by the natives on the upper Orinoco (Spruce, ii. 423).
+
+[215] “Two feet long and as thick as the wrist” (Spruce, ii. 420). It
+“is smoked in the ordinary way”. A long cigar is also smoked on the
+Equatorial Pacific coast, but “held in the mouth _at the lighted end_”
+(_ibid._ p. 436). This is common amongst negroes.
+
+[216] Like the eyes of a cocoanut--to allow passage to the budding
+rootlets.
+
+[217] Spruce, ii. 413-55.
+
+[218] Bates, ii. 288.
+
+[219] Also called _curari_, _ourali_, _worara_, _woorari_, _urari_,
+_ervadura_. “A powerful South American arrow-poison occurring in commerce
+as a blackish extract, somewhat resinoid in appearance,” used for
+tetanus, hydrophobia, epilepsy (_Dict. Mat. Med._).
+
+[220] _Strychnos castelmoeana_ and _Cocculus toxicoferus_ (Hardenburg, p.
+136).
+
+[221] “Many ingredients are used, such as several kinds of barks, roots,
+peppers (_Capsicum_), ants, and the poison-fangs of snakes” (im Thurn, p.
+311).
+
+[222] Crevaux gives a long description of the preparation of this poison
+(Crevaux, pp. 268-337).
+
+[223] According to Bates, salt is considered to be an antidote for this
+poison (Bates, i. 247).
+
+[224] Bates, ii. 200. This agrees with Darwin, _Descent of Man_, i. 128.
+
+[225] Dr. Galt considered “that there is no more fertile race than the
+pure-blooded Indian of the Marañon” (Orton, p. 465).
+
+[226] Menstruation has been known to commence in England at the age of
+eleven, generally in cases of well-nourished blondes, and in exceptional
+cases even earlier. It has been known to occur at nine years, but this
+was induced by a severe accident. This is unknown among the forest
+people. I made out the age of puberty to be not less than fifteen for
+girls, and eighteen for boys, among the tribes I was with.
+
+[227] Cf. Thomson, _The Fijians_, pp. 179-80; Codrington, _The
+Melanesians_, p. 228, etc.
+
+[228] Tapir flesh is undoubtedly rich, and over-indulgence would have
+evil effects upon any woman independent of other conditions, for equally
+it would upset a man.
+
+[229] A tribe in British Guiana, the Macusi, carry this idea even
+further, and impose such restriction on a man before his actual marriage
+(im Thurn, p. 222). I have never met with this.
+
+[230] Wallace in his account of the Uaupes Indians states that “the women
+are generally delivered in the house, and do no work for four or five
+days” (Wallace, p. 345). This does not tally with the customs among the
+Issa and Japura tribes, at least I never found it to be the case.
+
+[231] These Indians adopt a sitting, _i.e._ continental (not English left
+lateral) position for parturition.
+
+[232] For similar treatment elsewhere see Schomberg, _Reisen in Britisch
+Guiana_, ii. 66.
+
+[233] Hardenburg, p. 135.
+
+[234] I cannot help thinking that some infanticides may be due to the
+fear by the wife that the husband would refrain from the fulfilment of
+his _debitum conjugale_ did he find that it resulted in his having to
+support an unduly increasing family.
+
+[235] Infanticide is a subject open to unlimited misapprehension and
+misrepresentation. Compare with the above, for instance, the statements
+of a missionary among some of the Indian tribes farther south. Mr. Grubb
+speaks of “a shrill cry of pain when a child perhaps has been cruelly
+murdered” (_An Unknown People in an Unknown Land_, p. 17). A reviewer
+with much knowledge and experience of Paraguay, remarks, “I never
+remember hearing the women’s shrill cry of lamentation. The children are
+killed almost immediately after birth, as secretly as possible, and no
+one pays much attention to the fact” (Seymour H. C. Hawtrey, for R.A.I.).
+This is certainly the case with the Issa and Japura groups.
+
+[236] Among the Ucayali deformed children are killed because they “belong
+to the devil” (Orton, p. 321).
+
+[237] A similar practice is reported among the Kuni of British New Guinea
+(Williamson, _The Mafulu_, p. 178).
+
+[238] Among Zaparo tribes also this is the case (Simson, pp. 175, 183).
+
+[239] _Early History of Mankind_, p. 247.
+
+[240] This is one of the many supposed indications of a possible Asiatic
+origin of these peoples, “remnants of a race driven into the mountains
+by the present dwellers in the plains,” as Tylor says of the Miau-tsze,
+who also practice the couvade (_op. cit._ p. 295). The practice is as
+widespread as the performance of the medicine-man or shaman, though
+not invariably an accompaniment of so-called shamanism or kindred
+performances: for example the Arunta have medicine-men but do not
+practise the couvade, the Basque people have couvade but no medicine-man.
+
+[241] In support of this theory note that in Melanesia proper couvade
+has only been observed “where the child follows the father’s kindred”
+(Codrington, p. 228).
+
+[242] According to one writer some Indians go so far as to remove all
+weapons and furniture from the house (Clough, p. 104).
+
+[243] With the Issa-Japura tribes the father is subjected to no such
+torturing processes at the hands of his friends as are recorded of
+other tribes and peoples, “in such sort that from being sick by pure
+imagination they often make a real patient of him” (Tylor, _loc. cit._ p.
+288 _et seq._; _J.A.I._ xviii. 248; cf. also Crevaux, Spix, and Martius,
+p. 381; Schomburg, _Reisen in Britisch Guiana_, ii.).
+
+[244] Bird names, as is commonly the case in South America, are attempts
+to repeat the cry of the birds themselves. _Kweko_, for instance, is a
+most suggestive name for a parrot. Birds, it may here be noted, very
+seldom sing in Amazonia.
+
+[245] See Brinton on this subject, _Religions of Primitive Peoples_, p.
+196. Cf. Howitt, p. 739.
+
+[246] Witoto.
+
+[247] Boro.
+
+[248] Cf. Tylor, _Early History of Mankind_; im Thurn, p. 220; Hodson,
+_Naga Tribes_, p. 176; Spencer and Gillen, _op. cit._ p. 139; Brinton, p.
+195, etc.; Seligmann, p. 140; André, p. 16; Lang, _Origin of Religion_,
+etc.
+
+[249] See _Folklore Journal_; Mitchell, _Past in the Present_.
+
+[250] Every Indian man has two names, his own name and his secret name
+(name of genitalia). The latter is generally a significant name, and is
+used in ribald jesting round the fire, _e.g._ “the _Okaina_ (a rodent)
+went to the stream to bathe,” etc. etc., _ad nauseam_.
+
+[251] The converse of this holds good elsewhere, for the names of the
+dead are often tabu. See Rivers, _Todas_, pp. 625-6; Tylor, p. 142;
+Brinton, pp. 94-5.
+
+[252] Brinton, p. 197.
+
+[253] _Pace_ Ratzel, ii. 128.
+
+[254] Simson, p. 92; Ratzel, ii. 128.
+
+[255] Markham, Clough, p. 104.
+
+[256] Wallace, p. 360.
+
+[257] According to Waitz the Carib medicine-man was accorded the _jus
+primae noctis_ (_Anthropologie der Naturvölker_, iii. 382); Westermarck,
+p. 76. Von Martius also attributes this custom to certain Brazilian
+tribes, the chief, not the medicine-man, claiming the right (i. 113, 428,
+485).
+
+[258] Letourneau, _The Evolution of Marriage_, p. 52.
+
+[259] Wallace, p. 355.
+
+[260] This is quite usual of course. See Westermarck, pp. 445-7.
+
+[261] Cf. custom among the Muskoks (Ratzel, ii. 125. See also im Thurn,
+p. 221; Westermarck, p. 18).
+
+[262] Wallace, p. 346.
+
+[263] Westermarck puts the disparity of years at from five to six among
+natives of Brazil (_op. cit._ p. 137; Spix and Martius, ii. 248).
+
+[264] This invariably takes place in the forest, for no intimacy, even
+between husband and wife, is ever permitted in the publicity of the
+house. According to Westermarck a similar custom prevailed in Fiji (_op.
+cit._ pp. 151-2), but this is denied by Thomson, _The Fijians_, p. 202.
+
+[265] im Thurn, pp. 186, 221.
+
+[266] As De Morgan remarked of a somewhat similar practice among the
+Sakai of Perak, this is a form of marriage by purchase “modified by the
+smallness of the price paid … a purely formal substitute” (_Bulletin de
+la Société Normande de Géographie_, vii. 422; Skeat and Blagden, ii.
+60-61).
+
+[267] Or _potacea_, a nut of bitter taste the size of an acorn.
+
+[268] See von Martius, i. 113. For similar instances cf. Westermarck, p.
+151.
+
+[269] This confirms the account given by Wallace, p. 346; von Martius, i.
+600.
+
+[270] See for similar etiquette, Alcedo-Thompson, _Dictionary of America
+and the West Indies_, i. 416; E.R. Smith, _The Aurocanians_, p. 215;
+Westermarck, pp. 383-4.
+
+[271] This seems to be the same as the Hottentot custom (Kolben, _Present
+State of the Cape of Good Hope_, i. 157).
+
+[272] These are, I believe, the same ants that are used in the
+manufacture of the _curare_ poison. They are fairly common. In
+lingoa-geral they are called _tucaudera_.
+
+[273] “The Carayas maintain quasi-husbands for widows at the public
+cost, lest they should be a source of disturbance to the general peace”
+(Ratzel, ii. 126). Widows are _repi_, prostitutes among some Melanesians
+(Codrington, p. 235).
+
+[274] See, for similar belief among the Zaparo, Simson, p. 174.
+
+[275] For example, among the Bororo when the medicine-man has announced
+that the patient will die in a given time, “if at the end of this time he
+still lives, the executioner, sent of course by the priest, will suddenly
+appear in the hut, sit astride his stomach, and strangle him to death”
+(Cook, p. 55).
+
+[276] See Joyce, p. 249.
+
+[277] See _supra_, p. 151.
+
+[278] The idea of blood crying for vengeance is familiar enough, and the
+most universally-known example is that of the fratricide Cain informed
+that his brother’s blood cried for vengeance from the ground (Gen. iv.
+10).
+
+[279] See _supra_, p. 31.
+
+[280] “A microscopic scarlet _Acarus_” (Orton, p. 485).
+
+[281] “To an Indian smallpox is certain death--the most dreaded enemy,
+who has over and over again swept off entire tribes, and the name or
+passing suspicion of which from youth up has always been trembled at and
+fled from as from death itself” (Simson, p. 142).
+
+[282] There are many varieties of this complaint. In one kind the
+patient wastes away. With another it assumes the characteristics of
+elephantiasis, the legs swell, the flesh becomes soft and podgy, the skin
+unhealthy and white. It is said by the rubber-gatherers that a cure can
+only be effected when the patient sees the sea, in other words through
+complete change of air.
+
+[283] Simson speaks of a “skin-disease common amongst all Indians of
+the higher Marañon, called ‘carata.’ The skin is ‘scaly and blotched
+all over with black’” (Simson, p. 178). This seems to be similar to
+the “cutaneous disease” mentioned by Bates, except that he explicitly
+mentions “the black spots were hard and rough but not scaly” (Bates, ii.
+382). The Purupura Indians have also a skin complaint that causes them
+to be “spotted and blotched with white, brown, or nearly black patches”
+(Wallace, p. 357).
+
+[284] I did myself, and so did my boy Brown and others of the party.
+
+[285] André, pp. 16-110.
+
+[286] Spix and Martius, p. 31.
+
+[287] Simson, pp. 148, 194. A very common practice among Indians.
+
+[288] Koch-Grünberg, pp. 134, 165.
+
+[289] I do not mean the body of an infant killed at birth, which, as I
+have said, is done as quietly and secretly as possible.
+
+[290] “Primary urn-burial is characteristic in the main of the
+Tupi-Guarani family” (Joyce, p. 270).
+
+[291] For the same reason that prompted similar proceeding among the
+Norsemen, an influence still alive in many parts of our own country. Cf.
+Mitchell, _Past in the Present_. An instance is reported from Hampshire
+within the last few years of a child’s toys being broken on its grave.
+(Read, _Folklore Journal_, vol. xxii. p. 322.)
+
+[292] Ratzel, ii. 155.
+
+[293] Shaman is in more general use among Americans. It should be
+remembered that the Zaparo, with whom Simson mentions the _shimano_
+(Simson, pp. 174-5, 177), have had considerably more intercourse
+with western civilisation than the tribes away from the Napo line of
+communication.
+
+[294] Vol. xxiv.
+
+[295] “The chief ‘medicine’ of the Payes on the affluents of the Amazon,
+both northern and southern, and on the Orinoco” (Spruce, ii. 436).
+
+[296] Crevaux, p. 300.
+
+[297] im Thurn, p. 312; Wallace, p. 347; Crevaux, p. 299.
+
+[298] im Thurn, p. 368.
+
+[299] Spruce mentions Barré Indians “sucking out the rheumatism” from
+each other’s shoulders (Spruce, ii. 435).
+
+[300] I am unable to say whether the medicine-man believes that an actual
+stick has been literally in the patient’s flesh, or whether he believes
+that the stick concealed in his mouth becomes a habitation for the
+supernatural power causing the sickness, or if he merely does the whole
+thing to impress his audience, and confirm their belief in his magical
+powers. Quite possibly all these reasons combined in varying degrees are
+present in any case. See Marett, _Anthropology_, p. 247.
+
+[301] A boy “with epileptic tendency being preferred,” as im Thurn noted
+was the case in British Guiana (im Thurn, p. 334).
+
+[302] Waterton, p. 449.
+
+[303] Cf. im Thurn, p. 349.
+
+[304] Cf. Westermarck, p. 152.
+
+[305] Spruce, ii. 430-31.
+
+[306] I have never seen the medicine-man’s palm-leaf boxes mentioned by
+Spruce, ii. 431.
+
+[307] Among the Mungaberra the medicine-men “can and often do assume the
+form of eagle-hawks,” and thus attack other tribes (Spencer and Gillen,
+p. 533). It may be that the medicine-men of Indian tribes nearer the
+mountains, where these birds have their habitat, assume the form of a
+condor, as the medicine-man of the forest districts does that of the
+jaguar, for the condor is “sacred throughout practically the whole of the
+Andean region.” See Joyce, p. 175.
+
+[308] The jaguar and the anaconda are both magical beasts. See Chap. XIX.
+
+[309] Note: Among the Arunta the medicine-man has “a particular kind
+of lizard distributed through his body, which endows him with great
+suctional powers” (Spencer and Gillen, p. 531).
+
+[310] See im Thurn, pp. 329-31.
+
+[311] Spruce, ii. 432. Cf. Rochfort, _Histoire naturelle et morale des
+Isles Antilles_, p. 472.
+
+[312] Spruce, ii 431.
+
+[313] That the words are now incomprehensible may have arisen from the
+fact that the songs were originally intended only to recall things to
+those already instructed, in the same way that Mexican picture records
+“do not tell their stories in full, but only recall them to the minds
+of those who are already acquainted with them” (E. B. Tylor, p. 96). As
+instruction and memory lapsed the words would become mere gibberish.
+Certainly all these tribes appear to have songs they can no longer
+interpret. _La danse est accompagnée des chantes; je regrette de n’avoir
+pu saisir le sens de leurs paroles_ (Crevaux, p. 104). There are old
+dances with words no longer understood among the Tukano (Koch-Grünberg,
+p. 254). This is, of course, by no means peculiar to the Amazonian
+Indians. Some of the singing games played by children in British New
+Guinea have words whose meanings are either obscure or lost (Barton,
+_J.R.A.I._, p. 269). Among the Naga tribes the language of the songs “is
+known in many cases to be now unintelligible to those who sing them”
+(Hodson, _Naga Tribes_, p. 68). Corrobborees are passed from one tribe
+to the other among the Australian natives, “the result is that the words
+are, as a general rule, quite unintelligible to the performers” (Spencer
+and Gillen, _Central Australia_, p. 281). Zulu charm songs are said to
+be incomprehensible to the singers (Callaway, _Religious System of the
+Amazulu_, p. 413). These instances might be multiplied, but they suffice
+to show that this survival of words with lost meanings is world-wide.
+
+As a curious contrast to this we find that the Spanish missionaries in
+South America complained that they had great difficulty in getting their
+converts to remember the Ave Maria and the Paternoster “seeing that
+the words were mere nonsense to them” (Tylor, p. 96). It should not be
+forgotten though, in this connection, that the potency of a word is in
+inverse ratio to its incomprehensibility. Cf. Brinton, _Religions of
+Primitive Peoples_, p. 92.
+
+[314] Possibly there may be a second pine harvest and dance, but the
+great feast takes place in October.
+
+[315] Koch-Grünberg mentions the same among the Opaina.
+
+[316] Koch-Grünberg.
+
+[317] Maw describes quite a different arrangement in a dance at
+Tabitinga. “The dancers were usually linked three together, one principal
+character supported by two others, one on each side; and there were
+generally two sets dancing at the same time, each set being followed by
+women and children dancing or jumping in the similar manner” (Maw, p.
+220).
+
+[318] Koch-Grünberg mentions a dance among tribes north of the Japura
+where the men and women dance together in pairs. The women do not wear
+aprons, and at the end of the figure they disappear.
+
+[319] Spruce, i. 313.
+
+[320] One is irresistibly reminded of the clown, especially of the
+comic man who usually puts in an appearance at military sports. It is
+possible that this custom of dressing-up to secure attention when airing
+a grievance is what has been mistaken by some writers for a part of the
+dance. Sir Roger Casement, quoting Maw in the _Contemporary Review_,
+September 1912, talks of “the masked men” as “a necessary part of each
+performance.” It is certainly quite unknown to me, for I never saw or
+heard of anything of the kind, though in the first edition of Bates’s
+_Naturalist on the River Amazon_ the frontispiece of the second volume
+gives a masked dance of the Tukuna, so I do not suggest that masked
+dancers do not exist, only that they are not known among the tribes of
+the Issa-Japura valleys.
+
+[321] It must be remembered that Indians are extraordinarily generous,
+or improvident, in the matter of food. I should never hesitate to
+join a family party when feeding, without waiting for an invitation.
+The complaint in question probably refers to a whole basket of manioc
+bartered in the plantation, which transaction would belong to quite
+another category.
+
+[322] Crevaux gives an account of an initiation dance where the torture
+applied is by means of the application of stinging ants to the naked
+bodies of the neophytes (Crevaux, pp. 245-50).
+
+[323] Koch-Grünberg, p. 188. The German doctor also gives an account of
+a dance where boys and girls perform in couples. When the figures are
+ended the couples withdraw into the forest, and night covers subsequent
+proceedings. This takes place among the Yahuna of the Kuretu group. The
+men of these tribes when summoned by drum to a dance leave their women
+behind them.
+
+[324] Bates, ii. 207.
+
+[325] Manioc.
+
+[326] Plantation.
+
+[327] Manioc root.
+
+[328] Cassava.
+
+[329] What is it? what is it?
+
+[330] It is good.
+
+[331] As proof that this dance is borrowed, and not common to all the
+tribes that dance it, is the fact that all tribes, whatever their
+language-group, use the Muenane words for the answer.
+
+[332] See Appendix.
+
+[333] The individual in question was labouring under the most
+extraordinary sexual excitement. This may have been due to coca
+influence, to the lubricity of the song words, or to the intoxication due
+to rhythmic movement. The first two possible causes are eliminated by the
+fact that Indians are almost continually under the influence of the drug,
+and that no song could be more lewd than the ordinary conversation of
+these people.
+
+[334] These Muenane riddle dances somewhat resemble the _Pirapurasseya_,
+or fish dance, seen by Bates at Ega. The performers joined hands in a
+ring and questioned the leader in the centre, who finally might try to
+rush the ring, and when successful was succeeded by whoever might be
+responsible for his escape (Bates, ii. 276). im Thurn’s description of a
+Guiana animal dance also tallies more or less with these dances. See im
+Thurn, p. 324.
+
+[335] R. L. Stevenson, _In the South Seas_ (Pocket Edition, 1908), p. 100.
+
+[336] “Dancing to the accompaniment of the human voice only. The word
+_ballad_ is derived from this.” Ital. _ballare_ = to dance. See _Games,
+Sports, and Pastimes_, by D. H. Moutray Read, in the new _Folklore
+Handbook_.
+
+[337] North of the Japura the tribes use what are known as _Yapurutu_
+pan-pipes, which are usually played in pairs. The Tukana call them
+_bupupo_ or _yapurato_ (Koch-Grünberg, p. 300).
+
+[338] Cf. Howitt, _Native Tribes of South-East Australia_, p. 345, chap.
+xi., etc. Bull-roarer too sacred for women to see in Muralug Island,
+Torres Straits (_Expedition Torres Straits_, iv. 276; v. 217).
+
+[339] Cf. Spencer and Gillen, _Native Tribes of Central Australia_.
+Sound supposed by women and children to be the voice of the great spirit
+assisting at the boy’s initiation.
+
+Also Howitt, pp. 594-5; Andrew Lang on “the Bull-roarer” in _Custom and
+Myth_; Haddon, _Study of Man_, p. 309.
+
+[340] See Koch-Grünberg; Humbolt, ii. 363; Nery, p. 261; Spruce, ii. 416;
+Wallace, pp. 348-9.
+
+[341] There are two in the British Museum on the top shelf in the South
+American room.
+
+[342] _Mauritia flexuosa._
+
+[343] Cf. Spencer and Gillen, _op. cit._ p. 517.
+
+[344] The one exception being where parturition is imminent, and no
+helpmate is available.
+
+[345] See Appendix.
+
+[346] Compare with identity of the white culture-hero of the higher South
+American cultures, Quetzalcoatl of the Nahua, Uiracocha of Peru, Tsuma of
+Venezuela. Note this being came from the East. See Joyce, p. 12. He is in
+fact the _Atahocan_ of the Algonquin “remote from the world, to whom no
+worship was paid”(Ratzel, ii. 144).
+
+[347] According to the Malays’ anthropomorphic ideas concerning the
+tiger, “the tiger-folk … have a town of their own, where they live in
+houses, and act in every respect like human beings” (Skeat, _Malay
+Magic_, p. 157). In Perak tigers with human souls live in similar
+villages (Sir W. E. Maxwell, _J.R.A.S._, No. vii. p. 22). The natives of
+Korinchi in Sumatra are credited with the power to assume tiger form at
+will (Sir H. Clifford, _In Court of Kampong_, pp. 65-6).
+
+[348] When Markham says of the Ticuna that “they fear the evil spirit,
+and believe of the good one that, after death, he appears to eat fruit
+with the departed and takes them to his home, this would seem to be a
+distinct survival of missionary teaching, for these Indians were preached
+to between 1683 and 1728.” Christian influence is also shown in their
+naming ceremonies (Markham, p. 200).
+
+[349] These holes in the heavy mould of the forest are caused by
+subsidences. The Indians do not understand how they came to be, and
+explain the fact by asserting they are the work of devils.
+
+[350] Among the Kuretu the soul is believed to hover near the body for
+one day after death, and then to flit away, and finally to retire to a
+beautiful house at the source of a mysterious river.
+
+[351] Skeat, _Malay Magic_, p. 52.
+
+[352] im Thurn, p. 343. Cf. also Skeat, _Pagan Malay_, p. 47.
+
+[353] See Simson, p. 175; Orton, p. 170.
+
+[354] Cf. Spencer and Gillen, p. 498.
+
+[355] This is so frequently the case among primitive peoples as hardly to
+need amplifying. It is very general among the Indian races. See André, p.
+16; im Thurn, pp. 158, 220.
+
+The Algonquin hold that the mention of a man’s name offends his personal
+deity (H. R. Schoolcraft, _Oneota_, pp. 331, 456; _Indian Tribes of the
+U.S._ ii. 65). Australian natives only mention secret names in a whisper
+(Spencer and Gillen, p. 139). See also note on names in Chap. XI.
+
+[356] This belief is also held by the Dyaks. “Their theory is that during
+sleep the soul can hear, see, and understand, so what is dreamt is
+really what the soul sees. When any one dreams of a distant land, they
+believe that his soul has paid a flying visit to that land” (E. H. Gomes,
+_Seventeen Years among the Sea Dyaks of Borneo_, p. 161). Howitt writes
+of the South Australian native: “While his body lies motionless, his
+spirit goes out of him on its wanderings” (Howitt, pp. 410-11). See also
+Seligmann, p. 191.
+
+[357] im Thurn, pp. 329, 343.
+
+[358] See im Thurn, p. 349. In Australia “one black fellow will often
+tell you that he can and does do something magical, whilst all the time
+he is perfectly well aware that he cannot, and yet firmly believes that
+some other man can really do it” (Spencer and Gillen, p. 130).
+
+[359] Spruce relates a custom unknown to me practised by some tribes
+when astray in the bush. The Indian when lost “names the Curupira, and …
+twists a liana into a ring … throws it behind him … follows the direction
+in which it has fallen” (Spruce, ii. 437-8). The Bororo use a bull-roarer
+to drive the bad spirits off (W. A. Cook, _The Bororo Indians of Matto
+Grosso_, p. 55).
+
+[360] The Caribs of the Pomeroon river actually attempt to counter the
+attack of epidemic sickness by blocking the forest tracks “to stop the
+passage of the spirits” (im Thurn, p. 356). In Guiana disease is regarded
+as an evil spirit that prowls around (Brett, _Indian Tribes of Guiana_,
+p. 225).
+
+[361] Bates, ii. 115.
+
+[362] Jurupari is unknown south of the Japura. I can therefore give no
+particulars or description from personal investigation and knowledge of
+aught concerning this all powerful demoniac deity of the northern tribes.
+
+[363] J. D. Pfleiderer, _Die Genesis des Mythus der indogermanischen
+Völker_, p. 48.
+
+[364] Elsewhere this appears not to be the case. See Bates, ii. 114.
+
+[365] _Yacu_ = water, _mama_ = mother, _Mai d’agoa_ (Tupi). _Pachamama_,
+the earth, was worshipped in Peru, and the Inca also reverenced
+_Mamaccocha_, the sea mother (Joyce, pp. 154, 225).
+
+[366] Bates mentions a boy at Ega being devoured by one of these huge
+creatures (Bates, ii. 113-15).
+
+[367] Clough, p. 60.
+
+[368] For description see Wallace, pp. 127-8.
+
+[369] Bates, ii. 264.
+
+[370] For dance at tiger’s “wake” see Skeat, _Malay Magic_, p. 169.
+
+[371] Cf. Darwin, p. 64.
+
+[372] “They consider the sun as the fountain-head of majesty and power
+and even of beneficence, and as the abode of the Great Priests who have
+passed to the spirit world and fear him” (W. A. Cook, _op. cit._ p. 55).
+
+[373] Occidente is on the left bank of the Igara Parana, a tributary of
+the Issa.
+
+[374] _Folklore Journal_, 1912, p. 314.
+
+[375] Casement, _Contemporary Review_, September 1912, p. 325.
+
+[376] Indians on the main river, however, according to Dr. Silva
+Coutinho, “not only give names to a great number of celestial bodies
+[stars], but they have legends about them” (Nery, p. 252).
+
+[377] Markham, pp. 93-4.
+
+[378] Poison.
+
+[379] Narcotic.
+
+[380] Spruce, i. 314. In South America manihot is propagated by means of
+slips or cuttings; but in the Torres Straits the _manihot sp._ introduced
+by the white man is grown from pieces of the old roots (_Exped. Torres
+Straits_, iv. 149).
+
+[381] Clough, p. 212; Humboldt, ii. 182; Oakenfull, pp. 34-5; im Thurn,
+p. 375; Joyce, p. 167.
+
+[382] im Thurn, p. 375.
+
+[383] Humboldt, ii. 400-1; Chanoine Bernadino de Souza, _Para e Amazon_;
+see Nery, pp. 8-9.
+
+[384] Humboldt, pp. 88, 400.
+
+[385] Spruce, ii. 561.
+
+[386] Spruce wisely remarks on this point, “that the Spaniards had
+been for two whole years among Indians who wore their hair long,” and
+therefore were not likely to mistake men for women (Spruce, ii. 459).
+
+[387] Nery, p. 6.
+
+[388] The French traveller rejects the ἀ-, μαζός theory in favour of the
+ἄμα ζώνη--bound with a belt (Nery, p. 2).
+
+[389] Wallace, p. 343.
+
+[390] “I have myself seen that Indian women can fight.… The women pile up
+heaps of stones, to serve as missiles for the men” (Spruce, ii. 457-8).
+This, _vide_ “stones,” is not possible in the Issa-Japura district.
+
+[391] Where tribal differentiation of colour is so marked as among these
+people it is only natural that tales should be told of some mythical
+“white” folk.
+
+[392] Crevaux, _Voyages dans l’Amérique du Sud_, p. 284.
+
+[393] _Komuine_ = monkey (Boro).
+
+[394] “So high”--demonstrated with the hand.
+
+[395] These would be her natural protectors.
+
+[396] Rubber latex. See Depilation.
+
+[397] To hide the unsightliness.
+
+[398] Of the chief’s daughter.
+
+[399] This may be a folk-tale of the monkey-people stealing Indian women
+for their mates. Cf. Skeat, _Malay Magic_, p. 185; Clifford, _Studies in
+Brown Humanity_, p. 243.
+
+But it should not be overlooked that the Boro depile most carefully,
+while the Andoke medicine-man does not depile at all, and the Andoke
+are mortal foes of the Boro. The Karahone also are said not to depile,
+and on this score would be regarded by the Boro as no better than brute
+beasts. So this story may be a traditional account of the actual rape of
+a chief’s daughter by a hostile tribe, the Amazonian version of Helen and
+Troy.
+
+[400] Simson, p. 168.
+
+[401] Spruce, i. 332. im Thurn relates of the Arawak Indians that “each
+family is descended--their fathers knew how, but they themselves have
+forgotten--from its eponymous animal, bird, or plant” (im Thurn, pp. 184,
+376).
+
+[402] The general principle is well known, and is now used both by the
+authorities of the United States and of Great Britain. It consists in
+giving to the vowels in native words their Italian significance, and to
+the consonants that which they have in the English language.
+
+[403] _Notes and Queries on Anthropology_ (1912), pp. 187-96.
+
+[404] Simson, p. 94.
+
+[405] Tylor, p. 25.
+
+[406] Koch-Grünberg transliterates it as _ingetā_, or _ingétā_; and gives
+_marā_ for good, _maringetā_, _marinyetā_, bad; _faréti_, fat; _faré
+ingetā_, thin (_Die Uitóto Indianer_, pp. 10-11).
+
+[407] Orton stated that the Zaparo “have no words for numbers above
+three, but show their fingers” (Orton, p. 170). Simson gives words for
+four and five as in use among those tribes, and after that _manunu_,
+meaning “many-many” (Simson, p. 179).
+
+[408] The reference to monkey or beast is due to the fact that the
+Karahone do not depilate all body and face hair.
+
+[409] Spencer and Gillen, _Across Australia_, ii.
+
+[410] Cf. Ratzel, ii. 125.
+
+[411] For example the Maca, the Guaharibo, and the Guahibo (Spruce, i.
+477).
+
+[412] _Vide_ Chap. VI. p. 101, where it is stated that the dug-out is not
+the autochthonic boat of this country.
+
+[413] These canoes, it must be remembered, are not affairs of everyday
+manufacture. They are tribal possessions, not many in number, and needing
+time, skill, and, above all, experience, to make successfully.
+
+[414] For instance the wrong wood might have been chosen; some trees will
+not open when heated (cf. André, pp. 241-2).
+
+[415] _The Decadence of Useful Arts._
+
+[416] There are no stones in this region it should be remembered.
+
+[417] Wallace gives 5 feet 9 inches or 5 feet 10 inches as not uncommon
+for the height of a Uaupes man (Wallace, pp. 335, 353), and the Isanna
+as very similar. The Bugre are shorter, 5 feet 4 inches, and misshapen
+in the leg (Oakenfull, p. 33). The Tukana, 160 to 170 centimetres
+(Koch-Grünberg).
+
+[418] I had no calipers, and the breadth in all cases is approximate
+only, taken from point to point where it was individually greatest, not
+where, as I subsequently discovered, scientific measurement decrees.
+
+[419] Tukuya, two types dolichocephalic. Koch-Grünberg. Napo,
+brachycephalic (Orton, p. 166). According to Orton the “long-headed
+hordes” came from the south (Orton, p. 316).
+
+[420] Bates noted that the Tapuyo have “small hands and feet” (i. 78),
+and Orton mentions it as a characteristic of races of Tupi origin (Orton,
+p. 316).
+
+[421] The women are muscular in the neck, and will carry considerable
+weights in baskets slung on a band passed round the forehead. They will
+carry through the thickest bush as much as sixty pounds and more in
+the same manner, their strength in lilting and carrying weights being
+confined to the neck.
+
+[422] Robuchon states that the women’s mammae are pyriform, and the
+photographs show distinctly pyriform breasts with digitiform nipples.
+I found them resembling rather the segment of a sphere, the areola not
+prominent, and the nipples hemispherical.
+
+[423] Orton and Galt, however, note that “one will sometimes find the
+skin of the Indian rough, hard, and insensible, like the skin of the
+larger lower animals” (Orton, p. 591). _Skin--Colour and Texture._--“Je
+remarque que ces Indiens, comme les Roucouyennes et les Oyampis, out les
+plis de la peau beaucoup plus saillants que chez les races blanches et
+noires. Les plis du genou resemblent à une peau d’orange. Je voudrais
+représenter exactement ces détails, qui m’intéressent au point de vue
+anthropologique, mais je trouve la difficulté insurmontable. Il me vient
+toutefois une idée; je fais barbouiller un Indien avec du roucou des
+pieds à la tête, et, à moyen d’un papier mince que j’applique avec la
+main, j’obtiens tous les détails de structure. Le roucou agit comme de
+l’encre d’imprimerie. Avec un pen d’exercice je recueille les détails
+anatomiques de toutes les parties du corps, et particulièrement des
+pieds, des mains, du genou et des coudes. Il est à noter que la peau
+d’enfant à la mamelle présente des plis aussi accentués que ceux d’un
+blanc à l’âge adulte. La peau d’un jeune homme vue à l’œil me semble
+grossie trois fois à la loupe” (Crevaux, p. 303). We have already noted
+that there Issa-Japura tribes are free from the skin diseases that Napo
+and other Indians frequently develop. This probably accounts for the
+contradiction of my observances with the notes of other writers.
+
+[424] See note on Depilation, p. 282.
+
+[425] According to Wallace, though the Uaupes Indians remove facial or
+body hair the Isanna tribes do not (Wallace, pp. 353, 356).
+
+[426] Wallace, p. 354.
+
+[427] I have found this amongst all people who sleep on the ground, I
+take it, for obvious buffer reasons.
+
+[428] Simson, p. 93.
+
+[429] During menstruation women wash more frequently, with intent to
+arrest as well as to hide their condition. A girl at such times will
+bathe as often as twenty times in a day. The cold water acts as a styptic.
+
+[430] Bates, i. 200.
+
+[431] Simson, p. 234.
+
+[432] Simson, p. 235.
+
+[433] Four inches to fourteen inches in length (Keane, p. 551).
+
+[434] Orton, pp. 482-3.
+
+[435] Ratzel, ii 170.
+
+[436] Oakenfall, p. 26.
+
+[437] The only yellow free colour.
+
+[438] Approximate measurements.
+
+[439] Outer measurements not, as they should have been, from head of
+fibula to top of great trochanter.
+
+[440] _N.B._--As Case 2 was growing, further measurements will be useless
+if not misleading. These were taken with the help of a medical man and
+are therefore more correct than other measurements.
+
+[441] _Neva_ = also sun, morning.
+
+[442] _Navena_ = ghost, devil.
+
+[443] _Bope_ = also disembodied soul.
+
+[444] _Yaya_ = father.
+
+[445] _Yaperikuli_ = heroes.
+
+[446] Originally father or creator, not Great Spirit.
+
+[447] Soul of father or parents.
+
+[448] Soul of Evil.
+
+[449] Heroes of the tribe.
+
+[450] Also great-great-grandfather.
+
+[451] House.
+
+[452] _Ri-e-i_, white man.
+
+[453] _Itoma_, sun.
+
+[454] _Ei-fo-ke_, Turkey-buzzard.
+
+[455] Privy name. Reference to the fact that all Indians have two names.
+See p. 154 for note on _nomen penis sui_.
+
+
+LIST OF BOOKS REFERRED TO
+
+
+ALCOCK, FREDERICK, F.R.G.S.
+
+    _Trade and Travel in South America._ 2nd edit. London, 1907.
+
+ANDRÉ, EUGENE, F.R.G.S., F.Z.S., M.S.A.
+
+    _A Naturalist in the Guianas._ London, 1904.
+
+BANCROFT, HUBERT HOWE.
+
+    _Native Races of the Pacific States._ 1875-76.
+
+BANCROFT, EDWARD, and STEDMAN.
+
+    _Essay on Natural History of Guiana._ 1769.
+
+BATES, HENRY WALTER.
+
+    _The Naturalist on the River Amazons._ 2 vols. London, 1863.
+
+BRAZILIAN YEAR BOOK. 1908.
+
+BRINTON, DANIEL G.
+
+    _Religions of Primitive Peoples._ London and New York, 1897.
+
+CLOUGH, R. STEWART.
+
+    _The Amazons._ London, N.D.
+
+CREVAUX, DR. J.
+
+    _Voyages dans l’Amérique du sud._ Paris, 1883.
+    _Fleuves de l’Amérique du Sud, Yapura._
+    _Vocabulaire français-roucouyennes._
+
+DARWIN, CHARLES.
+
+    _Narrative of the Voyages of the Beagle._ 1839.
+
+DENIKER, JOSEPH, SC.D. Paris.
+
+    _The Races of Man._ 1900.
+
+ENOCH, C. REGINALD, F.R.G.S.
+
+    _The Andes and the Amazons._ London, 1907.
+    _Peru._ London, 1908.
+
+FOUNTAIN, PAUL.
+
+    _The River Amazon._ London, 1914.
+
+HARDENBURG, W. E.
+
+    _The Putumayo._ London, 1912.
+
+_History of South America_, by an American. 1899.
+
+HUMBOLDT.
+
+    _Personal Narrative of Travels to the Equinoctial Regions by
+       the New Continent, 1799-1804._ 3 vols. Bohn edition. 1852-53.
+
+IM THURN, SIR EVERARD F., K.C.M.G.
+
+    _Among the Indians of Guiana._ London, 1883.
+
+JOYCE, THOMAS A.
+
+    _South American Archæology._ London, 1912.
+
+KOCH-GRÜNBERG, DR. THEODOR.
+
+    _Aruak-Sprachen Nordwestbrasiliens und der angrenzenden Gebiete._
+    _Journal de la Société des Américainists de Paris._
+    _Zwei Jahre unter den Indianern: Reisen in Nordwest-Brasilien,
+       1903-1905._ 2 vols. Berlin, 1910.
+    _Zeitschrift für Ethnologie._
+
+MARKHAM, SIR CLEMENTS R., K.C.B.
+
+    _Expeditions into the Valley of the Amazons._ Hakluyt Society, 1911.
+    _Peruvian Bark: Introduction of Chinchona Cultivation into India,
+       1860-1880._ 1880.
+
+MAW, HENRY LISTER.
+
+    _Journal of a Passage from the Pacific to the Atlantic._ London, 1829.
+
+NERY, BARON DE SANTA-ANNA.
+
+    _The Land of the Amazons._ London, 1901.
+
+OAKENFULL, J. C.
+
+    _Brazil in 1909._ 1st edit. Paris, 1909.
+
+ORTON, JAMES.
+
+    _The Andes and the Amazon._ New York, N.D.
+
+RATZEL, F.
+
+    _History of Mankind._ 3 vols. Translated from 2nd German edition by
+       Sir A. J. Butler, M.A. London, 1897.
+
+RICE, HAMILTON.
+
+    _Quito to Iquitos by the River Napo._
+    _Further Explorations in the North-West Amazon Basin. The River
+       Uaupes._
+
+RODWAY, JAMES.
+
+    _Guiana: British, Dutch, and French._ London, 1912.
+    _In the Guiana Forest._ 1894.
+
+SCHOOLCRAFT, H. R.
+
+    _Historical and Statistical Information respecting the History, etc.,
+       of the Indian Tribes of the United States._ Philadelphia, 1851.
+
+SIMSON, ALFRED.
+
+    _Travels in the Wilds of Ecuador and Exploration of the Putumayo
+       River._ 1886.
+
+SPIX, JOHN BAPTIST VON, and MARTIUS, C.F.P. VON.
+
+    _Travels in Brazil, 1817-20._ Translated by H. E. Lloyd. 1824.
+
+SPRUCE, RICHARD, Ph.D.
+
+    _Notes of a Botanist on the Amazon and Andes._ 2 vols. London, 1908.
+    _The Great River. Notes on the Amazon and its Tributaries._
+       London, 1904.
+
+TYLOR, E. B.
+
+    _Researches into the Early History of Mankind._ London, 1865.
+
+VON MARTIUS, C. F. P.
+
+    _Zeitschrift für Ethnologie._
+    _Beiträge zur Ethnographie und Sprachenkunde Amerikas zumal
+       Brasiliens._
+
+WALLACE, ALFRED R.
+
+    _A Narrative of Travels on the Amazon and Rio Negro._ London, 1853.
+    _On the Rio Negro._ Pamphlet. 1853.
+
+WATERTON, CHARLES.
+
+    _Wanderings in South America._ New edition. London, 1879.
+
+WESTERMARCK, EDWARD.
+
+    _The History of Human Marriage._ 3rd edit. London, 1901.
+
+WOODROFFE, JOSEPH F.
+
+    _The Upper Reaches of the Amazon._ London, 1914.
+
+
+INDEX
+
+
+    Agriculture--
+      crops, 104;
+      harvest, 193;
+      plantations, 103;
+      sowing, 104;
+      women’s work, 67, 102, 103-4, 105, 131
+
+    Amazons, legends of, 239-40
+
+    Animals--
+      characteristics, 243-4;
+      no domestic, 52, 102;
+      scarcity of, 128
+
+    Agouti, 127;
+      ant-bear, 127;
+      armadillo, 128;
+      bats, 51;
+      capybara, 127, 147;
+      deer, 128, 147;
+      dogs, 102;
+      jaguar, 36, 182, 185, 221, 231, 232, 244;
+      monkey, 52, 128;
+      paca, 127;
+      peccary, 128-9, 148;
+      tapir, 126-7, 147, 174, 244;
+      tiger (_see_ jaguar)
+
+    Anthropophagy--
+      dances, 204-5;
+      feasts, 119-23;
+      practices, 119;
+      reasons for, 120-21, 177
+
+    Arts and Crafts--
+      basket-making, 96-7;
+      carving, 91-2, 93, 211-12;
+      painting, 91 (_see_ Ornaments);
+      pottery, 62, 95, 96
+
+
+    Bates, Henry Walter, 52, 122, 125, 146, 199, 229, 232, 278, 280
+
+    Birds, 129;
+      shooting, 108, 109;
+      condor, 183-4;
+      parrots, 129
+
+    Birth--
+      customs, 146-52, 273 (_see_ Couvade);
+      of twins, 120, 150, 244
+
+    Boats--
+      how made, 100-101;
+      canoes, 29, 101, 265;
+      rafts, 101, 265
+
+    Bridges, 28-9
+
+    Brown, John, 3, 8, 9, 14, 38, 249, 253
+
+    Burial, 175-7, 224;
+      customs, 74, 81, 176, 226
+
+
+    Casement, Sir Roger, 234-5, 246
+
+    Cassava--preparation of, 132-4, 144;
+      grater, 99, 131-2;
+      squeezer, 98, 132;
+      Boro, 98, 132;
+      manufacture of, 98-9;
+      Witoto, 55, 98-9, 132
+
+    Cazes, Mr. David, 2
+
+    Charms, 234
+
+    Chiefs, 64-5, 67, 71, 193, 200, 244, 257, 258-9;
+      death of, 65, 70, 119, 176-177;
+      dress of, 71, 73, 76;
+      house of, 47, 64;
+      influence of, 64;
+      wife of, 73, 123, 159, 200-201;
+      women of, 64, 159-60, 163;
+      Katenere, 63;
+      Nonugamue, 63
+
+    Children, 88, 124-5, 135, 146-58, 208, 236, 257, 269, 276;
+      boys, 76, 108, 165;
+      capture of, 69-70, 274;
+      girls, 68, 157-8, 164-5;
+      marriage of, 162;
+      stealing by spirits and tigers of, 219-20, 224, 232;
+      treatment of, 155-8;
+      toys, 93, 108, 156
+
+    Chorrera, 4, 5, 6, 21
+
+    Climate, 22-4, 25
+
+    Clough, R. Stewart, 158
+
+    Coca, 104, 106, 135, 141-2, 179, 187;
+      effects of, 142-3, 264, 277;
+      preparation of, 141
+
+    Couvade, 55, 148, 151-3
+
+    Crevaux, Dr., 55, 57, 72, 87, 96, 240-41, 276
+
+
+    Dances, Chapter XV.;
+      complaints at, 196-7;
+      decoration and dress for, 75, 191;
+      effect of, 202-3, 204;
+      invitation to, 192, 253;
+      preparation for, 140, 191-2, 273.
+      Varieties--
+        animal, 201-2;
+        harvest, 193, 199-201, 208;
+        initiation, 197-9;
+        Jurupari, 157, 158, 198, 212-13;
+        riddle, 201-2, 209;
+        war, 203-5
+
+    Dancing-ground, 42, 102, 192, 194
+
+    Dancing staff, 193-4, 195
+
+    Dancing steps, 193, 194, 195-6, 203, 204
+
+    Death, 167, 168, 170, 173, 187;
+      how regarded, 61, 175, 178;
+      of chief, 65;
+      homicide, 118, 171-2;
+      infanticide, 146, 149-51, 170-71
+
+    Deniker, J., 54
+
+    Depilation, 120, 181-2, 241-2, 273, 281, 282
+
+    Disease, 168, 178, 186, 229;
+      chronic, 170;
+      infections, 169, 173;
+      mental, 169;
+      skin, 174, 175;
+      beriberi, 13, 174;
+      fever, 173, 188;
+      smallpox, 174;
+      sun-sickness, 173
+
+    Divorce, 165-6
+
+    Dress, 71-6;
+      ceremonial, 74;
+      travellers’, 15, 16;
+      men’s, 72, 73;
+      women’s, 72, 79;
+      breech-cloth, manufacture of, 73;
+      never removed, 74;
+      ligatures, 73, 77, 83, 84, 271.
+      _See_ Chief, Medicine-man, etc.
+
+    Drinks, 101;
+      fruit, 104, 139;
+      herb, 138, 277;
+      intoxicating, 139-41;
+      unfermented, 138-9
+
+    Drugs, 140, 175, 182-3, 187.
+      _See_ Poison, Snuff, etc.
+
+
+    Escort, 3, 5, 71;
+      management of, 4
+
+
+    Field of exploration, 17-18
+
+    Fire, 48-50, 133, 136;
+      by friction, 48;
+      method of making unknown, 48;
+      plan of, 49, 50
+
+    Fish, 130-31, 245, 279
+
+    Fishing, 112;
+      nets, 112;
+      poison, 113-14;
+      spears, 113
+
+    Floods, 22, 32;
+      traditions of, 238-9
+
+    Folk tales, 221-3, 231, 236-45;
+      animal stories, 243-4
+
+    Food, 50, 126, 128-30, 257;
+      difficulty of obtaining, 15, 38;
+      eggs not taken for, 130;
+      influence of, 121, 147-8;
+      preparation of, 68, 105, 135-6;
+      scarcity of, 120, 121, 126;
+      when eaten, 134-5;
+      animal, 128-9;
+      peppers, 105, 134;
+      pepper-pot, 129, 134, 135-6;
+      reptiles, 129;
+      salt, 124, 134;
+      sauces, 133-4, 139;
+      sugar, 104;
+      turtles, 129-30;
+      vermin, 130.
+      _See_ Cassava, Fish, Fruit, etc.
+
+    Forest--
+      birds in, 26;
+      description of, 26-8;
+      depressing influence of, 14, 35-6, 265, 266;
+      lost in, 37;
+      noises in, 34;
+      silence of, 34;
+      tracks in, 28;
+      travellers’ danger in, 29;
+      travelling in, 14, 34-5, 37
+
+    Fruit, 104, 135, 136-7
+
+
+    Games, 157;
+      singing, 208-9;
+      toys, 93, 108, 156
+
+    Geophagy, 124-5
+
+
+    Hair, 274, 282, 285;
+      how worn, 77-8, 274
+
+    Hammocks, 55;
+      how slung, 47, 50;
+      made by women, 97-9;
+      Witoto, 54, 91
+
+    Hardenburg, W. E., 62, 88, 149, 163
+
+    Head hunters, 122
+
+    Houses--
+      private, 47-8, 161;
+      temporary, 47;
+      tribal--
+        Maloka, 40-52;
+        construction of, 43;
+        light in, 49, 186;
+        plan of, 41, 43, 45, 46;
+        sites of, 42, 118;
+        thatch of, 43-4
+
+    Hunting, 104, 107-9, 110;
+      rights, 112;
+      traps, 110-11.
+      _See_ Weapons
+
+
+    Igarape Falls, 6
+
+    Implements--
+      household, earthenware, 133;
+      human bone, 123-4;
+      knives, 94;
+      pestle and mortar, 99, 141;
+      tools, 95, 214;
+      troughs, 99, 140-41
+
+    im Thurn, Sir Everard, 55, 76, 152, 239, 274
+
+    Indian--
+      beliefs, Chapter XVII.;
+      character, 4, 13, 61, 110, 156, 202, 236, 256-64, 275-6;
+      cruelty to infirm, 169-70, 257;
+      ethics, 65, 66, 68, 260-62;
+      kinship, 67, 244, 276;
+      life, 50, 236, 246, 276-7, 278;
+      origin not decadent remnants, 54, 264-6;
+      physical traits, 269, Appendices;
+      treachery, 4, 258, 259-60;
+      types, classification of, 53;
+      Neolithic, 94, 266;
+      voice, 207, 253-4;
+      woodcraft, 106-7
+
+    Indians, story of white, 240-41
+
+    Initiation, 157-8, 165;
+      dances, 197-9
+
+    Insects, 30, 52;
+      ants, 32, 33, 51, 97;
+      beetles, 82;
+      bees, 31, 51, 130;
+      butterflies and moths, 31-2;
+      flies, 30;
+      harvest boys, 31;
+      jiggers, 51, 173-4, 273;
+      lice, 130, 173, 273;
+      mosquito, 31, 51;
+      pium, 30-31, 51, 173;
+      sand-fly, 31;
+      spiders, 51;
+      ticks, 31, 273;
+      wasps, 31, 130
+
+
+    Joyce, Thomas A., 238
+
+    Jurupari, 229, 231.
+      _See also_ Dances
+
+
+    Koch-Grünberg, Dr., 46-7, 60, 77, 111, 121, 151, 159, 175, 188, 194,
+        198, 247, 251, 262, 275, 282
+
+
+    Language, Chapter XIX.;
+      drum, 215-216, 253;
+      gesture, 251;
+      groups, 56, 57, 247
+
+
+    Manioc, 68, 104-5, 237-8;
+      cultivation of, 104-5, 131;
+      preparation of, 98-99, 131-4
+
+    Map--Witoto, 92-3
+
+    Markham, Sir Clements, 158
+
+    Marriage, 60-61, 66-7, 103, 159-67;
+      arrangement of, 158, 159-60, 161;
+      betrothal, 162;
+      ceremonies, 160-164;
+      fidelity in, 69, 166-7, 262
+
+    Medicine-man, 140, Chapter XIV., 273;
+      dress of, 73, 95, 183;
+      functions of, 151, 153, 168-9, 175, 185-6;
+      influence of, 64;
+      magic powers of, 172, 178, 179-81, 182, 183-4, 185, 186-7, 188-9,
+        224, 228, 232;
+      poison made by, 144, 178-9;
+      succession of, 181-2
+
+    Music, 207-8;
+      instruments, 210-17;
+      castanets, 213;
+      drums, 204, 210, 214-17;
+      signal drums, 192, 214-17, 253;
+      flutes, 123, 192, 194, 195, 197, 204, 210, 211-12;
+      pan-pipes, 192-3, 204, 210-211;
+      rattles, 83, 64, 194, 195, 210, 213-14;
+      trumpets, 211-12;
+      whistles, 194, 212;
+      Jurupari, 212-213
+
+
+    Names, 56, 244, 248;
+      boys’ and girls’, 153;
+      not mentioned, 57, 153-4, 220, 226-7, 280
+
+    Nery, Baron de Santa-Anna, 239
+
+
+    Ornaments, 76;
+      beaded garlands, 79-80, 81, 191;
+      beads, 79-80, 82-3, 213;
+      bracelets, 82-3, 213;
+      combs, 77-8;
+      earrings, 85, 86, 275;
+      feather head-dress, 75-6;
+      feathers, 76-7, 83, 85, 86, 191;
+      labret, 86;
+      necklaces, 81, 82, 192;
+      nose-pin, 86, 275;
+      paint, 87, 192;
+      scarification, 66;
+      tattoo, 86, 87
+
+    Orton, James, 279, 280, 281
+
+
+    Palms, 30;
+      _Aeta_, 26;
+      _Astrocaryum_, 30;
+      _Chambiri_, 97;
+      edible varieties, 137;
+      _Iriartea ventricosa_, 29
+
+    Poisons, 91, 111, 116-17, 168-9, 219, 259-260;
+      preparation of, 144-5, 179
+
+    Proverbs, 259-60
+
+
+    Rainfall, 22
+
+    Reptiles, 33;
+      anaconda, 184, 231;
+      boa-constrictor, 36;
+      frogs, 129;
+      iguana, 129;
+      lizard, 184;
+      snakes, 129;
+      fear of, 30
+
+    Rice, Hamilton, 97
+
+    Rivers, Dr. W. H. R., 237, 266
+
+    Rivers--
+      Acre, 11;
+      Aiary, 198;
+      Amazon, 17, 18, 20, 33;
+        fascination of, 17, 205;
+        scenery of, 25;
+        soil of basin, 24-5;
+      Apaporis, 10, 59;
+      Avio Parana, 7, 8;
+        black water streams, 19;
+      Fue, 6;
+      Igara Parana, 3, 4, 5, 6, 7, 18, 58;
+        description of, 20;
+      Ira, 58;
+      Issa, 5, 17, 19, 24, 31, 58, 173;
+        description of, 19, 22;
+        fish in, 131;
+      Issanna, 140;
+      Japura, 6, 8, 11, 12, 17, 18, 33, 58, 70, 73;
+        camp on, 5;
+        scenery, 22;
+      Kahuinari, 7, 11, 13, 31, 58;
+        description of, 22;
+        journey up, 5;
+      Kara Parana, 18, 21;
+      Kuemani, 58;
+      Miriti, 74;
+      Napo, 18, 24, 222;
+        houses on, 44;
+        trip up, 2;
+      Negro, 18, 19, 104, 222;
+      Papunya, 8, 20, 58;
+      Tapajos, 113;
+      Tauauru, 58;
+      Tikie, 61;
+      Uaupes, 18, 59, 91, 112;
+        black water, 19;
+        description of, 18-19;
+        houses on, 46;
+        proposed journey up, 1, 2, 13;
+      Wama, 58;
+        white water streams, 19
+
+    Robuchon, Eugene, 20, 31, 46, 65, 86, 88, 89, 99, 119, 122, 123, 163,
+        210, 270, 272;
+      deserted by carriers, 7, 8;
+      disappearance of, 5-12;
+      dog “Othello,” 7, 8, 10, 11;
+      last camp of, 9, 10;
+      last message from, 8;
+      previously lost, 11;
+      relief expedition, 8, 11;
+      survivors of, 6
+
+    Route, 2, 3, 5, 8, 9, 10, 13
+
+    Rubber--
+      Belt, 3, 4, 11, 40, 72, 80, 91, 101, 174, 257;
+      gatherers, 2, 3, 48, 63-4
+
+
+    Simson, Alfred, 243, 250
+
+    Slaves, 5, 69-70, 124, 170, 263, 273.
+      _See_ Tribes, Maku
+
+    Snuff, 143, 179
+
+    Songs, 190, 196-7, 199-201, 206-10;
+      meaning of words lost, 190, 207-8
+
+    Spelling, 57, 248-9
+
+    Spines, 30, 35;
+      used for combs, 77
+
+    Spirits, 92, Chapter XVII.;
+      evil, 179, 185, 186, 218, 219-20, 223-5, 228-9, 233;
+      Good, 218-19, 221, 223, 224-5, 226;
+      appeared to man, 93, 221-3, 237-8;
+      land of, 225-6;
+      return of, 172, 176, 177, 182, 224-7;
+      transmigratory, 224-5, 227-8
+
+    Spruce, Richard, 19, 32, 33, 99, 101, 128, 140, 188, 238, 240, 244, 280
+
+    Stone--
+      absence of, 20, 24, 94, 265;
+      found at Chorrera, 21;
+      axes, 94, 260;
+      magic stones, 163, 184
+
+
+    Tabu, 90, 243;
+      birth, 121;
+      coca, 68, 105, 143, 152;
+      food, 121, 135, 147-148, 152, 155, 243-4;
+      medicine-man’s, 162;
+      removal of, 180;
+      tobacco, 68, 105, 143-4;
+      women’s, 68, 105, 123, 135, 140, 143-4, 147-8, 165, 197, 212-13,
+        240, 244
+
+    Teeth, 275;
+      necklaces of human, 81, 124;
+      painted black, 88
+
+    Theft, 171
+
+    Tobacco, 104, 105, 187;
+      ceremonial licking, 153, 163, 221, 259;
+      drinking, 65-6, 179;
+      not smoked, 143, 158;
+      preparation of, 143-4.
+      _See_ Tabu
+
+    Tobacco palaver, 46, 64, 65-6, 117, 165, 197, 222
+
+    Tobacco pot, 65, 144, 259
+
+    Trade, 61-2, 79, 91, 105-6, 108, 134, 144, 164, 217
+
+    Travelling in bush, 14, 15, 258-9;
+      dress, 75;
+      equipment, 15-16
+
+    Tree-climbing, method of, 106
+
+    Tribal Council, 65;
+      house (_see_ Houses, Maloka);
+      marks, 61, 66, 158;
+      signals, 253;
+      system, 62-5
+
+    Tribes, 54, 56, 57, 58, 256;
+        localities changing, 59, 62
+      Aiary, 198
+      Akaroa, 247
+      Andoke, 132, 133, 157, 162, 231, 273;
+        appearance of, 60, 269, 275;
+        cannibals, 120;
+        character, 257, 259, 277;
+        chief, 5, 65;
+        country of, 5, 58, 201;
+        dress of, 78;
+        language of, 14, 248;
+        manufactures, 108;
+        medicine-man, 73, 95, 178, 179, 182, 183, 184;
+        ornaments, 88, 89;
+        statistics, 59, 247
+      Apaporis, 74, 75, 116, 158, 175
+      Arekaine, 120
+      Arawak, 54
+      Auhishiri, 60
+      Bara, 59, 61, 108, 140, 157, 188, 282;
+        statistics, 247
+      Boro, 55, 56, 71, 104, 112, 127, 132, 133, 152, 153, 154, 162, 178,
+          216, 276;
+        appearance of, 58, 60, 61, 77, 269, 271, 274-5, 282;
+        beliefs of, 230-31, 234;
+        cannibals, 119;
+        character, 277;
+        chief, 63, 197;
+        dances, 194, 199-201;
+        dress, 75, 78, 83, 84;
+        folk-tales, 221-2, 241-2, 244;
+        houses, 44, 48;
+        language, 14, 220, 221, 247, 248, 251, 252, 253, and Appendices;
+        localities, 58;
+        manufactures, 91, 96, 108;
+        ornaments, 82, 85, 86;
+        statistics, 59, 247;
+        tribal marks, 87;
+        tribes, 9, 11, 12, 62;
+        women, 149
+      Botocudo, 129
+      Carib, 54
+      Catanixi, 101
+      Chepei, 6
+      Cobeu, 120
+      Coto, 58
+      Issa, 79, 124
+      Issanna, 140, 160
+      Japura, 59, 60, 75, 79, 116, 124
+      Jivaro, 115-16, 122, 158
+      Karahone, 55, 57, 61, 140, 174-5, 178;
+        appearance, 269, 274, 282;
+        character, 257-8, 259-60;
+        dress, 74, 77;
+        manufactures, 96;
+        ornaments, 87;
+        poisons made by, 91, 111, 118, 144, 168, 259-60;
+        slave boy, 5, 273;
+        statistics, 59, 62, 247;
+        women, 80
+      Kuretu, 104, 139, 140, 147, 150, 164, 176, 226;
+        appearance, 275, 281, 282;
+        character, 60;
+        country, 59, 75;
+        dress, 75;
+        houses, 48;
+        language-group, 58-9;
+        ornaments, 84, 86;
+        statistics, 247
+      Maku, 60, 61, 257, 262;
+        appearance, 269;
+        country, 59, 70;
+        slaves, 70
+      Makuna, country, 75;
+        dress, 75, 77;
+        houses, 44;
+        ornaments, 86;
+        statistics, 247
+      Menimehe, 10, 56, 61, 75, 115, 139, 140, 143, 144, 276;
+        appearance, 273, 274, 283, 284;
+        beehives made by, 51, 130;
+        character, 11;
+        country, 11, 58, 74;
+        dress, 74, 76;
+        language, 247, 248;
+        monkeys kept by, 52;
+        ornaments, 86;
+        pottery, 62, 91, 95;
+        shooting fish, 113;
+        statistics, 59, 247;
+        tribal marks, 61, 86, 158;
+        weapons, 95, 115, 116, 117, 194;
+        women, 10
+      Muenane, 56, 61, 235;
+        appearance, 77, 282;
+        character, 277;
+        country, 8, 63, 201;
+        dance, 201, 208-9;
+        language, 247, 248;
+        ornaments, 86, 275;
+        statistics, 59, 247
+      Napo, 58, 60, 74, 76, 82, 85, 112, 113, 116, 140, 174, 175, 211, 217
+      Nonuya, 56;
+        character, 277;
+        chief, 63;
+        country, 58, 63;
+        dress, 76;
+        houses, 44, 46;
+        language, 248;
+        statistics, 59, 247
+      Okaina, 56, 60, 99, 132, 188, 216, 235;
+        appearance, 269, 275, 282;
+        country, 56;
+        dances, 194;
+        dress, 81, 83;
+        language, 248;
+        ornaments, 89;
+        statistics, 59, 247;
+        tribes, 62
+      Opaina, 59;
+        country, 74;
+        dress, 75;
+        statistics, 247
+      Orahone, country, 58;
+        dress, 74;
+        houses, 46;
+        medicine-man, 73, 183;
+        name, 58, 85;
+        ornaments, 85, 88
+      Orahone, 60
+      Ouayana, 241
+      Pegua, 247
+      Piohe, 60
+      Resigero, 60, 61, 132;
+        appearance, 274, 282, 283, 284;
+        baskets for ants, 97;
+        cannibals, 120;
+        character, 277;
+        chief, 63-4;
+        country, 8, 58, 63, 201;
+        dress, 77;
+        language, 248;
+        ornaments, 86;
+        statistics, 59, 247
+      Rio Negro, 140, 221
+      Roucouyennes, 57
+      Saha, 247
+      Saka, 86
+      Tapajos, 113
+      Tikie, 61, 104, 111, 147, 159, 194, 247, 270, 274, 275
+      Tukana, 59, 61, 112, 135, 194, 195, 213, 234, 247, 270, 274, 275, 282
+      Tureka, 194
+      Turuka, 191, 194, 196
+      Tutapishco, 58
+      Tuyuka, 86, 143, 151, 254, 282;
+        houses, 47
+      Uacarra, 161
+      Uaenambeu, 160
+      Uaupes, 59, 76, 85, 116, 140, 143, 188, 198, 244, 248
+      Umaua, 74, 247
+      Witoto, 54, 55, 56, 57, 61, 71, 104, 115, 126, 132, 133, 151, 152,
+          153, 162, 178, 211, 231, 235;
+        appearance, 58, 60, 269, 270, 271, 274, 282;
+        arts, 92, 93;
+        character, 277;
+        country, 58;
+        dance, 209-10;
+        dress, 76, 63, 84;
+        fishing, 112, 113;
+        houses, 44, 46, 48;
+        language, 14, 72, 220, 221, 248, 250, 251, 252, 253;
+        language-group, 56, 247;
+        manufactures, 91;
+        ornaments, 82, 86, 88, 89;
+        statistics, 59, 60, 62, 247;
+        tribes, 6, 62, 93;
+        tree venerated by, 233;
+        women, 3, 149, 155, 223, 260, 275
+      Yahabana, 84, 86
+      Yahua, 247
+      Yahuna, 10, 116, 143, 194, 247
+      Yakuna, 86
+      Yuri, 56, 247
+      Zaparo, 226
+
+    Tylor, E. B., 152, 264
+
+
+    Vampires, 51-2
+
+    Vegetable life, 24-5, 26, 104, 130, 131
+
+    von Martius, Dr., 57, 264
+
+
+    Wallace, Dr. Russell, 1, 19, 44, 46, 60, 91, 101, 121, 134, 158, 160,
+        161, 197, 240, 275, 280
+
+    War, 61, 62, 117-19;
+      blood feuds, 61;
+      causes, 61;
+      dance, 203-5;
+      defensive, 5, 14, 118;
+      dress, 74;
+      preparations for, 5, 185;
+      prisoners in, 118-19, 120-21, 159-60;
+      strategy, 117
+
+    Waterton, Charles, 181
+
+    Weapons, 16, 115;
+      arrows and darts, 109, 115-17, 145;
+      blow-pipes, 91, 107, 108-9;
+      club, 115, 116, 194;
+      fish-spears, 113;
+      guns, 91, 115;
+      javelins, 111, 113, 115, 116, 145;
+      shields, 115, 119;
+      swords, 115, 116, 260;
+      traps, 110-11, 118
+
+    Women, 47, 51, 67-9, 195;
+      behaviour of, 262;
+      duties and work of, 90-91, 95, 96, 97, 98, 102, 134, 173-4, 263;
+      mothers, 147-55;
+      physical traits, 271-2, 282;
+      position of, 135, 159-160, 161, 164-5, 166, 240;
+      prostitutes, 159-60, 167;
+      widows, 167
+
+THE END

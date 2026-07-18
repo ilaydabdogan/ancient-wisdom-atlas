@@ -1,0 +1,6182 @@
+# Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona
+
+                        AW-AW-TAM INDIAN NIGHTS
+
+                                 Being
+
+             The Myths and Legends of the Pimas of Arizona
+
+
+                             As received by
+
+                            J. William Lloyd
+
+                  From Comalk-Hawk-Kih (Thin Buckskin)
+
+                       Thru the interpretation of
+
+                           Edward Hubert Wood
+
+
+                          Price $1.50 Postpaid
+                   The Lloyd Group, Westfield, N. J.
+
+
+                 Copyright, 1911, by John William Lloyd
+
+
+                                            January 20th, 1904.
+
+
+        This is to certify that the myths and legends of the
+        Pimas derived by J. William Lloyd from my granduncle,
+        Thin Buckskin, thru my interpretation, are correct and
+        genuine to the best of my ability to interpret them.
+
+
+            Edward H. Wood,
+            (Pima Indian)
+
+            Sacaton, Arizona.
+
+
+THE STORY OF THESE STORIES
+
+
+When I was at the Pan-American Fair, at Buffalo, in July, 1901, I
+one day strolled into the Bazaar and drifted naturally to the section
+where Indian curios were displayed for sale by J. W. Benham. Behind the
+counter, as salesman, stood a young Indian, whose frank, intelligent,
+good-natured face at once attracted me. Finding me interested in
+Indian art, he courteously invited me behind the counter and spent
+an hour or more in explaining the mysteries of baskets and blankets.
+
+How small seeds are! From that interview came everything that is in
+this book.
+
+Several times I repeated my visits to my Indian friend, and when I had
+left Buffalo I had learned that his name was Edward Hubert Wood, and
+that he was a full-blooded Pima, educated at Albuquerque, New Mexico.
+
+Afterward we came into a pleasant correspondence, and so I came to
+know that one of my Indian friend's dreams was that he should be the
+means of the preservation of the ancient tales of his people. He
+had a grand-uncle, Comalk-Hawk-Kih, or Thin Buckskin, who was a
+see-nee-yaw-kum, or professional traditionalist, who knew all the
+ancient stories, but who had no successor, and with whose death the
+stories would disappear. He did not feel himself equal to putting these
+traditions into good English, and so did not quite know what to do.
+
+We discussed this matter in letters; and finally it was decided that
+I should visit the Gila River Reservation, in Arizona, where the Pimas
+were, and get the myths from the old seeneeyawkum in person, and that
+Mr. Wood should return home from Pyramid Lake, Nevada, where he was
+teaching carpentry to the Pai-utes, and be my host and interpreter.
+
+So, on the morning of July 31st, 1903, I stepped from a train at Casa
+Grande, Arizona, and found myself in the desert land of which I had
+so long dreamed. I had expected Mr. Wood to meet me there, but he
+was not at the station and therefore I took passage with the Irish
+mail-carrier whose stage was in daily transit between Casa Grande
+and Sacaton, the Agency village of the Pima Reservation.
+
+We had driven perhaps half the distance, and my Irish friend was
+beguiling the tedium by an interminable series of highly spiced
+yarns, calculated to flabbergast the tenderfoot, when my anxious eyes
+discerned in the distance the oncoming of a neat little open buggy,
+drawn by two pretty ponies, one of which was a pinto, and in which sat
+Mr. Wood. Just imagine: It was the last day of July, a blazing morning
+in the open desert, with the temperature soaring somewhere between
+100 and 120 degrees, yet here was my Indian friend, doubtless to do me
+honor, arrayed in a "pepper-and-salt" suit, complete with underclothes;
+vest buttoned up; collar and necktie, goggles and buckskin driving
+gloves. And this in an open buggy, while the Irishman and I, under our
+tilt, were stripped to our shirts, with sleeves rolled above elbows,
+and swigging water, ever and anon, from an enormous canteen swathed
+in wet flannel to keep it cool. Truly Mr. Wood had not intended that
+I should take him for an uncivilized Indian, if clothes could give
+the lie; but the face was the same kindly one of my "Brother Ed," and
+it did not take me long to greet him and transfer myself to his care.
+
+We came to Sacaton (which Ed said was a Mexican name meaning "much tall
+grass"--reminding me that Emory, of the "Army of the West," who found
+the Pimas in 1846, reported finding fine meadows there--but which the
+Pimas call Tawt-sit-ka, "the Place of Fear and Flight," because of some
+Apache-caused panic) but we did not stop there, but passed around it,
+to the Northwest, and on and over the Gila, Akee-mull, The River,
+as the Pimas affectionately call it, for to them it is as the Nile
+to Egypt. The famous Gila is not a very imposing stream at any time,
+and now was no stream at all, but a shallow dry channel, choked with
+desert dust, or paved with curling flakes of baked mud which cracked
+like bits of broken pottery under our ponies' feet. But I afterwards
+many times saw it a turbid torrent of yellow mud, rushing and foaming
+from the mountain rains; perilous with quicksand and snag, the roaring
+of its voice heard over the chaparral for miles to windward.
+
+The Pimas live in villages, each with its sub-chief, and we were bound
+for the village of Lower San-tan. But in these villages the houses
+are now seldom aggregated, as in old days of Apache and Yuma war,
+but scatter out for miles in farm homesteads.
+
+Brother Ed had lately sold his neat farmstead, near Sacaton, and
+when I came to his home I found he was temporarily living under
+a vachtoe (pronounce first syllable as if German), or arbor-shed,
+made of mezquite forks, supporting a flat roof of weeds and brush for
+shade. Near by he was laying the foundations of a neat little adobe
+cottage, which was finally completed during my stay.
+
+Ed introduced me to his mother, a matronly Indian woman of perhaps
+fifty-five, who must have been quite a belle in her day, and
+whose features were still regular and strong, and his step-father,
+"Mr. Wells," who deserves more than a passing word from me, for his
+kindness was unremitting (bless his good-natured, smiling face!) and
+his solicitude for my comfort constant. These were all the family,
+for Ed himself was a widower. Fifty yards or so to the northwest were
+the huts of two old and wretchedly poor Pimas (the man was blind)
+who had been allowed to settle there temporarily by Mr. Wood, owing to
+some difficulty about their own location on their adjoining land. One
+or two hundred yards in the other direction were two old caw-seens,
+or storehouses, square structures of a sort of wattlework of poles,
+weeds and brush, plastered over with adobe and roofed with earth. In
+one of these I placed my trunk, and on its flat roof I slept, rolled
+in my blankets, most of the nights of the two months of my stay. I
+came to know it as "my Arizona Bedstead," and I shall never forget
+it and its quaint, crooked ladder.
+
+My Indian brother was not slow in shedding his dress-parade garments,
+and in getting down to the comfort of outing shirt and overalls, neck
+handkerchief and sombrero. Then I had my first meal with Indians in
+Arizona. Mrs. Wells, or as I prefer to call her, Sparkling-Soft-Feather
+(her Indian name) was a good cook of her kind, and gave us a meal
+of tortillas, frijole beans, peppers (kaw-awl-kull), coffee, and
+choo-oo-kook or jerked beef. Ed and I were given the dignity of chairs
+and a table, but the older Indians squatted on the ground in the good
+old Pima way, with their dishes on a mat. There were knives and spoons,
+but no forks, and the usefulness of fingers was not obsolete. A
+waggish, pale-eyed pup, flabbily deprecative and good-natured,
+and a big-footed Mexican choo-chool, or chicken, were obtrusively
+familiar. Neither of the older Indians could speak a word of English,
+but chatted and laughed away together in Pima. The hot, soft wind of
+the desert kissed our faces as we ate, and off in the back ground rose
+the stately volcanic pile of Cheoff-skaw-mack, the nearest mountain,
+and all around the horizon other bare volcanic peaks burned into the
+blue. Sometimes a whirlwind of dust travelled rapidly over the plain,
+making one ponder what would happen should it gyrate into the vachtoe.
+
+The old woman from the near-by kee slunk by as we ate, going to the
+well. She wore gah-kai-gey-aht-kum-soosk (literally string-shoes),
+or sandals, of rawhide, on her feet, and was quite the most
+wretched-looking hag I ever saw among the Pimas. Her withered body
+was hung with indescribable rags and her gray hair was a tangled
+mat. Yet I came to know that that wretched creature had a heart and a
+good one. She was kind and cheerful, industrious and uncomplaining,
+and devotion itself to her old blind husband; who did nothing all
+day long but move out of the travelling sun into the shade, rolling
+nearly naked in the dust.
+
+After dinner we got our guns and started out to go to the farm of old
+Thin Buckskin ("William Higgins," if you please!) the seeneeyawkum
+I had come so far to see. Incidentally we were to shoot some
+kah-kai-cheu, or plumed quails, and taw-up-pee, or rabbits, for supper.
+
+We found the old man plowing for corn in his field. The strong,
+friendly grasp he gave my hand was all that could be desired. Tall,
+lean, dignified, with a harsh, yet musical voice; keen, intelligent
+black eyes, and an impressive manner, he was plainly a gentleman
+and a scholar, even if he could neither read nor write, nor speak a
+sentence of English.
+
+The next afternoon he came, and under Ed's vachtoe gave me the first
+installment of the coveted tales. It was slow work. First he would tell
+Ed a paragraph of tradition, and Ed would translate it to me. Then I
+would write it down, and then read it aloud to Ed again, getting his
+corrections. When all was straight, to his satisfaction, we would go on
+to another paragraph, and so on, till the old man said enough. As these
+Indians are all Christianized now, and mostly zealous in the faith,
+I could get no traditions on Sunday. And indeed, when part way thru,
+this zeal came near balking me altogether. A movement started to stop
+the recovery of these old heathen tales; the sub-chief had a word with
+Comalk, who became suddenly too busy to go on with his narrations,
+and it took increased shekels and the interposition of the Agent,
+Mr. J. B. Alexander, who was very kind to me, before I could get the
+wheels started again.
+
+Sometimes the old man came at night, instead of afternoon, and I find
+this entry in my journal: "Sept. 6.--We sat up till midnight in the
+old cawseen getting the traditions. It was a wild, strange scene--the
+old cawseen interior, the mezquite forks that supported the roof,
+the poles overhead, and weeds above that, the mud-plastered walls
+with loop-hole windows; bags, boxes, trunks, ollas, and vahs-hrom
+granary baskets about. Ed sitting on the ground, against the wall,
+nodding when I wrote and waking up to interpret; the old man bent
+forward, both hands out, palms upward, or waving in strange eloquent
+gestures; his lean, wrinkled features drawn and black eyes gleaming;
+telling the strange tales in a strange tongue. On an old olla another
+Indian, Miguel, who came in to listen, and in his hand a gorgeously
+decorated quee-a-kote, or flute, with which, while I wrote, he would
+sometimes give us a few wild, plaintive, thrilling bars, weird as an
+incantation. And finally myself, sitting on a mattress on my trunk,
+writing, fast as pencil could travel, by the dim light of a lantern
+hung against a great post at my right. Outside a cold, strong wind,
+for the first time since I came to Arizona, bright moonlight, and
+some drifting white clouds telling the last of the storm."
+
+Again, on Sept. 12th: "Traditions, afternoon and until midnight. I
+shall never forget how the half-moon looked, rising over
+Vahf-kee-woldt-kih, or the Notched Cliffs, toward midnight, while
+the coyotes laughed a chorus somewhere off toward the Gila, and we
+sat around, outdoors, in the wind, and heard the old seeneeyawkum
+tell his weird, incoherent tales of the long ago."
+
+My interpreter was eager and willing, and well-posted in the meaning of
+English, and was a man of unusual intelligence and poetry of feeling,
+but was not well up in grammar, and in the main I had to edit and
+recast his sentences; yet just as far as possible I have kept his words
+and the Indian idiom and simplicity of style. Sometimes he would give
+me a sentence so forceful and poetic, and otherwise faultless, that I
+have joyfully written it down exactly as received. I admit that in a
+very few places, where the Indian simplicity and innocence of thought
+caused an almost Biblical plainness of speech on family matters,
+I have expurgated and smoothed a little for prudish Caucasian ears,
+but these changes are few, and mostly unimportant, leaving the meaning
+unimpaired. And never once was there anything in the spirit of what was
+told me that revealed foulness of thought. All was grave and serious,
+as befitted the scriptures of an ancient people.
+
+Occasionally I have added a word or sentence to make the meaning stand
+out clearer, but otherwise I have taken no liberties with the original.
+
+As a rule the seeneeyawkum told these tales in his own words,
+but the parts called speeches were learned by heart and repeated
+literally. These parts gave us much trouble. They were highly poetic,
+and manifestly mystic, and therefore very difficult to translate
+with truthfulness to the involved meanings and startling and obscure
+metaphors. Besides they contained many archaic words, the meaning of
+which neither seeneeyawkum nor interpreter now knew, and which they
+could only translate by guess, or leave out altogether. But we did
+the best we could.
+
+The stories were also embellished with songs, some of which I had
+translated. They were chants of from one to four lines each, seldom
+more than two, many times repeated in varying cadence; weird, somber,
+thrillingly passionate in places, and by no means unmusical, but,
+of course, monotonous. I obtained phonograph records of a number,
+and the translations given are as literal as possible.
+
+As to the meaning of the tales I got small satisfaction. The Indians
+seemed to have no explanations to offer. They seemed to regard them
+as fairy tales, but admitted they had once been believed as scriptures.
+
+My own theory came to be that they had been invented, from time to
+time, by various and successive mah-kais to answer the questions
+concerning history, phenomena, and the origin of things, which they,
+as the reputed wisest of the tribe, were continually asked. My chief
+reason for supposing this is because in almost every tale the hero is
+a mahkai of some sort. The word mah-kai (now translated doctor, or
+medicine-man) seems to have been applied in old time to every being
+capable of exerting magical or supernatural and mysterious power,
+from the Creator down; and it is easy to see how such use of the word
+would apparently establish the divine relationship and bolster the
+authority of the medicine men, while the charm of the tale would focus
+attention upon them. The temptation was great and, I think, yielded to.
+
+I doubt if much real history is worked in, or that it is at all
+reliable.
+
+All over the desert, where irrigation was at all practicable, in the
+Gila and Salt River valleys, and up to the edge of the mountains,
+among the beautiful giant cactus and flatbean trees, you will ride
+your bronco over evidences of a prehistoric race;--old irrigating
+ditches, lines of stone wall; or low mounds of adobe rising above
+the greasewood and cacti, and littered over profusely with bits of
+broken and painted pottery, broken corn-mills and grinders, perhaps
+showing here and there a stone ax, arrowhead, or other old stone
+implement. These mounds (vah-ahk-kee is the Pima word for such a ruin)
+are the heaps caused by the fallen walls of what were once pueblos of
+stone and clay. In some places there must have been populous cities,
+and at the famous site of Casa Grande one finds one of the buildings
+still standing--a really imposing citadel, with walls four or five feet
+thick, several stories high, and habitable since the historic period.
+
+Now according to these traditions it was the tribes now known as
+Pimas, Papagoes, Yumas and Maricopas, that invaded the land, from
+some mythic underworld, and overthrew the vahahkkees & killed all
+their inhabitants, and this is the most interesting part of the tales
+from a historic point of view. Fewkes, and other ethnologists, think
+the ancestors of the Pimas built the Casa Grande & other vahahkkees,
+but I doubt this. Is it reasonable to suppose that if a people as
+intelligent & settled as the Pimas had once evoluted far enough
+in architecture & fortification to erect such noble citadels and
+extensive cities as those of Casa Grande & Casa Blanca, that they,
+while still surrounded by the harassing Apaches, would have descended
+to contentment with such miserable & indefensible hovels as their
+present kees and cawseens? To me it is not. They are as industrious
+as any of the pueblo-building Indians, not otherwise degenerate, and
+had they once ever builded pueblos I do not think would have abandoned
+the art. But it is easy to understand that a horde of desert campers,
+overthrowing a more civilized nation, might never rebuild or copy
+after its edifices. So far, then, I am inclined to agree with the
+traditions and disagree with the ethnologists.
+
+But these traditions are evidently very ancient. They appear to me to
+have originated from the aborigines of this country; people who knew
+no other land. Every story is saturated with local color. From the
+top of Cheoffskawmack, I believe I could have seen almost every place
+mentioned in the traditions, except the Rio Colorado & the ocean,
+and the ocean was to them, I believe, little more than a name. They
+never speak of it with their usual sketchy & graphic detail, and the
+fact that in the ceremony of purification it is spoken of as a source
+of drinking water shows they really knew nothing of it. The Indian is
+too exact in his natural science to speak of salt water as potable. And
+these stories certainly say that the dwellers in the vahahkkees were
+the children of Ee-ee-toy, created right here. And that the army that
+carried out Ee-ee-toy's revenge upon his rebellious people were the
+children of Juhwerta Mahkai, who had been somewhere else since the
+flood, but who were also originally created here.
+
+Now, for what it is worth, I will give a theory to reconcile
+these differences. I assume that their flood was a real event,
+but a local one, and the greater part of the people destroyed by
+it. A minority escaped by flight into the desert, and neither they
+nor their descendants, for many generations, returned to the place
+where the catastrophe occurred. Another remnant escaped by floating
+on various objects & climbing mountains. The first were those of
+whom it is fabled that Juhwerta Mahkai let them escape thru a hole
+in the earth. These became nomadic, desert dwellers. The second
+remained in the Gila country, became agricultural & settled in habit,
+irrigating their land & building pueblos, growing rich, effeminate &
+inapt at war. At length the desert fugitives, also grown numerous,
+and war-like & fierce with the wild, wolf-like existence they had led,
+and moved by we know not what motives of revenge or greed, returned &
+swept over the land, in a sudden invasion, like a swarm of locusts;
+ruthlessly destroying the vahahkkees and all who dwelt therein;
+breaking even the ma-ta-tes & every utensil in their vandal fury;
+dividing the region thus taken among themselves. According to these
+traditions the Apaches were already dwellers in the outlying deserts &
+mountains, and were not affected especially by this invasion.
+
+Is it now unreasonable to suppose that some of the invaders
+kept up, to a great extent, their old habits of desert wandering
+(Papagoes for instance), and that others adopted to some extent the
+agricultural habits of those they had conquered, and yet retained,
+with slight change, the little brush & mud houses & arbors they had
+grown accustomed to in their wanderings? These last would be our
+present Pimas.
+
+If it is considered strange that these adopted the habits, to any
+extent, of those they supplanted it may be urged that they almost
+certainly, in conquering the vahahkkee people, spared and married
+many of the women, and adopted many of the children; this being in
+accordance with their custom in historic times. And this infusion
+of the gentler blood may have been very large. And these women would
+naturally go on, and would be required by their new husbands to go on,
+with the agricultural methods to which they were accustomed & would
+teach them to their new masters. And their children, being wholly or
+partly of the old stock, would have a natural tendency to the same
+work, to some extent.
+
+This theory not only explains & agrees with the main parts of the
+old traditions, but seems confirmed by other things. Thus the Pimas,
+Papagoes, Quojatas, and the "Rabbit-Eaters" of Mexico, speak about
+the same language, which would seem to prove them originally the same
+people. But some have kept the old ways, some have become agricultural,
+and some are in manners between, and thus have become classed as
+different tribes. And, judging from the remains, the life of the old
+vahahkkee dwellers was in many ways like that of the modern Pima,
+only less primitive.
+
+But the real value of these stories is as folklore, and in their
+literary merit. They throw a wonderful side-light on the old customs,
+beliefs and feelings. I consider them ancient, in the main, but do
+not doubt that in coming down thru many seeneeyawkums they have been
+much modified by the addition of embellishment, the subtraction of
+forgetfulness. As proof I adduce the accounting for the origin of
+the white people, who use pens & ink, in the story of Van-daih. The
+ancient Pimas knew neither white men, nor pens, nor ink, therefore
+this passage is clearly an interpolation by some later narrator,
+if the story is really ancient, as I suppose it is. In the story of
+Noo-ee's meeting the sun, the word used by old Comalk, for the sun's
+weapon, was vai-no-ma-gaht (literally iron-bow) which is the modern
+Pima's name for the white man's gun, and it was translated as gun by
+my interpreter. But iron and guns were both unknown to ancient Pimas,
+therefore this term must have been first used by some seeneeyawkum
+after the white man came, who thought a gun more appropriate than a
+bow for the sun's shooting.
+
+How much has been lost by forgetfulness we can never know; but at least
+I found that the meaning of many ancient words had disappeared, that
+the mystic meaning of the highly symbolic speeches seemed all gone,
+and I felt certain that the last part of the Story of the Gambler's War
+had been lost by forgetting; for it stops short with the preliminary
+speeches, instead of going on with a detailed account of the battles
+as does the Story of Paht-ahn-kum's war.
+
+Another proof that these tales were changed by different narrators is
+afforded by the variants of some of them published by Emory, Grossman,
+Cook, and other writers about the Pimas.
+
+As to the mystic meaning I can only guess. The mystic number four,
+so constantly used, probably refers to the four cardinal points,
+but my Indians seemed not aware of this. In the stories, West is
+black, East is white or light, South is blue, North is yellow,
+and Above is green. Of course the west is black because there night
+swallows up the sun, and the east is light because it gives the sun,
+but why south is blue and north is yellow I do not know. But south
+is the nearest way to the ocean, and as in one story the word ocean
+seems used in place of south, I infer the blue color was derived from
+that. And the desert lying north of the ocean may suggest the desert
+tint, yellow, as the color of the north. As to the sky being green,
+I find this in my journal: "August 29--Last evening, after sunset,
+there were the most wonderful sky effects--there was a line of light
+clouds across the sky, in the west, about half way up to the zenith,
+and suddenly the white part of these was washed over, as tho by a
+paint brush, with a strong but delicate pea-green, while under this
+spread a mist or haze of dainty pink, changing to a rich, delicate
+mauve. Lasted quarter of an hour or more. Never saw anything like
+it in nature before." Again, on September 6, I saw nearly the same
+phenomenon. The green was very strong and vivid, and could not fail
+to attract an Indian's eye, and something of the sort, I fancy,
+made him make the strange choice of green for the sky color.
+
+Those who like to compare myths and folktales and ancient scriptures
+will find a rich field here. And the interesting thing is that these
+tales come straight from a line of Indians who could neither read
+nor write nor speak English, therefore adulteration by white man's
+literature seems improbable.
+
+As to the literary merit of these tales, after all that is lost by a
+double interpretation, I consider it still very high. You must come
+to them as a little child, for they are intensely child-like, and to
+expect them to be like a white man's narrative is absurd. But they are
+sketched in such clear, bold lines, with such a sure touch and delicate
+expressiveness of salient points; there are such close-fitting, shrewd
+bits of human nature; such real yet startling touches of poetry in
+metaphor; such fertile and altogether Indian imagination in plot and
+incident, that the interest never fails. No two stories are alike, and
+if surprise is a literary charm of high value, and I think it is, then
+these tales are certainly charming, for they constantly bring surprise.
+
+And the poetry, in Eeeetoy's speech for example, is so rich and strong;
+and in such parts as the story of the Nah-vah-choo the mysticism
+seems to challenge one like a riddle.
+
+When these old tales were told with all proper ceremony and respect,
+they were told on four successive nights. This could not be in
+the giving of them to me, for many practical reasons, but I have
+endeavored to give them that form for my reader and hence the title of
+my book. But I did not discover how many or what ones were told on any
+one night, so my division is arbitrary, and only aims at reasonable
+equality. The naming, too, of the different stories is my own, for
+the old man did not appear to have any set names for them. I fancy
+the old man was rusty and out of practice, and forgot some of the
+tales in their proper sequence, and brought them in afterward as they
+recurred to him. For instance, the story of Tcheu-nas-sat Seeven's
+singing away another chief's wives evidently belongs among the early
+stories of the vahahkkee people, and before the account of his death,
+when the vahahkkees were destroyed. But I have given the stories in
+the order in which they were told to me, leaving all responsibility
+on the old seeneeyawkum's shoulders.
+
+I lived a little more than two months with these Indians, collecting
+these stories, enjoying their kindly hospitality, living as they lived,
+eating their food, riding their ponies, sleeping on their roofs under
+the splendid Arizona stars.
+
+I shall never forget that day, before I left, when Ed and I saddled our
+ponies in the early morning and rode twenty miles to the Casa Grande
+ruins. On the way we crossed the dry bed of the Gila; and passed
+thru the Agency village of Sacaton and the village of Blackwater;
+skirting the Maricopa Slaughter mountains, where once some unfortunate
+Maricopas were waylaid and massacred by a band of Apaches, almost in
+sight of Sacaton. The Casa Grande ruins are imposing enough, but sadly
+belittled in effect by the well-meant roof which the government has
+erected over them to preserve them. This kills all the poetry and
+gives them the ludicrous aspect of a museum specimen. Had the old
+walls been skillfully capped with a waterproof cement and the walls
+coated with some weatherproof and transparent wash, all necessary
+security could have been effected with perhaps less expense than
+this absurd roof, and all the romance of impression preserved. Let
+us hope the genial and manly young custodian, Mr. Frank Pinckly, to
+whose warm-hearted hospitality and that of his parents I owe grateful
+thanks, will consider this suggestion favorably and earn the blessing
+of future travellers. A storm broke on us while we were at the ruins,
+and riding home that evening we found the Gila flooded. I shall always
+remember how its muddy torrent looked to me, plunging along at my feet,
+where that morning I had crossed dry shod; its yellow waves shot with
+blood-red reflections from the last colors of sunset.
+
+"You better see that Pinto's cinch is tight, or she may try to get you
+off in the river," warned Ed, in my ear, as he jumped off to cinch up
+"Georgie."
+
+It was always exciting to me to ford the treacherous Gila, the tawny
+waters were so sweeping, and the ponies plunged so when their feet
+felt the quicksands, but we got across all right, and galloped home
+on the slippery, muddy roads.
+
+When I left these people it was with a genuine regard for their
+virtues. I found them in the main kind, honest, simple-minded,
+industrious, surprisingly clean, considering their obstacles of scant
+water and ever-present dust, and the calmest tempered people I have
+ever known.
+
+I remember the second day of my stay we were going to ride to the Casa
+Blanca ruins. In watering the ponies at the well, "Georgie's" loosened
+saddle turned and swung under his belly. Such bucking and frantic
+kicking as that half-broken colt indulged in for a few moments would
+have made a congress of cow-boys applaud, and when it was over the
+beautiful colt stood exhausted on the far side of a twenty acre field,
+with the saddle fragments somewhere between. Now to poor Indians the
+loss of a saddle is not small, and I fancy most frontiersmen, under the
+provocation, would have made the air blue with oaths, but Ed only sadly
+said: "I'm afraid that spoils Georgie," and the stepfather laughed and
+started patiently out on the trail of the colt "to save the pieces,"
+while the mother took one of her bowl-shaped Pima baskets, with beans
+in it, and coaxed the colt till she caught him. Then he was patted
+and soothed and fed with sugar, the saddle patched up and replaced,
+and we rode eighteen miles that day and never another mishap. And
+from first to last never a harsh or complaining word.
+
+I at no time encountered a beggar among the Pimas, and tho they were
+mostly very poor I had not a pin's worth stolen. I never heard an
+oath, or saw a brutal or violent act, or a child slapped or scolded,
+or a woman treated with disrespect or tyranny, nor any drunkenness
+or cruelty to animals. Perhaps I was especially fortunate, but I can
+only speak of what I saw. Their self-respect and serenity continually
+aroused my admiration.
+
+I must say that they appeared to me to excel any average white
+neighborhood in good behavior.
+
+It is a strange land, that in which the Pimas dwell; a desert overgrown
+with strange soft-tinted weeds, "salt weeds," pink, red, green, gray,
+blue, purple; the rich-green yellow-flowering greasewood; odd cacti,
+and all manner of thornbearing bushes. The soil is inexhaustibly rich,
+were there water enough, but the white people, settling above the
+Indians, on the Gila, have so withdrawn the water that crop failures
+from lack of sufficient irrigation are the rule, now, instead of the
+exception, and the once ever-flowing Gila is more often a dry channel,
+as sun-baked as the desert around it.
+
+All around their valley, and rising here and there from the plain,
+are low volcanic peaks, mere dead masses of rock except where in
+places a giant cactus stands candelabra-like among the slopes of
+stone. About the feet of these mountains, and along the channels where
+the torrents rush down in times of rain, are weird forests of desert
+growths, mezquite, cat-claw, flat-beans, screw-beans, greasewood,
+giant-cactus, cane-cactus, white-cactus, cholla-cactus, and a host
+of others, almost everything bristling with innumerable thorns.
+
+On this strange pasture of weed and thorn the Indian's ponies &
+his few cattle graze.
+
+Here in summer the sun beats down till the mercury registers 118 to
+120 degrees in the shade, and dust storms & dust whirlwinds travel
+over the burning plain.
+
+
+STORIES OF THE FIRST NIGHT
+
+
+THE TRADITIONS OF THE PIMAS
+
+
+The old man, Comalk Hawk-Kih, (Thin Buckskin) began by saying that
+these were stories which he used to hear his father tell, they being
+handed down from father to son, and that when he was little he did
+not pay much attention, but when he grew older he determined to learn
+them, and asked his father to teach him, which his father did, and
+now he knew them all.
+
+
+THE STORY OF THE CREATION
+
+
+In the beginning there was no earth, no water--nothing. There was
+only a Person, uh-wert-a-Mah-kai (The Doctor of the Earth).
+
+He just floated, for there was no place for him to stand upon. There
+was no sun, no light, and he just floated about in the darkness,
+which was Darkness itself.
+
+He wandered around in the nowhere till he thought he had wandered
+enough. Then he rubbed on his breast and rubbed out moah-haht-tack,
+that is perspiration, or greasy earth. This he rubbed out on the palm
+of his hand and held out. It tipped over three times, but the fourth
+time it staid straight in the middle of the air and there it remains
+now as the world.
+
+The first bush he created was the greasewood bush.
+
+And he made ants, little tiny ants, to live on that bush, on its gum
+which comes out of its stem.
+
+But these little ants did not do any good, so he created white ants,
+and these worked and enlarged the earth; and they kept on increasing
+it, larger and larger, until at last it was big enough for himself
+to rest on.
+
+Then he created a Person. He made him out of his eye, out of the shadow
+of his eyes, to assist him, to be like him, and to help him in creating
+trees and human beings and everything that was to be on the earth.
+
+The name of this being was Noo-ee (the Buzzard).
+
+Nooee was given all power, but he did not do the work he was created
+for. He did not care to help Juhwertamahkai, but let him go by himself.
+
+And so the Doctor of the Earth himself created the mountains and
+everything that has seed and is good to eat. For if he had created
+human beings first they would have had nothing to live on.
+
+But after making Nooee and before making the mountains and seed for
+food, Juhwertamahkai made the sun.
+
+In order to make the sun he first made water, and this he placed in
+a hollow vessel, like an earthen dish (hwas-hah-ah) to harden into
+something like ice. And this hardened ball he placed in the sky. First
+he placed it in the North, but it did not work; then he placed it in
+the West, but it did not work; then he placed it in the South, but
+it did not work; then he placed it in the East and there it worked
+as he wanted it to.
+
+And the moon he made in the same way and tried in the same places,
+with the same results.
+
+But when he made the stars he took the water in his mouth and spurted
+it up into the sky. But the first night his stars did not give light
+enough. So he took the Doctor-stone (diamond), the tone-dum-haw-teh,
+and smashed it up, and took the pieces and threw them into the sky to
+mix with the water in the stars, and then there was light enough. [1]
+
+And now Juhwertamahkai, rubbed again on his breast, and from the
+substance he obtained there made two little dolls, and these he laid
+on the earth. And they were human beings, man and woman.
+
+And now for a time the people increased till they filled the earth. For
+the first parents were perfect, and there was no sickness and no
+death. But when the earth was full, then there was nothing to eat,
+so they killed and ate each other.
+
+But Juhwertamahkai did not like the way his people acted, to kill
+and eat each other, and so he let the sky fall to kill them. But
+when the sky dropped he, himself, took a staff and broke a hole thru,
+thru which he and Nooee emerged and escaped, leaving behind them all
+the people dead.
+
+And Juhwertamahkai, being now on the top of this fallen sky, again made
+a man and a woman, in the same way as before. But this man and woman
+became grey when old, and their children became grey still younger,
+and their children became grey younger still, and so on till the
+babies were gray in their cradles.
+
+And Juhwertamahkai, who had made a new earth and sky, just as there had
+been before, did not like his people becoming grey in their cradles, so
+he let the sky fall on them again, and again made a hole and escaped,
+with Nooee, as before.
+
+And Juhwertamahkai, on top of this second sky, again made a new heaven
+and a new earth, just as he had done before, and new people.
+
+But these new people made a vice of smoking. Before human beings
+had never smoked till they were old, but now they smoked younger,
+and each generation still younger, till the infants wanted to smoke
+in their cradles.
+
+And Juhwertamahkai did not like this, and let the sky fall again,
+and created everything new again in the same way, and this time he
+created the earth as it is now.
+
+But at first the whole slope of the world was westward, and tho
+there were peaks rising from this slope there were no true valleys,
+and all the water that fell ran away and there was no water for the
+people to drink. So Juhwertamahkai sent Nooee to fly around among
+the mountains, and over the earth, to cut valleys with his wings,
+so that the water could be caught and distributed and there might be
+enough for the people to drink.
+
+Now the sun was male and the moon was female and they met once a
+month. And the moon became a mother and went to a mountain called
+Tahs-my-et-tahn Toe-ahk (sun striking mountain) and there was born her
+baby. But she had duties to attend to, to turn around and give light,
+so she made a place for the child by tramping down the weedy bushes
+and there left it. And the child, having no milk, was nourished on
+the earth.
+
+And this child was the coyote, and as he grew he went out to walk
+and in his walk came to the house of Juhwertamahkai and Nooee, where
+they lived.
+
+And when he came there Juhwertamahkai knew him and called him
+Toe-hahvs, because he was laid on the weedy bushes of that name.
+
+But now out of the North came another powerful personage, who has
+two names, See-ur-huh and Ee-ee-toy.
+
+Now Seeurhuh means older brother, and when this personage came
+to Juhwertamahkai, Nooee and Toehahvs he called them his younger
+brothers. But they claimed to have been here first, and to be older
+than he, and there was a dispute between them. But finally, because he
+insisted so strongly, and just to please him, they let him be called
+older brother.
+
+
+        JUHWERTA MAHKAI'S SONG OF CREATION
+
+        Juhwerta mahkai made the world--
+        Come and see it and make it useful!
+        He made it round--
+        Come and see it and make it useful!
+
+
+NOTES ON STORY OF CREATION
+
+The idea of creating the earth from the perspiration and waste cuticle
+of the Creator is, I believe, original.
+
+The local touch in making the greasewood bush the first vegetation
+is very strong.
+
+In the tipping over of the earth three times, and its standing right
+the fourth time, we are introduced to the first of the mystic fours
+in which the whole scheme of the stories is cast. Almost everything
+is done four times before finished.
+
+The peculiar Indian idea of type-animals, the immortal and supernatural
+representatives of their respective animal tribes, appears in Nooee and
+Toehahvs, and here again the local color is rich and strong in making
+the buzzard and the coyote, the most common and striking animals of
+the desert, the particular aides on the staff of the Creator.
+
+Might not the creation of Nooee out of the shadow of the eyes of the
+Doctor of the Earth be a poetical allusion to the flying shadow of
+the buzzard on the sun-bright desert?
+
+In the creation of sun and moon we find the mystic four referred to
+the four corners of the universe, North, South, East and West, and
+this, I am persuaded, is really the origin of its sacred significance,
+for most religions find root and source in astronomy.
+
+In the dropping of the sky appears the old idea of its solid character.
+
+In the "slope of the world to the Westward" there is something
+curiously significant when we remember that both the Gila and Salt
+Rivers flow generally westward.
+
+Nooee cuts the valleys with his wings. It would almost appear that
+Nooee was Juhwertamahkai's agent in the air and sky, Toehahvs on earth.
+
+The night-prowling coyote is appropriately and poetically mothered
+by the moon.
+
+And here appears Eeeetoy, the most active and mysterious personality
+in Piman mythology. Out of the North, apparently self-existent,
+but little inferior in power to Juhwertamahkai, and claiming greater
+age, he appears, by pure "bluff" and persistent push and wheedling,
+to have induced the really more powerful, but good-natured and rather
+lazy Juhwertamahkai to give over most of the real work and government
+of the world to him. In conversing with Harry Azul, the head chief's
+son, at Sacaton, I found he regarded Eeeetoy and Juhwertamahkai as
+but two names for the same. And indeed it is hard to fix Eeeetoy's
+place or power.
+
+
+THE STORY OF THE FLOOD
+
+
+Now Seeurhuh was very powerful, like Juhwerta Mahkai, and as he took
+up his residence with them, as one of them, he did many wonderful
+things which pleased Juhwerta Mahkai, who liked to watch him.
+
+And after doing many marvelous things he, too, made a man.
+
+And to this man whom he had made, Seeurhuh (whose other name was
+Ee-ee-toy) gave a bow & arrows, and guarded his arm against the
+bow string by a piece of wild-cat skin, and pierced his ears & made
+ear-rings for him, like turquoises to look at, from the leaves of
+the weed called quah-wool. And this man was the most beautiful man
+yet made.
+
+And Ee-ee-toy told this young man, who was just of marriageable age,
+to look around and see if he could find any young girl in the villages
+that would suit him and, if he found her, to see her relatives and
+see if they were willing he should marry her.
+
+And the beautiful young man did this, and found a girl that pleased
+him, and told her family of his wish, and they accepted him, and he
+married her.
+
+And the names of both these are now forgotten and unknown.
+
+And when they were married Ee-ee-toy, foreseeing what would happen,
+went & gathered the gum of the greasewood tree.
+
+
+Here the narrative states, with far too much plainness of
+circumstantial detail for popular reading, that this young man married
+a great many wives in rapid succession, abandoning the last one with
+each new one wedded, and had children with abnormal, even uncanny
+swiftness, for which the wives were blamed and for which suspicion they
+were thus heartlessly divorced. Because of this, Juhwerta Mahkai and
+Ee-ee-toy foresaw that nature would be convulsed and a great flood
+would come to cover the world.
+
+And then the narrative goes on to say:
+
+Now there was a doctor who lived down toward the sunset whose name was
+Vahk-lohv Mahkai, or South Doctor, who had a beautiful daughter. And
+when his daughter heard of this young man and what had happened to
+his wives she was afraid and cried every day. And when her father
+saw her crying he asked her what was the matter? was she sick? And
+when she had told him what she was afraid of, for every one knew
+and was talking of this thing, he said yes, he knew it was true,
+but she ought not to be afraid, for there was happiness for a woman
+in marriage and the mothering of children.
+
+And it took many years for the young man to marry all these wives,
+and have all these children, and all this time Ee-ee-toy was busy
+making a great vessel of the gum he had gathered from the grease
+bushes, a sort of olla which could be closed up, which would keep
+back water. And while he was making this he talked over the reasons
+for it with Juhwerta Mahkai, Nooee, and Toehahvs, that it was because
+there was a great flood coming.
+
+And several birds heard them talking thus--the woodpecker, Hick-o-vick;
+the humming-bird, Vee-pis-mahl; a little bird named Gee-ee-sop,
+and another called Quota-veech.
+
+Eeeetoy said he would escape the flood by getting into the vessel he
+was making from the gum of the grease bushes or ser-quoy.
+
+And Juhwerta Mahkai said he would get into his staff, or walking stick,
+and float about.
+
+And Toehahvs said he would get into a cane-tube.
+
+And the little birds said the water would not reach the sky, so they
+would fly up there and hang on by their bills till it was over.
+
+And Nooee, the buzzard, the powerful, said he did not care if the
+flood did reach the sky, for he could find a way to break thru.
+
+Now Ee-ee-toy was envious, and anxious to get ahead of Juhwerta
+Mahkai and get more fame for his wonderful deeds, but Juhwerta Mahkai,
+though really the strongest, was generous and from kindness and for
+relationship sake let Ee-ee-toy have the best of it.
+
+And the young girl, the doctor's daughter, kept on crying, fearing
+the young man, feeling him ever coming nearer, and her father kept
+on reassuring her, telling her it would be all right, but at last,
+out of pity for her fears & tears, he told her to go and get him
+the little tuft of the finest thorns on the top of the white cactus,
+the haht-sahn-kahm, [2] and bring to him.
+
+And her father took the cactus-tuft which she had brought him, and
+took hair from her head and wound about one end of it, and told her
+if she would wear this it would protect her. And she consented and
+wore the cactus-tuft.
+
+And he told her to treat the young man right, when he came, & make
+him broth of corn. And if the young man should eat all the broth,
+then their plan would fail, but if he left any broth she was to eat
+that up and then their plan would succeed.
+
+And he told her to be sure and have a bow and arrows above the door
+of the kee, so that he could take care of the young man.
+
+And after her father had told her this, on that very evening the young
+man came, and the girl received him kindly, and took his bows & arrows,
+and put them over the door of the kee, as her father had told her,
+and made the young man broth of corn and gave it to him to eat.
+
+And he ate only part of it and what was left she ate herself.
+
+And before this her father had told her: "If the young man is wounded
+by the thorns you wear, in that moment he will become a woman and a
+mother and you will become a young man."
+
+And in the night all this came to be, even so, and by day-break the
+child was crying.
+
+And the old woman ran in and said: "Mos-say!" which means an old
+woman's grandchild from a daughter.
+
+And the daughter, that had been, said: "It is not your moss, it is
+your cah-um-maht," that is an old woman's grandchild from a son.
+
+And then the old man ran in and said: "Bah-ahm-ah-dah!" that is
+an old man's grandchild from a daughter, but his daughter said:
+"It is not your bah-ahm-maht, but it is your voss-ahm-maht," which
+is an old man's grandchild from a son.
+
+And early in the morning this young man (that had been, but who
+was now a woman & a mother) made a wawl-kote, a carrier, or cradle,
+for the baby and took the trail back home.
+
+And Juhwerta Mahkai told his neighbors of what was coming, this
+young man who had changed into a woman and a mother and was bringing
+a baby born from himself, and that when he arrived wonderful things
+would happen & springs would gush forth from under every tree and on
+every mountain.
+
+And the young man-woman came back and by the time of his return
+Ee-ee-toy had finished his vessel and had placed therein seeds &
+everything that is in the world.
+
+And the young man-woman, when he came to his old home, placed his
+baby in the bushes and left it, going in without it, but Ee-ee-toy
+turned around and looked at him and knew him, for he did not wear a
+woman's dress, and said to him: "Where is my Bahahmmaht? Bring it to
+me. I want to see it. It is a joy for an old man to see his grandchild.
+
+"I have sat here in my house and watched your going, and all that
+has happened you, and foreseen some one would send you back in shame,
+although I did not like to think there was anyone more powerful than
+I. But never mind, he who has beaten us will see what will happen."
+
+And when the young man-woman went to get his baby, Ee-ee-toy got into
+his vessel, and built a fire on the hearth he had placed therein,
+and sealed it up.
+
+And the young man-woman found his baby crying, and the tears from it
+were all over the ground, around. And when he stooped over to pick
+up his child he turned into a sand-snipe, and the baby turned into
+a little teeter-snipe.
+
+And then that came true which Juhwerta Mahkai had said, that water
+would gush out from under every tree & on every mountain; and the
+people when they saw it, and knew that a flood was coming, ran to
+Juhwerta Mahkai; and he took his staff and made a hole in the earth
+and let all those thru who had come to him, but the rest were drowned.
+
+Then Juhwerta Mahkai got into his walking stick & floated, and Toehahvs
+got into his tube of cane and floated, but Ee-ee-toy's vessel was
+heavy & big and remained until the flood was much deeper before it
+could float.
+
+And the people who were left out fled to the mountains; to the
+mountains called Gah-kote-kih (Superstition Mts.) for they were
+living in the plains between Gahkotekih and Cheoffskawmack (Tall
+Gray Mountain).
+
+And there was a powerful man among these people, a doctor (mahkai),
+who set a mark on the mountain side and said the water would not rise
+above it.
+
+And the people believed him and camped just beyond the mark; but the
+water came on and they had to go higher. And this happened four times.
+
+And the mahkai did this to help his people, and also used power to
+raise the mountain, but at last he saw all was to be a failure. And
+he called the people and asked them all to come close together, and he
+took his doctor-stone (mah-kai-haw-teh) which is called Tonedumhawteh
+or Stone-of-Light, and held it in the palm of his hand and struck
+it hard with his other hand, and it thundered so loud that all the
+people were frightened and they were all turned into stone.
+
+And the little birds, the woodpecker, Hickovick; the humming-bird,
+Veepismahl; the little bird named Gee-ee-sop, and the other called
+Quotaveech, all flew up to the sky and hung on by their bills, but
+Nooee still floated in the air and intended to keep on the wing unless
+the floods reached the heavens.
+
+But Juhwerta Mahkai, Ee-ee-toy and Toehahvs floated around on the
+water and drifted to the west and did not know where they were.
+
+And the flood rose higher until it reached the woodpecker's tail,
+and you can see the marks to this day.
+
+And Quotaveech was cold and cried so loud that the other birds pulled
+off their feathers and built him a nest up there so he could keep
+warm. And when Quotaveech was warm he quit crying.
+
+And then the little birds sang, for they had power to make the water
+go down by singing, and as they sang the waters gradually receded.
+
+But the others still floated around.
+
+When the land began to appear Juhwerta Mahkai and Toehahvs got out,
+but Ee-ee-toy had to wait for his house to warm up, for he had built
+a fire to warm his vessel enough for him to unseal it.
+
+When it was warm enough he unsealed it, but when he looked out he
+saw the water still running & he got back and sealed himself in again.
+
+And after waiting a while he unsealed his vessel again, and seeing
+dry land enough he got out.
+
+And Juhwerta Mahkai went south and Toehahvs went west, and Ee-ee-toy
+went northward. And as they did not know where they were they missed
+each other, and passed each other unseen, but afterward saw each
+other's tracks, and then turned back and shouted, but wandered from
+the track, and again passed unseen. And this happened four times.
+
+And the fourth time Juhwerta Mahkai and Ee-ee-toy met, but Toehahvs
+had passed already.
+
+And when they met, Ee-ee-toy said to Juhwerta Mahkai "My younger
+brother!" but Juhwerta Mahkai greeted him as younger brother &
+claimed to have come out first. Then Ee-ee-toy said again: "I came
+out first and you can see the water marks on my body." But Juhwerta
+Mahkai replied: "I came out first and also have the water marks on
+my person to prove it."
+
+But Ee-ee-toy so insisted that he was the eldest that Juhwerta Mahkai,
+just to please him, gave him his way and let him be considered
+the elder.
+
+And then they turned westward and yelled to find Toehahvs, for they
+remembered to have seen his tracks, and they kept on yelling till he
+heard them. And when Toehahvs saw them he called them his younger
+brothers, and they called him younger brother. And this dispute
+continued till Ee-ee-toy again got the best of it, and although really
+the younger brother was admitted by the the others to be Seeurhuh,
+or the elder.
+
+And the birds came down from the sky and again there was a dispute
+about the relationship, but Ee-ee-toy again got the best of them all.
+
+But Quotaveech staid up in the sky because he had a comfortable nest
+there, and they called him Vee-ick-koss-kum Mahkai, the Feather-Nest
+Doctor.
+
+And they wanted to find the middle, the navel of the earth, and
+they sent Veepismahl, the humming-bird, to the west, and Hickovick,
+the woodpecker, to the east, and all the others stood and waited for
+them at the starting place. And Veepismahl & Hickovick were to go as
+far as they could, to the edge of the world, and then return to find
+the middle of the earth by their meeting. But Hickovick flew a little
+faster and got there first, and so when they met they found it was
+not the middle, and they parted & started again, but this time they
+changed places and Hickovick went westward and Veepismahl went east.
+
+And this time Veepismahl was the faster, and Hickovick was late,
+and the judges thought their place of meeting was a little east of
+the center so they all went a little way west. Ee-ee-toy, Juhwerta
+Mahkai and Toehahvs stood there and sent the birds out once more,
+and this time Hickovick went eastward again, and Veepismahl went
+west. And Hickovick flew faster and arrived there first. And they said:
+"This is not the middle. It is a little way west yet."
+
+And so they moved a little way, and again the birds were sent forth,
+and this time Hickovick went west and Veepismahl went east. And when
+the birds returned they met where the others stood and all cried
+"This is the Hick, the Navel of the World!"
+
+And they stood there because there was no dry place yet for them to
+sit down upon; and Ee-ee-toy rubbed upon his breast and took from
+his bosom the smallest ants, the O-auf-taw-ton, and threw them upon
+the ground, and they worked there and threw up little hills; and this
+earth was dry. And so they sat down.
+
+But the water was still running in the valleys, and Ee-ee-toy took
+a hair from his head & made it into a snake--Vuck-vahmuht. And with
+this snake he pushed the waters south, but the head of the snake was
+left lying to the west and his tail to the east.
+
+But there was more water, and Ee-ee-toy took another hair from his
+head and made another snake, and with this snake pushed the rest of
+the water north. And the head of this snake was left to the east and
+his tail to the west. So the head of each snake was left lying with
+the tail of the other.
+
+And the snake that has his tail to the east, in the morning will
+shake up his tail to start the morning wind to wake the people and
+tell them to think of their dreams.
+
+And the snake that has his tail to the west, in the evening will
+shake up his tail to start the cool wind to tell the people it is
+time to go in and make the fires & be comfortable.
+
+And they said: "We will make dolls, but we will not let each other
+see them until they are finished."
+
+And Ee-ee-toy sat facing the west, and Toehahvs facing the south,
+and Juhwerta Mahkai facing the east.
+
+And the earth was still damp and they took clay and began to make
+dolls. And Ee-ee-toy made the best. But Juhwerta Mahkai did not make
+good ones, because he remembered some of his people had escaped the
+flood thru a hole in the earth, and he intended to visit them and
+he did not want to make anything better than they were to take the
+place of them. And Toehahvs made the poorest of all.
+
+Then Ee-ee-toy asked them if they were ready, and they all said yes,
+and then they turned about and showed each other the dolls they
+had made.
+
+And Ee-ee-toy asked Juhwerta Mahkai why he had made such queer
+dolls. "This one," he said, "is not right, for you have made him
+without any sitting-down parts, and how can he get rid of the waste
+of what he eats?"
+
+But Juhwerta Mahkai said: "He will not need to eat, he can just smell
+the smell of what is cooked."
+
+Then Ee-ee-toy asked again: "Why did you make this doll with only one
+leg--how can he run?" But Juhwerta Mahkai replied: "He will not need
+to run; he can just hop around."
+
+Then Ee-ee-toy asked Toehahvs why he had made a doll with webs between
+his fingers and toes--"How can he point directions?" But Toehahvs
+said he had made these dolls so for good purpose, for if anybody
+gave them small seeds they would not slip between their fingers,
+and they could use the webs for dippers to drink with.
+
+And Ee-ee-toy held up his dolls and said: "These are the best of all,
+and I want you to make more like them." And he took Toehahv's dolls
+and threw them into the water and they became ducks & beavers. And he
+took Juhwerta Mahkai's dolls and threw them away and they all broke
+to pieces and were nothing.
+
+And Juhwerta Mahkai was angry at this and began to sink into the
+ground; and took his stick and hooked it into the sky and pulled the
+sky down while he was sinking. But Ee-ee-toy spread his hand over his
+dolls, and held up the sky, and seeing that Juhwerta Mahkai was sinking
+into the earth he sprang and tried to hold him & cried, "Man, what
+are you doing! Are you going to leave me and my people here alone?"
+
+But Juhwerta Mahkai slipped through his hands, leaving in them only
+the waste & excretion of his skin. And that is how there is sickness &
+death among us.
+
+And Ee-ee-toy, when Juhwerta Mahkai escaped him, went around swinging
+his hands & saying: "I never thought all this impurity would come
+upon my people!" and the swinging of his hands scattered disease
+over all the earth. And he washed himself in a pool or pond and the
+impurities remaining in the water are the source of the malarias and
+all the diseases of dampness.
+
+And Ee-ee-toy and Toehahvs built a house for their dolls a little
+way off, and Ee-ee-toy sent Toehahvs to listen if they were yet
+talking. And the Aw-up, (the Apaches) were the first ones that
+talked. And Ee-ee-toy said: "I never meant to have those Apaches
+talk first, I would rather have had the Aw-aw-tam, the Good People,
+speak first."
+
+But he said: "It is all right. I will give them strength, that they
+stand the cold & all hardships."
+
+And all the different people that they had made talked, one after
+the other, but the Awawtam talked last.
+
+And they all took to playing together, and in their play they kicked
+each other as the Maricopas do in sport to this day; but the Apaches
+got angry and said: "We will leave you and go into the mountains and
+eat what we can get, but we will dream good dreams and be just as
+happy as you with all your good things to eat."
+
+And some of the people took up their residence on the Gila, and some
+went west to the Rio Colorado. And those who builded vahahkkees,
+or houses out of adobe and stones, lived in the valley of the Gila,
+between the mountains which are there now.
+
+
+        JUHWERTA MAHKAI'S SONG BEFORE THE FLOOD
+
+            My poor people,
+            Who will see,
+            Who will see
+        This water which will moisten the earth!
+
+
+        THE SONG OF SUPERSTITION MOUNTAINS
+
+        We are destroyed!
+        By my stone we are destroyed!
+        We are rightly turned into stone.
+
+
+        EE-EE-TOY'S SONG WHEN HE MADE THE WORLD SERPENTS
+
+        I know what to do;
+        I am going to move the water
+            both ways.
+
+
+NOTES ON THE STORY OF THE FLOOD
+
+In the Story of the Flood we are introduced to Indian marriage. Among
+the Pimas it was a very simple affair. There was no ceremony
+whatever. The lover usually selected a relative, who went with him to
+the parents of the girl and asked the father to permit the lover to
+marry her. Presents were seldom given unless a very old man desired
+a young bride. The girl was consulted and her consent was essential,
+her refusal final. If, however, all parties were satisfied, she went at
+once with her husband as his wife. If either party became dissatisfied,
+separation at once constituted divorce and either could leave the
+other. A widow or divorced woman, if courted by another suitor, was
+approached directly, with no intervention of relatives. Of course,
+on these terms there were many separations, yet all accounts agree
+that there was a good deal of fidelity and many life-long unions and
+cases of strong affection.
+
+Polygamy was not unknown.
+
+Grossman says that the wife was the slave of the husband, but it
+is difficult to see how a woman, free at any moment to divorce
+herself without disgrace or coercion, could be properly regarded as
+a slave. Certainly the men appear always to have done a large part
+of the hard work, and as far as I could see the women were remarkably
+equal and independent and respectfully treated, as such a system would
+naturally bring about. A man would be a fool to ill-treat a woman,
+whose love or services were valuable to him, if at any moment of
+discontent she could leave him, perhaps for a rival. The chances are
+that he would constantly endeavor to hold her allegiance by special
+kindness and favors.
+
+But today legal marriage is replacing the old system.
+
+So far as I saw the Pimas were very harmonious and kindly in family
+life.
+
+The birds, gee-ee-sop and quotaveech, were pointed out to me by the
+Pimas, and as near as I could tell quotaveech was Bendire's thrasher,
+or perhaps the curve-bill thrasher. It has a very sweet but timid
+song. I did not succeed in identifying gee-ee-sop, but find these
+entries about him in my journal: "Aug. 5--I saw a little bird which
+I suppose to be a gee-ee-sop in a mezquite today, smaller and more
+slender than a vireo, but like one in action, but the tail longer and
+carried more like a brown thrasher, nearly white below, dark, leaden
+gray above, top of head and tail black." Again on Sept. 1: "What a
+dear little bird the gee-ee-sop is! Two of them in the oas-juh-wert-pot
+tree were looking at me a few minutes back. Dark slate-blue above and
+nearly white below, with beady black eyes and black, lively tails,
+tipped with white, they are very pretty, tame and confiding."
+
+The faith of the Aw-aw-tam in witchcraft appears first in this story
+and afterwards is conspicuous in nearly all. Almost all diseases
+they supposed were caused by bewitching, and it was the chief
+business of the medicine-men to find out who or what had caused the
+bewitching. Sometimes people were accused and murders followed. This
+was the darkest spot in Piman life. Generally, however, some animal or
+inanimate object was identified. Grossman's account in the Smithsonian
+Report for 1871 is interesting. In the stories, however, witchcraft
+appears usually as the ability of the mahkai to work transformations
+in himself or others, in true old fairy-tale style.
+
+Superstition Mountain derives its name from this story. It is a
+very beautiful and impressive mountain, with terraces of cliffs,
+marking perhaps the successive pausing places of the fugitives, and
+the huddled rocks on the top represent their petrified forms. Some
+of the older Indians still fear to go up into this mountain, lest a
+like fate befall them.
+
+What beautiful poetic touches are the wetting of the woodpecker's tail,
+and the singing of the little birds to subdue the angry waters.
+
+The resemblances to Genesis will of course be noted by all in these
+two first stories. Yet after all they are few and slight in any matter
+of detail.
+
+In Ee-ee-toy's serpents, that pushed back the waters, there is a
+strong reminder of the Norse Midgard Serpent.
+
+The making of the dolls in this story is one of the prettiest and
+most amusing spots in the traditions.
+
+The waste and perspiration of Juhwerta Mahkai's skin again comes into
+play, but this time as a malign force instead of a beneficent one. It
+would also appear from this that the more intelligent Pimas had a
+glimmering of the fact that there were other causes than witchcraft
+for disease.
+
+I have generally used the word Aw-aw-tam (Good People, or People of
+Peace) as synonymous with Pima, but it is sometimes used to embrace
+all Indians of the Piman stock and may be so understood in this story.
+
+And perhaps this is as good a place as any to say a few descriptive
+words about these Pimas of Arizona, and their allies, who have from
+prehistoric times inhabited what the old Spanish historian, Clavigero,
+called "Pimeria," that is, the valleys of the Gila and Salt Rivers.
+
+Their faces seemed to me to be of almost Caucasian regularity and
+rather of an English or Dutch cast, that is rather heavily moulded. The
+forehead is vertical and inclined to be square; and the chin, broad,
+heavy and full, comes out well to its line. The nose is straight,
+or a little irregular, or rounded, at the end, but not often very
+aquiline, never flat or wide-nostriled. The mouth is large but well
+shaped, with short, white, remarkably even teeth, seldom showing any
+canine projection. The whole face is a little heavy and square, but
+the cheek bones are not especially prominent. The eyes are level, frank
+and direct in glance, with long lashes and strong black brows. In the
+babies a slight uptilt to the eye is sometimes seen, like a Japanese,
+which indeed the babies suggest. The head of almost all adults is
+well-balanced and finely poised on a good neck.
+
+Another type possesses more of what we call the Indian feature. The
+forehead retreats somewhat, so does the chin, while the upper lip
+is larger, longer, more convex and the nose, above is more aquiline,
+with wider nostrils. Consequently this face in profile is more convex
+thruout. The cheek-bones are much more prominent, too, and the head
+not generally so well-balanced and proportional.
+
+While I have seen no striking beauty I believe the average good looks
+is greater than among white men, taken as they come.
+
+The women as a rule, however, do not carry themselves gracefully, are
+apt to be too broad, fat and dumpy in figure, with too large waists,
+and often loose, ungracefully-moving hips. This deformity of the hips,
+for it almost amounts to that, I observe among Italian peasant women,
+too, and some negresses, and, I take it, is caused by carrying too
+heavy loads on the head at too early an age. There seems to be a
+settling down of the body into the pelvis, with a loose alternate
+motion of the hips. There are exceptions, of course, and I have seen
+those of stately figure and fine carriage. Sometimes the loose-hip
+motion appears in a man.
+
+A slight tattooing appears on almost all Pima faces not of the last
+generation. In the women this consists of two blue lines running down
+from each corner of the mouth, under the chin, crossing, at the start,
+the lower lip, and a single blue line running back from the outer
+angle of each eye to the hair.
+
+In the men it is usually a single zigzag blue line across the forehead.
+
+The pigment used is charcoal.
+
+The men are generally erect and of good figure, with good chests and
+rather heavy shoulders, the legs often a little bowed. Strange to say
+I never saw one who walked "pigeon-toed." All turned the toes out like
+white men. The hands are often small and almost always well-shaped; and
+the feet of good shape, too, not over large, with a well-arched instep.
+
+Emory and his comrades found the Pimas wearing a kind of breech-cloth
+and a cotton serape only for garments; the women wearing only a
+serape tied around the waist and falling to the knee, being otherwise
+nude. Today the average male Pima dresses like a white workman, in hat,
+shirt, trousers and perhaps shoes, and his wife or daughter wears a
+single print gown, rather loose at the waist and ruffled at the bottom,
+which reaches only to the ankles. Both sexes are commonly barefooted,
+but the old sandals, once universal, are still often seen. These
+gah-kai-gey-aht-kum-soosk, or string-shoes, as the word means, were
+made in several different ways, and often projected somewhat around
+the foot as a protection against the frequent and formidable thorns
+of the country.
+
+Sometimes a wilder or older Indian will be seen, even now, with only
+a breech-cloth on, and some apology for a garment on his shoulders.
+
+The skin is often of a very beautiful rich red-bronze tint, or perhaps
+more like old mahogany.
+
+Except the tattooing both sexes are remarkable for their almost
+entire absense of any marked adornment or ornament of person. Even a
+finger-ring, or a ribbon on the hair, is not common, and the profuse
+bead-work and embroidery of the other tribes is never seen.
+
+The exceedingly thick and intensely black hair was formerly worn
+very long, even to the waist, being banged off just over the eyes
+of the women and over the eyes and ears of the men and allowed to
+hang perfectly loose. But the women seldom wore as long hair as
+the men. This long hair is still sometimes seen and is exceedingly
+picturesque, especially on horseback, and it is a great pity so
+sightly a fashion should ever die out. I have seen Maricopas roll
+theirs in ringlets. Sometimes the men braided the hair into a cue,
+or looped up the ends with a fillet. But the Government discourages
+long and loose hair, and now most men cut it short, and women part
+theirs and braid it. Like all Indians, the men have scant beards,
+and the few whiskers that grow are shaved clean or resolutely pinched
+off with an old knife or pulled out by tweezers.
+
+Their hair appears to turn gray as early as ours, tho I saw no baldness
+except on one individual. In old times (and even now to some extent)
+the hair was dressed with a mixture of mud and mezquite gum, at times,
+which was left on long enough for the desired effect and then thoroly
+washed off. This cleansed it and made it glossy and the gum dyed the
+gray hair quite a lasting, jet black, tho several applications might
+be needed.
+
+Women still carry their ollas and other burdens on their heads and
+are exceedingly strong and expert in the art, balancing great and
+awkward weights with admirable dexterity.
+
+The convenient and even beautiful gyih-haw (a word very difficult to
+pronounce correctly), or burden basket, of the old time Pima woman,
+seems to have entirely disappeared. It was not only picturesque,
+but an exceedingly useful utensil.
+
+The wawl-kote, or carrying-cradle for the baby, is obsolete, too,
+now. Strange to say, tho in shape like most pappoose-cradles, it
+was carried poised on the head, instead of slung on the back in the
+usual way.
+
+The Pimas are fond of conversation and often come together in the
+evening and have long talks. Their voices are low, rapid, soft and
+very pleasant and they laugh, smile and joke a great deal. They are
+remarkable for calmness and evenness of temper and the expression of
+the face is nearly always intelligent, frank, and good-natured.
+
+They are noticeably devoid of hurry, worry, irritability or
+nervousness.
+
+Unlike most Indians these have not been removed from the soil of their
+fathers and, indeed, such an act would have been cruelly unjust, for,
+true to their name, the Pimas have maintained an unbroken peace with
+the whites.
+
+Lieutenant Colonel W. H. Emory, of "The Army of the West," who visited
+them in 1846, was perhaps the first American to observe and describe
+these people. He says: "Both nations (Pimas and Maricopas) cherished an
+aversion to war and a profound attachment to all the peaceful pursuits
+of life. This predilection arose from no incapacity for war, for they
+were at all times able and willing to keep the Apaches, whose hands
+are raised against all other people, at a respectful distance, and
+prevent depredations by those mountain robbers who held Chihuahua,
+Sonora and a part of Durango in a condition approaching almost to
+tributary provinces."
+
+As observed by Emory and the other officers of the "Army of the West"
+they were an agricultural people raising at that time "cotton, wheat,
+maize, beans, pumpkins and water melons." I found them raising all
+these in 1903, except cotton, and I think he might have added to his
+list, peppers, gourds, tobacco and the pea called cah-lay-vahs.
+
+Emory says: "We were at once impressed with the beauty, order,
+and disposition of the arrangements made for irrigating the land
+... the fields are subdivided by ridges of earth into rectangles of
+about 200×100 feet, for the convenience of irrigating. The fences
+are of sticks, matted with willow and mezquite." I found this still
+comparatively correct. The fields are still irrigated by acequias
+or ditches from the Gila, and still fenced by forks of trees set
+closely in the ground and reinforced with branches of thorn or barbed
+wire. Some of these fences with their antler-like effect of tops are
+very picturesque.
+
+From the description given by Emory, and Captain A. R. Johnson of the
+same army, of their kees or winter lodges, they were essentially the
+same as I found some of them still inhabiting. There is the following
+entry in my journal: "I have been examining the old kee next door,
+since the old couple left it. It is quite neatly and systematically
+made. Four large forks are set in the ground, and these support
+a square of large poles, covered with other poles, arrow-weeds,
+chaff and earth, for the roof. The walls are a neat arrangement of
+small saplings, about 10 inches apart curving up from the ground on
+a bending slant to the roof, so that the whole structure comes to
+resemble a turtle-shell or rather an inverted bowl. These side sticks
+are connected by three lines of smaller sticks tied across them with
+withes, all the way around the kee. Against these arrow-weeds are
+stood, closely and neatly, tops down (perhaps thatched on) and kept in
+place by three more lines of small sticks, bound on and corresponding
+to those within. Then the whole structure is plastered over with adobe
+mud till rain-proof. No window, and only one small door, about 2-1/2
+feet square, closed by a slat-work."
+
+This kee of the Pima was not to his credit. The most friendly must
+admit it dirty, uncomfortable and unpicturesque. It was too low to
+stand erect in, the little fire was made in the center, the smoke
+escaping at last from the low doorway after trying everywhere else
+and festooning the ceiling with soot.
+
+The establishment of the Pima was most simple. He sat, ate and
+slept on the earth, consequently a few mats and blankets, baskets,
+bowls and pots included his furniture. A large earthen olla, called
+by the Pimas hah-ah, stood in a triple fork under the shade of the
+vachtoe and being porous enough to permit a slight evaporation kept
+the drinking water cool.
+
+The arbor-shed or vachtoe pertains to almost every Piman home
+and consists of a flat roof of poles and arrow-weeds supported
+by stout forks. Sometimes earth is added to the roof to keep off
+rain. Sometimes the sides are enclosed with a rude wattle work of
+weeds and bushes, making a grateful shade, admitting air freely;
+screening those within from view, while permitting vision from within
+outward in any direction. Sometimes this screen of weeds and bushes,
+in a circular form, was made without any roof and was then called
+an o-num. Sometimes after the vachtoe had been inclosed with wattle
+work the whole structure was plastered over with adobe mud and then
+became a caws-seen, or storehouse. All these structures were used
+at times as habitations, but now the Pima is coming more and more to
+the white man's adobe cottage as a house and home. But the vachtoe,
+attached or detached, is still a feature of almost every homestead.
+
+Under the vachtoe usually stood the metate, or mill (called by the
+Pimas mah-choot) which was a large flat or concave stone, below,
+across which was rubbed an oblong, narrow stone (vee-it-kote),
+above, to grind the corn or wheat. Other important utensils were a
+vatchee-ho, or wooden trough, for mixing, and a chee-o-pah, or mortar,
+of wood or stone, for crushing things with a pestle. The nah-dah-kote,
+or fire-place, was an affair of stones and adobe mud to support the
+earthern pots for cooking or to support the earthern plates on which
+the thin cakes of corn or wheat meal were baked. These were what the
+Mexicans call tortillas. Perhaps the staple food of the Pima even
+more than corn (hohn) or wheat (payl-koon) is frijole beans--these
+of two kinds, the white (bah-fih), the brown (mohn). A sort of meal
+made of parched corn or wheat; ground on the mahchoot and eaten, or
+perhaps one might say drank, with water and brown sugar (pano-che)
+was the famous pinole, the food carried on war trips when nutrition,
+lightness of weight and smallness of bulk were all desired. It has a
+remarkable power to cool and quench thirst. Taw-mahls, or corn-cakes
+of ground green corn, wrapped in husks and roasted in the ashes,
+or boiled, were also favorites. Peppers (kaw-aw-kull) were a good
+deal used for seasoning and relishes.
+
+Today the country of the Pima is very destitute of large game but he
+adds to the above bill of fare all the small game, especially rabbits,
+quail and doves, that he can kill. In the old days when the Gila always
+had water it held fine fish and the Indians caught them with their
+hands or swept them up on the banks by long chains of willow hurdles
+or faggots, carried around the fish by waders. I could not learn that
+they ever had any true fish-nets or fish-hooks; nor any rafts, canoes
+or other boats. But owing to the frequent necessity of crossing the
+treacherous Gila the men, and many of the women, were good swimmers.
+
+The Toe-hawn-awh Aw-aw-tam, or Papagoes, whose reservation is in
+Pima County, near Tucson (and called St. Xavier) are counted "blood
+brothers" of the Pimas, speak essentially the same language, are on
+the most cordial terms with them, and are under the same agency.
+
+The Maricopas are a refugee tribe, related to the Yumas, who
+once threatened them with extermination because of an inter-tribal
+feud. They were adopted by the Pimas and protected by them, and have
+ever since lived with them as one people, having however a different
+language, identical with that of the Yumas.
+
+The Quojatas are a small tribe, of the Piman stock, living south of
+the Casa Grande.
+
+The total number of Pimas, Papagoes and Maricopas in the U. S. is
+now estimated at about 8000, the Pimas alone as 4000.
+
+I am not a linguist, or a philologist, and my time was short with
+these people, and I did not go to any extent into their language,
+or study its grammar. Their voices were soft and pleasant, and I
+was continually surprised at the low tones in which they generally
+conversed and the quickness with which they heard. But their words
+were most awkward to my tongue. There were German sounds, and French
+sounds, too, I would say, in their language, and there were letters
+that seemed to disappear as they uttered them, or never to come really
+forth, and syllables that were swallowed like spoonfuls of hot soup.
+
+But I trust that I am substantially correct in the words that I have
+retained in the stories and that I have written them so that the
+English reader can pronounce them in a way to be understood.
+
+The accent is generally on the first syllable.
+
+
+THE STORY OF AH-AHN-HE-EAT-TOE-PAHK MAHKAI
+
+
+And there was an orphan named Ah-ahn-he-eat-toe-pahk Mahkai
+(which means Braided-Feather Doctor) who lived at a place called
+Two Reservoirs (Go-awk-Vahp-itchee-kee) north of Cheoff-Skaw-mack,
+or Tall Gray Mountain.
+
+And his only relative was an old grandmother. And she used to go
+and get water in earthern vessels, a number of them in her carrying
+basket. And when she neared home she would call to her grandson,
+saying: "Come, help me wrestle with it!" meaning to help her down
+with her load. And he would jump and run, and wrestle so roughly he
+would break all the vessels in her basket.
+
+And thus was he mean and mischievous, a bad boy in many ways. And
+one day his grandmother sent him to get some of the vegetable called
+"owl's-feathers," which the Awawtam cook by making it into a sort
+of tortilla, baked on the hot ground where a fire has just been. And
+he went and found an owl and pulled its feathers out & brought them
+to the old woman, and she said: "This is not what I want! It is a
+vegetable that I mean!"
+
+And so he went off again and got the vegetable owl's-feathers for her.
+
+After that she sent him for the vegetables named "crow's-feet" and
+"blackbird's-eyes," saying to him that they were very good cooked
+together. And the mischievous orphan went & got the feet of some real
+crows and the eyes of real blackbirds and brought them to her. And
+she said: "This is not what I mean! I want the vegetables named after
+these things!"
+
+And the boy, who was then about twelve years old, went and got what
+she wanted and she cooked them.
+
+And this orphan boy had a dream which he liked and wished to have come
+true, and went to a dance that was being danced in the neighborhood,
+a ceremonial dance such as is celebrated when a young girl arrives
+at womanhood, and he went to see it, hoping it would in some way be
+like his dream, but when he saw it he was disgusted.
+
+And he went to hear the song of a singing doctor, a mahkai or
+medicine-man, but when he heard his singing he was disgusted with
+that too.
+
+And he left his home and on his way found a little house, or kee,
+made of rough bushes. And the one who lived therein invited him to
+stay awhile and see all the different people who would arrive there.
+
+And he did so, and in the early evening they came--all the fiercest
+animals, cougars, bears, eagles, and they were bewitching each other,
+but nobody bewitched him, and in the morning he went on.
+
+And he went along until he came to another kee, and the owner invited
+him to stay over night and see all the people who came there. And he
+did so, and in the early evening came the same creatures and did the
+same as before, but he was not bewitched.
+
+And he went on again till he came to a desert place, utterly barren,
+without trees or bushes and there a wind came to meet him, a whirlwind,
+Seev-a-lick, and it caught him up and carried him to the East &
+then back again; and to the North and back again; and to the West &
+back again; and then South & back again. And so it got possession of
+his soul and carried it off to its own place.
+
+And Seevalick, the whirlwind, said to him: "You shall be like me."
+
+And there his dream came true and he said: "This is what I was looking
+for; this it is for which I was travelling."
+
+And he wished to go back, and the wind took his soul back again into
+his body, and so he returned to his home.
+
+And after his return he was the best young man in the country, kind
+to everybody, and everybody liked him. But he did not care to be with
+boys of his own age, but liked better to be with the wise old men, and
+went where they came together at nights. And he would sit and listen
+to them, but did not attempt to make any speeches himself. His reasons
+were that the young were often vicious, thieves, beggars, murderers,
+and he would rather be with the old who followed what was better.
+
+And in the evening he would often hear the old people say: "We will
+go rabbit-hunting in such a place," but he stayed at home and did
+not go with them.
+
+But one night, after a while, when they said: "Tomorrow we will go
+jack-rabbit hunting," he went home as they did, but the next morning,
+when they went hunting, he went and made himself a bow & arrows,
+as Seevalick had told him and placed them where he could find them.
+
+And the next evening they were talking again of hunting, and appointed
+a place to meet, and the following morning, when they were getting
+ready, he got his bows & arrows, but he did not come quite up to the
+meeting place, but sat a little way off.
+
+And as he sat there the people came up to him and made fun of him
+and asked him if he expected to kill anything with his weapons, for
+he had made a big bow & arrows as the Whirlwind had done. And the
+people handed these about among themselves, laughing, and when they
+were thru ridiculing them they brought back the bow and arrows and
+laid them down before him. But he said nothing, and when the people
+were thru he left the bow & arrows there, and went home and went
+again to look for a suitable stick to make a bow from.
+
+And he made a new bow & arrows and left them where he could find them,
+and went home.
+
+And again he went in the evening to the old people's gathering and
+heard them appoint a place for the hunting, and went home when they
+did. And in the morning, when he heard the signal cry for hunting,
+he went and got his bow & arrows and followed after them again, but
+again stayed some distance off. And again the people came about him and
+handled his bow & arrows and laughed at them. And again he left them
+lying there on the ground and went home to make a new bow & arrows.
+
+And the fourth time this happened he was late at the place of meeting,
+and before he came the one at whose house the meeting was said to the
+others: "There is a young man who has been several times with us to
+the place where we come together for the hunting, and I suppose he
+has made a new bow & arrows today, for he has to do that whenever you
+handle his weapons. Now I want you not to handle his weapons any more,
+but to let him be till we see what he will do, for it appears to me
+that he is some kind of a powerful personage (mahkai).
+
+And Toehahvs, who was listening, said: "You yourself, were the very
+first to handle his weapons."
+
+And the next morning when Ahahnheeattoepahk Mahkai heard the signal
+yells for the hunting, he went to the meeting place, with his bow and
+arrows, and sat away off, as before, but this time nobody came to him.
+
+And then the hunting began, and in it some one called to him: "There
+is a jack-rabbit (choo-uff) coming your way!" and he shot the rabbit
+with his arrow; but when he came to it he did not pick it up, but
+grasped the arrow and with a swinging motion threw the rabbit from
+it to the man nearest him.
+
+And thus he went on all day, killing rabbits and giving them to others,
+keeping none for himself.
+
+And again he was late at the place of meeting, and the man who had
+spoken the night before said: "Now you see what he has done! This is
+the fourth bow that he has made. If you people had left him alone
+before, he would, before this, have been killing game for you. And
+now if you do not disturb him I am sure he will go on, and you will
+have jack-rabbits to eat all the time."
+
+And so he killed rabbits at every hunt, and gave them away, especially
+to the old. Whenever he killed one he would pick it up and give it
+to an old man, and keep on that way.
+
+And one night at the place of meeting the spokesman said: "Tomorrow we
+will surround the mountain and hunt deer, and we will put him at the
+place where the deer will run, and we will see how many he will kill!"
+
+And in the morning, at the mountain, they placed him at the deer-run,
+and told him to "shut the valley," meaning for him to head-off and
+kill any deer which might run toward him. But the young man began
+to get big rocks and try to make a wall to close the valley up, and
+paid no attention to the deer running past him, and when the people
+came and asked him about his shooting he said: "You did not tell me
+to kill the deer, you told me to 'shut the valley.'"
+
+(Not but what he understood them, but he was acting again as he had
+once done with his grandmother.)
+
+And the next day they tried another mountain and said: "We will see
+if the young man will kill us any deer there." So when they came to
+this mountain they told him to go to a certain valley, on the other
+side, and hang himself there. This is a form of speech which means
+to hang around or remain at a place; but the young hunter went there
+and left his bow & arrows on the ground, and hung himself up by his
+two hands clasped around the limb of a tree.
+
+And after they had chased many deer in his direction they said:
+"Let us go now & butcher-up the deer the young man has killed, for
+he must have killed a good many by this time."
+
+But when they came to where the young man was, there he hung by
+his hands, and when they asked him how many he had killed, he said:
+"I have not killed any. You did not tell me to kill any, only to hang
+myself here, which I did, and I have hung here and watched the deer
+running past."
+
+And they tried him again, on another morning, at another valley, and
+this time they told him if he saw a doe big with fawn, "snon-ham,"
+which is also the word used for a woman soon to become a mother, he
+should kill her. And he went to his place, and there came by such a
+woman and he shot her down and killed her.
+
+And the next day they took him to another mountain and told him
+to kill the "kurly," which means the old, but they meant him to
+understand old deer. And when they came to him later to butcher-up
+the deer he had killed, and asked him where they were, he replied:
+"I have not killed any deer, you did not tell me to kill deer, but
+to kill the kurly, and there is the kurly I have killed!"
+
+And it was the old man who goes ahead whom he had shot with his arrow.
+
+And after they had buried the old man they returned to the village, and
+that night the man who owned the meeting place said: "Tomorrow we must
+give him another trial, and this time I want you to tell him straight
+just what you want. Tell him to kill the deer, either young or old,
+and he will do it. If you had done this before he would have killed
+us many deer. You should have understood him better by this time,
+but you did not tell him straight, and now he has killed two of us."
+
+And the next morning they took him to another mountain, and placed
+him in a low place, and told him to kill all the deer which came
+his way. And when they went after a while, after chasing many deer
+toward him, they asked him where the deer were which he had killed,
+and he replied: "Down in the low place you will find plenty deer." And
+they went there and found many dead deer of all kinds, and butchered
+them up.
+
+
+NOTES ON THE STORY OF AH-AHN-HE-EAT-TOE-PAHK MAHKAI
+
+In the story of Ah-ahn-he-eat-toe-pahk Mahkai we are introduced to
+the Indian faith in dreams and to more witchcraft. We come, too,
+to the national sport of rabbit-hunting, with its picturesqueness
+and excitement.
+
+In the transaction between Seevalick and the boy we have a reappearance
+of the world-wide belief that there is a connection between the wind
+and the human soul.
+
+The strange quality of savage humor, labored, sometimes gruesome,
+and often tragic, appears in the latter part of the tale.
+
+It is noticeable that they buried the old man, but no mention is made
+of burying the woman who was shot. The Pimas of old time buried their
+dead in a sitting posture, neck and knees tied together with ropes,
+four to six feet under ground, and covered the grave with logs and
+thorn-brush to keep away wolves. The interment was usually at night,
+with chants, but without other ceremony. Then, immediately after,
+the house of the deceased was burned, and all personal effects
+destroyed, even food; the horses and cattle being killed and eaten
+by the mourners, excepting such as the deceased might have given to
+his heirs. After the prescribed time of mourning (one month for a
+child or distant relative, six months or a year for husband or wife)
+the name of the dead was never more mentioned and everything about
+him treated as forgotten.
+
+The Maricopas burn their dead.
+
+It is noticeable, too, that no one appears to have punished the slayer
+for his murderous practical jokes. Indeed, while the Awawtam appear
+to have been people of exceptionally good character, it also appears
+that they seldom punished any crimes except by a sort of boycott or
+pressure of public disapproval.
+
+
+THE STORY OF VANDAIH, THE MAN-EAGLE
+
+
+And thus Ahahnheeattoepahk Mahkai became famous for the killing of
+game; and there was another young man, named Van-daih, who wanted to
+be his friend. So one day Vandaih made him four tube-pipes of cane,
+such as the Indians use for ceremonious smoking, and went to see the
+young hunter. But when he entered the young man was lying down, and he
+just looked at Vandaih and then turned his face away, saying nothing.
+
+And Vandaih sat there and when the young man became tired of lying
+one way and turned over he lit up one of his pipes. But the young man
+took no notice of him. And this went on all night. Every time there
+was a chance Vandaih tried his pipe, but Ahahnheeattoepahk Mahkai
+never spoke, and in the morning Vandaih went away without the friend
+he desired having responded to him.
+
+The next evening Vandaih came again and sat there all night, but
+the friend he courted never said a word, and in the morning he went
+away again.
+
+And he slept in the daytime, and when evening came he went again,
+and sat all night long, but the young man spoke to him not at all.
+
+And the third morning that this happened the wife of Ahahnheeattoepahk
+Mahkai said to him: "Why are you so mean to Vandaih as never to
+speak to him? Perhaps he has something important to say. He comes
+here every night, and sits the whole night thru before you, and you
+do not speak to him. And maybe he will come tonight again, and I feel
+very sorry for him that you never say a word to him when he comes."
+
+And the young man said: "I know it is true, what you have said, but I
+know, too, very well, that Vandaih is not a good man. He gambles with
+the gains-skoot, he is a liar, a thief, licentious, and is everything
+that is bad. I wish some other boys would come to see me instead of
+him, and better than he, for I know very well that he will repeat
+things that I say in a way that I did not mean and raise a scandal
+about it."
+
+And the next night Vandaih came again and sat in the same place;
+and when Ahahnheeattoepahk Mahkai saw him he just looked at him and
+then turned over and went to sleep. But along in the night he awoke,
+and when Vandaih saw he was awake he lit one of his pipes. Then
+Ahahnheeattoepahk Mahkai got up. And when he got up Vandaih buried
+his pipe, but the other said: "What do you bury your pipe for? I want
+to smoke."
+
+Vandaih said: "I have another pipe," and he lit one and gave it
+to Ahahnheeattoepahk Mahkai, and then he dug up his own pipe, and
+relighted it, and they both began to smoke.
+
+And Ahahnheeattoepahk Mahkai said: "When did you come?" And Vandaih
+replied: "O just a little while ago."
+
+And Ahahnheeattoepahk Mahkai said: "I have seen you here for four
+nights, now, but I know you too well not to know you have a way
+to follow," ["a way to follow" means to have some purpose behind]
+"but if you will quit all the bad habits you have I will be glad to
+have you come; but there are many others, better than you, whom I
+would rather have come to see me.
+
+And now I am going to tell you something, but I am afraid that when
+you go away from here you will tell what I have said and make more
+of it, and then people will talk, and I shall be sorry.
+
+I will tell you the habits you have--you are a liar, a gambler with
+the dice-game and the wah-pah-tee, a beggar, you follow after women
+and are a thief.
+
+Now I want you to stop these bad habits. You may not know all that
+the people say about you: They say that when any hunter brings in
+game you are always the first to be there, and you will be very apt
+to swallow charcoal [3] if you are so greedy.
+
+Wherever you go, when the people see you coming, they say: 'There
+comes a man who is a thief,' and they hide their precious things. When
+you arrive they are kind to you, of course, but they do not care much
+about you.
+
+I don't know whether you know that people talk thus about you, but
+it is a great shame to me to know, when I have done some bad thing,
+that people talk about it.
+
+Now if you quit these things you will be happy, and I want you to
+stop them. I am not angry with you, but I want you to know how the
+people are talking about you.
+
+Now I want you to go home, but not say anything about what I have
+told you. Just take a rest, and tomorrow night come again."
+
+And the next night Vandaih came again, and Ahahnheeattoepahk Mahkai was
+in bed when he came, but he got right up and received him, and said:
+"Now after this I mean to tell you what is for your good, but I want
+you to keep quiet about it. There are many people that gamble with
+you. If they ask you again to gamble with them, do not do it. Tell
+them you do not gamble any more. And if they do not stop when you
+tell them this, but keep on asking you, come to me, and tell me,
+first, that you are going to play. And if I tell you, then, that I do
+not want you to gamble, I want you not to do it, but if I tell you
+you may gamble & you win once, then you may bet again, but I do not
+want you to keep on after winning twice. Twice is enough. But if the
+other man beats you at first, then I do not want you to play any more,
+but to quit gambling forever."
+
+And after this a man did want to gamble with Vandaih, but Vandaih said:
+"I have nothing to wager, and so cannot play with you."
+
+And still another man wanted to gamble with him, and he made him the
+same answer, but this man kept on asking, and at last Vandaih said:
+"Perhaps I will play with you, I will see about it. But I must have a
+little time first." And he came to Ahahnheeattoepahk Mahkai and said:
+"There is a man who keeps on asking me to gamble with him, and I have
+come to tell you about it as you told me to do."
+
+And Ahahnheeattoepahk Mahkai told him to gamble, and gave him things
+to wager on the game, but said: "If he beats you I do not want you
+to gamble any more."
+
+And Vandaih took the things which had been given him, and went & played
+a game with this man who was so persistent, and won a game. And he
+played another game and won that, and then he said, "That is enough,
+I do not want to play any more;" but the other man kept on asking
+him to play.
+
+But Vandaih refused & took the things which he had won to
+Ahahnheeattoepahk Mahkai and gave them all to him.
+
+And the next morning he gambled again, and won twice, and he stopped
+after the second winning, as before.
+
+And thus the young man kept on winning and Ahahnheeattoepahk Mahkai
+made gainskoot (dice-sticks) for him, and this was one reason why he
+won, for Ahahnheeattoepahk Mahkai was a powerful doctor & the dice
+were charmed.
+
+And he beat every one who played against him till he had beat all
+the gamblers of his neighborhood, and then distant gamblers came &
+he beat them also. And so he won all the precious things that were in
+the country and gave all to Ahahnheeattoepahk Mahkai & kept nothing
+back. But one man went to Ee-ee-toy, who was living at the Salt River
+Mountain (Mo-hah-dheck) and asked him to let him have some things
+to wager against Vandaih. And Ee-ee-toy said: "You can have whatever
+you want, and I will go along to see the game."
+
+But when Ee-ee-toy got there he found the dice were not like common
+dice, and it would be difficult for any one to win against them,
+they were made by so powerful a man.
+
+And Ee-eetoy went westward and found a powerful doctor who had a
+daughter, and said to the father: "I want your daughter to go around
+to all the big trees and find me all the feathers she can of large
+birds, not of small birds, and bring them here. And I will come again &
+see what she may have found."
+
+And her father told her, and the very next morning she began to
+hunt the feathers, and when Ee-eetoy came again she had a bundle,
+and Ee-eetoy took them and took the pith out of their shafts and
+cleansed every feather which she had brought him.
+
+And Ee-ee-toy threw away the pith and cut the shafts into small
+pieces and told the girl to roast them in a broken pot over a fire;
+and she got the broken pot & roasted them, and they curled up as they
+roasted till they looked like grains of corn. And then he told her
+to roast some real corn & mix both together and grind them all up
+very fine, and Ee-ee-toy told her to take some ollas of this pinole
+in her syih-haw to the reservoirs.
+
+And she did so, and passed by where Vandaih was going to play, and
+Vandaih said: "Before I can play I must drink." But the man who was
+playing with him said: "Get some water of some one near," but Vandaih
+said, "I would rather go to the reservoir."
+
+And Ee-ee-toy had prepared the girl before this, telling her that when
+she passed the players Vandaih would follow her to the reservoir and
+want to marry her. "Be polite to him," he said "and ask him to drink
+some of the pinole, and to see your parents first."
+
+And the man who was going to gamble with Vandaih asked him not to
+go so far, for he wanted to gamble right away, but Vandaih replied:
+"I would rather go there. I will come right back. You be making holes
+till I get back."
+
+So the girl went to the reservoir, and Vandaih followed her and asked
+her to be his wife, and she said: "I want you to drink some of this
+pinole, and in the evening you may go and see my folks and ask them
+about it."
+
+So Vandaih mixed some pinole and drank it, and it made him feel
+feverish, like one with a cold; and the second time he drank the
+goose-flesh came out on his skin; and the third time he drank feathers
+came out all over him; and the fourth time long feathers grew out on
+his arms; and the fifth time he became an eagle and went and perched
+on the high place, or bank of the reservoir.
+
+Then the girl went to the place where the other man was waiting to
+play the game and told all the people to come and see the terrible
+thing which had happened to Vandaih.
+
+And the people, when they saw him, got their bows and arrows and
+surrounded him and were going to shoot him.
+
+And they fired arrows at him, and some of them struck him, but could
+not pierce him, and then all were afraid of him. And first he began
+to hop around, and then to fly a little higher, until he perched on
+a tree, but he broke the tree down; and he tried another tree and
+broke that down; and then he flew to a mountain and tumbled its rocks
+down its side, and finally he settled on a strong cliff. And even the
+cliff swayed at first as if it would fall,--but finally it settled
+and stood still.
+
+And this was foretold when the earth was being made, that one of the
+race of men should be turned into an eagle. Vandaih was a handsome
+man, but he had a bad character, and ever since the beginning parents
+had warned their children to practice virtue lest they be turned into
+eagles; because it had been foretold that some good-looking bad person
+should be thus transformed, and it was to be seen that good-looking
+people were often bad and homely ones good characters.
+
+And Vandaih took that cliff for his residence and hunted over all the
+country round about, killing jack-rabbits, deer and all kinds of game
+for his food. And when the game became scarce he turned to men and
+one day he killed a man and took the body to his cliff to eat. And
+after this manner he went on. Early in the morning he would bring
+home a human being, and sometimes he would bring home two.
+
+Then the people sent a messenger to Ee-eetoy, to his home on
+Mohahdheck, asking him to kill for them this man-eagle. And Ee-ee-toy
+said to the man: "You can go back, and in about four days I will
+be there." But when the fourth day came Ee-eetoy had not arrived,
+as he had promised, but Vandaih was among the people, killing them,
+carrying them away to the cliff.
+
+And the people again sent the messenger, saying to him: "You must tell
+Ee-ee-toy he must come and help his people or we shall all be lost."
+
+And the man delivered his message and Ee-ee-toy said, as before,
+that he would be there in four days.
+
+And this went on, the people sending to Ee-ee-toy, and Ee-ee-toy
+promising to come in four days, until a whole year had passed. And not
+only for one year, but for four years, for the people had misunderstood
+him, and when he said four days he meant four years, and so for four
+years it went on as we have said.
+
+(Now Ee-ee-toy and Vandaih were relatives, and that was one reason
+why Ee-ee-toy kept the people waiting so long for his help and worked
+to gain time. He did not want to hurt Vandaih.)
+
+But when the fourth year came Ee-ee-toy did go, and told the people
+to get him the "seed-roaster."
+
+And the people ran around, guessing what he meant, and they brought
+him the charcoal, but Ee-ee-toy said: "I did not mean this, I meant
+the 'seed-roaster'!"
+
+So they ran around again, and they brought him the long open earthen
+vessel with handles at each end, used for roasting, and with it
+they brought the charcoal which is made from ironwood. But he said:
+"I did not mean these. I mean the 'seed-roaster.'"
+
+And they kept on guessing, and nobody could guess it right. They
+brought him the black stones of the nahdahcote, or fire place, and
+he said: "I do not want these. I want the 'seed-roaster.'"
+
+And the people kept on guessing, and could not guess it right, and so,
+at last, he told them that what he wanted was obsidian, that black
+volcanic stone, like glass, from which arrow heads are made. And this
+was what he called the "seed-roaster."
+
+So the people got it for him.
+
+Then he told them to bring him four springy sticks. And they ran and
+brought all the kinds of springy sticks they could find, but he told
+them he did not mean any of these.
+
+And for many days they kept on trying to get him the sticks which
+he wanted. And after they had completely failed Ee-ee-toy told them
+what he wanted. It was a kind of stick called vahs-iff, which did not
+grow there, therefore they had not been able to find it. And beside
+vahsiff sticks were not springy sticks at all, but the strongest kind
+of sticks, very stiff.
+
+So they sent a person to get these, who brought them, and Ee-ee-toy
+whittled them so that they had sharp points. And there were four
+of them.
+
+And Ee-ee-toy said: "Now I am going, and I want you to watch the top
+of the highest mountain, and if you see a big cloud over it, you will
+know I have done something wonderful. But if there is a fog over the
+world for four days you will know I am killed."
+
+When he started he allowed one of the dust storms of the desert to
+arise, and went in that, so that the man-eagle should not see him.
+
+For many days he journeyed toward the cliff, and when sunset of the
+last day came he was still a good way off; but he went on and arrived
+at the foot of the cliff after it was dark, and hid himself there
+under a rock.
+
+About daybreak the man-eagle got up and flew around the cliff four
+times and then flew off. And after he was gone Ee-ee-toy took one of
+his sticks and stuck it into a crack in the cliff, and climbed on it,
+and stuck another above it and so he went on to the top, pulling out
+the sticks behind him and putting them in above.
+
+And when he got to the home of the man-eagle, Vandaih, on the top of
+the cliff, he found a woman there. And she was the same woman who had
+given Vandaih the pinole with eagles' feathers in it. He had found her,
+and carried her up there, and made her his wife.
+
+When Ee-ee-toy came to the woman he found she had a little boy, and he
+asked her if the child could speak yet, and she replied that he was
+just beginning to talk; and he enquired further when the man-eagle
+would return, and she said that formerly when game was plenty he had
+not stayed away long, but now that game was scarce it usually took
+him about half a day, so he likely would not be there till noon.
+
+And Ee-ee-toy enquired: "What does he do when he comes back? Does he
+sleep or not? Does he lie right down, or does he go looking around
+first?"
+
+And the wife said: "He looks all around first, everywhere. And even
+the little flies he will kill, he is so afraid that some one will come
+to kill him. And after he has looked around, and finished eating,
+he comes to lay his head in my lap and have me look for the lice in
+his head. And it is then that he goes to sleep."
+
+So Ee-ee-toy turned into a big fly and hid in a crack in the rock,
+and asked the woman if she could see him, and she said: "Yes, I can
+see you very plainly."
+
+And he hid himself three times, and each time she could see him, but
+the fourth time he got into one of the dead bodies, into its lungs,
+and had her pile the other dead bodies over him, and then when he
+asked her she said: "No, I cannot see you now."
+
+And Ee-ee-toy told her: "As soon as he goes to sleep, whistle, so
+that I may know that he is surely asleep."
+
+At noon Ee-ee-toy heard the man-eagle coming. He was bringing two
+bodies, still living & moaning, and dropped them over the place
+where Ee-ee-toy lay. And the first thing the man-eagle did was to
+look all around, and he said to his wife: "What smell is this that I
+smell?" And she said: "What kind of a smell?" And he replied: "Why,
+it smells like an uncooked person!" "These you have just brought in
+are uncooked persons, perhaps it is these you smell."
+
+Then Vandaih went to the pile of dead bodies and turned them over &
+over, but the oldest body at the bottom he did not examine, for he
+did not think there could be anyone there.
+
+So his wife cooked his dinner, and he ate it and then asked her to
+look for the lice in his head. And as he lay down he saw a fly pass
+before his face, and he jumped up to catch it, but the fly got into
+a crack in the rock where he could not get it.
+
+And when he lay down again the child said: "Father! come!" And Vandaih
+said: "Why does he say that? He never said that before. He must be
+trying to tell me that some one is coming to injure me!" But the wife
+said: "You know he is only learning to talk, and what he means is
+that he is glad that his father has come. That is very plain." But
+Vandaih said: "No, I think he is trying to tell me some one has come."
+
+But at last Vandaih lay down and the woman searched his head and sang
+to put him to sleep. And when he seemed sound asleep she whistled. And
+her whistle waked him up and he said: "Why did you whistle! you never
+did that before?" And she said: "I whistled because I am so glad about
+the game you have brought. I used to feel bad about the people you
+killed, but now I know I must be contented & rejoice when you have
+a good hunt. And after this I will whistle every time when you bring
+game home."
+
+And she sang him to sleep again, and whistled when he slept; and waked
+him up again, and said the same thing again in reply to his question.
+
+And the third time, while she was singing, she turned Vandaih's head
+from side to side. And when he seemed fast asleep she whistled. And
+after she had whistled she turned the head again, but Vandaih did
+not get up, and so she knew that this time he was fast asleep.
+
+So Ee-ee-toy came out of the dead body he had hidden in, and came to
+where Vandaih was, and the woman laid his head down & left him. And
+Ee-ee-toy took the knife which he had made from the volcanic glass,
+obsidian, and cut Vandaih's throat, and beheaded him, and threw his
+head eastward & his body westward. And he beheaded the child, too,
+and threw its head westward and its body eastward.
+
+And because of the killing of so powerful a personage the cliff
+swayed as if it would fall down, but Ee-ee-toy took one of his
+sharpened stakes and drove it into the cliff and told the woman to
+hold onto that; and he took another and drove that in and took hold
+of that himself.
+
+And after the cliff had steadied enuf, Ee-ee-toy told the woman to
+heat some water, and when she had done so he sprinkled the dead bodies.
+
+The first ones he sprinkled came to life and he asked them where
+their home was & when they told him he sent them there by his power.
+
+And he had more water heated and sprinkled more bodies, and when he
+learned where their home was he sent them home, also, by his power.
+
+And this was done a third time, with a third set of bodies.
+
+And the fourth time the hot water was sprinkled on the oldest bodies
+of all, the mere skeletons, and it took them a long time to come to
+life, and when they were revived they could not remember where their
+homes were or where they had come from. So Ee-ee-toy cut off eagles'
+feathers slanting-wise (pens) and gave them, and gave them dried
+blood mixed with water (ink) and told them their home should be in
+the East, and by the sign of the slanting-cut feather they should
+know each other. And they are the white people of this day. And he
+sent them eastward by his power.
+
+And in the evening he & the woman went down the cliff by the aid of
+the sharpened stakes, even as he had come up, and when they reached
+the foot of the mountain they stayed there over night. They took some
+of the long eagle feathers and made a kee from them, & some of the
+soft eagle feathers and made a bed with them. And they stayed there
+four nights, at the foot of the cliff.
+
+And after a day's journey they made another kee of shorter eagle
+feathers, and a bed of tail feathers. And they staid at this second
+camp four nights.
+
+And then they journeyed on again another day and build another kee,
+like the first one, & stayed there also four nights.
+
+And they journeyed on yet another day and built again a kee, like
+the second one, and stayed there four nights.
+
+And on the morning of each fourth day Ee-ee-toy took the bath of
+purification, as the Pimas have since done when they have slain
+Apaches, and when he arrived home he did not go right among the people
+but stayed out in the bushes for a while.
+
+And the people knew he had killed Vandaih, the man-eagle, for they
+had watched and had seen the cloud over the high mountain.
+
+And after the killing of Vandaih, for a long time, the people had
+nothing to be afraid of, and they were all happy.
+
+
+NOTES ON THE STORY OF VANDAIH
+
+In the story of Vandaih we are given a curious glimpse into Indian
+friendship. The reference to smoking, too, is interesting. The Pimas
+had no true pipes. They used only cigarettes of tobacco and corn-husk,
+or else short tubes of cane stuffed with tobacco. These I have called
+tube-pipes. They smoked on all ceremonial occasions, but appear to
+have had no distinctive pipe of peace. The ceremonial pipes of cane
+had bunches of little birds' feathers tied to them, and in my photo
+of the old seeneeyawkum he holds such a ceremonial pipe in his hand.
+
+"He gambles with the gain-skoot:" The gain-skoot were the Pima
+dice--two sticks so marked and painted as to represent the numerals
+kee-ick (four) and choat-puh (six), and two called respectively
+see-ick-ko, the value of which was fourteen, and gains, the value of
+which was fifteen. These were to be held in the hand and knocked in
+the air with a flat round stone. At the same time there was to be on
+the ground a parallelogram of holes with a sort of goal, or "home,"
+at two corners. If the sticks all fell with face sides up they counted
+five. If all fell with blank sides up it was ten. If only one face
+side turned up it counted its full value, but if two or three turned up
+then they counted only as one each. If a gain was scored the count was
+kept by placing little sticks or stones (soy-yee-kuh) in the holes as
+counters. If the second player overtook the first in a hole the first
+man was "killed" and had to begin over. Among all Indians gambling
+was a besetting vice, and there was nothing they would not wager.
+
+Sometimes instead of the gain-skoot they used waw-pah-tee, which
+was simply a guessing game. They guessed in which hand a certain
+painted stick was held, or in which of four decorated cane-tubes,
+filled with sand, a certain little ball was hidden and wagered on
+their guess. These tubes were differently marked, and one was named
+"Old Man," one "Old Woman," one "Black Head," and one "Black in the
+Middle." Sticks were given to keep count of winnings.
+
+The moral advice which Ahahnheeattoepahk Mahkai gives Vandaih, is very
+quaint, and the shrewd cunning with which he loads the dice, pockets
+the proceeds, and yet finally unloads all the blame on poor Vandaih,
+is quite of a piece with the confused morals of most folk-lore in
+all lands. On these points it is really very hard to understand the
+workings of the primitive mind. Here is certain proof that the modern
+conscience has evoluted from something very chaotic.
+
+It will be noticed that Vandaih drinks the pinole, which bewitches
+him, five times instead of the usual four. Whether this is a mistake
+of the seeneeyawkum, or significant I do not know. Perhaps four is
+a lucky and five an unlucky number.
+
+Another variation in the numerical order is in the woman whistling
+only three times, in putting Vandaih to sleep.
+
+As I have before pointed out the reference to white men, and pens and
+ink, is evidently a modern interpolation, not altogether lacking in
+flavor of sarcasm.
+
+There are suggestions in this story of Jack the Giant Killer, of
+the Roc of the Arabian Nights, of the harpies, and of the frightful
+creatures, part human, part animal, so familiar in all ancient
+folk-lore.
+
+The latter part of this tale is particularly interesting, as perhaps
+throwing light on the origin of that mysterious process of purification
+for slaying enemies, so peculiar to the Pimas.
+
+It seems to have been held by the Awawtam that to kill an Apache
+rendered the slayer unclean, even tho the act itself was most valiant
+and praiseworthy, and must be expiated by an elaborate process of
+purification. From old Comalk Hawk Kih I got a careful description
+of the process.
+
+According to his account, as soon as an Apache had been killed, if
+possible, the fact was at once telegraphed to the watchers at home
+by the smoke signal from some mountain. This custom is evidently
+referred to in Ee-ee-toy's cloud over a high mountain as a signal of
+success. The Indians apparently regarded smoke and clouds as closely
+related, if not the same, as is shown in their faith in the power of
+tobacco to make rain.
+
+As soon as the Apache has been killed the slayer begins to fast
+and to look for a "father." His "father" is one who is to perform
+all his usual duties for him, for he is now unclean and cannot do
+these himself. The "father," too, must know how to perform all the
+ceremonial duties necessary to his office, as will be explained. If a
+"father" can be found among the war-party the slayer need only fast
+two days, but if not he must wait till he gets home again, even if it
+takes four or more days. It appears that this friend, who has charge
+of the slayer, is humorously called a "father" because his "child"
+is usually so restless under his long fast, and keeps asking him to
+do things for him and divert him.
+
+If there is no "father" for him in the war-party, as soon as possible a
+messenger is sent on ahead to get some one at home to take the office
+for him, and to make the fires in the kee, that being a man's special
+duty. And the wife of the slayer is also now unclean by his act,
+and must purify herself as long as he, tho she must keep apart from
+him. And she also must have a substitute to do her usual work. She
+must keep close at home, and her husband, the slayer, remain out in
+the bushes till the purification is accomplished.
+
+For two days the fast is complete, but on the morning of the third
+day the slayer is allowed one drink of pinole, very thin, and no more
+than he can drink at one breath. The moment he pauses he can have no
+more at that time.
+
+When presenting this pinole, the "father" makes this speech:
+
+"Your fame has come, and I was overjoyed, and have run all the way
+to the ocean, and back again, bringing you this water.
+
+On my return I strengthened myself four times, and in the dish in
+which I carried the water stood See-vick-a Way-hohm, The Red Thunder
+Person, the Lightning, and because of his force I fell down.
+
+And when I got up I smelled the water in the dish, and it smelled as
+if something had been burned in it.
+
+And when I got up I strengthened myself four times, and there came
+from the sky, and stood in the dish, Tone-dum Bah-ahk, The Eagle of
+Light. And he turned the water in the dish in a circle, and because
+of his force I fell down, and when I rose up again and smelled the
+water in the dish it was stinking.
+
+And when I had started again I strengthened myself four times, and
+Vee-sick the Chicken Hawk, came down from the sky and stood in the
+dish. And by his force I was thrown down. And when I stood again and
+smelled the water in the dish, it smelled like fresh blood.
+
+And I started again, strengthening myself four times, and there came
+from the East our gray cousin, Skaw-mack Tee-worm-gall, The Coyote,
+who threw me down again, and stood in the dish, and turned the water
+around, and left it smelling as the coyote smells.
+
+And when I rose up I started again, and in coming to you I have rested
+four times; and now I have brought you the water, and so many powerful
+beings have done wonderful things to it that I want you to drink it
+all at one time."
+
+After the third day the "father" brings his charge a little to eat
+every morning and evening, but a very little.
+
+On the morning of the fourth day, at daybreak the slayer takes a
+bath of purification, even if it is winter and he has to break the
+ice and dive under to do it. And this is repeated on the morning of
+each fourth day, till four baths have been taken in sixteen days.
+
+The slayer finds an owl and without killing him pulls long feathers out
+of his wings and takes them home. The slayer had cut a little lock of
+hair from the head of the Apache he had killed (for in old times, at
+least, the Pimas often took no scalps) and now a little bag of buckskin
+is made, and a ball of greasewood gum is stuck on the end of this lock
+of hair which is placed in the bag, and on the bag are tied a feather
+of the owl and one from a chicken hawk, and some of the soft feathers
+of an eagle, and around the neck of the bag a string of blue beads.
+
+(And during this time the women are carrying wood in their giyh-haws
+to the dancing place.)
+
+Now the Apaches are contemptuously called children, and this bag
+represents a child, being supposed to contain the ghost of the dead
+Apache, and the slayer sits on the ground with it, and takes it in
+his hands as if it were a baby, and inhales from it four times as
+if he were kissing it. And when it is time for the dance the slayers
+who are a good ways off from the dancing place start before sunset,
+but those who are close wait till the sun is down. And the "father"
+goes with the slayer, through woods and bushes, avoiding roads. And
+before this the "father" has dug a hole at the dancing place about
+ten inches deep and two feet wide, just big enough for a man to squat
+in with legs folded, and behind the hole planted a mezquite fork,
+about five feet high, on which are hung the weapons of the slayer,
+his shield, club, bow, quiver of arrows, perhaps his gun or lance.
+
+(The shield was made of rawhide, very thick, able to turn an arrow
+and was painted jet black by a mixture of mezquite gum and charcoal,
+with water, which made it glossy and shiny. The design on it was in
+white, or red and white. The handle was of wood, curved, placed in
+the centre of the inside, bound down at the ends by rawhide, and the
+hand fended from the rough shield by a piece of sheepskin.)
+
+In this hole the slayer sits down and behind him and the fork lies down
+his dancer, for the slayer himself does not dance but some stranger who
+represents him perhaps a Papago or a Maricopa, drawn from a distance
+by the fame of the exploit. Nor do the slayers sing, but old men who
+in their day have slain Apaches. These singers are each allowed to
+sing two songs of their own choice, the rest of the veterans joining
+in. And as soon as the first old man begins to sing, the dancers get
+up, take the weapons of the men they represent, and dance around the
+fire, which the "fathers" keep burning, keeping time with the song.
+
+And the women cook all kinds of good things, and set them before the
+singers, but the bystanders jump in and snatch them away. But sometimes
+the wife of an old singer will get something and save it for him.
+
+And the relatives of the slayers will bring presents for the dancers,
+buckskin, baskets, and anything that an Indian values. And as soon as
+presented some relative of the dancer runs in and takes the present
+and keeps it for him.
+
+And while this big war-dance is going on the rest of the people are
+having dances in little separate groups, all around. And as soon as
+the dance is over the weapons are returned to the forks they were
+taken from.
+
+By this time it is nearly morning, and the slayers get up and take
+their bath in the river, and return and dry themselves by the expiring
+fire. Then returning to the bushes they remain there again four days,
+and that is the last of their purification.
+
+As this dance is on the eve of the sixteenth day, there were twenty
+days in all.
+
+Grossman's account differs considerably from this, and is worth
+reading.
+
+During the time of purifying, the slayers wear their hair in a
+strange way, like the top-knot of a white woman, somewhat, and in it
+stick a stick, called a kuess-kote to scratch themselves with, as
+they are not allowed to use the fingers. This is alluded to in the
+Story of Paht-ahn-kum's War. A picture of a Maricopa interpreter,
+with his hair thus arranged, is in the report of Col. W. H. Emory,
+before alluded to. This picture is interesting, because it shows that
+the Maricopas, when with the Pimas, adopted the same custom. When I
+showed this picture to the old see-nee-yaw-kum he was much interested,
+saying he himself had known this man, who was a relative of his,
+there being a dash of Maricopa blood in his family, and that he
+had been born in Mexico and had there learned Spanish enough to
+be an interpreter. His Mexican name, he said, was Francisco Lucas,
+but the Pimas called him How-app-ahl Tone-um-kum, or Thirsty Hawk,
+a name which has an amusing significance when we recall what Emory
+says about his taste for aguardiente, and that Captain Johnston says
+of the same man, "the dog had a liquorish tooth."
+
+
+STORIES OF THE SECOND NIGHT
+
+
+THE STORY OF THE TURQUOISES AND THE RED BIRD
+
+
+And at the vahahkkee which the white men now call the Casa Grande ruins
+was the home of Seeollstchewadack Seeven, or the Morning green Chief.
+
+And one morning the young women at that place were playing and having
+a good time with the game of the knotted rope or balls, which is
+called toe-coll.
+
+And in this game the young girls are placed at each end, near the
+goals, and at this time, at the west end, one of the young girls
+gradually sank into the earth; and as she sank the earth around her
+became very green with grass.
+
+And Seeollstchewadack Seeven told the people not to disturb the green
+spot until the next morning; and the next morning the green spot was a
+green rock, and he told the people to dig around it, and as they dug
+they chipped off small pieces, and the people came and got what they
+wanted of these pieces of green stone. And they made ear-rings and
+ornaments from these green stones, which were tchew-dack-na-ha-gay-awh
+or turquoises.
+
+And after the turquoises were distributed, and the fame of this had
+spread, the chief of another people, who lived to the east, whose name
+was Dthas Seeven (Sun-Chief) thought he would do something wonderful,
+too, being envious, and he opened one of his veins and from the blood
+made a large, beautiful bird, colored red.
+
+And Dthas Seeven told his bird to go to the city of Seeollstchewadack
+Seeven and hang around there till that chief saw him and took him
+in. And when they offered him corn he was not to eat that nor anything
+else they gave him, but when he saw his chance he was to pick up a
+bit of the green stone and swallow it, for when it should be seen that
+he would swallow the green stones then he would be fed on turquoises.
+
+So the bird was sent, and when it arrived at the city of the
+turquoises, the daughter of Seeollstchewadack Seeven, whose name was
+Nawitch, saw it and went and told her father. And he asked, "What
+is the color of the bird?" and she answered, "Red;" and he said,
+"I know that bird. It is a very rare bird, and its being here is a
+sign something good is going to happen. I want you to get the bird
+and bring it here, but do not take hold of it. Offer it a stick,
+and it will take hold of it, with its bill, and you can lead it here."
+
+And Nawitch offered the bird a stick, and it caught hold of the end by
+its bill, which was like a parrot's bill, and she led it to her father.
+
+And Seeollstchewadack Seeven said: "Feed him on pumpkin seed, for
+that is what this kind of bird eats."
+
+And Nawitch gave the bird pumpkin seed, but it would not eat. And
+then she tried melon seed, but it would not eat. And then she tried
+devil-claw seed, but it would not eat. And her father said, then: "Make
+him broth of corn, for this kind of bird eats only new dishes!" And
+she did so, but it would not eat the broth of corn.
+
+And the old man told her to try pumpkin seed again; and she tried the
+pumpkin seed again, and the melon seed again, and the devil-claw seed,
+and the broth of corn, but the bird would not touch any of these.
+
+But just then the bird saw a little piece of turquoise lying on the
+ground and it sprang and swallowed it. And the daughter saw this and
+told her father that the bird would eat turquoises. And her father
+said: "This kind of bird will not eat turquoises, but you may try
+him." And she gave it some turquoises and it ate them greedily. And
+then her father said: "Go and get some nice, clean ones, a basket
+full." And she did so, and the bird ate them all, and she kept on
+feeding it until it had swallowed four basketful.
+
+And then the bird began to run around, and the girl said: "I fear our
+pet will leave us and fly away" but the old man said: "He will not
+fly away. He likes us too well for that," but after a short time the
+bird got to a little distance and took to its wings, and flew back
+to the city of Dthas Seeven.
+
+And Dthas Seeven gave it water twice, and each time it vomited,
+and thus it threw up all the turquoises.
+
+And so Dthas Seeven also had turquoises.
+
+
+NOTES ON THE STORY OF THE TURQUOISES
+
+Turquoises seem to have been regarded by all Arizona Indians as
+magical and lucky stones, and the Story of the Turquoises professes
+to give their origin.
+
+Of the game, toe-coll, here spoken of, Whittemore gives this account
+in Cook's "Among the Pimas:" "One of the amusements of the women was
+that of tossing balls. They had two small ones, covered with buckskin,
+and tied about six inches apart. Young women and married, from thirty
+to seventy-five in a group, assembled as dressed for a ball, their
+hair carefully manipulated so as to be black and glossy. Each had
+a stick of willow six feet long. With these they dextrously tossed
+the balls high in the air, running after them until one party was so
+weary that they gave up the game from mere exhaustion.
+
+"In order to make the excitement a success they had certain active
+women, keen of wit and quick of action, practice weeks in advance."
+
+Sometimes the balls were formed by two large knots in a short piece
+of rope.
+
+
+THE STORY OF WAYHOHM, TOEHAHVS AND TOTTAI
+
+
+And Seeollstchewadack Seeven wondered what this action of the bird
+meant, and he studied about it till he found out who it was that had
+sent the bird and for what purpose.
+
+And he sent a cold rain upon the home of Dthas Seeven. And it rained
+a heavy rain for three days and three nights, so hard that it put
+out all the fires in the city of Dthas Seeven, and Dthas Seeven was
+dying with cold.
+
+And the people came about him to witness his dying, and they said:
+"Let us send some one to get the fire!" And they sent Toehahvs.
+
+And Toehahvs went, and at last came to a house where he heard the
+fire roaring within. And he looked in, and there was a big fire. And
+he sat in the doorway holding out his paws toward the heat.
+
+And the owner of the house, whose name was Way-hohm, or the
+Lightning, sat working within with his face to the fire and his back
+to Toehahvs. And Toehahvs wanted to dash in and steal some fire,
+but he did not dare, and he went back and told the people he had seen
+the fire but he could not get it.
+
+On the fourth day it was still raining, and they sent another
+person. And this time they sent Tot-tai, or the Road Runner, for they
+said he could run almost as fast as Toehahvs.
+
+And Tottai came to the same house, and heard the fire, and peeped
+in the door to warm himself. And there sat the owner of the fire,
+Wayhohm, working with his face to the fire and his back to Tottai. And
+Tottai dashed in and caught hold of a stick with fire at one end and
+ran out with it.
+
+And Wayhohm caught up his bow, the Bow-of-the-Lightning,
+Way-hohm-a-Gaht, and fired at Road Runner, and struck him on the side
+of his head, and that is why the side of Tottai's head is still bare;
+and Tottai ran on, and Wayhohm shot at him again and struck the other
+side of his head.
+
+And Tottai whirled around then so that the sparks flew every way,
+and got into all kinds of wood, and that is why there is fire in all
+kinds of sticks even now, and the Indian can get it out by rubbing
+them together to this day.
+
+But Tottai kept on, and got to the house of Dthas Seeven all right,
+and they made a fire, and Dthas Seeven got better again.
+
+
+NOTES ON THE STORY OF WAYHOHM
+
+There is a suggestion of Thor in the Story of Wayhohm, and also of
+Prometheus. Wayhohm's house must have been the hall of the clouds.
+
+How true to nature, here, is the touch describing the Coyote-person,
+Toehahvs. The excessive caution of the coyote, making it impossible for
+him, however eager, to force himself into any position he suspects,
+here stands out before us, contrasted in the most dramatic way with
+the dashing boldness of the road-runner.
+
+When we reached the end of this story Comalk Hawk-Kih took two
+pieces of wood to rub them together to make fire. But he was old and
+breathless, and "Sparkling-Soft-Feather," the mother of my interpreter,
+took them and made the fire for me. I have the implements yet.
+
+There were two parts to the apparatus. Gee-uh-toe-dah, the socket
+stick was of a soft dry piece of giant cactus rib, and a notch was
+whittled in one side of this with a small socket at the apex, that
+is on the upper side.
+
+This was placed flat on the ground, with a bit of corn husk under the
+notch, and held firmly in position by the bare feet. The twirling
+stick, eev-a-dah-kote, was a hard arrow weed, very dry and scraped
+smooth. The end of this was engaged in the little socket, at the
+top of the cactus rib, and then, held perpendicularly, was twirled
+between the two hands till the friction rubbed off a powder which
+crowded out of the socket, and fell down the notch at its side to
+the corn-husk. This little increasing pile of powder was the tinder,
+and, as the twirling continued, grew black, smelled like burned wood,
+smoked and finally glowed like punk. It was now picked up on the corn
+husk and placed in dry horse dung, a bunch of dry grass, or some such
+inflammable material, and blown into flame.
+
+It looked very simple, and took little time, but I never could do it.
+
+
+THE STORY OF HAWAWK
+
+
+And when Dthas Seeven had gotten better he meditated on what had
+happened to him, and studied out that Seeollstchewadack-Seeven was
+the cause of his trouble, and planned how to get the better of him.
+
+Now the Indians have a game of football in which the ball is not kicked
+but lifted and thrown a good ways by the foot, and Dthas Seeven made
+such a ball, and sent a young man to play it in the direction of the
+city of Seeollstchewadack-Seeven. And the young man did so, and as
+he kept the ball going on it came to the feet of a young girl, who,
+when she saw the ball, picked it up and hid it under the square of
+cloth which Indian girls wear.
+
+And the young man came up and asked her if she had seen the ball,
+and she answered no, she had not seen it, and she kept on denying it,
+so at last he turned back and said he might as well go home as he no
+longer had a ball to play with. But he had not gone far before the
+girl called to him: "Are you not coming back to get your ball?" And
+he went back to her, and she tried to find the ball, but could not.
+
+But the ball was not lost, but it had bewitched her.
+
+And after a time this girl had a baby, a tall baby, with claws on
+its hands and feet like a wild animal.
+
+And the people did not know what this meant, and they asked Toehahvs,
+and Toehahvs knew because this had been prophesied of old time. And
+Toehahvs said: "She is Haw-awk."
+
+And Hawawk grew and became able to crawl, but people were afraid
+of handling her because of the scratching of her claws. Only her
+relatives could safely handle her. And as she grew older, still,
+she would sometimes see other children and wish to play with them,
+but in a short time they would get scratched by her in her gambols
+and would run home crying and leave her alone. And it got so that
+when the children saw her coming they would tell each other and run
+home and she could get none of them to play with her.
+
+She claimed Ee-ee-toy as her uncle, and when he had been rabbit-hunting
+and came in with game she would run and call him "uncle!" and try and
+get the rabbits away from him; and when he cleaned the rabbits and
+threw away the entrails she would run and devour them, and the bones of
+the rabbits the people threw away after the feasts she would eat, too.
+
+And when Hawawk grew older she would sometimes complain to Ee-ee-toy
+if he came in without game. "Why is it you sometimes come in without
+rabbits?" she would say, "And why do you not kill a great many?" And
+he would reply: "It is not possible to kill a great many, for they
+run very fast and are very hard to shoot with a bow and arrow." "Let
+me go with you," she would say, "and I will kill a great many." But
+he would tell her: "You are a girl, and it is not your place to go
+hunting. If you were a boy it would be, but as it is you cannot go."
+
+And she kept on begging in this way, and he kept on refusing, she
+saying that she could kill a great many, and he saying that only a
+man or a boy could shoot many rabbits, because they ran so fast.
+
+But as she grew older still she began to follow the hunters, and when
+the hunting began she would be in the crowd, but she tried to keep out
+of her uncle's way so that he would not see her. And sometimes when she
+would thus be following the hunt a rabbit would run in her direction,
+and she would run fast and jump on it and kill it, and eat it right
+there; and after a while she could do this oftener and caught a good
+many; and she would eat all she wanted as she caught them, and the
+others she gave to her uncle, Ee-ee-toy, to carry home. And Ee-ee-toy
+came to like to have her with him because of the game she could
+get. But after a time she did not come home anymore, but staid out
+in the bushes, living on the game she could get. But when the hunters
+came out, she would still join them and after killing and eating all
+she wanted she would give the rest of her kill to her uncle, as before.
+
+And so she contrived to live in the wild places, like a wild-cat,
+and in time became able to kill deer, antelopes, and all big game,
+and yet being part human she would tan buckskin like a woman and do
+all that a woman needs to do.
+
+And she found a cave in the mountain which is called Taht-kum,
+where she lived, and that cave can be seen now and is still called
+Hawawk's Cave.
+
+But she had been born near where the ruins of Casa Grande now are
+and claimed that vahahkkee for her own. And when she knew a baby had
+been born there she would go to the mother and say, "I want to see my
+grandchild." But if the mother let her take the baby she would put it
+over her shoulder, into her gyih-haw, and run to her cave, and put
+the baby into a mortar, and pound it up and eat it. And she got all
+the babies she could in this way; and later on she grew bolder and
+would find the larger children, where they were at play, and would
+carry them off to eat them. And now she let all the rabbits and such
+game go, and lived only on the children she caught, for a long time.
+
+And Ee-ee-toy told the people what to do in this great trouble. He
+told them to roast a big lot of pumpkin seeds and to go into their
+houses and keep still. And when the people had roasted the pumpkin
+seeds and gone into their houses, Ee-ee-toy came around and stopped
+up the door of every house with bushes, and plastered clay over the
+bushes as the Awawtam still do when they go away from home.
+
+After a time Hawawk came around, and stood near the houses, and
+listened, and heard the people cracking the pumpkin seeds inside.
+
+And she said: "Where are all my grandchildren? They must have been
+gone for a long time, for I do not see any tracks, nor hear any voices,
+and I hear only the rats eating the seeds in the empty houses."
+
+And she came several times and saw no one, and really believed the
+people had gone entirely away. And for a while she did not come any
+more, but after a time she was one day running by the village and
+she saw some children playing. And she caught two and ran with them
+to her cave. And from that day she went on stealing children as before.
+
+And Ee-ee-toy made him a rattle, out of a wild gourd, and went and lay
+on the trail on which Hawawk usually came, and changed himself into
+the little animal called "Kaw-awts." And when Hawawk came along she
+poked him with a stick of her gyih-haw and said: "Here is a little
+kaw-awts. He must be my pet." And then Ee-ee-toy jumped up and shook
+his rattle at her, and frightened her so that she ran home. And then
+Ee-ee-toy made rattles for all the children in that place and when
+they saw Hawawk coming they would shake their rattles at her and
+scare her back again.
+
+But after a while Hawawk became used to the rattles and ceased to
+fear them, and even while they were shaking she would run and carry
+some of the children off.
+
+And one day two little boys were hunting doves after the manner of
+the country. They had a little kee of willows, and a hole inside in
+the sand where they sat, and outside a stick stuck up for the doves to
+light on. And when the doves came they would shoot them with their bows
+and arrows. And while they were doing this they saw Hawawk coming. And
+they said: "What shall we do! Hawawk is coming and will eat us up."
+
+And they lay down in the hole in the sand and covered themselves
+with the dove's feathers. And Hawawk came and said: "Where are my
+grandchildren! Some of them have been here very lately." And she went
+all around and looked for their tracks, but could find none leading
+away from the place. And she came back again to the kee, and while
+she was looking in a wind came and swept away all the dove-feathers,
+and she sprang in and caught up the two boys and put them in her
+gyih-haw and started off.
+
+And as she went along the boys said: "Grandmother, we like flat stones
+to play with. Won't you give us all the flat stones you can find?" And
+Hawawk picked up all the flat stones she came to and put them one by
+one over her shoulder into the basket.
+
+And the boys said, again, after the basket began to get heavy,
+"Grandmother, we like to go under limbs of trees. Go under all the
+low limbs of trees you can to please us." And Hawawk went under a low
+tree, and one of the boys caught hold of the limb and hung there till
+she had gone on. And Hawawk went under another tree, and the other boy
+caught hold of a limb and staid there. But because of the flat stones
+she kept putting into her gyih-haw Hawawk did not notice this. And when
+she got to her cave and emptied her basket there were no boys there.
+
+And when Hawawk saw this she turned back and found the tracks of the
+boys, and ran, following after them, and caught up with them just
+before they got to their village. And she would have caught them
+there, and carried them off again, but the boys had gathered some of
+the fine thorns of a cactus, and when Hawawk came near they held them
+up and let them blow with the wind into her face.
+
+And they stuck in her eyes, and hurt them, and she began to rub her
+eyes, which made them hurt worse so that she could not see them,
+and then the boys ran home and thus saved their lives.
+
+After that she went to another place called Vahf-kee-wohlt-kih,
+or the Notched Cliffs, and staid around there and ate the children,
+and then she moved to another place, the old name of which is now
+forgotten, but it is called, now, Stchew-a-dack Vah-veeuh, or the
+Green Well. And there, too, she killed the children.
+
+And the people called on Ee-ee-toy to help them, and Ee-ee-toy said,
+"I will kill her at once!"
+
+And Ee-ee-toy, being her relative, went to her home and said: "Your
+grandchildren want some amusement and are going to have dances now
+every night and would like you to come."
+
+And she replied: "You know very well I do not care for such things. I
+do not care to come."
+
+And Ee-ee-toy returned and told the people she did not care to come
+to their dances, tho he had invited her, but he would think of some
+other way to get her to come where they were, that they might kill her.
+
+And he went a second time, and told her the people were going to sing
+the Hwah-guff-san-nuh-kotch Nyuee, or Basket Drumming Song, and wanted
+her to come. But she said: "I have heard of that song, but I do not
+care to hear it. I care nothing for such things, and I will not come."
+
+So Ee-ee-toy returned and told of his second failure, but promised
+he would try again. And in the morning he went to her and said: "Your
+grandchildren are going to sing the song Haw-hawf-kuh Nyuee or Dance of
+the Bone-trimmed Dresses Song and they want you to come." But she said:
+"I do not care for this song, either, and I will not come."
+
+And Ee-ee-toy told of his third failure, but promised the people he
+would try once more, and when the morning came he went to Hawawk
+and said: "Your grandchildren are going to dance tonight to the
+song which is called See-coll-cod-dha-kotch Nyuee," (which is a
+sort of ring dance with the dancers in a circle with joined hands)
+"and they want you to come."
+
+And she said: "That is what I like. I will come to that. When is it
+going to be?"
+
+And he said: "It will be this very night."
+
+And he went and told the people she was coming and they must be ready
+for her.
+
+Hawawk got ready in the early evening and dressed herself in a
+skirt of soft buckskin. And over this she placed an overskirt of
+deerskin, fringed with long cut fringes with deer-hoofs at the ends
+to rattle. And then she ran to the dancing place; and the people
+could hear her a long way off, rattling, as she came. And they were
+already dancing when she arrived there, and she went and joined hands
+with Ee-ee-toy.
+
+And Hawawk was a great smoker, and Ee-ee-toy made cigarettes for her
+that had something in them that would make folks sleep. And he smoked
+these himself, a little, to assure her, but cautiously and moderately,
+not inhaling the smoke, but she inhaled the smoke, and before the four
+nights were up she was so sleepy that the people were dragging her
+around as they danced, and then she got so fast asleep that Ee-ee-toy
+carried her on his shoulder.
+
+And all the time they were dancing they were moving across country,
+and getting nearer the cave where she lived, and other people at the
+same time were ahead of them carrying lots of wood to her cave. And
+when they arrived at her cave in the mountain of Tahtkum they laid her
+sleeping body down inside, and placed the wood in the cave between
+her and the door, filling it all to the entrance, which they closed
+with four hurdles, such as the people fasten their doors with, so
+that she could not run out.
+
+And then they set the wood on fire, and it burned fiercely, and when
+the fire reached Hawawk she waked and cried out. "My grandchildren,
+what have I done that you should treat me this way!"
+
+And the fire hurt her so that she jumped up and down with pain, and
+her head struck the ceiling of the cave and split the rock. And when
+the people saw it they called to Ee-ee-toy, and he went and put his
+foot over the crack, and sealed it up, and you may see the track of
+his foot there to this day.
+
+But Ee-ee-toy was not quick enough, and her soul escaped through
+the crack.
+
+And then for a while the people had peace, but in time her soul
+turned into a green hawk, and this hawk killed the people, but did
+not eat them.
+
+And this made the people great trouble, but one day a woman was making
+pottery and she had just taken one pot out of the fire and left another
+one in the furnace, on its side, when this hawk saw her and came
+swooping down from high in the air to kill her, but missed her, and
+went into the hot pot in the fire, and so was burned up and destroyed.
+
+And one day they boiled greens in that pot, the greens called
+choo-hook-yuh, and the greens boiled so hard that they boiled over,
+and splashed around and killed people. And they boiled all day and
+stopped at night, and at daybreak began again to boil, and this they
+did for a long time; boiling by day and stopping at night.
+
+And the people sent for Toehahvs who lived in the east, and Gee-ah-duk
+Seeven, or Strong Bow Chief, who lived where is now the ruin of
+Aw-awt-kum Vah-ahk-kee, to kill the pot for them.
+
+And when they arrived Geeahduk Seeven enquired if the pot slept. And
+the people said: "Yes, it sleeps all night." Then said Geeahduk Seeven,
+"We will get up very early, before the pot wakes, and then we will
+kill it."
+
+But Toehahvs said; "That is not right, to go and kill it at night. I
+am not like a jealous woman who goes and fights her rival in the
+darkness. I am not a woman, I am a man!"
+
+And Toehahvs said to Geeahduk Seeven: "I will go in the morning to
+attack the pot and I want you to go on the other side, and if the pot
+throws its fluid at me, so that I cannot conquer it, then do you run
+up on the other side and smash it."
+
+Then Toehahvs took his shield and his club, in the morning, and went to
+attack the pot. But the pot saw him, and, altho he held up his shield,
+it boiled over, and threw the boiling choohookyuh so high and far
+that some of it fell on Toehahvs' back and scalded it. And Toehahvs
+had to give back a little. But at that moment Geeahduk Seeven ran in
+on the other side and smashed the pot.
+
+And there was an old man with an orphan grandson, living near there,
+and when the pot was smashed these came to the spot and ate up the
+choohookyuh. And at once they were turned into bears, the old man
+into a black bear, the boy into a brown bear.
+
+And these bears also killed people, and tho the people tried to kill
+them, for a long time they could not do so. When they shot arrows at
+the bears, the bears would catch them and break them up. And so the
+people had to study out other ways to get the better of them. There
+is a kind of palm-tree, called o-nook, which has balls where the
+branches come out, and the people burned the trees to get these
+balls, and threw them at the bears. And the bears caught the balls,
+and fought and wrestled with them, and while their attention was
+taken by these balls the people shot arrows at them and killed them.
+
+And thus ended forever the evil power of Hawawk.
+
+
+NOTES ON THE STORY OF HAWAWK
+
+The Story of Hawawk opens with an interesting reference to the favorite
+Pima game of football. The ball was about two and one half inches in
+diameter, merely a heavy pebble coated thick with black greasewood
+gum. Sometimes it was decorated with little inlays of shell. It was
+thrown by the lifting of the naked or sandaled foot, rather than
+kicked. Astonishing tales are told of the running power and endurance
+of the older Indians. White and red men agree in the testimony.
+
+Emory says of the Maricopa interpreter, Thirsty Hawk, before alluded
+to, that he came running into their camp on foot and "appeared to
+keep pace with the fleetest horse." Whittemore, the missionary, says:
+"Some young women could travel from forty to fifty miles in sixteen
+hours, and there were warriors who ran twenty miles, keeping a horse
+on a canter following them." G. W. Mardis, the trader at Phoenix,
+told me he had known Indians to run all day, and my interpreter told
+me of Pimas running forty to seventy miles in a day, hunting horses on
+the mountains. Others ran races with horses and with a little handicap
+and for moderate distance often beat them. On these long runs after
+horses the men took their footballs and kept them going, saying it
+made the journey amusing and less tiresome. And undoubtedly it was,
+in the practice of this sport, that their powers were developed. Beside
+the usual foot-races, in which all Indians delight, it often happened
+that two champions would, on a set day, start in different directions
+and chase their footballs far out on the desert, perhaps ten miles
+and then return. The one who came in first was winner. The whole
+tribe, in two parties, on horseback as far as they could get mounts,
+followed the champions, as judges, assistants, critics and friends
+and there was profuse betting and picturesque excitement and display.
+
+But the fine old athletic games seem to have all died out now.
+
+Stories of miraculous conception are not uncommon in Indian tradition,
+and this story of the bewitching of the young girl into motherhood
+thru the agency of the football is an instance.
+
+This gruesome and graphic tale is full of insight into Indian thought
+and fancy. In reading it we are reminded of many familiar old nursery
+tales of kidnapped child, pig or fowl ("the little red hin" of Irish
+legend for instance) and of Were-Wolf and Loup-Garou.
+
+And here reappears the old myth of some god's or hero's footstep
+printed in solid rock.
+
+Here is a hint, too, of transmigration in the various adventures of
+the soul of Hawawk.
+
+My Indian hosts cooked me a pot of choohookyuh greens, and I found
+them very palatable.
+
+The reference to the pottery making reminds me of Pima arts. Today the
+Maricopas have almost a monopoly of pottery making, tho the Quohatas
+make some good pottery too. It is shaped by the hands (no potters
+wheel being known) and smoothed and polished by stones, painted red
+with a mineral and black with mezquite gum and baked in a common
+fire. It is often very artistic in a rude way, in form and decoration.
+
+The Papagoes do most of the horse-hair work, chiefly bridles, halters
+and lariat ropes, and make mats and fans from rushes.
+
+The Pimas make the famous black and white, watertight baskets, which
+are too well known to need description. The black in these is shreds
+of the dead-black seed pod of the devil-claw and not some fibre dyed
+black, as some suppose.
+
+There seems to have been no original bead work among Pima Indians.
+
+
+THE STORY OF TAWQUAHDAHMAWKS AND HER CANAL
+
+
+And after this the people had long peace, increased in numbers,
+and were scattered all around. Some lived where the old vahahkkees
+now are in the Gila country, and some lived in the Papago country,
+and some in the Salt River country. And those who lived where the
+mound now is between Phoenix and Tempe were the first to use a canal
+to irrigate their land. And these raised all kinds of vegetables and
+had fine crops. And the people of the Gila country and the people
+of the Salt River country at first did not raise many vegetables,
+because they did not irrigate, and they used to visit the people
+who did irrigate and eat with them; but after a while the people
+who lived on the south side of the Salt River also made a canal,
+and you can see it to this day.
+
+But when these people tried their canal it did not work. When
+they dammed the river the water did not run, because the canal was
+uphill. And they could not seem to make it deeper, because it was
+all in a lime rock.
+
+And they sent for Ee-ee-toy to help them. And Ee-ee-toy had them get
+stakes of ironwood, and sharpen them, and all stand in a row with
+their stakes in their hands at the bottom of the canal.
+
+And then Ee-ee-toy sang a song, and at the end of the song the people
+were all to strike their stakes into the bottom of the canal to make
+it deeper. But it would not work, it was too hard, and Ee-ee-toy gave
+it up.
+
+And Ee-ee-toy said: "I can do no more, but there is an old woman
+named Taw-quah-dahm-awks (which means The Wampum Eater) and she,
+tho only a woman, is very wise, and likely can help you better than
+I. I advise you to send for her."
+
+And the people sent for her, and she said: "I will come at once."
+
+And she came, as she had promised, but she did not go to where the
+people were assembled, but went right to the canal. And she had brought
+a fog with her, and she left the fog at the river, near the mouth of
+the canal. And she went up the course of the canal, looking this way
+and that, to see how much up-hill it ran.
+
+And when she reached where the canal ran up-hill she blew thru it the
+breath which is called seev-hur-whirl, which means a bitter wind. And
+this wind tore up the bed of the canal, as deep as was necessary,
+throwing the dirt and rocks out on each side.
+
+And then the fog dammed up the river and the water ran thru the canal.
+
+Then the old woman did not go near the people, but went home, and in
+the morning, when one of the people went to see why the old woman did
+not come, he saw the canal full of water and he yelled to everybody
+to come and see it.
+
+And in this way these people got water for their crops and were as
+prosperous as the others below them.
+
+
+NOTES ON THE STORY OF TAWQUAHDAHMAWKS
+
+In this story we find proof that the oldest digging utensil was a
+sharpened stake.
+
+Before these people became agricultural they must have subsisted
+mainly on the game and wild fruits of the desert. They showed me
+several seed-bearing bushes and weeds which in old time had helped
+to eke out for them an existence.
+
+Starvation must have often stared them in the face, and the references
+to hunger, and the prophecies of plenty, and of visits to relatives
+whose crops were good, are scattered pathetically all thru these
+legends.
+
+And indeed, until very recently, mezquite beans and the fruit of
+various cactus plants were staple articles of food.
+
+Mezquite beans grow in a pod on the thorny mezquite trees. The
+gathering of them was quite a tribal event, large parties going
+out. The beans when brought home were pounded in the chee-o-pah,
+or mortar, which was made by burning a hollow in the end of a short
+mezquite log, set in the ground like a low post. A long round stone
+pestle, or vee-it-kote, was used to beat with, and sometimes the
+cheeopah itself was of stone. But stone mortars were usually ancient
+and dug from out the vahahkkee ruins.
+
+The beans, crushed very fine and separated from the indigestible seeds,
+packed into a sweet cake that would keep a year.
+
+Various cactus fruits were eaten. They warned me that for a novice to
+eat freely of prickly pears produced a lame, sore feeling, as if one
+had taken cold or a fever. I noticed no symptoms however. The fruit of
+the giant cactus is gathered from the top, around which it grows like
+a crown, by a long light pole, made from the rib of the same cactus,
+with a little hook at its end made by tying another short piece,
+slant-wise, across. They called the constellation of Ursa Major,
+Quee-ay-put, or The Cactus-Puller, from a fancied resemblance to this
+familiar implement.
+
+The giant cactus, or har-san, was eaten ripe, or dried in the sun, or
+boiled to a jam and sealed away in earthern jars. They also fermented
+it by mixing with water, and made their famous tis-win or whiskey
+from it. They had "big drunks" at this time, in which all the tribe
+joined in a general spree.
+
+A sort of large worm (larva) was also gathered in large quantities,
+boiled and eaten with salt.
+
+The confusion in the Pima thought on religious matters is well revealed
+in this tale, in which Ee-ee-toy, who may be regarded as a god,
+frankly admits that in some matters an old woman may be wiser and more
+powerful than he. Nothing appears to have been very clearly defined
+in their faith except that a mahkai might be or do almost anything.
+
+
+HOW NOOEE KILLED EE-EE-TOY
+
+
+Ee-ee-toy lived in the Salt River Mountain, which is called by the
+Awawtam Moehahdheck, or the Brown Mountain, and whenever the girls
+had ceremonial dances because of their arrival at womanhood he would
+come and sing the appropriate songs. And it often happened that he
+would tempt these young girls away to his mountain, to be his wives,
+but after keeping them awhile he would grow tired of them and send
+them back.
+
+And the people disliked Ee-ee-toy because of this. And when they
+had crops, too, Ee-ee-toy would often shoot his hot arrows thru the
+fields, and wither up the growing things; and tho the people did not
+see him do this, they knew he was guilty, and they wanted to kill him,
+but they did not know how to do it.
+
+And the people talked together about how they could kill Ee-ee-toy. And
+two young boys, there were, who were always together. And as they lay
+at the door of their kee they heard the people talking of sending
+bunches of people here and there to kill Ee-ee-toy, and one said:
+"He is only one, we could kill him ourselves." And the other one said:
+"Let us go and kill him, then."
+
+So the two boys went to Moehahdheck, and found Ee-ee-toy lying asleep,
+and beat him with their clubs, and killed him, and then came back and
+told the people of what they had done. But none of the people went
+to see the truth of this and in the morning Ee-ee-toy came again,
+just as he used to do, and walked around among the people, who said
+among themselves: "I thought the boys said they had killed him."
+
+And that same night all the people went to Moehahdheck, and found
+Ee-ee-toy asleep, and fell upon him and killed him. And there was a
+pile of wood outside, and they laid him on this and set fire to the
+wood and burned his flesh. And feeling sure that he was now dead,
+they went home, but in the morning there he was, walking around,
+alive again.
+
+And so the people assembled again, and that night, once more, they
+killed him, and they cut his flesh up into little bits, and put it
+into a pot, and boiled it, and when it was cooked they threw it all
+away in different directions. But in the morning he was alive again
+and the people gave it up for that time.
+
+But after awhile they were planning again how to kill him; and one
+of them proposed that they all go and tie him with ropes and take him
+to a high cliff, and push him off, and let him fall. And so they went
+and did this, but Ee-ee-toy was not hurt at all. He just walked off,
+when he reached the bottom, and looked up at the people above him.
+
+The next scheme was to drown him. They caught him and led him to a
+whirlpool, and tied his hands and feet and threw him in. But he came
+up in a few minutes, without any ropes on, and looked at the people,
+and then dived, and so kept on coming up and diving down. And the
+people, seeing they could not drown him, went home once more.
+
+Then Nooee called the people together and said: "It is of no use
+for you to try to kill Ee-ee-toy, for you cannot kill him. He is too
+powerful for men to kill. He has power over the winds, and all the
+animals, and he knows all that is going on in the mountains, and in
+the sky. And I have power something like him."
+
+So Nooee told the people to come in, that evening, to his house. He
+said: "I will show you part of my power, and I want everyone to
+see it."
+
+And Nooee lived not far from where Ee-ee-toy did, south of the
+Moehahdheck mountain, at a place called Nooee Vahahkkee, and that
+was where he invited the people to come.
+
+And so, when the people assembled at Nooee Vahahkkee, Nooee made
+earth in his habitation, and mountains on it, and all things on it,
+in little as we say, so that the people could see his power; for
+Juhwerta Mahkai had made him to have power, tho he had not cared to
+use it. And he made a little world in his house for them to look at,
+with sun, moon and stars working just as our sun and stars work;
+and everything exactly like our world.
+
+And when night came, Nooee pushed the darkness back with his hands,
+and spread it on the walls, so that the people could see his little
+world and how it worked. And he was there four days and four nights,
+showing this wonder to the people.
+
+And after this Nooee flew up thru the openings in the roof of his
+house, and sat there, and saw the sun rise. And as soon as the sun
+rose Nooee flew towards it, and flew up and up, higher and higher,
+until he could see Ee-ee-toy's heart. And he wore a nose ring, as
+all the brave people did, a nose ring of turquoise. But from his high
+view he saw that everything looked green and so he knew he could not
+kill Ee-ee-toy that day.
+
+And the next day he did the same thing, only he wore a new nose-ring,
+made of a sparkling shell. And when he got up high enuf to see
+Ee-ee-toy's heart he saw that the ground looked dry, and he was
+very much pleased, for he knew that now he would, someday, kill
+Ee-ee-toy. And he went home.
+
+And the third morning Nooee again put on his nose ring of glittering
+shell, and flew up to meet the Sun, and he flew up and up until he
+came to the sun himself. And Nooee said to the Sun: "You know there is
+a Person, on earth, called Ee-ee-toy, who is very bad, and I want to
+kill him, and I want your help, and this is the reason I come to you."
+
+And Nooee said to the Sun: "Now you go back, and let me shine in your
+place, and I will give just as much light as you do, but let me have
+your vi-no-me-gaht, your gun, to shoot with, when I get around to your
+home." And the Sun said: "Moe-vah Sop-hwah, that is all right. But I
+always go down over yonder mountain, and when you get to that mountain
+just stop and look back, and see how the world looks."
+
+And Nooee took the Sun's place, and went down, that evening, over
+the mountain, stopping, as he was told, to see how wonderful the
+world looked; and when he came to the Sun's home, the sun gave him
+the weapon he shot with.
+
+And the next morning Nooee rose in place of the Sun, and after rising
+a little he shot at the earth, and it became very hot. And before noon
+he shot again, and it was still hotter. And Ee-ee-toy knew, now that
+he was going to be killed, but he tried to use all his power to save
+himself. He ran around, and came to a pond where there had always been
+ice, and he jumped in to cool himself, but it was all boiling water.
+
+And when it was nearly noon Nooee shot again, and it became terribly
+hot, and Ee-ee-toy ran for a rock which had always been cold, but
+just before he got there the heat made the rock burst.
+
+And he ran to a tree, whose cool shade he often enjoyed, but as he
+came near it the tree began to burst into flame, and he had to turn
+back. And now it was noon, and Nooee shot again.
+
+And Ee-ee-toy ran to a great post, all striped around with black and
+white, which had been made by his power, and which had a hollow that
+was always cool inside, and was about to put his arms around it when
+he fell down and died.
+
+So Ee-ee-toy was dead, and Nooee went down to his setting, and returned
+the weapon to the Sun, and then went home to his vahahkkee.
+
+
+        THE SONG OF NOOEE WHEN HE WENT TO THE SUN
+
+        The Rising (Sun) I am going to meet.
+
+        (Repeated many times)
+
+
+        WHEN NOOEE KILLED EE-EE-TOY [4]
+
+        (A Song)
+
+        The gun, he gave it to me as a cane;
+        With it I killed the Brother's heart.
+
+
+NOTES ON HOW NOOEE KILLED EE-EE-TOY
+
+The hot arrows of Ee-ee-toy, that withered the crops, remind us
+of Apollo.
+
+The idea often comes up in these stories that a person possessing
+the powers of a mahkai was hard to kill, having as many lives as
+a cat. It would also appear that there was a confusion as to what
+constituted killing, anyway. They perhaps regarded mere unconsciousness
+as death. Both Ee-ee-toy and Nooee are "killed," but after an interval
+are alive again. And Whittemore relates: "An Apache, seeing Louis, the
+Pima interpreter, came to him in high glee. Taking his hand, he said:
+'You are the Pima who killed me years ago.' Louis then recognized
+him as the man to whom he had dealt a heavy blow with a warclub,
+and then left him for dead on the battle-field."
+
+Is there any connection between the the fact that when Nooee wore a
+nose-ring of turquoise the earth looked green, and that when he wore
+a nose-ring of glittering shell the earth looked dry to him?
+
+Could this whole story have been a myth of some great drouth?
+
+
+EE-EE-TOY'S RESURRECTION AND SPEECH TO JUHWERTA MAHKAI
+
+
+And after Ee-ee-toy was dead he lay there, as some say for four months,
+and some say for four years. He was killed, but his winds were not
+killed, nor his clouds and they were sorry for him, and his clouds
+rained on him.
+
+And he lay there so long that the little children played on him,
+jumping from him.
+
+But at last he began to come to life again, holding down the ground--as
+a wounded man does, moaning, and there was thunder, and an earthquake.
+
+And Ahahnheeattoepahk Mahkai's daughter was grinding corn when this
+happened, and the corn rolled in the basket, and she said: "How is
+it that it thunders when there are no clouds, none to be seen, and
+that the corn rolls in the basket?"
+
+And her father said: "You may think this is only thunder, but I tell
+you wonderful things are going to happen."
+
+Ee-ee-toy, when he got a little stronger, picked up some stones and
+examined them, and threw them away. He did this four times, throwing
+away the stones each time, not liking any of them. And the children
+went there to play, and found him alive, and asked each other: "Why
+is that old man doing that, picking up stones, and throwing them away,
+and picking up more?"
+
+And he began then to cut up all kinds of sticks, four at a time, and
+to lay them down and look at them, but he liked none of them. Then
+he cut arrow weeds, four of them, and he liked their look. And he lit
+his pipe and blew the smoke over them, and spread his hand above them,
+and he liked the light of them which came thru his fingers.
+
+And he put those sticks away in his pouch. And then he rose and took
+a few steps, and began to walk. And all his springs of water had been
+dried up while he was dead, but when he walked the earth again they
+gushed forth, and he dipped his fingers in them and stroked his wet
+fingers over his breast and he did the same to the trees.
+
+And he went on and came to the cliff, where Vandaih once was, and
+he did the same to it, putting his hand to it and rubbing it. And he
+went to see the Sun.
+
+He came to where the Sun starts, but the Sun was not there, but he
+could see the road the Sun takes, and he followed it. And that road
+was fringed with beautiful feathers and flowers and turquoises.
+
+And he came to the tree which is called The Talking Tree. And the Tree
+took of its bark thin strips, which curled as owl feathers do when
+split, and tied them on a little stick, and put them in Ee-ee-toy's
+hair. And it gave him four sticks, made from that one of its branches
+which dipped to the south. And from its middle branch it made him a
+war club, and from a gall, or excrescence, which grew on its limb,
+it made him a vah-quah, or canteen.
+
+After that he went along the beautiful fringed road which the Sun
+travels, and came to the place where the Sun drinks. And he took a
+drink there himself, putting his knee in the spot where the Sun's
+knee-print is, and his hand where the Sun rests his hand. And in the
+clear water he saw a stone like the Doctors' Stone, somewhat, but of
+the color of slate, with a zigzag pattern around it. And he took his
+four arrow-weeds and placed them under this stone and left them there.
+
+And he went on, and went down where the Sun goes down. And he went
+to see Juhwerta Mahkai, to the place where he lived with his people,
+those who sank thru the earth before the flood.
+
+And when Ee-ee-toy came to where Juhwerta Mahkai was, he said to him:--
+
+
+"There was an Older Brother, and his people were against him;
+And he had made an earth that was like your earth;
+And he had made mountains that were like your mountains;
+And he had made springs of water, like yours, that were satisfactory;
+And he made trees like yours, and everything that he made worked well.
+And they shot him till he bounced, four times on the open ground;
+And threw him with his face to the earth.
+And he lay there, dead, but when he came to life he used the strength
+    of his right arm and rose up.
+But things were changed, and looked different from the old times.
+He examined the sticks, but none suited him;
+He eyed along the river, that green snake, which he had made, and
+    found the sticks that pleased him.
+And he cut those arrow-weeds, he found there, into four pieces,
+    and blew the smoke over them.
+And out of them came sparks of light, that almost reached the Opposite
+World, the World of the Enemy, where things are different.
+And when he saw the light from the sticks he smiled within himself;
+He was so pleased he had found the sticks that suited him.
+And he brought the Black Fog from the West, and stroked the sticks
+    with it, and so finished them,
+And from the Ocean he brought the Blue Fog, and stroked the sticks
+    with it, and finished them;
+And from the East he brought the Fog of Light, and stroked the sticks
+    with it and finished them;
+And from Above brought the Green Fog, and put it in hiding, and there
+    secretly stroked the sticks with it, and finished them;
+From the West he brought the Black Snake, which he had made, and
+    bound the sticks together, and finished them.
+And from the Ocean he brought the Blue Snake, and bound the sticks
+    together, and finished them;
+From the East he brought the Snake of Light, and bound the sticks
+    together, and finished them;
+And from Above he brought the Green Snake, and bound them together
+    and finished them.
+And then he rose up, and with the first step he stepped on the great
+    doctors of the earth and sank them down;
+The next step he stepped on the Speaker, and sank him down;
+The next step he stepped on the Slayer, and sank him down;
+And the next step he stepped on the rushing young maid who gathers
+    the fruit to feed the family, and sank her down.
+And then he sank down himself, and walked under the earth's crust
+    a little way, and then came out and found the Light's Road, his
+    own proper way, and walked in it.
+Where he found his springs of water, which he had made, with their
+    green moss growing, and dipped his hand in them and moistened
+    his heart;
+And every mountain he came to, which he had made, he entered and
+    there he cooled his heart;
+And rested his hand on every tree he had made, and so freshened
+    his heart;
+And came like a ghost to the place, the cliff, where he had killed
+    the man-eagle, and sat there.
+And there was Someone there, whom he did not know, who asked him what
+    he wanted, coming there like a ghost;
+Who said: 'I told you that you would be against my people and the
+    earth!'
+And from there he went to the East and strengthened himself four times;
+When he arrived at where the Sun arises;
+Where he came to the four notches which the Sun uses when he is rising.
+And where the Sun steps it is full of wind;
+And where the Sun puts his hands it is full of wind.
+In spite of that he climbed the way, the way in which the Sun rises.
+And he went Westward, stopping and taking his breath four times;
+Even at the fourth time, still going, still breathing westward.
+It was the west-bound road he followed, the road adorned with all
+    beautiful fringes;
+Fringes of soft feathers, and large feathers; and flowers made from
+    beautiful trees, and turquoises.
+And he went along this road, pulling all the fringes, and whenever
+    he came to the doctors, tossing them up in the air.
+And there he came to Nee-yaw-kee-tom Oas, The Talking Tree;
+And he came to it like a ghost, and fell down on his knees toward it;
+And the Tree asked him why he came like a ghost, and what he wanted:--
+'I have told you that some day you would be the enemy to my people
+    and to the earth.'
+There the Tree pulled off its bark and stuck it in his head, like
+    split owl feathers;
+And it was its middle branch which it cut down in fine shape for a
+    club and slipped under his belt;
+And it was a nut-gall from its limbs which it made into a canteen
+    for him.
+And these two together it slipped under his belt.
+    And it was the branch toward the ocean which it broke into four
+    pieces, equally, and handed to him.
+And from thence he travelled on, on the Middle Road, and where there
+    were beautiful fringes he examined them as he went along.
+And from the Middle Road he could see the road on either side, the
+    Road of the Enemy.
+And it was among the fringes, where he was pulling the flowers made
+    from sticks, that he reached the Speaker and tossed him, too.
+And there he reached the place where the Sun drinks.
+And tho the print of the Sun's knee was full of wind, and the print
+    of his hand full of wind, there he knelt and drank as the Sun drinks.
+And there, in the clear water, he found the Doctor's stone, the
+    Dab-nam-hawteh, which is square, and there, under it, left the
+    arrow-weeds.
+And he started on from thence and went to the Sunset Place.
+Going down as the Sun goes down, and slid down from there four times,
+    to the home of Juhwerta Mahkai.
+When he sat down there a strong wind came from the West and carried
+    him to the East and brought him back and sat him down again;
+And from Above a strong wind came and tossed him up toward the sky,
+    and returned him back and sat him down again.
+And the Black Gopher, his pet from the West, was rolling over;
+And the Blue Gopher, his pet from the South, was rolling over;
+And the Gopher of Light, his pet from the East, was rolling over;
+And the Yellow Gopher, his pet from the North, was rolling over;
+Because of their trouble about him."
+And Juwerta Mahkai picked up Ee-ee-toy like a baby, and held him in
+    his arms, and swept the ground, and set him down upon it.
+And blew smoke over him, till he felt refreshed like a green tree.
+One kind of smoke was the ghost-smoke, which he blew over him;
+And the other kind was the smoke of the root called bah-wiss-dhack.
+And there they built the O-num of Light:
+Which means the circle of those great ones around the fire.
+And thence they sent the Gray Owl, to go around the enemy and breathe
+    over them.
+Who, when they heard him, were shaking with fear;
+A fear that pulled out their thoughts so that they knew nothing and
+    were weak in arms and legs,
+And they could not remember their dreams, and their skins became like
+    the skins of sick people;
+And their lice became many, and their hair became coarse, and their
+    eyes became sore.
+And they chose the little Blue Owl and sent him to the enemy, and he
+    breathed over them.
+And he was invisible because of his blue darkness, and he breathed
+    over them quietly.
+And they selected a Green Road Runner, and sent him to breathe
+    over them.
+And the people could not see him because of his green darkness,
+    and he breathed over them quietly.
+And they selected the small Gray Night Hawk;
+And he blew a gray dust all thru the enemy's houses and swept their
+    ground.
+And their springs of water were left dry, choked with driftwood and
+    covered with cobwebs.
+And their kees, their houses, were full of soot, and their trails
+    like old trails;
+And after that the fresh foot-tracks could be seen--
+And they went out and found the enemy by his fresh tracks and captured
+    him, for he had no weapons.
+And from the sending out of the birds, even to the end, all this is
+    a prophecy.
+
+
+NOTES ON EE-EE-TOY'S RESURRECTION
+
+The Story of Ee-ee-toy's Resurrection is perhaps the most poetic in the
+series, and the opening picture of him lying on the ground, lifeless,
+with the elements lamenting over him and the little children playing
+on him, might challenge the genius of a great artist.
+
+It is particularly rich in the mystical element also.
+
+I confess that I am not very confident of my rendering of those of the
+opening sentences of Ee-ee-toy's speech between "And he had made an
+earth" and the statement "And they shot him," etc. My Indians seemed
+to get hopelessly tangled over archaic words and other impediments here
+and not at all sure of what they told me. The rest I think is correct.
+
+Here we came to the mystic colors of the four quarters, North, South,
+East and West and of the zenith, the Above, which the Pimas reckoned
+evidently as a cardinal point. If their mystic power was derived
+from the cardinal points, might not their inclusion of the zenith
+make five also sometimes a mystic number? I think that it perhaps was.
+
+Brinton says that among the Mayas of Yucatan, East is Red, West is
+Black, North is White and South is Yellow.
+
+The Speaker: It was customary in the villages of the Awawtam for some
+individual, perhaps a chief, or a mahkai, or some representative
+of these, to mount on a kee, or other high place, and in a loud
+voice shout news, orders, advice, or other important matters to the
+people. This was the Speaker, a sort of town crier.
+
+To step on the rushing young maid who gathered the cactus fruit was
+a blow at the enemy's subsistence.
+
+It seems to have been a custom among the mahkais to have pet animals
+to assist them in their magic.
+
+A circle of bushes, stood up in the earth, forming a screen for shelter
+or privacy, was called an onum. One or more may be found near almost
+any Pima hut.
+
+To work witchcraft on a foe, so that he be left weaponless and
+helpless, and off his guard against attack, seems to have been the
+favorite dream of whoso went to war. Treachery was idolized. There
+was no notion of a fair fight.
+
+Stories of mythical beings who, tho repeatedly killed, persist in
+coming to life again, are common among many Indian tribes.
+
+
+STORIES OF THE THIRD NIGHT
+
+
+THE STORY OF EE-EE-TOY'S ARMY
+
+
+And after Ee-ee-toy was thru speaking Juhwerta Mahkai addressed him,
+and promised him his help, and that he would lead out to earth again
+his people, who had sunk down before the flood, that these might
+fight against the people whom Ee-ee-toy had made and who now had
+turned against him.
+
+So when his people heard this they gathered together all their property
+that they could carry, to take to earth with them.
+
+And Juhwerta Mahkai said to Ee-ee-toy: "You go ahead of the people
+and I will follow."
+
+And they went out in bands.
+
+The first band was called the Mah-mahk-Gum. These were led by
+Ee-ee-toy, and their color was red.
+
+The second band was called Ah-pah-pah Gum. And their colors were
+white and yellow.
+
+The third band was called Vah-vah Gum. And their color was red.
+
+The fourth band was called Ah-pah-kee Gum. And their colors were
+white and yellow.
+
+The fifth band was called Aw-glee Gum. And their color was red.
+
+And the sixth band was called Ah-pel-ee Gum. And their colors were
+white and yellow.
+
+And these bands were so called because it was by these names they
+called their fathers.
+
+As they were going to start they sent the Yellow Gopher ahead to open
+a way for them to this earth.
+
+And the gyih-haws were loaded with their belongings, and stood up
+beside the ranks. And the bands went thru, one by one.
+
+And when the fifth band was partly thru Toe-hahvs looked back and saw
+the gyih-haws walking beside the ranks, and he was amused and said:
+"I don't think there will be enemies enuf for us to kill, we are
+so many, and there are these other things, beside us, that look so
+funny." And he began to laugh.
+
+And as soon as he laughed the gyih-haws stopped walking, and ever since
+they have never walked, and the women have been obliged to carry them.
+
+And after these words, too, the earth closed up, so that the sixth
+band and part of the fifth band were left behind. And Juhwerta Mahkai
+was left behind, also, and only Ee-ee-toy and Toe-hahvs, and some
+other powerful men, went thru to lead the people.
+
+And after they had come out a little way they came to a place called
+the White Earth. And Ee-ee-toy stopped then and the others camped
+with him.
+
+And there the powerful men all sang, and the people joined in, and
+all dressed themselves in their war-bonnets, and attired themselves
+for war, and had a great war dance together.
+
+And they went on again, another journey, and camped at the place
+called Black Mountain, and again sang and danced a war dance.
+
+So they went on, slowly, camping at one place, sometimes, for many
+days or several weeks, making their living by hunting game.
+
+And whenever they stopped they sent scouts and spies ahead to look out
+for the next stopping-place, so that they might go ahead safely. And
+this went on for many years.
+
+And there were no deer in those days, and Ee-ee-toy said to the
+wood-rat: "Let me make a deer of you." And the wood-rat said:
+"Moevah Sophwah" (all right). But when Ee-ee-toy took out his knife
+and began to cut at his skin to change him into a deer, he cried out
+so hard that Ee-ee-toy let him go. And you may see the knife mark on
+his chest and neck to this day.
+
+And Ee-ee-toy asked another rat, the little one with coarse hair,
+called Geo-wauk-kuh-wah-paw-kum, if he might make him into a deer,
+and the little rat said "Moevah Sophwah!" And this little rat was
+brave, and let Ee-ee-toy cut and change him, and he became a deer. And
+Ee-ee-toy said: "You shall not be like some animals, that love to roam
+all over, you shall love only one spot and wish to stay there." And
+that is why, to this day, the deer do not care to leave their own
+places and wander as coyotes do.
+
+So there were now plenty of deer, and the people had something new
+to live upon.
+
+And there were two brothers who were especially good at hunting
+the deer. Their names were Hay-mohl and Soo-a-dack Cee-a-vawt. And
+they hunted as the people marched, and kept them well supplied with
+deer-meat.
+
+And there was a doctor among them who took the ears and tail of the
+deer and worked such witchcraft on them that the deer could hide
+away so well that the hunters could not see them. They hunted, as
+the people journeyed along, but all in vain.
+
+And the hunters in their trouble sought to get help from a doctor,
+and they happened to go to the very one who had helped the deer, and
+they told him they wanted help to find the deer, for the children
+were crying and hungry and they wanted meat to feed them. And the
+doctor said: "I guess the trouble is that you look for the deer in
+the old places, where you have already killed them. If you will hunt
+for them in the 'cheeks' (the outlying flanks) of our line of march,
+you will find them." And the hunters hunted for the deer in the cheeks
+but could not find them.
+
+And they went that evening to the same doctor and told him of their
+bad luck, and the doctor said: "If you will look for them next time
+in the little valleys between the hills, I think, you will find them,
+for they like to go there."
+
+And the hunters went the next day and looked in the little valleys,
+but could not find the deer, and they came that evening and told the
+doctor of their bad luck. And he said: "If you hear of anyone who
+chances to kill a deer, even if it is only a fawn, bring me the tips
+of its ears, and of its tail, and of its nose."
+
+And the doctor said: "I want you to bring me these because a deer
+feels first with his tail that some one is after him, and, second,
+hears with his ears that some one is near, and, third, smells danger
+with his nose. And that is why I want you to bring me these."
+
+The next day these brothers were in a crowd and heard that a fawn
+had been killed, and went to it and cut off the tips of its tail and
+of its ears and of its nose and brought these to the doctor. And the
+doctor took these, and then he took those which he had used at first
+to hide the deer with, and with these in his hand he began to sing.
+
+And in his song he asked one of the brothers, Haymohl, for the
+turquoise earrings which he wore; and then he asked Sooadack Ceeavawt
+for the beads which were around his neck. But the brothers kept on
+listening to his song and did not understand what he meant.
+
+And he told them to hunt the next day near the crowd of people,
+and they did so and killed a fawn, and took it home and had meat
+with their family. And then they went again to the doctor; who again
+sang his song, asking for the same gifts. And this time the brothers
+understood him and Haymohl said: "O, I never thought of these," and
+took off his ear rings and gave them to him. And Sooadack Ceeavawt
+took off his necklace of beads and gave them to him. And the doctor
+told them that the next day they were to hunt near the crowd, and they
+would find plenty of deer anywhere they might hunt for them. And he
+went to where the fawn skin was, and took pieces of its skin and made
+medicine-bags for the brothers, out of the cheek pieces of the fawn
+stretched out and made into soft buckskin, and filled these with the
+scrapings of the buckskin and the tips of the fawn's ears and of his
+tail and nose and gave one to each of the brothers.
+
+And the brothers took these bags, and wore them at their belts, and
+the next day they went out hunting and in a little while killed a
+deer, and went on a little further and killed another, and after that
+found plenty of deer; and from that time on the people had plenty of
+venison again.
+
+And the people marched on in the order of their villages; and a member
+of one village, a woman, was taken sick, and her fellow-villagers
+stayed with her to take care of her, and the rest of the army marched
+on, leaving this village behind. And these remained with her till
+she died, and buried her, and then journeyed on till they overtook
+the others.
+
+And as they traveled a pestilence broke out, a sickness which spread
+thru all the villages and delayed them. But a doctor told them to
+kill a doe and have a big dance, the dance that is called "Tramping
+Down the Sickness," that the sick might get well. And they did this
+and all their sick ones recovered.
+
+
+        THE FIRST SONG OF EE-EE-TOY'S ARMY
+
+        The White Earth I come to and sing;
+        Where many war-bonnets are shaking with the wind;
+        There we come together to dance and to sing.
+
+
+        THE DOCTOR'S SONG TO THE HUNTERS
+
+        Sahn-a-mahl! [5]
+        Haymohl give me the necklace!
+        Sooadack Ceeavawt give me the turquoise ear-rings!
+
+
+THE DESTRUCTION OF THE VAHAHKKEES
+
+
+(The Pima plural of vah-ahk-kee is vahp-ahk-kee, but I have made all
+plurals English, as more understandable.)
+
+
+And after this they were not sick any more, and they came to the Gila
+Country, to Ee-ee-toy's land, the Land of the Vahahkkees, and here they
+divided themselves into four parties, of which one went south; but the
+doctors united them all by "The Light," so that they would know about
+each other in case there was a battle in which any needed assistance.
+
+And as they came into this country the people there were stirred up
+with alarm, and the great doctor who lived at Casa Blanca, whose name
+was Tcheu-tchick-a-dah-tai Seeven, sent his son to Stcheuadack Seeven,
+at Casa Grande, to enquire if there were any prophecies that he knew
+of about the coming of this great invading army.
+
+So the boy went, but just before he got there he heard a frog, a big
+one, which Stcheuadack Seeven kept for a pet and to assist him in his
+work as a doctor, and when the boy heard the frog he was frightened,
+and ran back, and when his father asked what he had learned, he said:
+"Nothing, I heard a noise there that frightened me, so I ran home
+again."
+
+And his father said: "That is nothing to be afraid of, that is only
+the voice of his pet, his frog," and he sent the boy once more.
+
+So the boy went again, and came to Stcheuadack Seeven who asked him
+what his father had sent him for, and the boy replied that his father
+wanted to know if there were any prophecies about the coming of this
+enemy, and how he felt about it every evening.
+
+When the boy returned his father asked him what Stcheuadack Seeven
+knew, and how he felt, and the boy said: "He does not know anything. He
+says he sits out every night, and hears the different animals, and
+enjoys their pleasant voices, and in the morning he enjoys hearing
+the sweet songs of the birds, and he always feels good, and does not
+fear anything."
+
+So his father said: "I am well satisfied that I will not be the
+first to see this thing happen. It will be Stcheuadack Seeven who
+will first see it, and it will not be ten days before it will occur."
+
+And in a few days Ee-ee-toy's army came to the village of Stcheuadack
+Seeven and killed all the people there.
+
+And Geeaduck Seeven, who lived at Awawtkum Vahahkkee, told his people
+to flee: and many did so and ran to the mountains and other places,
+but the others who did not run away came to Geeaduck Seeven's house,
+and he told them to come in there.
+
+And the enemy came, and they fought, but it was not easy for
+Ee-ee-toy's warriors to fight the men of Geeaduck Seeven, because they
+were nearly all inside, but his men managed to set fire to the house,
+and so destroyed it, and killed all who were therein.
+
+Then Ee-ee-toy's men marched on, north, to where Cheof-hahvo Seeven,
+or Long Dipper Chief, lived, and as they marched along they sang
+about the places they were conquering, and they sang of the beads that
+they expected to get at this village, the beads called sah-vaht-kih,
+and there was an old woman among them who said: "When you get those
+beads, I want them." And so when they had conquered that vahahkkee
+they gave the beads to her.
+
+And they went from there to the home of Dthas Seeven, who had a
+cane-cactus fence about his place, and Ee-ee-toy's men heard of this,
+and sang about it as they went along. And they took this place and
+killed Dthas Seeven.
+
+And then they went on to where the Casa Blanca vahahkkees now are in
+ruins; and the great doctor who lived there, the same who had sent his
+boy to inquire of the prophecies, drew a magic line before his place,
+so that the enemy could not cross. And when Ee-ee-toy's men came to
+the line the earth opened, and they could not go further till one
+of their great doctors, by his power, had closed it, and then they
+could pass it.
+
+And they had a great battle there, for the place was very strong,
+and hard to get into. And there was a doctor among them called Nee-hum
+Mah-kai, or Thunder Doctor, and they asked him to use his magic power
+to tear the place down, and he tried, but could not succeed. And they
+asked another, called Tchu-dun Mahkai, or Earthquake Doctor, and he
+tried and failed also. And then they asked another, a little man,
+not supposed to have much power, and he took a hair from his head,
+and held it up by the two ends, and sang a song, and turned it into a
+snake. And he sent the snake, and it struck the house, and shook it
+so that it broke and fell down from above. And then Ee-ee-toy's men
+took the place, and killed everybody there except Tcheutchickadahtai
+Seeven, who escaped and ran on.
+
+And one of Ee-ee-toy's warriors pursued him, and was going to strike
+him with a club when he sank down, and the place where he sank was
+filled with a fog, so that they could not see him, and he got out on
+the other side and ran on. But they had a doctor called Ku-mi-wahk
+Mahkai, or Fog Doctor, and they had him clear away the fog and then
+they could see him and chased him again.
+
+And again, when about to be struck, he sank down, and a mirage filled
+the place so that they could not see him, for things did not look
+the same. And he got out beyond, and ran on. And they had a Sas-katch
+Mahkai, or Mirage Doctor, who cleared away the false appearance, and
+again they chased him, and were about to kill him, when again he sank.
+
+And this time a rainbow filled the place and made him invisible,
+and again he ran on till their Kee-hawt Mahkai, or Rainbow Doctor,
+removed the rainbow.
+
+And once more they were about to strike him when he sank, and the
+quivers which heat makes, called coad-jook, filled the hole, and
+again he got away. But they had a Coadjook Doctor, and he removed it,
+and then they chased him and killed him.
+
+And they went northward again from there.
+
+And there was a rattlesnake who had never killed an enemy, and
+he asked a doctor to help him do this, and the doctor told him
+he would. And the doctor told his pet gopher to dig a hole to the
+village of the doctor who lived beyond Od-chee, where is the place
+called Scaw-coy-enk, or Rattlesnake Village. And this doctor was the
+speaker of his village, and every morning stood on a big stone and
+in a loud voice told the people what they were to do. And the gopher
+dug a hole to this stone, through which the rattlesnake crawled and
+lay in wait under the stone. And when the doctor came out to speak
+to his people in the morning, the rattlesnake bit him and then slid
+back into his hole again. And the doctor came down from the stone,
+and went into his kee, and fell down there and died.
+
+And after taking this place they marched to the place called
+Ko-awt-kee Oy-yee-duck, or Shell Field, where a doctor-chief lived,
+named Tcheunassat Seeven, and this place they took, and Ee-ee-toy
+himself killed this doctor, this being the first foe he had killed.
+
+And they went on again to the place where Nooee lived, called
+Wuh-a-kutch. And Ee-ee-toy said: "When you come there you will know
+the man who killed me by his white leggings, and when you find him,
+do not kill him, but capture him, and bring him to me, and I will do
+what I please with him."
+
+And Ee-ee-toy had the Eagle and the Chicken-Hawk go up in the sky to
+look for Noo-ee, for he said he might go up there. And the Eagle and
+the Chicken-Hawk found Nooee there, and caught him, and brought him to
+Ee-ee-toy, who took him and scalped him alive. And Nooee, after he was
+scalped, fell down and died, and the women came around him, rejoicing
+and dancing, and singing; "O why is Seeven dead!" And after awhile
+be began to come to life again, and lay there rolling and moaning.
+
+And Ee-ee-toy's men went on again to a village beyond Salt River,
+where lived a chief who had a brother, and they were both left-handed,
+but famous shots with the bow. And these brothers put up the hardest
+fight yet encountered. But when the brothers were too hard pressed
+they fled to Cheof See-vick, or Tall Red Mountain, and there they
+kept shooting and killed a great many of Ee-ee-toy's men, who were
+short of arrows, after so long fighting and many of their bows broken.
+
+Because of this, Ee-ee-toy's men had to fall back and surround
+the place.
+
+And when this happened the band that had gone to the south knew by
+the "Light" that it was so, and came to help them. And these had many
+bows and arrows, and beside brought wood to mend the broken bows, and
+wood to make new arrows; and when they came into the place they gave
+their bows and arrows to Ee-ee-toy's men and made themselves new bows
+from the wood they had brought. And these men were the ancestors of
+the Toe-hawn-awh Aw-aw-tam, the present Papagoes, and that is why to
+this day the Papagoes are most expert in making bows and arrows. And
+then the fight began again and the two brave brothers were killed.
+
+And from there they went on to another awawtkumvahahkkee, where is
+now Fort McDowell, where lived another seeven whom they fought and
+conquered.
+
+And from there they went on westward thru the mountains. But when
+they came to Kah-woet-kee, near where is now Phoenix, one of the
+chiefs in Ee-ee-toy's army said: "I have seen enuf of this country,
+and I will take this for my part and remain here." And he did so.
+
+And the bands went on and came to the Colorado River, and there one of
+the great doctors, called Gaht Mahkai, or Bow Doctor, struck the river
+with his bow and laid it down in the water. And the water separated
+then so that the people were able to go over to the other side. And
+beyond the Colorado they came to a people who lived in holes in the
+ground, whom they found it hard to fight, and they asked help of their
+Thunder Doctor, and when the people came out of their holes to fight
+he struck right in the midst of them, but killed only one. Then they
+asked help of the Earthquake Doctor, and he was able to kill only
+one. And these two were all they killed. And these people were called
+Choo-chawf Aw-aw-tam, or the Foxes, because they lived in holes.
+
+And after the army failed to conquer the Foxes they returned across
+the Colorado River, near where is now Yuma. And here again the Bow
+Doctor divided the water for them. But before all the bands were
+across the waters closed, and some were left behind. And these called
+to those who were across to have the Bow Doctor hit the waters again,
+that they also might get there. But those who were across would not
+do this, but told them that there was plenty of land where they were
+that would make them a comfortable home. And those left there were
+the ancestors of the present Yumas and Maricopas.
+
+
+        SONG BEFORE THE FIGHT WITH CHEOF-HAHVO SEEVEN [6]
+
+        In the land where there are a great many galley-worms--
+        I will get the doctor out,
+        It will lighten his heart.
+
+
+        A SONG OF THE DOCTOR WHOSE SNAKE THREW DOWN THE VAHAHKKEE
+
+        I made the black snake;
+        And he went across and wounded the vahahkkee.
+
+
+NOTES ON THE STORY OF EE-EE-TOY'S ARMY AND THAT OF THE DESTRUCTION
+OF THE VAHAHKKEES
+
+In the Story of Ee-ee-toy's Army we come to an amusing superstition of
+the Pimas. There is a funny little creature in Arizona, related to the
+tarantula, perhaps, which the Pimas say is very poisonous, and which
+is certainly very quick in motion and the hardest thing to kill I ever
+saw. It is covered with a sort of fuzzy hair, which blows in the wind,
+and is sometimes red and sometimes yellow or white. Now there seems
+to be a connection in the Indian mind between this way-heem-mahl,
+as they name him, and this story of Ee-ee-toy's Army. The bands, it
+is related, were distinguished by certain colors--some took red, and
+some yellow and white, for their badge-color. And the Pimas of today
+suppose themselves descended from these bands, and some clans claim
+that the bands of the red were their forbears, and some trace back
+to the bands of yellow and white. And not many years back there was a
+rivalry between these, and the wayheemmahls, having the same colors,
+were identified with the bands, and the Pimas descended from a band
+of a certain color would not kill a wayheemmahl of that color, or
+willingly permit others to do so, but would eagerly kill wayheemmahls
+of the opposite color. If, then, a Pima of the red faction saw a
+yellow wayheemmahl, running over the ground, he was quick to jump
+on it; but if a Pima of the yellow stood near he would resent this
+attack on his relation, and a hair-pulling fight would result. This
+custom is probably altogether obsolete now.
+
+It will be noticed that the fantastic explanations of why gyihhaws
+are now carried by the women, is contradicted by the carrying of
+gyihhaws by various women in previous stories.
+
+The closing of the earth cuts down the six bands to four and a
+fraction.
+
+Wardances, and extravagant and boastful speeches prophesying success,
+seem to have preceded all the military movements of the Awawtam.
+
+The creation of deer in this story, by Ee-ee-toy, is contrary to their
+presence in earlier tales, as in that of Ahahnheeattoepahk Mahkai.
+
+The careful mention of the sickness and death of an apparently
+unimportant woman is curious, and hard to explain. Perhaps this was
+the inauguration of the pestilence.
+
+The Story of the Destruction of the Vahahkkees has the most historic
+interest of any.
+
+The uniting of the bands by the "Light" is very curious. My Indians
+could not tell me what this was, only something occult and mysterious
+by which they had clairvoyant ken of each other's needs. Its use
+appears in the fight at Cheof Seevick.
+
+The resemblance to the Israelites crossing the Red Sea is remarkable
+in the exploit of the Bow Doctor, and the crossing of the Rio Colorado.
+
+The Choochawf Awawtam appear to have been cave-dwellers, and my
+Indians were confused in memory as to whether they were encountered
+on the hither or far side of the Colorado.
+
+The statement that the closing of the waters left the Yumas and
+Maricopas on the far bank of the Colorado is likely only a mahkai's
+fanciful attempt to explain their presence there. As the Indians of
+the Yuman stock speak an entirely different language from the Indians
+of the Piman stock, it is unlikely they were united in the original
+invading army. There is no other evidence that there ever was any
+alliance between them till the Maricopas, fearing extermination
+from the Yumas, joined the Pimas sometime in the first half of the
+nineteenth century.
+
+Comalk Hawkkih gave me this account of the coming in of the Maricopas:
+The Yumas and the Maricopas were once all one people, but there was
+a jealousy between two sons of a chief, one of whom was a favorite
+of his father, and one killed the other, and this grew to a civil
+war. The defeated party, the Maricopas, went first to Hot Springs,
+where they staid awhile, and then to Gila Bend, but each time the Yumas
+followed and attacked them and drove them on. Fearing extermination
+they came to the Pimas for protection. The Pimas adopted them. Now
+began war between Yumas and Mohaves on one side, and Pimas, Papagoes
+and Maricopas on the other. There were only two battles after the
+Maricopas came in, but in the second battle all the Yuma warriors
+engaged were killed, and the Mohaves had to flee over the mountain,
+and only a part of these escaped. This battle was fought at what is
+now called Maricopa Mountain.
+
+So terrible was the defeat, that to this day the Yumas hold an annual
+"Cry," or lamentation, in memory of it. Their old foes are invited,
+and if any Pima or Maricopa attends he is given a horse. This war
+reduced both Yumas and Maricopas to a mere remnant.
+
+Since then the Maricopas have lived with the Pimas, and in customs
+are almost exactly similar, except that they burn their dead, and
+still speak their distinctive language.
+
+They are a taller, larger race than the Pimas, more restless, said
+to be quicker witted, but more inclined to vice, and to be rapidly
+dying out; while the Pimas yet hold their own in numbers, despite
+recent inroads of tuberculosis.
+
+
+THE STORY OF SOHAHNEE MAHKAI AND KAWKOINPUH
+
+
+Now when the bands were going thru this country they had selected
+the places for their homes, expecting to return, and each band, as
+it selected its place, drove down short sticks so as to know it again.
+
+And after returning across the Rio Colorado the bands went again to
+these places which they had selected and settled there.
+
+Only the Toehawnawh Awawtam (the Papagoes) did not at first go to
+their selected place, but went on beyond Awn-kee Ack-kee-mull, the
+Salt River, to where is now Lehi.
+
+And there was one doctor among them named So-hah-nee Mahkai, and he
+had no child, but he had found one of the children belonging to the
+country, which had been left alive, and he had adopted it for his
+own. And he went on and lived by himself at the place then called
+Vah-kah-kum, but now named Stcheu-a-dack-a-Vahf, or Green Cliff.
+
+And the Aw-up, or Apaches, were a part of the original people of
+this country, and this child which Sohahnee Mahkai had adopted was
+an Apache.
+
+And when he had grown up to be quite a large boy the Apaches planned
+to capture Sohahnee Mahkai; but Sohahnee Mahkai knew of this and told
+the boy to go to a place where he had been clearing up a farm and to
+find the stick there with which he had been cutting down bushes, and
+to dig a hole there under the bushes, and then to come back home and
+eat his supper. And after he had eaten his supper he was to return to
+the place where the stick was, and hide in the hole under the bushes
+which were there.
+
+And the boy's name was Kaw-koin-puh, and he dug the hole under the
+bushes, as he was directed, and returned for his supper.
+
+And then Sohahnee Mahkai said to him: "Now to-night the Apaches will
+come to kill me, but here is a basket-box which I want you to have
+after I am dead. And when you are safe in your hole you will hear
+when they come to kill me. But don't you come out till they are far
+enuf away. Then come and find my body, no matter whether h is here or
+dragged away. And when you find it, do not mind how stained and bloody
+it is, but fall upon it, and put your mouth to mine, and inhale, and
+thus you will inherit my power. And when you leave my body, do not
+attempt to follow after the Apaches, for they would surely kill you,
+for tho you are one of them they would not know that, because you do
+not speak their language. But I want you to return to where we left
+some people at the place called Vik-kuh-svan-kee."
+
+So the boy took the little basket-box, and went to his hole, and
+early in the evening the Apaches came and surrounded the house,
+and staid there till near morning, and then began the attack. And
+the boy could hear the fighting, and could hear Sohahnee Mahkai yell
+every time his arrow killed anyone; and he could hear the old woman,
+his wife, shout out in her exultation, too. And it was after the sun
+was up that the old woman was killed; and then Sohahnee Mahkai ran
+out and the Apaches chased him and killed him, and said: "Now let us
+cut him open and find what it is that made him so brave, and enabled
+him to kill so many of us." And they cut him open and found under
+his heart a feather of the chicken hawk.
+
+And the Apaches took that feather, and that is how they are so brave
+and even if there are only two of them will often attack their enemies
+and kill some of them.
+
+And after the Apaches were far away the boy came out of his hole and
+found the old woman, and from there tracked till he found the old man;
+and he fell over him, as he had been told, and inhaled four times;
+and then he went to Vikkuhsvankee, but he got there at night, and
+did not attempt to go into any house, but staid outside all night in
+the bushes.
+
+And in the morning a girl came and found the boy, and went back and
+told the people there was some one outside who was a stranger there,
+some one with short hair. And they came and stood around him, and
+teased him, and threw dirt at him, until finally he cried out: "Don't
+you remember me, who I am? My name is Kawkoinpuh and I was here once,
+but went away with the doctor, Sohahnee Mahkai. And now the Apaches
+have killed him and the old woman, his wife, and I am left alone."
+
+And when he said this the people remembered him, and took him by
+the hand, and led him to a doctor named Gawk-siss Seev-a-lick, who
+adopted him, and he was treated nicely because he was a good hunter
+and used to keep the doctor in plenty of game.
+
+And the doctor had a daughter, and when she was old enuf he gave
+her to Kawkoinpuh for his wife. And Kawkoinpuh staid with his wife's
+people; and his wife expected a child, and wanted different things to
+eat. So Kawkoinpuh left home and went to the mountain called Vahpkee,
+and there got her a lot of the greens called choohookyuh. And after
+a while he wanted to go again, but she said: "Do not go now, for
+the weather is bad. Wait till it is more pleasant." But he said,
+"I am going now," and he went.
+
+And this time he was hunting wood rats instead of greens, and he had
+killed three and was trying to scare out the fourth one, where he could
+shoot it, when the Apaches came and surrounded him a good ways off.
+
+He saw them and ran for home, but there were many Apaches in front
+of him, and they headed him off.
+
+But he jumped up and down and sideways, as Sohahnee Mahkai had done,
+shooting and killing so many that finally he broke thru their ring,
+and started for home. But he kept turning back and shooting at them
+as he ran. And one of them came near and was about to kill him, but
+he shot first and killed the Apache. And then another came near and
+this time the Apache shot first, and so Kawkoinpuh was killed.
+
+And when evening came, Gawksiss Seevalick came out, and called aloud,
+and invited the people to his house, and asked them if any had seen
+his son, Kawkoinpuh; who had seen him last; for he knew something had
+happened to him, as he always came home after his hunt, because he
+loved his home. But nobody had seen anything of Kawkoinpuh, because
+no one had been out, the weather being bad.
+
+But Gawksiss Seevalick knew the boy was killed, because he was a
+doctor, and there is a being above, called Vee-ips-chool, who is
+always sad and who makes people sad when anything bad has happened.
+
+So they went out the next morning, and tracked the boy, and came to
+where he had killed the wood-rats, and then they found the tracks of
+the Apaches, and then found a great many Apaches whom he had killed,
+and finally they found his body.
+
+The Apaches had cut him open, and taken out his bowels and wound
+them around bushes, and cut off his arms and legs and hung them on
+trees. And one of the men, there, told them to get wood and to gather
+up these parts of Kawkoinpuh's body and burn them. And some of the
+people remained behind and did this, and then all went home.
+
+And in the evening Gawksiss Seevalick again called the people together
+and sang them a song to express his grief.
+
+And the next morning he went with his daughter to where Kawkoinpuh had
+been burned, and there they found some blood still remaining and buried
+it. And that evening again he called the people together, and said:
+"You see what has happened; we have lost one of our number. We ought
+not to stay here, but to return to the place we first selected." And
+the people took his advice and got their things ready and started.
+
+And they went slow because they were on foot, and it took them four
+nights to get to the place where they wanted to go. And the first
+night there was no singing, but the second night there was a doctor
+named Geo-goot-a-nom-kum who sang a song for them; and the third night
+there was a doctor named Geo-deck-why-nom-kum who sang a song for them;
+and on the fourth night there was a doctor named Mahn-a-vanch-kih
+who sang for them a song.
+
+
+NOTES ON THE STORY OF SOHAHNEE MAHKAI
+
+In this we are given a most graphic and pathetic glimpse of Indian
+warfare.
+
+Notice the bushes are "cut down" (broken off more likely) by a stick. A
+glimpse of the rude old tools.
+
+Very poetic is the conception of Veeipschool, "the being above who is
+always sad, and makes people sad when anything bad has happened." A
+personification of premonition.
+
+
+THE STORY OF PAHTAHNKUM
+
+
+And when they came to their journey's end the wife of Kaw-koin-puh
+had a baby, which grew up to be a fine boy, but the mother cried all
+the time, where-ever she went, on account of her husband's death.
+
+And the people, after they had settled down, used to go rabbit-hunting,
+and the children too, and this boy, Paht-ahn-kum, used to watch them
+wistfully, and his mother said: "I know what you are thinking of,
+but there is nothing for you to kill rabbits with. But I will send
+you to your uncle, my brother, whom I am expecting will make a bow
+and arrows for you."
+
+And the next morning, early, the boy went to his uncle, who said: "Why
+do you come so early? It is an unusual thing for you to come to see
+me so early instead of playing with boys and girls of your own age."
+
+And the boy replied: "My mother said she was expecting you to make
+me a bow and arrows."
+
+And his uncle said: "That is an easy thing to do. Let us go out and
+get one." And they went out and found an o-a-pot, or cat-claw tree,
+and cut a piece of its wood to make a bow, and they made a fire and
+roasted the stick over this, turning it, and they made a string from
+its bark to try it with; and then they found arrow-weeds, and made
+arrows, four of them, roasting these, too, and strengthening them;
+and then they went home and made a good string for the bow from sinew.
+
+And then the boy went home and showed his mother his bow and arrows.
+
+And the next morning the children went hunting and little Pahtahnkum
+went with them to the place of meeting.
+
+And they found a quotaveech's nest near them, with young ones in it,
+and one of the men shot into it and killed one of the young ones, and
+then the children ran up to join in the killing. And when Pahtahnkum
+came up, one of the men threw him one of the young birds, and said:
+"Here, take it, even if your mother does not wish to marry me."
+
+And the little boy ran home and gave his game to his mother, and when
+she saw it she turned her back on it and cried. And he wondered why
+she cried when he had brought her game and was wishing she would cook
+it for his dinner.
+
+And his mother said: "I never thought my relatives would treat you
+this way. There is an animal, the caw-sawn, the wood rat, and a
+bird, the kah-kai-cheu, the quail, and these are good to eat, and
+these are what they ought to give you, and when they give you those,
+bring them home and I will cook them for you." She said, further;
+"This bird is not fit to eat; and I was thinking, while I was crying,
+that if your father were living now you would have plenty of game,
+and he would make you a fine bow, and teach you to be as good a
+hunter as there is. And I will tell you now how your father died. We
+did not use to live here. But beyond this mountain there is a river,
+and beyond that another river still, and that is where we lived and
+where your father was killed by the people called Apaches, and that
+is why we are here, and why we are so poor now.
+
+I am only telling you this so you may know how you came to be
+fatherless, for I know very well you can never pay it back, for the
+Apaches are very fierce, and very brave, and those who go to their
+country have to be very careful; for even at night the Apaches may
+be near them, and even the sunshine in their country feels different
+from what it does here."
+
+And the little boy, that night, went to his uncle, who asked: "Why
+do you come to me in the night?"
+
+And the little boy said: "I come to you because today I was hunting
+with the bow and arrows you made me, and someone gave me a little
+bird, and I was bashful, and brought it right home for my mother to
+cook for me, and she cried, and then told me about my father and how
+he died. And I do not see why you kept this a secret from me. And I
+wish you would tell me what these Apaches look like, that they are
+so fierce and brave."
+
+And his uncle said: "That is so. I have not told you of these things
+because you are just a baby yet, and I did not intend to tell you
+until you were a man, but now I know you have sense enuf to wish to
+learn. There is nothing so very different or dangerous about these
+Apaches; only their bows, and their arrows of cane are dangerous."
+
+And the little boy went on to another doctor, who said: "Why do you
+come to me? Are you lost? If so, we will take you home." But the little
+boy said to him: "No, I am not lost, but I want you to tell me one
+thing--why the Apaches are so dangerous--are they like the har-sen,
+the giant cactus, with so many thorns?" And the doctor answered:
+"No, they are men like we are, and have thoughts as we have, and eat
+as we do, and there is only one thing that makes them dangerous and
+that is their bows and their arrows of cane."
+
+So the little boy went to the next doctor, and this doctor also asked
+him if he were lost, and he said: "No, but I want you to tell me
+just one thing--why the Apaches are so dangerous. Are they like the
+mirl-hawk, the cane-cactus, with so many branches all covered with
+thorns?" And the doctor replied: "No, they are human beings just
+as we are, and think just as we do, and eat as we do, and the only
+things that make them dangerous are their bows and their arrows of
+cane." And the little boy said: "I am satisfied."
+
+But he went yet to another doctor and asked him also why the Apaches
+were so dangerous, were they like the hah-nem, the cholla cactus? But
+the doctor said no, and gave the same answer as the others had done,
+and the little boy said: "I am satisfied, then," and went back to his
+uncle again and began to question him about what people did when they
+got ready for war, and what they did to purify themselves afterward,
+and his uncle said: "It is now late at night, and I want you to go
+home, and tomorrow come to me, and I will tell you about these things."
+
+So the little boy went home, but very early in the morning, before
+sunrise, he was again at his uncle's house, and came in to him before
+he was yet up. And his uncle said: "I will now tell you, but we must
+go outside and not talk in here before other people."
+
+And he took the little boy outside, and they stood there facing the
+east, waiting for the sun to rise, with the little boy on the right
+of his uncle. And when the sun began to rise the doctor stretched
+out his left hand and caught a sunbeam, and closed his hand on it,
+but when he opened his hand there was nothing there; and then he used
+his right hand and caught a sunbeam but when he opened his hand there
+was nothing there; and he tried again with his left hand, and there
+was nothing, but when he tried the second time with his right hand,
+when he opened it, there was a lock of Apache's hair in his hand.
+
+And he took this and put it in the little boy's breast, and rubbed
+it in there till it all disappeared, having entered into the little
+boy's body.
+
+And then he told the little boy to get him a small piece of oapot or
+cat-claw tree, but no, he said, I will go myself; and he went and got a
+little piece of the oapot, and tied a strip of cloth around the boy's
+head, and stuck the little piece of wood in it, and then told him to
+go home to his mother and tell her to give him a new dish to eat from.
+
+And this stick which the doctor had put into the boy's hair represented
+the kuess-kote or scratching stick which the Pimas and Papagoes used
+after killing Apaches, during the purification time; and the doctor
+had made it from cat-claw wood because the cat-claw catches everybody
+that comes near, and he wanted the boy to have great power to capture
+his enemies.
+
+And his uncle told the boy to stay at home in the day time, lying
+still and not going anywhere, but at night to come to him again. "And
+before you come again," he said, "I will make you something and have
+it ready for you."
+
+And the little boy kept still all that day, but at night he went to
+his uncle again, and his uncle had four pipes ready for him, made from
+pieces of cane, and he said, "Now tonight when the people gather here
+(for it was the custom for many people to come to the doctor's house
+in the evening) they will talk and have a good time, but after they
+are thru I will roll a coal from the fire toward you, and then you
+light one of the pipes and smoke four whiffs, and after that slide the
+watch-kee, the pipe, along the ground toward me, as is the custom,
+and I will smoke it four times and pass it to my next neighbor, and
+he will do the same, and so the pipe will go all around and come
+back to you. And even when it is out, when it comes back to you,
+you are to take it and stick the end that was lighted in the ground.
+
+So that evening the people all assembled as usual, and told all the
+news of the day, and about the hunting as was their custom. And when
+they were thru, and had quieted down, the uncle moved to the fire and
+rolled a coal toward Pahtahnkum, who took it and lit one of the pipes,
+and smoked it four times, and then slid it slowly (the pipe must be
+slid slowly because if it were slid rapidly the enemy would be too
+quick and escape, but if it is done slowly the enemy will be slow
+and can be captured) along the ground to his uncle. And his uncle
+took the watchkee, the pipe-tube, and smoked it also four whiffs,
+and passed it on, but saying: "Of course you are all aware that if
+any man among you has a wife expecting to have a baby soon, he should
+not smoke it, but pass it on without smoking to his neighbor, for if
+you smoke in such case the child will not be likely to live very long."
+
+And so the pipe passed around, and the boy, when the pipe came to
+him again, buried it as he had been told, and then he began to make
+this speech:--
+
+"I am nothing but a child, and I go around where the people are cooking
+and when they give me something to eat I generally suffer because it
+is so hot. And there was a hunt, and you gave me nothing but a little
+quotaveech, and stuck it under my belt as if it were something good
+to eat: and when I took it home to my mother, and dropped it down
+by her, she turned her back upon it and began to cry. And when she
+had done crying she told me of all that had happened before, about my
+father's death, and the story entered my heart; and I went for help to
+a respectable person, a doctor, one to whom a child would not be likely
+to go, and he kindly assisted me, and told me what I asked of him.
+
+And I wanted to be revenged on the slayers of my father, and in
+imagination a day was appointed for the war, and I went; and the
+first night I feared nothing and felt good, and the second night,
+too, I feared nothing and felt good, but the third night I knew I
+was in the land of the Apaches, an enemy with shield and club, and
+I did not feel good, and it seemed to me the world was shaking, and
+I thought of what my mother had said, that the land of the Apaches
+was different from ours.
+
+And the fourth day I went on and came to the mountain of the Apaches,
+and I found there the broken arrows of my father's fight; and I sat
+down, for it seemed to me the mountains and the earth were shaking,
+and shook my knees, and I thought of what my mother had said that
+the land of the Apaches felt entirely different.
+
+And the next day I went on and came to the water of the Apaches. And my
+hair lay over the water like moss. And I looked and found my skull, and
+I used it for a dipper, and parted the hair with it, and dipped up the
+water and drank it. And when I drank from the skull I felt as if I were
+crazy, and clutched around with my hands at things that were not there.
+
+And from there I went on to another water, and that was covered with
+the white war-paint of my hair, which lay like ashes on the water,
+and I looked around and found my skull, and drank from that water,
+and it smelled strong to me like the smell of human flesh and of
+black war-paint.
+
+And all this was caused in my imagination by the thought of my dead
+father, and of how the Apaches had gone along rejoicing because they
+had killed him.
+
+And the next place was a great rock, and I sat down under it, and it
+was wet with my tears; and the winds of the power of my sadness blew
+around the rock four times, and shook me.
+
+In the far east there is a gray cousin, the Coyote, and he knows where
+to find the Apaches, and he was the first I selected to help me and
+be my comrade, and he took my word, and joined me; and stood up and
+looked, and saw the Apaches for me and told me; and I had my band
+ready, and my boys captured the Apaches, who had no weapons ready to
+injure them.
+
+And after killing them I took their property, and I seemed to get
+all their strength, all their power. And I came home, bringing all
+the things I had captured, and enriched my home, strengthening myself
+four times, and the fame of my deed was all over the country.
+
+And I went to the home of the doctor, taking the child I had captured,
+and when we were there the blue tears fell from the eyes of the child
+onto my boys and girls.
+
+And all of you, my relatives, should think of this, and be in favor
+of the war, remembering the things we have captured, and the enemies
+we have killed, and should make your singing all joy because of our
+past successes."
+
+And after the speech was done, feeling it the speech of a child,
+the people were silent, but at length Toehahvs said: "I like the
+way of the child, because I am sure he is to be a powerful person,
+perhaps stronger than any of us, and I respect him, and that is
+why I am kind to him, and I want that we should all take a smoke,
+and after that you will get over your feeling of his insignificance."
+
+And then they all smoked again, and began to talk about the war,
+and of the things they lacked, but the boy wanted them to get ready
+in four days, telling them that was plenty of time. And so they all
+began to get ready for the war, making and getting ready shields,
+clubs, bows, arrows, shoes, and whatever was needed.
+
+And so the people departed for the war, and the very day they left,
+the mother of Pahtahnkum went and got clay to make the new dishes for
+the men who should kill Apaches, for she foreknew that many would be
+killed, and so she sang at her work. And a few of the people were
+left at home, and one of these was an old man, and he passed near
+where the mother (whose name was Koel-hah-ah) was making her pottery,
+and heard her singing her song, and he said to the people: "It is
+very strange that this woman who used to cry all the time is singing
+now her boy has gone to the war. Perhaps she is like some wives, who
+when their time of mourning is over are looking out for another man."
+
+And the war-party went by near where Tawtsitka (Sacaton) now is, around
+the mountain Chirt-kih, and west of the Sah-kote-kih, (Superstition)
+mountains, and there they found tracks of the Apaches, and paused,
+and the boy, Pahtahnkum, told them to wait there while he went forward
+and found where the Apaches were.
+
+And Toehahvs said: "I will go with you, so we can help each other
+and be company, and you will feel that you have some strength, and
+I will feel the same."
+
+So Pahtahnkum and Toehahvs went out on their scout, and went up an
+arroyo, or washout valley, In the mountains, and in making a turn
+came suddenly upon some Apache children playing in the sand, and the
+children saw them and ran up the valley to where the Apache houses
+were. And the two scouts stood and looked at each other and said:
+"What shall we do now! for if we go back the people will blame us
+for letting the Apaches see us first."
+
+And Pahtahnkum said: "You go back and step in my tracks, and I will
+turn into a crow and fly up on this rock." And this was done, and
+when the Apaches came they could see only the coyote tracks, and they
+said: "There are no human tracks here. It must have been a coyote the
+children saw," and they went back home. And then Pahtahnkum flew to
+where Toehahvs was, and came down and took his human shape again.
+
+And the band had been anxious about them, because they were gone
+so long, and had followed their tracks, and now came near, and when
+Pahtahnkum saw them, instead of going back to them, he and Toehahvs
+turned and ran toward the Apaches, and all the band rushed after them,
+and they took the Apache village by surprise, and conquered and killed
+all the men, and then killed all the women, and scalped them all.
+
+And because Pahtahnkum had been so brave, and had killed many, the
+people brought all the scalps to him, and all the baskets, and bows
+and arrows, and other things they had taken, and laid them around
+him; and then they all stood around him in circles, the oldest in the
+middle next to the boy, and the others, in the order of their age,
+in circles outside. [7] And then Pahtahnkum began to yell, he was
+so rejoiced, and he threw the scalps of the Apaches up into the air,
+and then, after them, the other things, the bows and arrows, and all
+things captured, because he wanted to make a cloud; for when an Apache
+is killed it will rain.
+
+And while this was happening, his mother was rejoicing at home,
+knowing all that was happening to her boy.
+
+So the people took everything the Apaches had, and a good many children
+as captives, and they returned by the same road, and before they got
+home they sent a messenger ahead.
+
+And when they got home they presented all the property taken, and
+all the weapons and all the captives to the mother of Pahtahnkum.
+
+Now when the neighbors of those Apaches heard of this they formed a
+big war-party, and followed Pahtahnkum's trail, but when they came
+to the place called Taht-a-mumee-lay-kote they stopped, because they
+did not know where to find water, and so they turned back, tho from
+there they could see the mountains where Pahtahnkum lived.
+
+And after Pahtahnkum had gone thru the prescribed purifications, and
+the war-dances and rejoicing proper to the occasion, he again formed
+a war-party, and again took the trail after the Apaches, only this
+time he went to the other end of the Superstition Mts. And there
+they saw the lights at night on a peak, where the Apaches lived,
+and went up there and killed them, except the children, whom they
+took for captives.
+
+And then they went down into an open place in the desert, and there
+placing Pahtahnkum and Toehahvs in the center, they again formed the
+circles, with the older ones nearest the middle, and again brought
+all their trophies to Pahtahnkum and Toehahvs, who threw them up with
+rejoicing, as before.
+
+And again the Apaches formed a war-party, and pursued them; and again
+they, when they came to the low mountains south west of where Tawtsitka
+now is, were frightened, as they looked over the desert, and said:
+"This country is unknown to us, and we do not want to die of thirst,"
+and again they abandoned the pursuit, and returned home. And because
+the place where they made fires was found, these mountains are called
+Aw-up Chert-taw to this day.
+
+And again everything was given to Koelhahah, as before.
+
+And once more, after the purification, Pahtahnkum formed a war-party;
+and this time they went to the east, and there again found Apaches
+at the place called Oy-yee-duck, or The Field, because there the
+Apaches had cultivated fields, and here they fought the Apaches,
+and defeated them; but they had hard work to kill one Apache, who was
+very brave, and who kept his wife before him and his child behind him,
+and as the Papagoes did not want to kill these they could not get at
+the man. But finally Pahtahnkum killed a man near him, and some one
+else killed the woman, and then Pahtahnkum killed this man and took
+the little boy captive.
+
+And again they went out to an open place, and formed the circles,
+and rejoiced as before.
+
+And a party of Apaches pursued them again and again were discouraged,
+and turned back at the red bluff to the eastward, where they dug
+a well, which place is still called Taw-toe-sum Vah-vee-uh, or the
+Apache's Well.
+
+And again, in due time, a war-party was formed, and this time it
+went far east, and there was found a single hunter of the Apaches,
+and this man they killed and cut up and mutilated as had been done
+with Pahtahnkum's father, putting his flesh out as if to jerk it. And
+they went south-east from there and again found a single hunter; and
+him they scalped and placed his scalp like a hat on a giant-cactus,
+for which reason the place is still called Waw-num, which means a hat.
+
+And Pahtahnkum walked behind, for he was very sad, thinking of
+his father.
+
+And then Pahtahnkum returned home, having revenged his father, and
+this was the last of his wars.
+
+And once more the Apaches followed him, but stopped at a place near
+the Superstition Mts. where, as there had been rain and the ground
+was wet, they stopped to clean a field, See-qua-usk, or the Clearing,
+but they gave it up and returned, not even planting the crop.
+
+And his mother made a large olla, and a small flat piece of pottery,
+like the plates tortillas are baked on. And she put all the Apache
+hair in the olla, and placed the flat plate on top to cover it with
+greasewood gum to seal it up tight. And then she went and found a cave,
+and by her power called a wind and a cloud that circled it round.
+
+And then she returned to her people, and, placing the olla on her
+head, led them to the cave, and said. "I will leave this olla here,
+and then when I have need of wind, or of rain, I can form them by
+throwing these up, and so I shall be independent."
+
+And after this Pahtahnkum was taken ill, and the people said it was
+because he had not properly purified himself.
+
+And he went to the tall mountain east of Tucson, and from there to
+other mountains, seeking the cool air, but he got no better, and at
+last he came to the Maricopa Mts., and died there, and his grave is
+there yet.
+
+And his mother died at her home.
+
+
+    THE SONG OF KOELHAHAH ABOUT HER SON
+
+    My poor child, there will be great things happen you!
+    And there will be great news all over the world because of my boy.
+    The news will go in all directions.
+
+
+NOTES ON THE STORY OF PAHTAHNKUM
+
+In this, in the smoking at the war-council, appears a curious
+superstition concerning the effect of a man's smoking upon his
+unborn child.
+
+Another superstition appears in the idea that the killing of an Apache
+and throwing up of his accoutrements or scalp would cause rain.
+
+I have a boy's bow and arrows just like those described in this story,
+bought of a Pima child.
+
+War arrows were a yard long, with three feathers instead of two,
+and tipped with flint or, later, with iron. But even a wooden arrow
+would kill a deer.
+
+Bows were made from Osage orange, cat-claw, or o-a-pot; or, better
+still, from a tree called gaw-hee. Arrows from arrow-weeds. The Apache
+arrows were made of cane.
+
+The Pimas were formerly famous for archery, and the shooting of bird
+on the wing, and of jack rabbits at full run while the archer was
+pursuing on horseback, were favorite feats.
+
+The Apache well: I am told the old Arizona Indian wells were not
+walled up, and the sides were at such a slant that the women could
+walk down to the water and back with their ollas on their heads.
+
+Wells are now obtained without great difficulty, but the water is
+salty and often alkaline and none too cool.
+
+
+STORIES OF THE FOURTH NIGHT
+
+
+THE STORY OF THE GAMBLER'S WAR
+
+
+And after this, for a long time, there was peace toward the Apaches,
+but it happened, once, that two brothers of the country went to
+gamble with the Awup, playing the game called waw-pah-tee in which
+the gamblers guess in which piece of cane a little ball is hidden.
+
+And one of the brothers, after losing all his goods, bet his brother
+and lost him, and then bet the different parts of his own body,
+leaving his heart to the last, and finally wagered his heart against
+all his previous bets, saying it was worth more than they, and hoping
+so to recover all, but he lost that also.
+
+And when the game was ended the Apaches killed his brother, but
+allowed him to walk away, and he returned to his own land.
+
+But all the way he would see his brother's tracks, and whenever he
+stopped to camp he would see his brother's body, where it lay, and
+how he looked, lying there dead; and when he got home he felt so sad
+he cried aloud, but no one paid any attention to him.
+
+And when he got home his folks gave him food to eat, and water to
+drink, but he would neither eat nor drink, feeling so sad about his
+brother, and he took nothing for four days.
+
+But on the fifth day he went out and sought the cool shade of trees
+to forget his brother, and went upon the hills and stood there, but
+he could not forget; and then, in coming down, he fell down and went
+to sleep.
+
+And in his sleep his brother came to him, and he seemed to know him,
+but when he tried to put his arms around his brother he woke up and
+found he was not there.
+
+And he went home and ate, and then made this speech:--
+
+"My pitiful relatives, I will pity you and you will pity me.
+
+This spread-out-thing, the world, is covered with feathers, because
+of my sadness, and the mountains are covered with soft feathers.
+
+Over these the sun comes, but gives me no light, I am so sad.
+
+And the night comes, and has no darkness to rest me, because my eyes
+are open all night.
+
+(This has happened to me, O all my relatives.)
+
+And it was my own bones that I raked up, and with them made a fire
+that showed me the opposite land, the Land of the Enemy.
+
+(This was done, my relatives.)
+
+The sticks I cut for the number of days were my own sinews, cut and
+bound together.
+
+It was my own rib that I used as an eev-a-dah-kote, or fire rubbing
+stick.
+
+It was my own bowels that I used for a belt.
+
+And it was my scalp, and my own hair, that I used for sandals.
+
+It was my own skull that I filled with my own blood, and drank from,
+and talked like a drunkard.
+
+And I wandered where the ashes are dumped, and I wandered over the
+hills, and I found it could be done, and went to the shadows of the
+trees and found the same thing.
+
+On the level ground I fell, and the Sun, the Traveller, was overhead,
+and from above my brother came down, and I tried to hug him, but only
+hugged myself.
+
+And I thought I was holding all sadness, but there was a yet stronger
+sadness, for my brother came down and stood on my breast, and the
+tears fell down and watered the ground.
+
+And I tried to hug him, but only hugged myself.
+
+And this was my desire, that I should go to the powerful woman,
+and I reached her quietly where she lived.
+
+And I spoke to her this way:
+
+'You were living over there.
+
+You are the person who makes a hoop for her gyihhaw from the Apaches'
+bow, and with their arrows makes the back-stop, the oam-muck, and
+with their blood you color the gyihhaw prettily; and you split the
+arrow-heads and make from them the ov-a-nuck, and tie it in with the
+Apaches' hair, weaving the hair to the left and then binding it on.'
+
+And this way I spoke to her.
+
+And then she gave me good news of the weakness of the Apaches and I
+ran out full of joy.
+
+And from there I rose up and reached the Feather-Nested Doctor,
+Quotaveech, and I spoke to him this way:
+
+'And you belong here.
+
+And you make the ribs of your kee from the Apache bows, and you tie
+the arrows across with the bow strings, and with the sinews of their
+bows you tie them.
+
+And with the robes of the Apaches, and with their head-wear, and with
+their moccasins, you cover the kee instead of with arrow weeds.
+
+And inside, at the four corners, there are hung locks of Apaches' hair,
+and at the corners are the stumps of the cane-tube pipes, smoking
+themselves, and forming the smoke into all colors of flowers--white
+and glittering and gray and yellow.'
+
+And this way I spoke to him, and he gave me the good news of the
+weakness of the Apaches.
+
+And I came down and went Southward to the other doctor, called
+Vahk-lohn Mahkai and there I reached him.
+
+And this way I spoke to him:
+
+'And here is where you belong.
+
+The Apache bow you make into the likeness of the pretty rainbow,
+and the arrows you make into the likeness of the white-headed grass.
+
+And the fore shaft of the arrows you turn into water moss, and the
+arrows into resemblance of flat clay.
+
+And the hair of the Apaches you make into likeness of clouds.'
+
+And this way I spoke to him, and he told me the news of the weakness
+of the Apaches.
+
+And I ran out of the house, and went westward, and found the old
+woman doctor, Tawquahdahmawks.
+
+And I said to her:
+
+'You belong here.
+
+And you make the bow of the Apaches into the hoop of the game the
+Aw-aw-bopp, the Maricopas, play, the rolling hoop that they throw
+sticks after.
+
+And their arrows you flatten up with your teeth, and wear around your
+brows like a crown.
+
+And the fore shafts of the arrows you have split, and painted red
+with the Apache blood, and made into gainskoot, the dice sticks.
+
+And the Apache hair you make into a skirt.'
+
+And this way I spoke to her, and she told me the thought of the two
+different peoples, the Awawtam and the Awup, that they were enemies,
+and she told me this, and I went out from there and strengthened
+myself four times.
+
+And I spread the news when I got home, and set the doctor over it.
+
+And there was the stump of the doctor's pipe standing there, and
+smoking itself, and I imbibed it, and smoked it toward the enemy,
+and the smoke changed into different colors of flowers, white,
+glittering, grey and yellow, and reached the edge of the earth,
+the land of the Apache, and circled around there.
+
+And it softened the earth, and brought fresh grass, and fresh leaves
+on the trees, so that the Apaches would be gathered together.
+
+And my western famous enemy went and told his son to go to his uncle,
+to see if it was so that there was plenty of grass and plenty of
+things to eat there.
+
+And his son went and said: 'My father sent me to find out about these
+things,' and his uncle said: 'It is so what he has heard, that we have
+plenty of things to eat, and all kinds of game, and that is what I eat.
+
+You go back and tell the old man to come, so that I will be with
+him here.'
+
+So the boy went and told the old man this, and he got up and put on
+his nose-ring of turquoise, and took his cake of paint, and his locks
+of hair, and his pouch.
+
+After he got everything together he started out and camped for one
+night, and arriving at his destination the next morning, after the sun
+rose, came to his brother and called him, 'Brother!' with a loud voice.
+
+And the next morning the brother got up and went hunting, and found
+a dead deer, and brought it home, and called it fresh meat, and they
+ate it together.
+
+But instead of eating deer they ate themselves up.
+
+And their skins became like sick person's skin, and their hair became
+coarse, and their eyes were sore, and they became lousy, and were
+so weak that they left their hands beneath their heads when they
+scratched themselves lying down.
+
+And the brother's wife went and gathered seed to eat, and found it
+easy to gather, without husks, and thought to enjoy eating it, but
+when she ate it she ate her own lice, and her skin became as a sick
+person's skin, her hair became coarse, her person lousy, her eyes sore.
+
+And my enemy in the far east heard about food being so plenty to eat
+there, and sent his son to ask his uncle if these reports were so.
+
+And his father got up and took his war-bonnet of eagle-feathers,
+and his moccasins, and, using his power, brought even his wind and
+his clouds and his rainbow with him, and all his crops, for tho he
+had plenty at home he thought to find more at his brother's place.
+
+And, camping one night on the road, he came to his brother, after
+sunrise, and called him 'Brother' with a loud voice.
+
+And everything happened to this enemy from the east, and his brother,
+and brother's wife, that had happened to the enemy from the west and
+his brother and brother's wife.
+
+And I found the Apache enemy early in the morning, lying asleep,
+still needing his blanket, and covering himself up, and captured him
+without trouble.
+
+And there I captured all his property, and took from him captives
+and many scalps, and my way coming back seemed to be down hill,
+and I strengthened myself and came to the level ground.
+
+And when I came to the hollow where I drank, the water rippled from
+my moving it.
+
+And I appointed messengers to go ahead and tell those at home, the
+old men and women waiting to hear of us, the good news of our victory.
+
+And after sending on the messengers I went on, rejoicing, carrying
+the consciousness of my victory over the Apaches with me; and arriving
+home at evening I found the land filled with the news, even the tops
+of the hills covered.
+
+And I told my people to send word to our western relatives, and to
+our southern relatives, and our eastern relatives, that the good news
+might be known to all."
+
+After this he called the people together for war, and the first
+evening they camped a man prophesied, and said:
+
+"Now we have heard our war-speech, and are on our way, and I foresee
+the way beautiful with flowers, even the big trees covered with
+flowers, and I can see that we come to the enemy and conquer them
+easily.
+
+And the road to the east is lined with white flowers, and the Apaches,
+seeing it, rejoice also, with smiles, thinking it for their good,
+but really it is for their destruction, for it is made so by the
+power of our doctors.
+
+And in the middle of the earth, between us and the enemy, stood the
+Cane-Tube Pipe and smoked itself.
+
+I inhaled the smoke and blew it out toward the East, and saw the
+smoke rising till it reached the Vahahkkee of Light, and up still
+till it reached the Cane of Light.
+
+And I took that cane and punched it at the corner of the Vahahkkee,
+and out came the White Water and the White Wasps, and the wasps flew
+around it four times and then they went down again.
+
+And then in the South I saw the Blue Vahahkkee, and the Blue Cane,
+and I took the cane and punched it into the corner of the vahahkkee,
+and there came out Blue Water and Blue Wasps, and the wasps flew
+around four times, and then sank down again.
+
+And in the West there stood the Black Vahahkkee, and the Black Cane,
+and I took the cane and punched at the corner, and there came out
+Black Water and Black Wasps, and the wasps flew around four times,
+and then went in again.
+
+And in the North stood the Yellow Vahahkkee, and the Yellow Cane,
+and I took the cane and punched it at the corner, and there came out
+Yellow Water and Yellow Wasps, and the wasps flew around four times,
+and then went in again.
+
+And on top of this vahahkkee was a Yellow Spider, and I asked him to
+help me, and he stretched his web four times, and there found my enemy.
+
+And there he bound his heart with his web, and bound his arms, and
+bound his bow and his arrows, and left him there in the state of a
+woman, with nothing to defend himself with.
+
+And he pushed me toward where he had left him, and I captured him
+very easily, and all his property, and all his children.
+
+You, my relatives, may not like the noise of our rejoicing, but it
+is only for a short time that we rejoice over the enemy."
+
+And they camped out another night, and another one spoke, and he said:
+
+"I was lying in ashes, and praying the distant mountains for strength,
+and the far doctors for power.
+
+And there was a Sun that rose from the east and followed the western
+road.
+
+And all the four-footed animals met together and called themselves
+relatives, and all the birds met together and called themselves
+relatives, and in this order followed the Sun.
+
+And the Sun rose again, and brought me the See-hee-vit-tah Feather,
+the Sunbeam, to wear on my head, and hugged me up to him.
+
+And the Sun rose again, and brought the Blue Fog, and in the fog took
+me toward the enemy.
+
+But instead of taking me to the enemy it took me up into the sky,
+to the Yellow Crow.
+
+And the Yellow Crow, as a powerful mahkai, went down to the enemy
+and divided their land four times, and slew the human beings, and
+painted the rocks over beautifully with their blood.
+
+And from there I went to the Yellow Spider, living on the back of
+the mound at the North, and asked him to help me.
+
+And he stretched his web four times, and found my enemy, and bound
+him, and pushed me toward him, and I took him, and all his, captive,
+and came home rejoicing.
+
+So, my relatives, think of this, that there will be victory. You may
+not like the noise of our rejoicing, but it is only for a short time
+that we rejoice over the enemy."
+
+And they went toward the mountains where the Apaches live, and camped
+there, and there were empty Apache houses there, and one of them
+spoke using himself figuratively as a type of his people:
+
+"Perhaps these Apaches have gone from here to my house, and have
+killed me and have dragged me thru the waters we passed coming here,
+and have beaten me with all the sticks we saw on the road, and have
+thrown ashes over me, and maybe these are my bones that lie here,
+and this dry blood is my blood.
+
+This has been done, my relatives, and there in the East is a Vahahkkee
+of Light, and within it there is a Butcher-bird of Light.
+
+And I asked the Butcher-bird for power, and he followed his Road of
+Light, and touched the ground four times with his tail, and came to me.
+
+And he went on the road that is lighted by a mahkai, and following
+that reached my enemy.
+
+And my enemy thought himself a good dreamer, and that his dreams were
+fulfilled for good, and that he had a good bow with a good string,
+and good cane arrows, but the Butcher-bird had already punched his
+eyes out without his knowing it.
+
+And all the animals and birds of the Apaches think they have good
+eyes to see with, but the Butcher-bird has punched their eyes out
+without their knowing it.
+
+And the winds of the Apaches think they have sharp eyes, and the clouds
+of the Apaches think themselves sharp-eyed, but the Butcher-bird has
+punched their eyes out without their knowing it.
+
+So he treated the enemy like that, and left him there as a woman,
+and then pushed me toward him, and I went and captured him easily.
+
+And I gathered all the property, and all the captives, and, turning
+back, looked ahead of me and found the country all springy with water,
+and wasps flying, and I followed them.
+
+And ahead of me was a road with many flowers, and a butterfly that
+beautifully spread itself open and led the way, and I followed.
+
+And I brought the dead enemy home, and from there the news spread
+all over my country.
+
+So, my relatives, think of this, that there will be victory.
+
+And you may not like the sound of our rejoicing, but it is only for
+a short time that we rejoice over our enemy."
+
+
+NOTES ON THE STORY OF THE GAMBLER'S WAR
+
+In this we are given wonderful glimpses into the strange, fierce,
+sad, extravagant poetry of the Indian speeches, which seem oftenest
+inspired by the passion of revenge. Notice that in these stories,
+if several speeches are given in any one story, they generally have
+a quite similar ending, a sort of refrain: "So, my relatives," etc.
+
+This story ends abruptly, and is, I think, manifestly only a
+fragment. Following the speeches, which were mere boastful prophecies,
+should have been an account in detail of the actual campaign, as in
+the story of Pahtahnkum's war.
+
+
+THE STORY OF NAHVAHCHOO
+
+
+Ee-ee-toy was once wandering along when he found some moss that had
+been left there ever since the flood, and he stood and looked at it,
+wondering how he could make it into a human being.
+
+And while he watched it the sun breathed on it, and it became not a
+man, but a turtle.
+
+And he wandered on again and found some driftwood, and while he stood
+wondering how to make it into a human being, the sun breathed on it,
+and it became a man, but he could not see its face, which was covered
+as with a mask.
+
+And the turtle and the masked man, thus created, went westward,
+and came to a Blue Vahahkkee, and they went in and staid all night.
+
+In the morning, when the sun rose, they were frightened at the blue
+beams that shone thru the vahahkkee, and they left.
+
+And after going a little way they came to a Black Road, and Black
+Birds flew over them to keep them from being seen.
+
+And they came to a Black Night. In that night was a Black Bow, which
+stretched as if it were going to shoot them, so that they were afraid
+to lie down all night.
+
+And the next day they came to a Blue Road, and a flock of Blue Birds
+flew over them, and all around, striking them.
+
+After a while they came to a Blue Night, and in the night was a Blue
+Bow, which stretched itself threateningly at them, as the Black Bow
+had done the night before.
+
+And they could not sleep for fear that night, either; and the next day
+they came to a White Road, and a flock of White Birds followed them,
+striking them.
+
+And they came to a White Night, and in that night was a White Bow,
+which threatened them as the others had done, so that again they
+could not sleep.
+
+And the next day they had a similar experience, only it was a Yellow
+Road, with Yellow Birds, and a Yellow Night with a Yellow Bow.
+
+The next day there was no danger any more, and they went on and came
+to a mountain, Co-so-vah-taw-up-kih, or Twisted Neck Mountain, and
+there the Nahvahchoo (masked man), having run ahead, left the turtle
+behind, and when evening came sat down and waited for the turtle
+to come up. But the turtle was too far behind, and when night came
+stopped where he was, and made a fire, and made corn and pumpkins,
+and roasted the corn and set the pumpkins around the fire, as the
+Indians do, to scorch them before putting them in the ashes.
+
+And Nahvahchoo heard the popping sound of the cooking, and came running
+back, and tried to steal a piece of the fire to have one of his own,
+but the turtle would not let him. And so the Nahvahchoo went off and
+made a fire of his own, and corn and pumpkins of his own, and cooked
+them as the turtle had done.
+
+In the morning, after they had feasted on the pumpkin and corn, the
+turtle, Wee-hee-kee-nee, sank down and went under the earth to the
+ocean, and made that his home, and Nahvahchoo sank down and went in
+the same direction, but not so far, coming up on the sea shore.
+
+And Nahvahchoo went along the sea-shore, toward the east, till he came
+to a great deal of driftwood, and many flowers, and handled all these,
+and got their strength, and made his home in the east.
+
+One day Nahvahchoo heard the earth shaking, and ran out of his house
+to try and find where the shaking came from, and he went south and
+did not feel it, and went west and felt it a little, and went north
+and felt it more. And so he ran back and put on his mask, and took
+his bow, and went north. And the first time he stopped and listened
+he heard it somewhat, and the next time he heard it more, and the
+third time still more, and the fourth time he came to where many
+people were singing the song Wah-hee-hee-vee, and dancing the dance
+Vee-pee-nim, in which the dancers wear gourd masks, on their faces,
+pierced full of little holes to let the light thru.
+
+And they were dancing, too, the dance Kawk-spahk-kum, in which the
+dancers wear a cloth mask, like Nahvahchoo, with a little gourd,
+full of holes, over the mouth-hole, to sing thru.
+
+And they were dancing also the dance Tawt-a-kum, in which the dancer
+wears a bonnet of cloth, and a mask like Nahvahchoo does.
+
+And the people sitting around in these dances had little rods which
+they rubbed upon notched sticks, in time to the singing and the
+dancing.
+
+At first Nahvahchoo was greatly excited by all this dancing, for all
+these people seemed to do nothing else but sing and dance, and make
+the rods and notched sticks and stand them up in bunches; but after
+a few days he began to think of game, for he was a great hunter,
+and he went out and found the tracks of a deer.
+
+And measuring these with his arrow he laughed, covering his mouth with
+his hand, and said: "This deer will not run very fast, I could catch
+him myself." For a deer that measures a good way between his tracks
+is long-bodied, and cannot run fast, while a deer that measures short
+between tracks has a short body, and jumps quicker.
+
+And he followed the deer, which heard him coming, and began to run,
+and when Nahvahchoo saw by its tracks that it was running, he ran, too,
+and getting on a hill saw the dust of its running away off; and he ran
+after it, and when he came to the next hill it was close, and he ran
+down, and killed it, and took it back to the singers, and they fell
+ravenously upon it and ate it all up, not leaving him even the bones.
+
+Nahvahchoo sat off a little way and watched them, and one of their
+speakers addressed him, and said: "We know you, who you are. You
+are a great doctor, and a great hunter, and a great farmer, and a
+powerful man every way. And maybe you expected us to join in your
+hunt and help you carry the game. But we want you to join us, and
+become a singer, and you will have plenty of corn and beans to eat,
+and you will find that such food will last, while, as you see, the
+game, when you bring it in, lasts but a little while."
+
+So Nahvahchoo staid with them and became a singer, and after a
+while the people told him to go to a certain vahahkkee, and said:
+"You will find something there with which you will be pleased. And
+then go to the opposite one, and you will find that with which you
+will be still more pleased.
+
+And one of these vahahkkees was called See-pook (Red-bird) Vahahkkee
+and the other was named Wah-choo-kook-kee (Oriole) Vahahkkee.--But
+tho they told him to go to these they did not allow him to do so, but
+one day he slipped away, when they were not looking, and opened one,
+and saw in it many wonderful things, clouds forming and sprinkling
+all the time; and in the other it was the same.
+
+And one was covered with red flowers, and the other with yellow
+flowers, and where they came together the mingling of red and yellow
+was very pretty.
+
+At the door of each vahahkkee was a corn-mill. And he stole one of
+these and went west. But after a while he stopped and said: "I wonder
+what is going to happen, for the east is all green and the west is
+of the same color."
+
+But he ran on, and the clouds came over him, and it began to sprinkle,
+and then to rain, and then the water began to run, and get deeper
+and deeper, and he said: "This is happening to me because I stole
+this mill, but I am not going to let it go, I am going to keep it."
+
+And he ran on and came to where he had separated from Weeheekeenee,
+and went on and over Cosovahtawupkih, the Twisted Neck Mountain.
+
+And on that mountain he felt rather faint, and put his hand in his
+pouch and found a root and chewed it, the root Cheek-kuh-pool-tak,
+and breathed it out, and it stopped raining.
+
+And he went on to the Quojata Mountain, and sat there and took a smoke;
+and then on to Ahn-naykum; and then to Odchee, where he left the mill;
+and then to Kee-ahk Toe-ahk, where he also rested and took a smoke;
+and then he went home.
+
+And when Nahvahchoo arrived home he made a speech:
+
+"Where shall we hear the talk that will make us drunk and dizzy with
+the flowers of eloquence?
+
+There was near the water the driftwood lying, and from above the sun
+breathed down and a being was made.
+
+And it was the beautiful daybreak that I took and wiped its face with,
+and the remains of darkness that I painted its face with.
+
+And there were all kinds of bird's feathers that I made a feather
+bonnet from.
+
+And there were joining wasps that came and flapped on the bonnet.
+
+And there were many butterflies that flapped their wings upon the
+bonnet, upon its feathers.
+
+And it was from the rainbow that I made its bow, and from the Milky
+Way that I made its arrow.
+
+From a red skin it was that I made its saw-suh-buh, to cover its arm
+for the bow-string not to injure it.
+
+And it was a red kuess-kote that I made and put in its hair to
+scratch with.
+
+And it was the gray fog that I fastened in its shoulders for its
+mantle.
+
+And the strong wind it was that I used for its girdle, around its
+waist.
+
+In the middle of the earth lay a square water moss, and the sun
+breathed on it and it turned into a creature, a turtle.
+
+And from there the Driftwood-Being went west with it.
+
+From there they went westward and watched the sun rise in the Blue
+Vahahkkee, and were frightened, and returned.
+
+From there they came to a Black Road, and Black Birds followed them,
+and to a Black Night wherein a Black Bow frightened them.
+
+And from there they came to a Blue Road, with Blue Birds following,
+and to a Blue Night with a Blue Bow to frighten them.
+
+And from there they came to a White Road with White Birds following,
+and a White Night with a White Bow to threaten them.
+
+And the next day it was a Yellow Road and Yellow Birds, and after
+that a Yellow Night and a Yellow Bow.
+
+And there was a square water full of ice, and he went around it
+four times.
+
+And there he found Seepook Vahahkkee, with its red flowers, and
+Wahchookookkee Vahahkkee with its yellow flowers, and there he got
+the everlasting corn-mill, and went westward and strengthened himself
+four times.
+
+And as he went westward there came a wind which felt good and
+refreshed him, and pleasant clouds that sprinkled him with water,
+and then there was rain, and the rattling of running water, and he
+went on his road rejoicing.
+
+And he reached the Twisted Neck Mountain, and there he felt faint a
+little, and took from his pouch the root Cheekkuhpooltak, and chewed
+it, and breathed it out, and was refreshed and went on.
+
+And he refreshed himself four times and went on, and found Tonedum
+Vahahkkee, the Vahahkkee of Light, and there he gave his power to
+the people who were gathered together, and said: 'My relatives, I
+want you to think of this, that our country will be more beautiful
+and produce more, because you know our country will not hereafter be
+what it has been'."
+
+And he made another speech:
+
+"It was after the creation of the earth, and there was a mud vahahkkee,
+and inside of it lay a piece of wood burning at one end, and by it
+stood a cane-tube pipe, smoking, and we inhaled the smoke, and then
+we saw things clearer and talked about them.
+
+In the West there was a Black Mocking Bird, and from him I asked
+power, and he brought the news and spread it over all the earth,
+and to every hill and every mountain and every tree, that the earth
+would stand still, but it did not, it still moved.
+
+(And you, Black Mocking Bird, take back your Black Winds, and your
+Black Clouds, and stay where you are, and your relatives may sometimes
+come to you for power.)
+
+And in the South there was a Blue Mocking Bird, and I asked it for
+power, and it stretched the news over all the earth, and over every
+hill and every mountain, and to every tree, that the earth stood still,
+but it did not, it still moved.
+
+In the East was a Mocking Bird of Light, and I asked it for power,
+and it stretched the news over all the earth, and to every hill,
+mountain and tree, that the earth stood still, but it still moved.
+
+And Above there was darkness, where lived the Feather Nested Doctor,
+who is famous for his power, and I asked him for power, and he spread
+the news, as the others had done, but the earth still moved.
+
+And in the North lived a Yellow Spider, and I asked him for power,
+and he stretched his news, and made his web, and tied the earth up
+with it, and made a fringe like a blanket fringe at each corner,
+and laid his arrows over it.
+
+The fringe at the West corner he made black, and covered it with
+the Black Vahahkkee to hold it down; and he put the blue fringe at
+the South corner, and over it the Blue Vahahkkee to hold it down,
+and he put the black arrows over the Black Vahahkkee, and the blue
+arrows over the Blue Vahahkkee.
+
+And in the East he put the Vahahkkee of Light over the fringe and
+the arrows of light over it.
+
+And after all this was done the earth stood still.
+
+And after this is done you are carried away like a child, and are
+set down facing the East, and your heart comes out towards it, and
+can be seen going up and down till it reaches it.
+
+And over the land your seed shall spring up and grow, and have good
+stalks and many flowers, and have good wide leaves and heads of
+good seeds.
+
+And after the seed is ripe they will take it and put it away and
+grind it with sunbeams, and the boys and girls shall eat and be happy,
+and all the old men and women shall eat it and lengthen their lives."
+
+
+NOTES ON THE STORY OF NAHVAHCHOO
+
+The story of Nahvahchoo was celebrated till lately among the Pimas by
+dancing games, resembling those described in this story, the players
+wearing masks and gourds, and rattling notched sticks, one of them
+impersonating Nahvahchoo himself.
+
+In the reference to the earth's moving, in one of the speeches, one
+might suspect a glimpse of true astronomical knowledge, but this is
+likely only a poetic figure.
+
+The "everlasting corn will" reminds a little of the old folk-lore
+tale of the everlasting salt mill whose continuous grinding makes
+the ocean salt.
+
+
+THE STORY OF CORN AND TOBACCO [8]
+
+
+There was a powerful mahkai who had a daughter, who, tho old enuf, was
+unmarried, and who grew tired of her single life and asked her father
+to bury her, saying, we will see then if the men will care for me.
+
+And from her grave grew the plant tobacco, and her father took it and
+smoked it and when the people who were gathered together smelled it
+they wondered what it was, and sent Toehahvs to find out.
+
+But, altho the tobacco still grew, the woman came to life again and
+came out of her grave back to her home.
+
+And one day she played gainskoot with Corn, and Corn beat her, and
+won all she had. But she gave some little things she did not care for
+to Corn, and the rest of her debt she did not pay, and they quarreled.
+
+She told Corn to go away, saying; "Nobody cares for you, now, but they
+care a great deal for me, and the doctors use me to make rain, and
+when they have moistened the ground is the only time you can come out."
+
+And the Corn said: "You don't know how much the people like me; the
+old as well as the young eat me, and I don't think there is a person
+that does not like me." And Corn told Tobacco to go away herself.
+
+There were people there who heard them quarreling, and tho Tobacco
+staid on, whenever she would be in a house and hear people laughing she
+would think they were laughing at her. And she became very sad, and one
+day sank down in her house and went westward and came to a house there.
+
+And the person who lived there told her where to sleep, saying,
+"Many people stop here, and that is where they sleep."
+
+But she said: "I am travelling, and no one knows where I am, and if
+any one follows me, and comes here, you tell them that you saw me,
+that I left very early in the morning and you do not know which way I
+went." And she told him that she did not know herself which way she
+would go, and at night, when she went to bed, she brought a strong
+wind, and when she wanted to leave she sank down and went westward,
+and the wind blew away all her tracks.
+
+And she came to the Mohaves and lived there in a high mountain, Cheof
+Toe-ahk, or tall mountain, which has a cliff very hard to climb,
+but Tobacco stood up there.
+
+And after Tobacco had gone, Corn remained, but when corn-planting
+time came none was planted, because there was no rain. And so it went
+on--all summer, and people began to say: "It is so, when Tobacco was
+here, we had plenty of rain, and now we have not any, and she must
+have had wonderful power."
+
+And the people scolded Corn for sending Tobacco away, and told him
+to go away himself, and then they sent for Tobacco to come back,
+that they might have rain again.
+
+And Corn left, going toward the east, singing all the way, taking
+Pumpkin with him, who was singing too, saying they were going where
+there was plenty of moisture.
+
+And the next year there was no water, and a powerful doctor,
+Gee-hee-sop, took the Doctor's Stone of Light, and the Doctor's
+Square Stone, and some soft feathers, and eagle's-tail feathers, and
+went to where Tobacco lived, asking her to come back, saying "We are
+all suffering for water, and we know you have power to make it rain,
+And every seed buried in the ground is begging for water, and likely
+to be burned up, and every tree is suffering, and I want you to come."
+
+Then Tobacco said: "What has become of Corn? He is still with you,
+and corn is what you ought to eat, and everybody likes it, but nobody
+cares for me, except perhaps some old man who likes to smoke me,
+and I do not want to go back, and I am not going!"
+
+But Geeheesop said: "Corn is not there now, he has gone away, and we
+do not know where he is." And again he asked Tobacco to come back but
+she refused, but gave him four balls of tobacco seed and said to him:
+"Take these home with you, and take the dirt of the tobacco-worm,
+and roll it up, and put it in a cane-tube and smoke it all around,
+and you will have rain, and then plant the seed, and in four days it
+will come up; and when you get the leaves, smoke them, and call on
+the winds, and you will have clouds and plenty of rain."
+
+So Geeheesop went home with the seed balls, and tobacco-worm dirt, and
+did as Tobacco had told him; and the smoking of the dirt brought rain,
+and the seeds were planted in a secret place, and in four days came up,
+and grew for a while, but finally were about to die for want of rain.
+
+Then Geeheesop got some of the leaves and smoked them, and the
+wind blew, and rain came, and the plants revived and grew till they
+were ripe.
+
+When the tobacco was ripe Geeheesop gathered a lot of the leaves and
+filled with them one of the gourd-like nests which the woodpecker,
+koh-daht, makes in the har-san, or giant-cactus, and then took a few
+of these and put them in a cane-tube pipe, or watch-kee, and went to
+where the people gathered in the evening.
+
+And the doctor who was the father of Tobacco said: "What is this I
+smell? There is something new here!"
+
+And one said, "Perhaps it is some greens that I ate today that you
+smell," and he breathed toward him.
+
+But the mahkai said, "That is not it."
+
+And others breathed toward him, but he could not smell it.
+
+Then Geeheesop rolled a coal toward himself, and lit up his pipe,
+and the doctor said: "This is what I smelled!"
+
+And Geeheesop, after smoking a few whiffs, passed the pipe around to
+the others, and all smoked it, and when it came back to him he stuck
+it in the ground.
+
+And the next night he came with a new pipe to the place of meeting,
+but the father of Tobacco said: "Last night I had a smoke, but I did
+not feel good after it."
+
+And all the others said: "Why we smoked and enjoyed it."
+
+But the man who had eaten the greens kah-tee-kum, the day before, said:
+"He does not mean that he did not enjoy the smoke, but something else
+troubled him after it, and I think it was that when we passed the
+pipe around we did not say 'My relatives,' 'brother,' or 'cousin,'
+or whatever it was, but passed it quietly without using any names."
+
+And Tobacco's father said "Yes, that is what I mean."
+
+(And from that time on all the Pimas smoked that way when they came
+together, using a cane-tube pipe, or making a long cigarette of
+corn-husk and tobacco, and passing it around among relatives.)
+
+So Geeheesop lit his pipe and passed it around in the way to satisfy
+the doctor.
+
+And the people saved the seeds of that tobacco, and to day it is all
+over the land.
+
+And the Corn and the Pumpkin had gone east, and for many years they
+lived there, and the people they had left had no corn, and no pumpkins;
+but after a while they returned of themselves, and came first to the
+mountain Tahtkum, and lived there a while, and then crossed the river
+and lived near Blackwater, at the place called Toeahk-Comalk, or White
+Thin Mountain, and from there went and lived awhile at Gahkotekih or,
+as it is now called, Superstition Mountain.
+
+While they lived at Gahkotekih there was a woman living near there
+at a place called kawt-kee oy-ee-duck who, with her younger brother,
+went to Gahkotekih to gather and roast the white cactus, and while
+they were doing this Corn saw them from the mountain and came down.
+
+And the boy saw him and said: "I think that is my uncle coming,"
+but his sister said, "It cannot be, for he is far away. If he were
+here the people would not be starving as now."
+
+But the boy was right, it was his uncle, and Corn came to them and
+staid with them while the cactus was baking. And after awhile, as he
+sat aside, he would shoot an arrow up in the air, and it would fall
+whirling where the cooking was, and he would go and pick it up.
+
+Finally he said to the woman: "Would you not better uncover the
+corn and see if it is cooked yet?" And she said: "It is not corn,
+it is cactus."
+
+Again, after a while, he said: "Would you not better uncover the
+pumpkin and see if it is done?" And she replied: "It is not pumpkin,
+we are baking, it is cactus." But finally he said "Well, uncover it
+anyway," and she uncovered it, and there were corn and pumpkin there,
+together, all nicely mixed and cooked, and she sat staring at it,
+and he told her to uncover it more, and she did so and ate some of it.
+
+And then he asked about the Tobacco woman, if she were married yet, and
+she said, "No, she is not married, but she is back with us again, now."
+
+Then he asked her to send the little boy ahead and tell the people
+that Corn was coming to live with them again. But first the little
+boy was to go to the doctor who was the father of Tobacco, and see if
+he and his daughter wanted Corn to return. If they did he would come,
+and if they did not he would stay away. And he wanted the boy to come
+right back and tell what answer he got.
+
+So the little boy went, and took some corn with him to the doctor,
+and said: "Corn sent me, and he wants your daughter, and he wants to
+know if you want him. If you do he will return, but if you do not he
+will turn back again. And he wants me to bring him word what you say."
+
+And the mahkai said "I have nothing to say against him. I guess he
+knows the people want corn. Go and tell him to come."
+
+And Corn said: "Go back to the doctor and tell him to make a little
+kee, as quick as he can, and to get the people to help him, and to
+cover it with mats instead of bushes, and to let Tobacco go there
+and stay there till I come.
+
+And tell all the people to sweep their houses, and around their houses,
+and if anything in their houses is broken, such as pots, vahs-hroms,
+to turn them right side up. For I am coming back openly; there will
+be no secret about it."
+
+So the little boy went back and told the doctor all that Corn had told
+him to say, and the doctor and the people built the kee, and Tobacco
+went there, and the people swept their houses and around them as they
+were told.
+
+And before sunset the woman came home with the corn and pumpkins she
+had cooked at the mountain, but Corn staid out till it was evening.
+
+And when evening came there was a black cloud where Corn stood, and
+soon it began to rain corn, and every little while a big pumpkin would
+come down, bump. And it rained corn and pumpkins all night, while Corn
+and his bride were in their kee, and in the morning the people went
+out and gathered up the corn from the swept place around their houses.
+
+And so Corn and Pumpkin came back again.
+
+The people gathered up all the corn around their houses, and all their
+vessels, even their broken ones, which they had turned up, were full,
+and their houses were soon packed full of corn and pumpkins.
+
+So Corn lived there with his wife, and after a while Tobacco had a
+baby, and it was a little crooked-necked pumpkin, such as the Pimas
+call a dog-pumpkin.
+
+And when the child had grown a little, one day its father and mother
+went out to work in the garden, and they put the little pumpkin baby
+behind a mat leaning against the wall. And some children, coming in,
+found it there, and began to play with it for a doll, carrying it on
+their backs as they do their dolls. And finally they dropped it and
+broke its neck.
+
+And when Corn came back and found his baby was broken he was angry,
+and left his wife, and went east again, and staid there awhile, and
+then bethought him of his pets, the blackbirds, which he had left
+behind, and came back to his wife again.
+
+But after awhile he again went east, taking his pets with him,
+scattering grains of corn so that the blackbirds would follow him.
+
+Corn made this speech while he was in the kee with Tobacco:
+
+In the East there is the Tonedum Vahahkkee, the Vahahkkee of Light,
+where lives the great doctor, the king fisher.
+
+And I came to Bives-chool, the king fisher, and asked him for power,
+and he heard me asking, and flew up on his kee, and looked toward
+the West, and breathed the light four times, and flew and breathed
+again four times, and so on--flying four times and breathing after
+each flight four times, and then he sat over a place in the ground
+that was cut open.
+
+And in the West there was a Bluebird, and when I asked him for power
+he flew up on his kee, and breathed four times, and then flew toward
+the East, and he and Biveschool met at the middle of the earth.
+
+And Biveschool asked the Bluebird to do some great thing to show his
+power, and the Bluebird took the blue grains of corn from his breast
+and then planted them, and they grew up into beautiful tall corn, so
+tall its tops touched the sky and its leaves bowed over and scratched
+the ground in the wind.
+
+And Biveschool took white seeds from his breast, and planted them,
+and they came up, and were beautiful to be seen, and came to bear
+fruit that lay one after another on the vine--these were pumpkins.
+
+And the beautiful boys ran around among these plants, and learned
+to shout and learned to whistle, and the beautiful girls ran around
+among these plants and learned to whistle.
+
+And the relatives heard of these good years, and the plenty to eat,
+and there came a relative leading her child by the hand, who said:
+"We will go right on, for our relatives must have plenty to eat,
+and we shall not always suffer with hunger.
+
+So these came, but did not eat it all, but returned.
+
+So my relatives, think of this, that we shall not suffer with hunger
+always."
+
+And Corn made another speech at that time to Tobacco's father:
+
+"Doctor! Doctor! have you seen that this earth that you have made
+is burning! The mountains are crumbling, and all kinds of trees are
+burning down.
+
+And the people over the land which you have made run around, and
+have forgotten how to shout, and have forgotten how to walk, since
+the ground is so hot and burning.
+
+And the birds which you have made have forgotten how to fly, and have
+forgotten how to sing.
+
+And when you found this out you held up the long pinion feathers,
+mah-cheev-a-duck, toward the East, and there came the long clouds
+one after the other.
+
+And there in those clouds there were low thunderings, and they spread
+over the earth, and watered all the plants, and the roots of all the
+trees; and everything was different from what it had been.
+
+Every low place and every valley was crooked, but the force of the
+waters straightened them out, and there was driftwood on all the
+shores: and after it was over every low place and every valley had
+foam in its mouth.
+
+And in the mouth stood the Doctor, and took the grains from his
+breast, and planted them, and the corn grew and was beautiful. And
+he went on further, to another low valley, and planted other seeds,
+and the pumpkin grew and was beautiful.
+
+And its vine to the West was black and zigzag in form, and to the
+South was blue and zigzag in form, and to the East was white and
+zigzag in form, and to the North was yellow and zigzag in form.
+
+So everything came up, and there was plenty to eat, and the people
+gathered it up, and the young boys and girls ate and were happy, and
+the old men and the old women ate and lengthened even their few days.
+
+So think of this, my relatives, and know that we are not to suffer
+with hunger always."
+
+And the Dog-Pumpkin Baby lay there broken, after Corn went away,
+but after awhile sank down and went to Gahkotekih, and grew up there,
+and became the Harsan or Giant Cactus.
+
+And the mother and grandfather could not find the Dog-Pumpkin Baby,
+and called the people together, and Toehahvs was asked to find it,
+and he smelled around where it had been, and went around in circles.
+
+And he came to where the Giant Cactus was and thought it was the baby,
+but was not sure, and so came back, and told them he could not find it.
+
+And they wanted Nooee to go, and Toehahvs said to Nooee: "I did see
+something, but I was not quite sure, but I want you to examine that
+Giant Cactus."
+
+So Nooee flew around and around and examined the Giant Cactus and
+came back, and when the people questioned him said: "I have found it
+and it is already full-grown, and I tell you I think something good
+will happen to us because of it."
+
+And when the Cactus had fruit the people gathered it, and made tis-win,
+and took the seeds and spread them out in the sun.
+
+And the Badger stole these seeds, and when the people knew it they
+sent Toehahvs after the thief.
+
+And Toehahvs went and saw Badger ahead of him in the road, and saw
+him go out and around and come into the road again and come toward him.
+
+And when they met, Toehahvs asked him what he had in his hand. And
+Badger said "I have something, but I'm not going to show you!"
+
+Then Toehahvs said: "If you'll only just open your hand, so I can see,
+I'll be satisfied."
+
+And Badger opened his hand, and Toehahvs hit it a slap from below,
+and knocked the seeds all around, and that is why the giant cactus
+is now so scattered.
+
+
+NOTES ON THE STORY OF CORN AND TOBACCO
+
+In the Story of Corn and Tobacco we touch the superstitions about rain,
+the most desired thing in the desert. The mahkais used tobacco in
+their incantations, both for curing sickness and for making rain. It
+would appear that the Piman mind confused clouds of smoke and clouds
+of vapor, and because tobacco made clouds it was probably supposed
+to be potent in begetting rain. The Pimas told me that the Doctor's
+Square Stone was used in the incantations for rain, and there appears
+to have been a connection in Piman thought between feathers and clouds,
+and therefore between feathers and rain, and it will be noticed that
+when Geeheesop went to get Tobacco's help in making rain he took
+feathers and both kinds of Doctor-stone.
+
+This story seems to profess to give the origin of tobacco, giant
+cactus and of tiswin.
+
+
+THE STORY OF THE CHILDREN OF CLOUD
+
+
+There was a woman who lived in the mountains, who was very beautiful,
+and had many suitors, but she never married anyone.
+
+And one day she was making mats of cane; and she fell asleep and a
+rain came and a drop fell on her navel.
+
+And she had twin babies, and all the men claimed them, but when the
+babies were old enuf to crawl she told all the claimants to get in
+a circle, and she would put the babies in the middle, and if they
+crawled up to any man he would be the father.
+
+But the babies climbed upon nobody, and she never married.
+
+And when these twin boys were old enuf their mother showed them a
+cloud in the east, and said: "That is your father, and his name is
+Cloud, and the Wind is your uncle, your father's older brother."
+
+But the children paid little attention, but when they got older they
+asked their mother if they could go and see their father. And their
+mother let them go.
+
+And they went, and came to a house, and the man who lived there asked
+them where they were going, and they said they were looking for their
+father, whose name was Cloud.
+
+And the man pointed to the next house, and said: "That man, there,
+is your father."
+
+And they went to that man, but he said: "It is not so. He is your
+father. He is Cloud," and sent them back again.
+
+But the first man sent them back once more to the second, who was
+really Cloud.
+
+And Cloud said, that time; "I wonder if it is so that you are my
+children!"
+
+And the boys said: "That is what they say."
+
+And Cloud said: "I want you to do something to prove it."
+
+Then the oldest boy thundered loud and lightened, and the other
+lightened a little, and Cloud said, "It is true, you are my children!"
+
+And before night Cloud fed them, and then went into his kee and shut
+it up and left them outside all night. And it rained and snowed all
+night, but they staid outside.
+
+And in the morning Cloud came out, and said: "It is really so, that
+you are my children."
+
+And the next night he took them to a pond, where there was ice, and
+left them there all night. And the next day, when he came there and
+found they had staid in the water all night he said: "It is really
+so--you are my children."
+
+So Cloud acknowledged them for his children and took them into his
+kee. And after awhile the boys wanted to go back to their mother,
+and Cloud said: "You may go, but you must not speak to anybody on
+the way. And I will be with you on the journey."
+
+So the boys started, and cloud was over them, in the sky, shadowing
+them.
+
+And after a while they saw a man coming, and the younger boy said:
+"We must ask him how our mother is."
+
+But the older brother said: "Don't you remember that our father told
+us not to speak to anyone?"
+
+The younger said: "Yes, I remember, but it would not be right not
+ask how our mother is."
+
+So when the man came the boy asked: "How is everybody at home, and
+how is the old woman, our mother?"
+
+And then the cloud above them lightened and thundered, and they were
+both turned into century plants.
+
+
+NOTES ON THE STORY OF CLOUD
+
+In Emory's report, before alluded to, also in Captain Johnston's,
+we find variants of The Story of the Children of Cloud. Thristy Hawk,
+the Maricopa, told Emory "that in bygone days a woman of surpassing
+beauty resided in a green spot in the mountains, near where we were
+encamped. All the men admired and paid court to her. She received
+the tributes of their devotion, grain, skins, etc., but gave no love
+or other favor in return. Her virtue and her determination to remain
+unmarried were equally firm. There came a drought which threatened
+the world with famine. In their distress, people applied to her, and
+she gave corn from her stock, and the supply seemed endless.... One
+day as she was lying asleep with her body exposed, a drop of rain
+fell on her stomach, which produced conception. A son was the issue,
+who was the founder of a new race which built all these houses"
+(ruins, vahahkkees).
+
+Johnston has it: "The general asked a Pima who made the house I had
+seen. 'It is the Caza de Montezuma,' said he, 'it was built by the
+son of the most beautiful woman, who once dwelt in yon mountain; she
+was fair, and all the handsome men came to court her, but in vain;
+when they came, they paid tribute, and out of this small store she
+fed all the people in time of distress, and it did not diminish;
+at last, as she lay asleep, a drop of rain fell upon her navel, and
+she became pregnant, and brought forth a boy, who was the builder of
+all these houses."
+
+The seeneeyawkum gives her twins but knew nothing of any story of
+their children or of these buildings, the vahahkkees.
+
+
+THE STORY OF TCHEUNASSAT SEEVEN
+
+
+Stcheuadack Seeven wanted to gamble with Tcheunassat Seeven, who lived
+at Kawtkee Oyyeeduck, and sent a man with an invitation to come and
+play against him, and bring all his wives.
+
+And Tcheunassat Seeven said: "I will go, for my wives are used to
+travelling, and we will take food, and will camp on the road, and
+day after tomorrow, about evening, we will be there."
+
+So the messenger went back with this word, and in the morning
+Tcheunassat Seeven got his lunch ready, and he and his wives started;
+and the first night camped at Odchee, and the next day came to the
+little mountain, near Blackwater, called Sahn-a-mik, and they crossed
+Ak-kee-mull, The River, the Gila, there, and Tcheunassat Seeven told
+his wives to wash their hair and clean themselves there, and then he
+told them to go ahead to Stcheuadack Seeven while he took his bath. And
+while he bathed they went on and came to Stcheuadack Seeven's house,
+where he was singing and his wives dancing.
+
+Then the wives of Tcheunassat Seeven did not ask for invitation, but
+went right in and joined the dance, and went to Stcheuadack Seeven and
+took hold of his hand in the dance, pushing each other away to get it.
+
+And Stcheuadack Seeven thought from this that he would get all of
+Tcheunassat Seeven's wives away from him.
+
+Tcheunassat Seeven, after his bath, cut a piece of oapot wood and
+sharpened it, and split the other end into four pieces, and bent them
+over and tied the ends of crow's feathers to them, and stuck it in
+his hair, and dipped his finger in white paint and made one little
+spot over each eye, which was all the paint he used, and then he went
+and watched his wives dancing and taking Stcheuadack Seeven's hand.
+
+And Stcheuadack Seeven asked them if that was their husband, and
+they said: "Yes, he is our husband. He is not very good-looking,
+but we care so much for him."
+
+Tcheunassat Seeven watched the dancing awhile and then stepped back
+a little and took out his rattle and began to sing. And at once
+everybody crowded around him, and all his wives came back to him,
+and finally all Stcheuadack Seeven's wives came and contended for
+his hand, as his wives had been doing with Stcheuadack Seeven.
+
+And this went on into the night, all dancing and having a good time,
+except Stcheuadack Seeven, who walked around looking at his wives
+dancing.
+
+And finally he sent a message to the most beautiful of his wives (who
+had a beautiful daughter) and told him to tell her: "I am sleepy,
+and I want you home now, and I want all my wives to go into the house."
+
+And she said: "I will come. I will tell my daughter, who is over there,
+and then we will come home."
+
+But she did not tell her daughter, and did not come home, and
+Stcheuadack Seeven waited awhile, and then found his messenger and
+asked him: "Did you tell her?"
+
+And the messenger said: "I did."
+
+And he said: "Tell her again that I am waiting outside here, and I
+want her to come to me and we will go home."
+
+Then the messenger told the woman again, but she did not come, and
+Stcheuadack Seeven wandered around outside till morning.
+
+And near morning Tcheunassat Seeven sang a beautiful song, and began
+to move toward his own home, dancing all the way, and all the women
+going before him.
+
+And he did this till morning, and then stopped, and went home, taking
+all his own wives and all of Stcheuadack Seeven's wives with him.
+
+And Stcheuadack Seeven went home, when he saw this, and took his
+beautiful cloak all covered with live butterflies and humming-birds,
+and lay down, covering himself with it.
+
+But four days after, Stcheuadack Seeven told the messenger to take this
+beautiful cloak to Tcheunassat Seeven, and ask him to send back that
+beautiful wife and her daughter, and to keep the rest of the wives;
+and to keep the cloak and use that to marry more wives.
+
+But Tcheunassat Seeven said to the messenger: "Tell him I do not
+want his cloak. I have one just like it, and I have all I want, and I
+will not send back any of his wives. It was his wish that we should
+gamble, and if he had been the better singer and had won my wives I
+would not have asked for any of them back."
+
+And now Tcheunassat Seeven appeared as a beautiful person, with long
+hair and turquoise ear-rings, and he said: "He need not think I always
+look as I did when I came to his dance. That was only to fool him."
+
+The beautiful daughter of the beautiful wife grew up, and Tcheunassat
+Seeven married her, too, and she had a baby.
+
+And when Stcheuadack Seeven heard of it, he said: "I am going to
+punish him." And he made a black spider and sent it thru the air.
+
+And in the evening when the mother wanted to air her baby's cradle,
+she took it out, and then the black spider got in the baby's cradle
+and hid himself, and when the baby was put back the spider bit it,
+and it began to cry.
+
+And its father and mother tried to pacify it, but could not, and when
+they took it out of the cradle, there they found the black spider.
+
+And Tcheunassat Seeven sent word to Stcheuadack Seeven to come and see
+his grand-child, which was about to die, but Stcheuadack Seeven said
+to the messenger: "What is the matter with Tcheunassat Seeven? He is
+a powerful doctor. Tell him to cure the child. I will not come. The
+bite of a black spider is poisonous, but it never kills anybody. Tell
+him to get some weeds on Maricopa Mountain and cure the child." And
+he sent the messenger back again.
+
+And Tcheunassat Seeven said: "How can I get those weeds when I do
+not know which ones are right and there are so many! I cannot go."
+
+And he did not go, and the child died.
+
+
+        A SONG OF TCHEUNASSAT SEEVEN
+
+        There stands a dead vahahkkee
+        On top of it there runs back and forth the Seeven
+        And he has a robe with yellow hand prints on it.
+
+
+        THE LARK'S SONG ABOUT HIS LOST WIFE [9]
+
+        My poor wife!
+        In the West she seems to be bound by the song of the Bamboo.
+
+
+THE LEGEND OF BLACKWATER
+
+
+A little off from the road between Sacaton, and Casa Grande Ruins
+there is, or was in the old days, a mysterious pool of dark water,
+which the Indians regarded with superstitious awe.
+
+They said it was of fathomless depth, that it communicated with
+the ocean, and that strange, monstrous animals at times appeared in
+it. There are Indians still living who declare they have seen them
+with their own eyes.
+
+I visited this famous place once with my interpreter, Mr Wood. After
+galloping a while thru a mezquite forest we suddenly emerged upon
+its legendary shores. Alas, for the prosaic quality of fact! It was
+but a common-place water-hole, or spring-pond, a few rods across,
+with bogs and bulrushes in its center.
+
+The unkindness of irrigation ditches, withdrawing its waters, revealed
+that like most bottomless pools of story it was very shallow indeed.
+
+It was nearly dry.
+
+Its name of Blackwater has been given to the nearby surrounding
+district.
+
+This was the only trace of the common Indian superstition of water
+monsters I found among the Pimas.
+
+
+                              Koo-a Kutch
+
+                                The End
+
+
+ERRATA
+
+
+In this book of Pima legends, various errors with regard to Indian
+words have occurred which will be corrected in a second edition. These
+are principally as follows:
+
+The rule was made that all Indian words should be printed the first
+time in italics, with hyphens to facilitate pronunciation; afterwards
+in roman type, without hyphens. This rule has many times been violated.
+
+There is a lack of uniformity in the spelling, etc., of many of the
+Indian terms. Thus the name of the old seeneeyawkum has been spelled in
+different ways, but should always be Comalk Hawkkih. The name of the
+Creator should always be Juwerta Mahkai. The name of his subordinate
+should be Eeheetoy. Gee-ee-sop should be Geeheesop. Cheof should be
+Cheoff. Vah-kee-woldt-kee, as on page 8, should be Vahf-kee-woldt-kih
+as on page 112. Sah-kote-kee, on page 183, should be Sah-kote-kih,
+and Chirt-kee should be Chirt-kih. On page 224, vahs-shroms should
+be vahs-hroms. Tcheuassat Seeven (page 237) should be Tcheunassat
+Seeven. Stchenadack Seeven (page 238) should be Stcheuadack
+Seeven. Scheunassat Seeven, on page 239, should be Tcheunassat
+Seeven. In the story of the Turquoises and the Red Bird (page 99)
+the name of the chief who lived in the Casa Grande ruins should have
+been spelled with a u, instead of a w, to secure uniformity; also the
+Indian name of the turquoises. The name of the Salt River Mountain,
+wherever it occurs, should always be Moehahdheck.
+
+
+NOTES
+
+
+[1] Many doubt that the Indians of North America knew anything about
+the diamond, but my interpreter insisted that the Doctor-stone was
+the diamond, therefore I have taken his word for it. Perhaps it
+was crystal.
+
+[2] What the Pimas call the haht-sahn-kahm is the wickedest cactus in
+Arizona. The tops of the branches fall off, and lie on the ground,
+and if stepped on the thorns will go thru ordinary shoe leather and
+seem to hold with the tenacity of fish-hooks, so that it is almost
+impossible to draw them out.
+
+[3] "To swallow charcoal" implies the swallowing of meat so greedily
+it is not properly cleansed of the ashes of its roasting.
+
+[4] The reference to the "gun" shows clearly that this song was made
+after the advent of the white man.
+
+[5] This word was not translated--probably archaic and the meaning
+forgotten.
+
+[6] This song is evidently imperfect, for in the context it is said
+that before this fight they sang about the beads, sah-vaht-kih,
+but there is no mention of them here.
+
+[7] The reason why the older people went inside the circle was to
+protect the younger ones from the impurity of anything Apache, and
+they went inside as more hardened to this.
+
+[8] Read before the Anthropological Society of Philadelphia, May
+11, 1904.
+
+[9] This is a Pima flute-song, a record of which I obtained for my
+phonograph while in Arizona. It has no direct connection with the
+legends; but illustrates the Story of Tcheunassat Seeven a little,
+as it is about a woman, the wife of an Indian named the Lark, who is
+led away by the seductive singing of another Indian named the Bamboo;
+the Indians having an idea that women were most easily seduced by
+music. The Pimas, when they speak English, calling the wild cane
+bamboo.
