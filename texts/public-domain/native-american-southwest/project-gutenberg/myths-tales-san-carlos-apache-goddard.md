@@ -1,210 +1,4 @@
----
-id: native_american.myths_tales_san_carlos_apache.goddard_archive
-title: Myths and Tales from the San Carlos Apache
-alternate_titles:
-- Myths and Tales from the San Carlos Apache (AMNH Anthropological Papers vol. XXIV
-  part 1)
-text_status: complete
-tradition: native_american_southwest
-culture: western_apache_field_recorded_myths
-region: north_america_southwest_apache
-source_language: San Carlos Apache (Athabaskan)
-text_language: English
-date_range: living oral traditions; recorded 1905-1914 from named San Carlos narrators;
-  published 1918 (Anthropological Papers of the AMNH, vol. XXIV part 1)
-source_type: oral_tradition_collection
-provenance:
-  source_id: source.internet_archive.mythstalesfromsa00godd
-  edition: Internet Archive full-text OCR (_djvu.txt) of the 1918 American Museum
-    of Natural History edition
-  translator: Pliny Earle Goddard
-  editor: ''
-  publication_year: 1918
-  publisher: Internet Archive
-  source_url: https://archive.org/details/mythstalesfromsa00godd
-  access_date: '2026-07-18'
-rights:
-  status: public_domain
-  jurisdiction: US
-  license_url: https://creativecommons.org/publicdomain/mark/1.0/
-  training_use: allowed
-  full_text: allowed
-  notes: Published 1918, US public domain. Recording context - English translations
-    of dictated texts from named narrators; creation, culture-hero, and coyote cycles
-    of the Western Apache; companion Apache-language volume (part 3, 1919) queued
-    separately.
-trademark:
-  status: present
-  marks:
-  - Project Gutenberg
-  use_rules: Use only as factual source attribution; do not use the mark as repository
-    branding.
-transcription:
-  mode: normalized
-  complete: true
-  corrections: []
-  omissions:
-  - Distributor header, license footer, start/end markers, and production boilerplate
-    were removed.
-  - Raw source capture is preserved under imports/raw for auditability.
-tags:
-- apache
-- san_carlos
-- athabaskan
-- southwest
-- verbatim_texts
-motifs:
-- creation
-- monster_slayer
-- coyote_trickster
-- gaan_mountain_spirits
-figures: []
----
-
 # Myths and Tales from the San Carlos Apache
-
-ANTHROPOLOGICAL  PAPERS
-
-OF
-
-THE  AMERICAN  MUSEUM
-OP  NATURAL  HISTORY
-
-VOL.  XXIV,  PART  I
-
-MYTHS  AND  TALES  FROM  THE  SAN  CARLOS  APACHE
-
-BY
-
-PLINY  EARLE  GODDARD
-
-
-iu
-
-
-NEW  YORK
-
-PUBLISHED  BY  ORDER  OF  THE  TRUSTEES
-1918
-
-
-7
-
-
-American  Museum  of  Natural  History,
-
-
-PUBLICATIONS  IN  ANTHROPOLOGY.
-
-
-In  1906  the  present  series  of  Anthropological  Papers  was  authorized  by  the
-Trustees  of  the  Museum  to  record  the  results  of  research  conducted  by  the  Depart¬
-ment  of  Anthropology.  The  series  comprises  octavo  volumes  of  about  350  pages
-each,  issued  in  parts  at  irregular  intervals.  Previous  to  1906  articles  devoted  to
-anthropological  subjects  appeared  as  occasional  papers  in  the  Bulletin  and  also  in
-the  Memoir  series  of  the  Museum.  A  complete  list  of  these  publications  with  prices
-will  be  furnished  when  requested.  All  communications  should  be  addressed  to  the
-Librarian  of  the  Museum.
-
-The  recent  issues  are  as  follows:  —
-
-
-Volume  XII.
-
-I.  String-figures  from  the  Patomana  Indians  of  British  Guiana.  By  Frank
-E.  Lutz.  Pp.  1-14,  and  12  text  figures.  1912.  Price  $.25.
-
-II.  Prehistoric  Bronze  in  South  America.  By  Charles  W.  Mead.  Pp.  15-52,
-and  4  text  figures.  1915.  Price,  $.25.
-
-III.  Peruvian  Textiles.  By  M.  D.  C.  Crawford.  Pp.  52-104,  and  23  text
-figures.  1915.  Price,  $.50.
-
-IV.  Peruvian  Fabrics.  By  M.  D.  C.  Crawford.  Pp.  105-191,  and  40  text
-figures.  1916.  Price,  $1.00.
-
-V.  Conventionalized  Figures  in  Ancient  Peruvian  Art.  By  Charles  W.  Mead.
-Pp.  193-217,  Plates  I-VIII.  1916.  Price,  $.25.
-
-VI.  (In  preparation.)
-
-Volume  XIII.
-
-I.  Social  Life  and  Ceremonial  Bundles  of  the  Menomini  Indians.  By  Alan-
-son  Skinner.  Pp.  1-165,  and  30  text  figures.  1913.  Price,  $1.50.
-
-II.  Associations  and  Ceremonies  of  the  Menomini  Indians.  By  Alanson
-Skinner.  Pp.  167-215,  and  2  text  figures.  1915.  Price,  $.40.
-
-III.  Folklore  of  the  Menomini  Indians.  By  Alanson  Skinner  and  John  V.
-Satterlee.  Pp.  217-546.  1915.  Price,  $1.60.
-
-
-Volume  XIV.
-
-I.  The  Steffinsson- Anderson  Arctic  Expedition  of  the  American  Museum:
-Preliminary  Ethnological  Report.  By  Vilhjalmur  Stefansson.  Pp.  1-395,  94  text
-figures,  and  2  maps.  1914.  Price,  $3.50.
-
-II.  Harpoons  and  Darts  in  the  Steffinsson  Collection.  By  Clark  Wissler.
-Pp.  397-443,  and  44  text  figures.  1916.  Price,  $.50.
-
-III.  (In  preparation).
-
-Volume  XV.
-
-I.  Pueblo  Ruins  of  the  Galisteo  Basin,  New  Mexico.  By  N.  C.  Nelson.
-Pp.  1  -124,  Plates  1-4,  13  text  figures,  1  map,  and  7  plans.  1914.  Price,  $.75.
-
-II.  (In  preparation.)
-
-Volume  XVI.
-
-I.  The  Sun  Dance  of  the  Crow  Indians.  By  Robert  H.  Lowie.  Pp.  1-50,
-and  11  text  figures.  1915.  Price,  $.50.
-
-II.  The  Sun  Dance  and  Other  Ceremonies  of  the  Oglala  Division  of  the
-Teton-Dakota.  By  J.  R.  Walker.  Pp.  51-221.  1917.  Price,  $1.50.
-
-III.  The  Sun  Dance  of  the  Blackfoot  Indians.  By  Clark  Wissler.  Pp.  223-
-270,  and  1  text  figure.  1918.  Price,  $.50.
-
-IV.  (In  preparation.)
-
-
-(' Continued,  on  Sd  p.  of  cover.)
-
-
-ANTHROPOLOGICAL  PAPERS
-
-OF
-
-THE  AMERICAN  MUSEUM
-OF  NATURAL  HISTORY
-
-VOL.  XXIV,  PART  I
-
-
-MYTHS  AND  TALES  FROM  THE  SAN  CARLOS  APACHE
-
-BY
-
-PLINY  EARLE  GODDARD
-
-
-NEW  YORK
-
-PUBLISHED  BY  ORDER  OF  THE  TRUSTEES
-1918
-
-
-Digitized  by  the  Internet  Archive
-in  2018  with  funding  from
-Getty  Research  Institute
-
-
-https://archive.org/details/mythstalesfromsaOOgodd
-
 
 MYTHS  AND  TALES  FROM  THE  SAN  CARLOS  APACHE.
 By  Pliny  Earle  Goddard.
@@ -263,9 +57,6 @@ Pliny  Earle  Goddard.
 August,  1918.
 
 
-3
-
-
 CONTENTS
 
 Page.
@@ -321,9 +112,6 @@ Magic  Flight . 81
 Bibliography  . . 86
 
 
-5
-
-
 1*
 
 
@@ -331,9 +119,6 @@ Bibliography  . . 86
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-7
 
 
 Creation  Myth  (First  Version)  1
@@ -388,9 +173,6 @@ black,  east:  white,  south;  yellow,  west;  blue,  north.  The  Navajo  have 
 on  five  pillars.  Franciscan  Fathers,  354.
 
 
-8
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
@@ -409,8 +191,7 @@ seeds  and  the  two  grinding  stones,  and  stopped  the  opening  in  the  ve
 with  clay.  She  floated  around  in  this  on  top  of  the  water.  When  she  struck
 the  side  of  the  vessel  with  the  muller  it  rang  “  bibit.”  As  long  as  there  was
 much  water  it  made  a  sound  like  “bit”  when  it  was  struck.  When  the
-water  was  gone  she  hit  it  again  and  heard  a  sound  like  “dan.”  Thinking-
-then  that  the  water  was  gone  down  she  broke  out  the  stopper  and  came  out.2
+water  was  gone  she  hit  it  again  and  heard  a  sound  like  “dan.”  Thinkingthen  that  the  water  was  gone  down  she  broke  out  the  stopper  and  came  out.2
 There  was  nothing  but  a  level  plain  of  sand  where  she  came  out.  There  was
 nothing  there,  not  even  bushes.  She  sat  down  by  herself  and  began  to
 consider  what  would  be.  She  went  up  on  the  mountains  where  the  sun’s
@@ -429,8 +210,7 @@ tween  her  legs,  but  did  not  enter  her.  She  went  there  and  did  the  
 three  times  in  vain.  Then  her  mother  put  her  in  position  and  the  water
 entered  her.
 
-She  became  pregnant  and  gave  birth  to  a  boy.  She  was  called  Naljdil-
-xiln,  the  boy  was  to  be  Naiyenezgani,  and  her  mother  was  Ests’unnadlehi.
+She  became  pregnant  and  gave  birth  to  a  boy.  She  was  called  Naljdilxiln,  the  boy  was  to  be  Naiyenezgani,  and  her  mother  was  Ests’unnadlehi.
 There  were  these  three.
 
 
@@ -504,9 +284,6 @@ to  be  fashioned.  The  two  incidents  are  the  origins  of  the  ceremony  f
 3  Matthews,  109.
 
 
-10
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
@@ -547,8 +324,7 @@ he  said.
 He  then  went  with  him  to  the  east  to  a  place  called  sek’q’  which  was
 blazing  with  “sky  fire.”  The  Sun  caught  the  boy  by  his  foot  and  swung
 him  around,  his  head  hanging  down,  and  threw  him  into  the  “sky  fire.”
-He  pushed  him  down  with  a  poker  of  bee  diLvil.  The  black  sett  q’  glowing-
-red  went  through  the  sky  with  him.  He  went  through  the  sky  as  a  downy
+He  pushed  him  down  with  a  poker  of  bee  diLvil.  The  black  sett  q’  glowingred  went  through  the  sky  with  him.  He  went  through  the  sky  as  a  downy
 feather  and  turned  back  to  a  man,  landing  back  by  his  shadow  before  the
 Sun  moved.  The  same  thing  was  done  at  the  south  where  white  sky  fire
 was  blazing  out.  He  pushed  him  down  with  a  poker  of  white  bee.  Again
@@ -561,9 +337,6 @@ was  blazing  out.  He  pushed  him  down  with  a  poker  of  white  bee.  Agai
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-11
 
 
 he  escaped.  Next  they  went  to  the  west  where  there  was  a  yellow  fire  and
@@ -679,9 +452,6 @@ and  rattled,  the  man  cried  out  that  he  was  afraid  of  that  sort.  As 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-13
-
-
 his  head  about  Naiyenezgani  pulled  out  his  obsidian  club.  “  Bau,”  he  heard,
 as  he  knocked  the  man  down  from  the  top  of  the  cliff  wThere  he  lay.  He
 killed  him.  The  monster  was  called  Tsidakelisi.  Naiyenezgani  went  back
@@ -727,9 +497,6 @@ might  be  a  cloud  but  there  was  only  blue  sky.  He  thought  something  
 
 
 1  Matthews,  123-124.
-
-
-14
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -786,9 +553,6 @@ the  Apache  account.  The  Jiearilla  Apache  know  it.  Goddard,  (a),  203.
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-15
 
 
 another  Douglas  spruce  pole.  She  went  again  toward  the  west.  While
@@ -872,8 +636,7 @@ The  hide  was  spread  on  the  ground  and  pegged  down  where  it  was
 scraped  with  a  rough  stone.  It  was  then  softened  by  rubbing  with  the
 hands.2  From  this  he  made  a  war  coat  with  scalloped  opening  in  front.
 
-While  he  was  living  with  his  grandmother  he  asked  her  where  Ts’inna-
-gole  lived.  She  cautioned  him  not  to  mention  it  saying  it  was  a  dangerous
+While  he  was  living  with  his  grandmother  he  asked  her  where  Ts’innagole  lived.  She  cautioned  him  not  to  mention  it  saying  it  was  a  dangerous
 place  to  which  Naiyenezgani  replied  with  the  usual  reference  to  his  grand¬
 mother’s  organs.  Naiyenezgani  put  on  his  war  coat  and  put  the  brains  of
 Delgit  in  the  front  of  the  coat.  The  blood  of  Delgit  he  put  in  the  front  of
@@ -892,9 +655,6 @@ in  the  narrative.
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-17
 
 
 of  Delgit.  Thus  equipped  he  started  away  and  came  out  on  a  plain.  He
@@ -941,9 +701,6 @@ to  know  under  what  conditions  the  brother  and  sister  came  back.  It
 replied  that  the  latter  came  back  with  prey  when  a  young  rain  was  falling.
 When  his  questions  had  been  answered  he  killed  the  young  one  with  the  bone
 of  Delgit  and  threw  the  body  over  the  cliff.  It  had  told  him  where  at  the
-
-
-18
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1001,9 +758,6 @@ said  they  would  go  back  with  him  to  this  earth  on  which  he  lived.  
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-19
-
-
 directed  him  to  do  exactly  as  they  did.  They  would  go  first  underneath,
 flying  in  a  circle.  They  started  off  one  behind  the  other.  He  did  just  as
 they  did  as  they  flew  down  to  the  earth.’  When  they  had  come  down  they
@@ -1053,9 +807,6 @@ Old  Woman  Bat  which  is  also  the  usual  form  among  the  Apache.  Cf.  Go
 below  p.  4.
 
 2  Some  phases  of  this  incident  are  similar  to  that  of  Deer-raiser,  in  Matthews,  173-183.
-
-
-20
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1114,9 +865,6 @@ yenezgani  sat  down.  The  people  came  to  look  at  him  because  they  did 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-21
-
-
 know  him  and  he  had  a  strange  appearance.  They  asked  the  reason  for  his
 journey.  He  replied  that  someone  there  had  taken  away  a  woman.  He
 said  he  had  followed  her  track  to  that  place  and  that  was  the  reason  for  his
@@ -1153,8 +901,7 @@ him  someone  had  won  from  them  their  daughters,  their  sons,  and  their
 wives,  and  that  not  one  was  left  to  them.  Naiyenezgani  asked  who  it  was
 who  had  done  this  to  them.  They  replied  that  it  was  Golilisi.  He  then
 inquired  by  what  means  he  won  them.  They  enumerated:  hoop  and  pole,
-cards,  hiding  the  ball,  pushing  over  the  post,  three-stick  dice,  the  many-
-stick  dice,  a  contest  in  which  his  hair  was  stretched  across  the  canyon,  a
+cards,  hiding  the  ball,  pushing  over  the  post,  three-stick  dice,  the  manystick  dice,  a  contest  in  which  his  hair  was  stretched  across  the  canyon,  a
 footrace,  and  a  race  on  horseback,  the  course  being  the  edge  of  the  world.
 They  said  that  he  had  all  their  daughters,  sons,  and  wives  shut  up  where  no
 one  could  see  them.  They  asked  Naiyenezgani  to  release  them  all.
@@ -1164,9 +911,6 @@ He  next  inquired  at  what  time  of  day  Golilisi  came  to  play.1  They
 
 >  Many  of  the  incidents  connected  with  these  contests  are  given  in  a  different  connection
 by  Matthews,  83-87.
-
-
-22
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1224,9 +968,6 @@ One  of  the  poles  he  had  made  was  straight  and  red ;  the  other  was  
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-23
-
-
 in  every  direction.  Naiyenezgani  told  Golilisi  to  choose  a  pole.  He  went
 to  them  and  said  he  would  take  this  one,  picking  out  the  straight  red  one.
 Naiyenezgani  took  the  poor  looking  one.  “  What  did  you  do  with  the  hoop?  ”
@@ -1274,9 +1015,6 @@ still  stood.  Naiyenezgani  ran  second  and  hit  the  post  which  fell  forw
 1  The  counting  of  the  game  is  rather  complicated.  The  hoop  itself  is  carved  and  it  has  a
 knotted  string  stretched  across  one  diameter.  The  count  varies  according  to  the  points  of
 contact  between  the  hoop  and  the  pole.
-
-
-24
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1335,9 +1073,6 @@ his  father  had  four  horses  but  not  all  of  these  were  his  very  own  
 Goddard ,  San  Carlos  Apache  Myths  and  Tales.
 
 
-25
-
-
 horse  the  Sun  used  to  go  across  the  sky  was  a  black  horse  with  a  small  white
 spot  on  his  forehead.  That  was  the  horse  the  Sun  goes  everywhere  with.
 
@@ -1382,9 +1117,6 @@ crowds  in  each  party.  As  he  rode  nearer  his  own  followers  said  it  w
 
 1  The  usual  color  circuit,  but  beginning  at  the  south  so  as  to  finish  with  the  black  horse
 of  the  east.
-
-
-26
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1446,9 +1178,6 @@ color  at  all.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-27
-
-
 and  the  black  sky,”  he  said.  He  began  to  study  and  talk  about  how  both
 the  earth  and  sky  might  be  made.  He  also  sought  helpers  and  concluded
 that  four  persons  should  do  the  work  and  he  found  them  with  his  mind.1
@@ -1482,8 +1211,7 @@ Now  the  earth  was  flat  and  bare,  there  were  no  mountains,  and  they  
 not  pleased  with  this  condition.  The  four  persons  who  made  earth  and  sky
 were  named  as  follows.  One  was  called  Naicje’etco'  dilxiln,  “large  black
 spider,”  one  was  Bee  dilxil  xastin,  “black  metal  old  man,”  the  third  was
-named  Naxokosse  dilxiln,  “black  great  dipper”2  and  the  fourth,  Gonal-
-djictco'  xastin  (an  insect).  These  four  said,  “  We  have  made  the  earth  but  it
+named  Naxokosse  dilxiln,  “black  great  dipper”2  and  the  fourth,  Gonaldjictco'  xastin  (an  insect).  These  four  said,  “  We  have  made  the  earth  but  it
 is  smooth  and  it  is  not  good  that  way,  besides  we  have  no  food.”  Then  the
 chief  called  attention  to  the  flying  thing  (the  humming  bird)  he  had  made
 which  he  now  sent  as  his  messenger  saying:  “People  must  be  living  some¬
@@ -1560,9 +1288,6 @@ make  use  of  a  hollow  tree  sealed  up  for  the  transportation  of  anothe
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-29
-
-
 put  in  the  grinding  stones  too,  the  metate  and  the  muller,  with  which  she
 could  grind  the  seed.  When  it  started  to  rain  she  closed  the  opening  of
 the  tree  with  black  stone  set  in  pitch.  She  sat  inside  where  she  had  a  fire.
@@ -1611,9 +1336,6 @@ have  good  property.  They  planted  the  seed  but  it  did  not  all  grow.  
 
 3  This  seems  to  be  the  general  placing  of  vegetation  on  the  earth  by  employing  an  agri¬
 cultural  pattern.
-
-
-30
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1677,9 +1399,6 @@ is  concerned,  Matthews.  231,  note  101.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-31
-
-
 time.  She  went  home  again  and  reported  to  her  again,  encouraged  by  her
 mother  that  some  time  she  would  be  successful.  She  went  the  next  day
 and  the  sunshine  nearly  did  what  was  expected.  This  time  she  reported
@@ -1704,8 +1423,7 @@ began  singing  for  it.  She  sang  good  songs  for  it,  calling  it  “Gran
 Addressing  her  daughter  she  said,  “My  child,  you  did  well.  This  boy  was
 born  for  us  because  we  did  something  shameful.  I  gave  you  birth  for  the
 clouds  and  water,  and  you  gave  birth  to  a  child  for  the  sun.  You  will  be
-called  Tubatc’istcine,  “  born  for  water”  and  the  child  will  be  called  Tsitsinl-
-gai,  “white  head.”  When  the  baby  was  six  months  old  it  sat  up,  and  when
+called  Tubatc’istcine,  “  born  for  water”  and  the  child  will  be  called  Tsitsinlgai,  “white  head.”  When  the  baby  was  six  months  old  it  sat  up,  and  when
 it  was  eight  months  old  it  stood.  By  the  time  he  was  a  year  old  he  was
 large.1  His  grandmother  sang  four  songs  for  him  and  with  them  she  fixed
 him  properly.  Then  he  stood  up.
@@ -1724,9 +1442,6 @@ animals  she  meant  for  him  to  hunt.  She  directed  him  to  kill  it  and 
 
 1  The  normal  development  as  contrasted  with  the  usually  supernatural  one  of  four  day
 intervals.  Matthews,  105.
-
-
-32
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -1788,9 +1503,6 @@ list,  358.
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-33
 
 
 sent  being  given,  she  ran  off  and  returned  with  Douglas  spruce.  She
@@ -1895,9 +1607,6 @@ only  place  where  one  can  pass,  and  kicks  the  passerby  over  the  bluff
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-35
 
 
 Saying  he  would  go  there,  Naiyenezgani  came  to  the  middle  of  the  bluff
@@ -2010,9 +1719,6 @@ account  which  was  given  by  request  on  the  following  day.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-37
-
-
 The  man  still  insisted  he  had  done  nothing  but  said  he  would  test  the
 truth  of  the  matter.  He  took  up  his  pipe,  filled  it,  and  having  lighted  it,
 passed  it  to  the  boy.  The  boy  took  it  and  smoked,  when  he  had  drawn
@@ -2065,9 +1771,6 @@ owls  and  their  reluctance  to  talk  about  them.
 6  Matthews,  114.
 
 6  The  narrator  explained  this  was  the  fourth  name  of  the  Culture  Hero.
-
-
-38
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -2132,9 +1835,6 @@ i  These  blossoms  were  probably  cooked  for  food.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-39
-
-
 again  found  tracks  of  his  wife  and  of  a  man.  He  was  angry  and  went  on
 again  with  his  flute,  coming  down  on  the  third  mountain  and  saw  tracks  there
 also.  He  went  way  over  to  the  fourth  mountain  where  again  he  found  their
@@ -2147,8 +1847,7 @@ When  he  came  to  this  man,  the  daughter  of  the  house  was  sent  throug
 the  village  to  summon  the  people  to  come  together  for  a  council.  After
 they  had  smoked  they  said,  “Well,  what  is  it?”  “A  man  has  come  to  me,”
 the  man  replied.  “Where  did  you  come  from?”  they  asked  the  man.
-“From  Gotalbakowadi :  I  started  when  the  beams  of  the  sun  were  streaming-
-out  from  the  east,”  he  replied.  “My  kin!  he  did  not  come  on  foot.  I
+“From  Gotalbakowadi :  I  started  when  the  beams  of  the  sun  were  streamingout  from  the  east,”  he  replied.  “My  kin!  he  did  not  come  on  foot.  I
 know  that  is  a  long  distance,”  said  Old  Man  Hawk.  “  I  am  here  because
 my  wife  is  missing,”  he  told  them.  “That  is  the  man,  sitting  there.  He
 wins  our  wives  away  in  gambling.  He  has  won  all  the  people  away,  can’t
@@ -2169,8 +1868,7 @@ wager,”  the  other  replied.  “We  will  play  for  the  people,”  the  f
 gested.  When  they  started  to  play  the  pole  hit  the  ring  on  the  nose  and
 tore  it  apart.  The  straightened  ring  ran  away  into  the  bushes.  “  Hy,
 why  did  you  hit  my  ring?”  he  asked.  “Well,  your  poles  are  not  good.
-Men’s  poles  are  like  this,”  Naiyenezgani  said.  Then  Golilisi  took  Nai-
-yenezgani’s  pole  and  threw  it.  He  was  beaten.  “Oh,  you  have  beaten
+Men’s  poles  are  like  this,”  Naiyenezgani  said.  Then  Golilisi  took  Naiyenezgani’s  pole  and  threw  it.  He  was  beaten.  “Oh,  you  have  beaten
 me,”  he  said.  “  I  will  bet  half  of  my  company  again.”.  They  played  again
 and  again  Golilisi  was  beaten.
 
@@ -2180,9 +1878,6 @@ consented  to  this  and  they  tried  to  see  whose  hair  would  reach  the  
 
 1  It  was  explained  that  the  Culture  Hero  was  given  a  new  name  by  the  people  because
 he  built  the  sweat  lodge  in  this  manner.  His  old  name  was  discarded.
-
-
-40
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -2242,9 +1937,6 @@ Then  another  came  and  alighted  there  and  he  knocked  it  down  with  a  
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-41
-
-
 of  Delgit’s.  Finally  the  oldest  of  the  young  ones  returned  and  he  knocked
 it  down  with  one  of  Delgit’s  knees.  He  had  now  disposed  of  them  all.
 
@@ -2254,8 +1946,7 @@ by  the  creek  and  shouted,  “Grandmother,  take  me  down,”  but  she  pa
 attention.  He  called  again  and  she  began  to  listen.  “Why  did  you  go  up
 there?”  she  asked.  “No  one  goes  up  there.”  He  again  asked  her  to  come
 up  for  him  and  she  did  so,  flying  from  side  to  side  and  lighting  here  and  there.
-“Grandmother,  take  me  down,”  he  said.  “I  cannot  do  it,  I  am  not  strong-
-enough  but  nevertheless  I  will  cover  your  eyes  and  you  may  get  in  the
+“Grandmother,  take  me  down,”  he  said.  “I  cannot  do  it,  I  am  not  strongenough  but  nevertheless  I  will  cover  your  eyes  and  you  may  get  in  the
 basket.  Do  not  uncover  your  eyes  or  it  will  be  dangerous  for  us.”
 
 He  got  in  the  basket  and  she  started  down,  but  when  she  was  half  way
@@ -2294,9 +1985,6 @@ fornia  version  is  available  from  the  Maidu  (Dixon,  66).  In  the  Southw
 story  varies  considerably.  Among  the  Jicarilla,  see  Russell,  (a),  262;  Goddard,  (a),  280.
 Compare  a  similar  story  in  Pima,  Russell,  (b),  216.  A  Plains  account  is  found  in  Lowie,
 244.
-
-
-42
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -2355,9 +2043,6 @@ They  were  happy  about  it  and  expressed  their  thanks  to  Coyote.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-43
-
-
 Securing  Fire  (Second  Version)  1
 
 They  say  long  ago  there  was  no  fire.  The  people  ate  their  food  uncooked.
@@ -2403,9 +2088,6 @@ where  those  were  who  wanted  darkness.  Bringing  some  wood,  they  said,
 1  Told  by  Dananeldel,  a  San  Carlos,  in  1905.
 
 2  Told  by  Antonio.
-
-
-44
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -2471,9 +2153,6 @@ detailed  Navajo  account,  Matthews,  135.  *
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-45
-
-
 They  came  to  a  canyon  across  which  mescal  stood.  “  Half  of  the  people
 will  live  here  and  will  be  called,  Nada'bilnadit’in,”  he  said.  Those
 stopped  there  and  the  others  went  on.
@@ -2536,9 +2215,6 @@ called  Beilts’on,”  he  said.
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
-40
-
-
 The  others  moved  on  to  a  place  called  Xak’aiye.  “Part  of  the  people
 will  live  here,”  he  said.  A  division  of  them  settled  there.  “You  will  be
 named  Xak’aiye,”  he  said.
@@ -2576,8 +2252,7 @@ They  went  on  and  came  where  wormwood  was  growing  in  a  broad  valley.
 “Some  of  the  people  will  live  here,”  he  said.  “You  will  be  called  Iya’aiye.”
 
 They  went  on  where  there  was  a  cottonwood  grove.  “  Some  of  you  will
-live  here,”  he  said.  They  settled  there.  “You  will  be  called  T’ishiyosi-
-kadn,”  he  told  them.
+live  here,”  he  said.  They  settled  there.  “You  will  be  called  T’ishiyosikadn,”  he  told  them.
 
 They  went  on  to  a  place  where  black  rocks  projected.  “  Some  of  you
 will  live  here,”  he  said  to  them.  People  settled  there.  “You  will  be  called
@@ -2604,9 +2279,6 @@ Some
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-47
 
 
 of  you  will  live  here,”  he  told  them.  Some  of  them  settled  there.  “You
@@ -2659,9 +2331,6 @@ They  brought  wood  there  also.  They  put  stones,  well  arranged  on  the  
 
 
 1  Told  by  Antonio  in  January,  1910.
-
-
-48
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -2723,9 +2392,6 @@ with  them  and  robbed  them  of  the  cloth,  bringing  it  home  with  them.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-49
-
-
 The  women  used  not  to  have  skirts  except  those  they  made  of  bark.  Now
 they  had  good  skirts.  They  got  to  thinking  this  way  and  concluded  stealing
 was  the  only  good  way  to,  live.
@@ -2783,9 +2449,6 @@ deer  hide,  but  not  the  hair.
 by  the  San  Carlos.
 
 
-50
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
@@ -2809,8 +2472,7 @@ print  with  black  deer’s  mouth  blood.  Beyond  that  he  made  one  with  
 further  on  another  with  yellow,  and  beyond  that  one  with  blue.
 
 At  the  north  he  made  a  mountain  ridge  of  turquoise.  Where  the  head
-of  the  ridge  lay,  he  put  one  deer’s  horn  standing  up.  Each  way  crossing-
-over  the  middle  of  the  ridge  he  made  a  trail  of  blue  deer’s  mouth  blood.
+of  the  ridge  lay,  he  put  one  deer’s  horn  standing  up.  Each  way  crossingover  the  middle  of  the  ridge  he  made  a  trail  of  blue  deer’s  mouth  blood.
 Under  the  ridge  he  made  a  spring  boil  up  with  the  blue  slobberings  of  a  deer.
 At  the  place  where  he  would  walk  out  toward  this  ridge,  he  made  the  foot¬
 print  with  the  black  mouth  blood  of  the  deer,  beyond  that  he  made  another
@@ -2844,9 +2506,6 @@ ring  of  bacine  and  shot  an  arrow  of  bacine  through  it.  He  killed  th
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-51
 
 
 with  the  arrow.  Just  as  the  sun  was  rising,  he  carried  the  deer  where  his
@@ -2901,9 +2560,6 @@ like  a  deer.  Her  husband  always  brought  his  deer  back  just  as  the  s
 1  The  Apache  wore  a  deer's  head  with  antlers  in  the  condition  of  the  season  in  which
 the  hunt  was  made.  They  imitated  the  movements  of  the  deer  so  as  to  approach  within  bow
 shot  distance.
-
-
-52
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -2962,9 +2618,6 @@ on.  She  said,  in  vain,  it  was  a  bad  thing  to  do,  for  the  man  was 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-53
-
-
 mind  away,  he  was  making  her  crazy.  He  took  her  gait  from  her.  Then
 she  went  where  the  man  had  the  deer’s  head.  When  she  came  he  told  her
 to  be  seated.  He  held  out  the  head  toward  her  and  she  reached  out  and
@@ -3011,9 +2664,6 @@ back  because  he  did  not  know  what  had  become  of  the  woman.  When' he
 had  been  there  four  days,  the  tobacco  tokens  were  made  and  sent  out  con-
 
 
-54
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
@@ -3047,8 +2697,7 @@ bacine,  the  second  of  bailgaiye,  the  third  of  tseltcee,  and  the  fourt
 quoise.  They  didn’t  know  where  the  deer  had  gone.  The  one  who  had
 been  a  woman  ran  in  every  direction  where  the  deer  had  gone  from  her.
 Then  they  threw  a  ring  of  bacine  on  her  and  her  head  became  like  a  person’s.
-Next  they  threw  a  ring  of  bailgaiye  on  her  and  she  wTas  a  person  to  her  arm-
-pits.  Then  a  ring  of  tseltcee  was  thrown  and  she  was  a  person  as  far  as  her
+Next  they  threw  a  ring  of  bailgaiye  on  her  and  she  wTas  a  person  to  her  armpits.  Then  a  ring  of  tseltcee  was  thrown  and  she  was  a  person  as  far  as  her
 belt.  Last  a  ring  of  turquoise  was  thrown  and  down  to  the  ground  she  took
 the  form  of  a  human  being.  The  company  came  up  to  her,  but  she  was
 wild.  They  started  back  and  returned  with  her  in  a  day.
@@ -3108,9 +2757,6 @@ feet  you  will  know  I  have  gone  along' there,”  she  said.
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
-
-
-56
 
 
 Songs  of  the  Deer  Ceremony  1
@@ -3181,9 +2827,6 @@ narrative  above.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-57
-
-
 III1
 
 At  the  east  where  he  made  a  spring  with  black  red  water,
@@ -3246,9 +2889,6 @@ Who  am  called  Panther  Boy.
 
 
 1  Refers  to  pp.  49,  50  above.
-
-
-58
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXI\
@@ -3321,9 +2961,6 @@ At  the  west  we  two  went  over  the  forked  mountain  of  coral.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-59
-
-
 VIII
 
 I  came  to  the  one  they  brought  me.
@@ -3373,9 +3010,6 @@ Where  the  mountain  of  coral  stands,
 The  echo  comes  out  from  beyond  it.
 
 (Not  finished.)
-
-
-60
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -3527,9 +3161,6 @@ Walk  out  there.  They  told  me.
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
-62
-
-
 At  the  east,
 
 Where  the  jet  ridges  of  the  earth  lie.
@@ -3635,8 +3266,7 @@ kill  deer  first  and  who  would  kill  the  largest  number  of  deer.  “Th
 Bullsnake,  he  is  the  best  hunter.  He  kills  only  large  bucks.  Panther  Boy
 here,  is  the  same  kind  of  a  hunter.  Ganowan  too  is  that  sort  and  so  is
 Ganljin.  Well,  let  us  go  hunting  quickly,”  they  said  to  each  other.  The
-men  started  out  but  Bullsnake  still  lay  on  his  bed.  “The  men  went  long-
-ago,”  they  told  him.  “Well,  I  will  go,”  he  said  but  he  was  still  lying  down.
+men  started  out  but  Bullsnake  still  lay  on  his  bed.  “The  men  went  longago,”  they  told  him.  “Well,  I  will  go,”  he  said  but  he  was  still  lying  down.
 
 When  the  other  three  men  had  gone  to  hunt,  each  in  his  own  direction,
 Panther  Boy  started.  He  had  gone  up  only  one  ridge  when  he  pulled  a  hair
@@ -3703,9 +3333,6 @@ account  was  obtained  from  a  White  Mountain  Apache  in  1905.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-65
-
-
 They  followed  the  tracks  and  it  seemed  the  person  had  gone  into  a  large
 stone  which  lay  there.  One  of  them,  saying  it  was  Stone  Echo  Girl  who  had
 made  the  tracks,  urged  that  they  should  go  on  to  a  camping  place  as  it  was
@@ -3752,9 +3379,6 @@ downstream  until  they  came  where  the  water  sinks  below  the  surface.2
 1  The  mouth  of  Tonto  Creek  where  Roosevelt  is  now  situated.
 
 2  Near  Phoenix,  Arizona.
-
-
-66
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -3812,9 +3436,6 @@ was  saying  this  because  he  thought  they  would  live  happily  because  of
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-67
-
-
 he  had  said.  He  promised  that  he  would  go  across  above  the  world  every
 day  and,  see  them  everywhere.
 
@@ -3850,8 +3471,7 @@ toward  the  earth.  The  man  who  had  given  him  his  daughter  told  him  t
 if  he  were  wishing  he  could  go  home,  he  might  do  so.
 
 Then  they  put  four  kinds  of  feather  shirts  on  him  and  went  down  with
-him.  They  flew  under  him  as  he  went  down.  They  sang,  “yakigolna-
-dazza  yaxinnahi.”
+him.  They  flew  under  him  as  he  went  down.  They  sang,  “yakigolnadazza  yaxinnahi.”
 
 They  came  down  to  the  ground  near  where  he  was  taken  away.  They
 told  him  he  must  not  let  anyone  see  the  feather  shirts  they  had  given  him.
@@ -3867,9 +3487,6 @@ Mountain  Apache  also  use  this  narrative  as  a  basis  of  a  ceremony  for
 an  infant.  The  Jicarilla  know  this  story.  Goddard,  (a),  224.  This  narrative  here  treated
 as  a  folk  tale  resembles  among  the  Navajo  a  major  myth  with  ceremonial  connections.
 Matthews,  195-208.
-
-
-68
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -3931,9 +3548,6 @@ down  and,  shaking  his  tail,  died.
 Goddard,  Sari  Carlos  Apache  Myths  and  Tales.
 
 
-69
-
-
 The  Sisters  are  lured  by  a  Flute1  (First  Version)
 
 They  say  long  ago  many  people  were  living  at  a  certain  place.  Two
@@ -3980,9 +3594,6 @@ This  story  was  obtained  by  Miss  Constance  Goddard  Du  Bois  from  the  D
 among  whom  it  is  part  of  their  major  myth.  Du  Bois,  217-242.
 
 The  tale  is  common  among  the  Yuman  peoples  according  to  Prof.  A.  L.  Kroeber.
-
-
-70
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -4040,9 +3651,6 @@ camp  and  lived  there.
 
 
 Goddard ,  San  Carlos  Apache  Myths  and  Tales.
-
-
-71
 
 
 This  house  of  theirs  stood  by  itself.  “  Let  us  go  where  the  people  are
@@ -4151,9 +3759,6 @@ came  to  his  hips  as  he  wished  it  would.  “  I  wish  I  were  swimming
 Gocldnrd,  San  Carlos  Apache  Myths  and  Tales.
 
 
-73
-
-
 with  only  my  back  above  the  water,”  he  wished  again.  It  happened
 that  way.1
 
@@ -4171,8 +3776,7 @@ Skunk  pulled  the  bodies  together  and  made  a  round  pile  of  them.  Coyo
 suggested  to  Skunk  that  the  one  who  should  beat  in  a  race  around  the  small
 hill  standing  near,  should  eat  them  all.  They,  two,  started  to  race  around  the
 hill  but  soon  Coyote  lay  down  right  where  he  was  and  Skunk  ran  on  by  him¬
-self.  While  he  was  doing  that  Coyote  ran  back  and  ate  all  the  flesh,  leaving-
-only  the  bones.  When  he  had  eaten  them,  he  started  to  run  around  the  hill.
+self.  While  he  was  doing  that  Coyote  ran  back  and  ate  all  the  flesh,  leavingonly  the  bones.  When  he  had  eaten  them,  he  started  to  run  around  the  hill.
 When  Skunk  arrived  there  was  nothing  there  but  a  pile  of  bones.  As
 Coyote  came  running  Skunk  inquired  of  him  what  had  happened  to  the  meat
 that  had  been  piled  there.  Coyote  replied,  that  the  name  of  this  place  was
@@ -4199,9 +3803,6 @@ Stevenson,  (a),  149.
 2  Told  in  1905  by  Frank  Ross,  a  Chiracahua  Apache,  living  with  the  San  Carlos.
 
 A  widely  distributed  story:  Matthews,  89;  Stevenson,  (b),  153;  Wissler  and  Duvall,  29.
-
-
-74
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -4262,9 +3863,6 @@ The  narrator  seemed  not  aware  that  the  story  was  of  other  than  India
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-75
-
-
 isn’t  it?”  “We  had  better  stand  against  the  stone.”  Coyote  stood  against
 it  and  Rabbit  ran  away.  “Wherever you  are  I  will  kill  you,”  said  Coyote.
 
@@ -4312,9 +3910,6 @@ grandmother.  They  ate  the  bread  together.
 have  as  rewards  a  snake,  a  donkey,  and  a  stick  instead  of  those  here  mentioned.
 
 2  The  loaf  was  supposed  not  to  decrease.
-
-
-76
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -4368,9 +3963,6 @@ them  with  lightning.
 Goddard,  San  Carlos  Apache  Myths  arid  Tales.
 
 
-77
-
-
 The  Good  and  the  Bad  Brother  1
 
 A  long  time  ago  they  say  there  were  many  people  living  at  a  certain
@@ -4417,9 +4009,6 @@ the  ordeal.
 
 1  This  story  resembles  in  a  general  way  a  European  tale  entitled  “  Boots  and  the  Troll  ”
 in  Popular  Tales  from  the  Norse,  Sir  Geo.  Webbe  Dasent.  1904.
-
-
-78
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
@@ -4475,9 +4064,6 @@ that  the  boy  had  once  helped  him  and  saved  his  life,  agreed  to  save
 
 
 Goddard ,  San  Carlos  Apache  Myths  and  Tales.  .
-
-
-79
 
 
 life  in  return.  He  asked  how  long  before  the  task  must  be  attempted.  The
@@ -4586,9 +4172,6 @@ he  would  report  on  his  brother.
 
 
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
-
-
-81
 
 
 He  went  to  the  chief  and  said  that  a  man  who  was  living  at  a  certain
@@ -4749,9 +4332,6 @@ in  a  line  and  blindfolded  the  man.  The  youngest  daughter  had  a  small
 2  The  European  accounts  have  other  ordeals  but  less  suited  to  Indian  appreciation.
 
 
-84
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV,
 
 
@@ -4815,9 +4395,6 @@ a  period  of  years.
 Goddard,  San  Carlos  Apache  Myths  and  Tales.
 
 
-85
-
-
 never  think  of  her  again.  The  man  started  back  and  when  he  was  coming
 his  relatives  saw  him  and  started  toward  him.  He  told  them  not  to  do  so
 but  one  of  them  held  out  his  arms.  The  man’s  mind  was  lost  and  he  forgot
@@ -4848,9 +4425,6 @@ was  the  turtle  dove.  They  lived  together  happily.
 
 
 1  “Gets  ripe.”
-
-
-86
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XXIV.
@@ -4918,86 +4492,3 @@ r
 
 
 V
-
-
-( Continued  from  2d  p.  of  cover.)
-
-
-Volume  XVII.
-
-I.  Riding  Gear  of  the  North  American  Indians.  By  Clark  Wissler.  Pp.
-1-38,  and  27  text  figures.  1915.  Price,  $.50.
-
-II.  Costumes  of  the  Plains  Indians.  By  Clark  Wissler.  Pp.  41-91,  and  28
-text  figures.  1915.  Price,  $.50.
-
-III.  Structural  Basis  to  the  Decoration  of  Costumes  among  the  Plains  Indians.
-By  Clark  Wissler.  Pp.  93-114,  and  12  text  figures.  1916.  Price,  $.25.
-
-IV.  Basketry  of  the  Papago  and  Pima.  By  Mary  Lois  Kissell.  Pp.  115-264,
-and  81  text  figures.  1-916.  Price,  $1.50.
-
-V.  (In  preparation.)
-
-Volume  XVIII.
-
-I.  Zuni  Potsherds.  By  A.  L.  Kroeber.  Pp.  1-37,  and  2  text  figures.  1916.
-Price,  $.30.
-
-II.  Zuni  Kin  and  Clan.  By  A.  L.  Kroeber.  Pp.  39-204,  3  text  figures,  and
-9  maps.  1917.  Price,  $1.50.
-
-III.  An  Outline  for  a  Chronology  of  Zuni  Ruins.  By  Leslie  Spier.  Pp.  207-
-331,  and  18  text  figures.  1917.  Price,  $1.00.
-
-IV.  Notes  on  Some  Little  Colorado  Ruins.  By  Leslie  Spier.  Pp.  333-362,
-and  5  text  figures.  1918.  Price,  $.70.
-
-Volume  XIX.
-
-I.  The  Whale  House  of  the  Chilkat.  By  George  T.  Emmons.  Pp.  1-33.
-Plates  I-IV,  and  6  text  figures.  1916.  Price,  $1.00.
-
-II.  (In  preparation.)
-
-Volume  XX.
-
-I.  Tales  of  Yukaghir,  Lamut,  and  Russianized  Natives  of  Eastern  Siberia.
-By  Waldemar  Bogoras.  Pp.  1-118.  1918.  Price,  $1.50.
-
-II.  (In  preparation.)
-
-Volume  XXI.
-
-I.  Notes  on  the  Social  Organization  and  Customs  of  the  Mandan,  Hidatsa,
-and  Crow  Indians.  By  Robert  H.  Lowie.  Pp.  1-99.  1917.  Price,  $1.00.
-
-II.  (In  preparation.)
-
-Volume  XXII.
-
-I.  Contributions  to  the  Archaeology  of  Mammoth  Cave  and  Vicinity,  Ken¬
-tucky.  By  N.  C.  Nelson.  Pp.  1-73,  and  18  text  figures.  1917.  Price,  $.75.
-
-II.  Chronology  in  Florida.  By  N.  C.  Nelson.  Pp.  75-103,  and  7  text
-figures.  1918.  Price,  $.25.
-
-III.  (In  preparation.)
-
-Volume  XXIII.
-
-I.  Racial  Types  in  the  Philippine  Islands.  By  Louis  R.  Sullivan.  Pp.  1-61,
-6  text  figures,  and  2  maps.  1918.  Price,  $.75.
-
-II.  (In  preparation.)
-
-Volume  XXIV.
-
-I.  Myths  and  Tales  from  the  San  Carlos  Apache.  By  Pliny  Earle  Goddard.
-Pp.  1-86.  1918.  Price,  $.75.
-
-II.  (In  preparation.)
-
-
-The  Cosmos*  Press.  Cambridge.  Massachusetts
-
